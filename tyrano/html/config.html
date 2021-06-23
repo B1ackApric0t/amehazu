@@ -1,0 +1,128 @@
+<div>
+
+ 
+	<div style='clear:both'></div>
+
+	
+	<img class="img_bg_base" src="tyrano/images/system/config_bg_new.png" style="z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;">
+	
+	
+	
+	<div class="config_body">
+			<div class="range">
+				<p><span id="spanbgm" style="font-size:38pt;margin-top:160px;margin-right:-155px;text-align:right;display:inline-block;">50</span></p>
+				<input type="range" id="bgm_volume" min="0" max="100" step="1" value="50" style="left:830px;top:193px;position:absolute;">
+			</div>
+			<div class="range">
+				<span id="spanse" style="font-size:38pt;margin-top:15px;margin-right:-155px;text-align:right;display:inline-block;"></span>
+				<input type="range" id="se_volume" min="0" max="100" value="20" step="1" style="left:830px;top:282px;position:absolute;">
+			</div>
+			<div class="range">
+				<span id="spantext" style=";font-size:38pt;margin-top:15px;margin-right:-155px;text-align:right;display:inline-block;"></span>
+				<input type="range" id="text_speed" min="-100" max="0" value="-30" step="1" style="left:830px;top:372px;position:absolute;">
+			</div>
+			<div class="range">
+				<span id="spanauto" style="font-size:38pt;margin-top:15px;margin-right:-155px;text-align:right;display:inline-block;"></span>
+				<input type="range" id="auto_speed" min="-5000" max="-500" value="-1300" step="100" style="left:830px;top:462px;position:absolute;">
+			</div>
+			<div class="unread_area" id="unread_check" style="left:670px;top:525px;position:absolute;">
+                <input type="radio" name="unread_skip" id="unreadon">
+                <label for="unreadon">ON</label>
+                <input type="radio" name="unread_skip" id="unreadoff">
+                <label for="unreadoff">OFF</label>
+            </div>
+	</div>
+	
+		<div class="config_back_title menu_back_title" style="left:80px;top:450px;position:absolute;">
+	   <span class="config_back_title_text english">Title</span>
+	</div>
+	<div class="config_save menu_save" style="left:200px;top:450px;position:absolute;">
+	   <span class="config_save_text english">Save</span>
+	</div>
+	<div class="config_load menu_load" style="left:320px;top:450px;position:absolute;">
+	   <span class="config_load_text english">Load</span>
+	</div>
+	<ul class="config_back menu_close" style="left:80px;top:570px;position:absolute;">
+	   <li class="arow">➡</li> 
+	   <li class="back_text english">Back</li>
+	</ul>
+	
+<script>
+$(function () {
+			var current_bgm_vol=parseInt(tyrano.plugin.kag.config.defaultBgmVolume); //システム値取得
+			$('#bgm_volume').val(current_bgm_vol); //スライダー初期位置
+			$('#spanbgm').html(current_bgm_vol); //初期表示
+			$('#bgm_volume').on('input change', function() {
+				$('#spanbgm').html($(this).val());
+				current_bgm_vol=$(this).val();
+				tyrano.plugin.kag.ftag.startTag("bgmopt",{volume: $(this).val()});
+			});
+			var current_se_vol=parseInt(tyrano.plugin.kag.config.defaultSeVolume); //システム値取得
+			$('#se_volume').val(current_se_vol); //スライダー初期位置
+			$('#spanse').html(current_se_vol); //初期表示
+			$('#se_volume').on('input change', function() {
+				$('#spanse').html($(this).val());
+				current_se_vol=$(this).val();
+				tyrano.plugin.kag.ftag.startTag("seopt",{volume: $(this).val()});
+			});
+			var current_ch_speed=parseInt(tyrano.plugin.kag.config.chSpeed); //システム値取得
+			var span_ch_speed=-current_ch_speed+100 //表示用変数
+			$('#text_speed').val(-current_ch_speed); //スライダー初期位置
+			$('#spantext').html(span_ch_speed); //初期表示
+			$('#text_speed').on('input change', function() {
+				span_ch_speed=100+parseInt($(this).val());
+				$('#spantext').html(span_ch_speed);
+				current_ch_speed=-$(this).val();
+				tyrano.plugin.kag.ftag.startTag("configdelay",{speed: -$(this).val()});
+			});
+			var current_auto_speed=parseInt(tyrano.plugin.kag.config.autoSpeed); //システム値取得
+			var span_auto_speed=(-current_auto_speed+5500)/50 //表示用変数
+			$('#auto_speed').val(-current_auto_speed); //スライダー初期位置
+			$('#spanauto').html(span_auto_speed); //初期表示
+			$('#auto_speed').on('input change', function() {
+				span_auto_speed=(5500+parseInt($(this).val()))/50;
+				$('#spanauto').html(span_auto_speed);
+				current_auto_speed=-$(this).val();
+				tyrano.plugin.kag.ftag.startTag("autoconfig",{speed: -$(this).val()});
+			});
+});
+</script>
+
+	
+	<script>
+	   $(function(){
+            var text_skip ="ON";
+			if(tyrano.plugin.kag.config.unReadTextSkip != "true"){
+				text_skip ="OFF";
+			};
+			if(text_skip=="ON"){
+				$('#unreadon').prop('checked', true);$('#unreadoff').prop('checked', false);
+			}else{
+				$('#unreadon').prop('checked', false);$('#unreadoff').prop('checked', true);
+			};
+			$('#unreadon').change(function(){
+				if( $(this).prop('checked') ){
+					text_skip ="ON";
+					tyrano.plugin.kag.ftag.startTag("config_record_label",{skip: "true"});
+				}else{
+					text_skip ="OFF";
+					tyrano.plugin.kag.ftag.startTag("config_record_label",{skip: "false"});
+				}
+			});
+			$('#unreadoff').change(function(){
+				if( $(this).prop('checked') ){
+					text_skip ="OFF";
+					tyrano.plugin.kag.ftag.startTag("config_record_label",{skip: "false"});
+				}else{
+					text_skip ="ON";
+					tyrano.plugin.kag.ftag.startTag("config_record_label",{skip: "true"});
+				}
+			});
+	   });
+	</script>
+
+
+
+
+
+</div>
