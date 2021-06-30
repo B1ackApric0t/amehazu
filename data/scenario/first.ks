@@ -5,6 +5,7 @@
 [loadcss file="./data/others/css/message.css"]
 [loadcss file="./data/others/css/next1.css"]
 [plugin name="waapi"]
+[plugin name=bg_rule]
 
 [loadbgm str="BGM1.ogg"]
 [loadbgm str="BGM2.ogg"]

@@ -62,7 +62,7 @@ $('#cg6').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"movi
 
 *backtitle
 [cm]
-[freeimage layer=1]
+[clearfix]
 @jump storage=title.ks
 
 *cg1

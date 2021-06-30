@@ -7,7 +7,7 @@
 
 [bg storage="black.png" time="500"]
 
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1120 y=610]
+[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 
 ;メッセージウィンドウ
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
@@ -69,7 +69,6 @@
 ;（先輩）
 #
 「相合傘って」[p]
-[jump target=*choice]
 ;◆溶明
 ;◆スチル欲しい。春也くん視点で、すぐ傍に身を寄せる先輩
 [M1]
@@ -83,7 +82,7 @@
 「ちょっと肩を見せてもらってもいいかな？」[p]
 #春也
 「今人として最悪なこと言ってるの気づいてます？」[p]
-[hide/haruya]
+
 #
 先輩はくすくす笑った。僕の隣、ひとつ傘の下。[p]
 ひとつの傘にふたりは狭い。[r]気を付けていても幾度となく肩や腕やが触れてしまう。[p]
@@ -250,7 +249,7 @@
 [wait time="500"]
 @layopt layer="message" visible=true
 [bg2 storage="busitu.jpg" time="0"]
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1100 y=610]
+[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 [mask_off time="500"]
 
 #
@@ -1556,7 +1555,7 @@
 「ああ、そうだ。……回答をいただけるのかな？」[p]
 #
 僕にはわかる。一見普段通りの先輩だけど、その顔に一抹の不安が兆しているのを。[p]
-*choice
+
 #春也
 「はい。……先輩がいなくなったら、僕は」[p]
 ;[link storage=sceneA.ks target=*scene7A]【１】【それでも生きていきます】[endlink][r]

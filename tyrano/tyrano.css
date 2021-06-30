@@ -1289,3 +1289,13 @@ body{
   
 }
 
+#top {
+	margin: 0;
+	padding: 0;
+	background-repeat:  no-repeat;
+	transition: 1s;
+	width: 400px;
+    height: 200px;
+
+}
+

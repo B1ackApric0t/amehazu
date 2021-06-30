@@ -7,7 +7,7 @@
 *start
 
 *title
-
+@clearfix
 [cm]
 
 @clearstack
@@ -50,6 +50,12 @@
 <img src="data/fgimage/title_logo.png" style="left:880px;top:440px;position:absolute;">
 </div>
 
+<style>
+.img_title{
+  transition: transform 0.2s, top, 0.5s, left 0.5s;
+  transition-timing-function: ease-out;
+}
+</style>
 
 <script>
 $('#title_start').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"gamestart"})});

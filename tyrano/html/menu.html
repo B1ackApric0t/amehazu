@@ -40,11 +40,11 @@
 			</div>
 			
 			
-			<div class="kasa" style="left:650px;top:-210px;position:absolute;transition:1s;">
+			<div class="kasa" style="left:650px;top:-210px;position:absolute;transition:0.6s;">
 			<img src="tyrano/images/system/umbrella.png">
 			</div>
 			
-			<div id="top" style="left:720px;top:320px;position:absolute;">
+			<div id="top" style='left:720px;top:320px;position:absolute;'>
 			</div>
 			
 			<div class="menu_close">
@@ -61,73 +61,97 @@
 <script>
 $('.menu_save').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/save_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/save_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menu_load').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/load_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/load_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menu_skip').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/skip_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/skip_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menu_auto').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/auto_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/auto_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menu_config').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/config_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/config_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menu_log').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/backlog_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/backlog_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menu_back_title').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/title_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/title_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 
 $('.menuback').hover(
 function(){
-  $('.kasa').css('transform','rotate(-180deg)');
-  $('#top').append('<img src="tyrano/images/system/back_top.png">');
+ $.when(
+  $('.kasa').css('transform','rotate(-180deg)')
+).done(function() {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/back_top.png")'});
+});
 },function(){
-  $('#top').empty();
+  $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
 </script>
