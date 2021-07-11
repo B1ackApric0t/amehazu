@@ -1,0 +1,52 @@
+<div>
+	
+	<div style='clear:both'></div>
+
+	<img class="button_arrow_up button_smart" src="tyrano/images/system/arrow_up.png" style="cursor:pointer;left:670px;top:20px;position:absolute;">
+	<img class="button_arrow_down button_smart" src="tyrano/images/system/arrow_down.png" style="cursor:pointer;left:800px;top:15px;position:absolute;">
+
+	<div class="area_save_list">
+	
+		<ul class="save_list">
+			{{for array_save}}
+				<li class="save_display_area save_list_item" data-num="{{:num}}">
+					<span class="save_list_item_thumb">
+					{{if img_data != ""}}
+						<img src="{{:img_data}}">
+				    {{else}}
+						<span class="save_list_thumb_nodata">no data</span>
+					{{/if}}
+					</span>
+					
+					<span class="save_list_item_area">
+						<span class="save_list_item_text">{{:title}}</span>
+						<span class="save_list_item_date">{{:save_date}}</span>
+					</span>
+				</li>
+			{{/for}}
+		</ul>
+	
+	</div>
+	
+	<img class="img_bg_base" src="tyrano/images/system/save_bg.png" style="z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;">
+	
+	
+	<div class="save_back_title menu_back_title" style="left:80px;top:450px;position:absolute;">
+	   <span class="save_back_title_text english">Title</span>
+	</div>
+	<div class="save_config menu_config" style="left:200px;top:450px;position:absolute;">
+	   <span class="save_config_text english">Config</span>
+	</div>
+	<div class="save_load menu_load" style="left:320px;top:450px;position:absolute;">
+	   <span class="save_load_text english">Load</span>
+	</div>
+	<ul class="save_back menu_close" style="left:80px;top:570px;position:absolute;">
+	   <li class="arow">➡</li> 
+	   <li class="back_text english">Back</li>
+	</ul>
+	
+
+
+
+
+</div>
