@@ -57,7 +57,6 @@
 
 #
 「相合傘って」[p]
-@jump storage="scene7.ks"
 [M1]
 [bg2 storage="tonari.png" time=500 ]
 #先輩
