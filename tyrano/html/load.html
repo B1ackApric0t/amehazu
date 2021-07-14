@@ -5,22 +5,23 @@
 	<img class="button_smart button_arrow_up" src="tyrano/images/system/arrow_up.png" style="cursor:pointer;left:670px;top:20px;position:absolute;">
 	<img class="button_smart button_arrow_down" src="tyrano/images/system/arrow_down.png" style="cursor:pointer;left:800px;top:15px;position:absolute;">
 
-	<div class="area_load_list">
+	<div class="area_save_list">
 
-		<ul class="load_list">
+		<ul class="save_list">
 			{{for array_save}}
-				<li class="save_display_area load_list_item" data-num="{{:num}}">
-					<span class="load_list_item_thumb">
+				<li class="save_display_area save_list_item" data-num="{{:num}}">
+				    <span class="save_list_item_area1">
+						<span class="save_list_item_date">{{:save_date}}</span>
+					</span>
+					<span class="save_list_item_thumb">
 					{{if img_data != ""}}
 						<img src="{{:img_data}}">
-					{{else}}
-						<span class="load_list_thumb_nodata">no data</span>
+				    {{else}}
+						<span class="save_list_thumb_nodata"><img src="tyrano/images/system/kara.png" style="margin-top:15%;margin-left:180%;width:29px;height:29px;"></span>
 					{{/if}}
 					</span>
-
-					<span class="load_list_item_area">
-					　　<span class="load_list_item_text">{{:title}}</span>
-						<span class="load_list_item_date">{{:save_date}}</span>
+					<span class="save_list_item_area">
+						<span class="save_list_item_text">{{:title}}</span>
 					</span>
 				</li>
 			{{/for}}
@@ -28,21 +29,11 @@
 
 	</div>
 
+	<img src="tyrano/images/system/loadtop.png" style="left:30px;top:30px;position:absolute;">
 	<img class="img_bg_base" src="tyrano/images/system/load_bg.png" style="z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;">
-
-    <div class="load_back_title menu_back_title" style="left:80px;top:450px;position:absolute;">
-	   <span class="load_back_title_text english">Title</span>
+	<div class="menu_close save_close" style="left:40px;top:650px;position:absolute;">
+	  <img src="tyrano/images/system/back_system.png" alt="" class="non">
 	</div>
-	<div class="load_config menu_config" style="left:200px;top:450px;position:absolute;">
-	   <span class="load_config_text english">Config</span>
-	</div>
-	<div class="load_save menu_save" style="left:320px;top:450px;position:absolute;">
-	   <span class="load_save_text english">Save</span>
-	</div>
-	<ul class="load_back menu_close" style="left:80px;top:570px;position:absolute;">
-	   <li class="arow">➡</li> 
-	   <li class="back_text english">Back</li>
-	</ul>
 
 
 </div>
