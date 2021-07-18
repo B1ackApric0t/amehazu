@@ -1,5 +1,6 @@
 *scene7A
 [cm]
+[loadcss file="./data/others/css/next1.css"]
 [clearfix]
 #春也
 「どうにかやっていきます。上手くやれるかはわからないですけど、[r]少なくとも生きてはいきますよ。[r]たまに先輩のこととか、思い出したりしながら」[p]

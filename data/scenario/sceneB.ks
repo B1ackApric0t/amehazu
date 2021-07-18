@@ -1,5 +1,6 @@
 *scene7B
 [cm]
+[loadcss file="./data/others/css/next1.css"]
 [clearfix]
 #春也
 「正直、死ぬほど辛いと思います。というか嫌ですよ。ちゃんと卒業していなくなるならともかく、いきなりなんて僕はごめんですよ」[p]
