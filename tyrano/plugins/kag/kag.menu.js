@@ -122,7 +122,7 @@ tyrano.plugin.kag.menu = {
       n = {},
       s = this;
     null == this.snap ? this.snapSave(this.kag.stat.current_save_str, function () {
-      (n = s.snap).save_date = $.getNowDate() + "　" + $.getNowTime(), e.data[t] = n, $.setStorage(s.kag.config.projectID + "_tyrano_data", e, s.kag.config.configSave), "function" == typeof a && a()
+      (n = s.snap).save_date = $.getNowDate() + "/" + $.getNowTime(), e.data[t] = n, $.setStorage(s.kag.config.projectID + "_tyrano_data", e, s.kag.config.configSave), "function" == typeof a && a()
     }) : "function" == typeof a && a()
   },
   setQuickSave: function () {
@@ -130,7 +130,7 @@ tyrano.plugin.kag.menu = {
       a = t.kag.stat.current_save_str;
     t.kag.menu.snapSave(a, function () {
       var a = t.snap;
-      a.save_date = $.getNowDate() + "　" + $.getNowTime(), $.setStorage(t.kag.config.projectID + "_tyrano_quick_save", a, t.kag.config.configSave)
+      a.save_date = $.getNowDate() + "/" + $.getNowTime(), $.setStorage(t.kag.config.projectID + "_tyrano_quick_save", a, t.kag.config.configSave)
     })
   },
   loadQuickSave: function () {
@@ -140,7 +140,7 @@ tyrano.plugin.kag.menu = {
   },
   doSetAutoSave: function () {
     var t = this.snap;
-    t.save_date = $.getNowDate() + "　" + $.getNowTime(), $.setStorage(this.kag.config.projectID + "_tyrano_auto_save", t, this.kag.config.configSave)
+    t.save_date = $.getNowDate() + "/" + $.getNowTime(), $.setStorage(this.kag.config.projectID + "_tyrano_auto_save", t, this.kag.config.configSave)
   },
   loadAutoSave: function () {
     var t = $.getStorage(this.kag.config.projectID + "_tyrano_auto_save", this.kag.config.configSave);
@@ -164,13 +164,13 @@ tyrano.plugin.kag.menu = {
     }
     if (r.models = c, void 0 === e && (e = this.kag.config.configThumbnail), "false" == e) {
       var d = {};
-      d.title = t, d.stat = i, d.three = r, d.current_order_index = s, d.save_date = $.getNowDate() + "　" + $.getNowTime(), d.img_data = "";
+      d.title = t, d.stat = i, d.three = r, d.current_order_index = s, d.save_date = $.getNowDate() + "/" + $.getNowTime(), d.img_data = "";
       var f = n.kag.layer.getLayeyHtml();
       d.layer = f, n.snap = $.extend(!0, {}, $.cloneObject(d)), a && a()
     } else $("#tyrano_base").find(".layer_blend_mode").css("display", "none"), setTimeout(function () {
       var e = function (e) {
         var o = {};
-        o.title = t, o.stat = i, o.three = r, o.current_order_index = s, o.save_date = $.getNowDate() + "　" + $.getNowTime(), o.img_data = e;
+        o.title = t, o.stat = i, o.three = r, o.current_order_index = s, o.save_date = $.getNowDate() + "/" + $.getNowTime(), o.img_data = e;
         var l = n.kag.layer.getLayeyHtml();
         o.layer = l, n.snap = $.extend(!0, {}, $.cloneObject(o)), a && a()
       };

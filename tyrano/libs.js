@@ -145,7 +145,7 @@
         var m = nowdate.getMinutes();
         var s = nowdate.getSeconds();
 
-        return h + "：" + m + "：" + s;
+        return h + ":" + m;
 
     };
     
