@@ -16,6 +16,19 @@
 [loadbgm str="ED.ogg"]
 [loadbgm str="OP.ogg"]
 
+[iscript]
+f.preload_yukino = [
+"data/fgimage/yukino/tatie1.png",
+"data/fgimage/yukino/tatie2.png",
+"data/fgimage/yukino/tatie3.png",
+"data/fgimage/yukino/tatie4.png",
+"data/fgimage/yukino/tatie5.png",
+"data/fgimage/yukino/tatie6.png",
+];
+[endscript]
+
+[preload storage="&f.preload_yukino"]
+
 ;ティラノスクリプトが標準で用意している便利なライブラリ群
 ;コンフィグ、CG、回想モードを使う場合は必須
 @call storage="tyrano.ks"

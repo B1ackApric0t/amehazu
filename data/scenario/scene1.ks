@@ -37,16 +37,13 @@
 
 [macro name="yukinohide"][chara_hide name="yukino"][endmacro]
 
-[macro name="M2"]
-[position layer="message2" left=140 top=100 width=1000 height=620 frame="none" page=fore visible=true]
-[position layer="message2" page=fore margint="25" marginl="25" marginr="25" marginb="25"]
-[endmacro]
-
+;スチル
 [macro name="M1"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still.png" page=fore visible=true]
 [position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]
 [loadcss file="./data/others/css/next2.css"]
 [anim name="chara_name_area" top="+=150" left="-=120" time="0"][endmacro]
 
+;通常
 [macro name="M0"][position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer="message0" page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [loadcss file="./data/others/css/next1.css"]
@@ -114,7 +111,7 @@
 「うん。足りるね」[p]
 
 #春也
-「何にですか。二ヶ月後……八月。夏休み？[r]えっ夏休みに噂持ち込んで何する気ですか」[p]
+「何にですか。二ヶ月後……八月。夏休み？[r]　えっ夏休みに噂持ち込んで何する気ですか」[p]
 
 
 #先輩
@@ -174,15 +171,13 @@
 雨音の中を僕たちは歩いていく。[r]相合傘の歩みはいつも歩くよりだいぶ遅々としている。[p]
 それだけ会話の時間も増えるわけで、[r]すると先輩が喋る適当な言葉も一段と量を増す。[p]
 梅雨時の降水量並みだ。[p]
-
-;◆ここまでスチルの表情差分でもアリかも。[p]
-;◆雨降ってる町中の背景欲しい。家並みというか。[p]
 やがて僕たちは曲がり角に差しかかる。[r]ここから先は僕はまっすぐ、先輩は道を折れていく。[p]
 だからここが別れの場所だ。[p]
 
 [M0]
-[bg2 storage="town.jpg" time=500 cross=true wait=true]
+[bg2 storage="town.jpg" time=700 cross=true wait=false]
 [yukino2]
+[wait time=500]
 #先輩
 「ありがとう、春也くん」[p]
 
@@ -218,19 +213,17 @@
 言うか言うまいか迷った末にタイミングを逸して、[r]そのまま流されてしまう。[p]
 こうなるといつも後味が悪い。[p]
 これで先輩が風邪を引きでもしたら、[r]僕はいつまでも今日のことを引きずるに違いない。[p]
-
-じっとりとした感触に我に返る。右肩に濡れて張り付くワイシャツの感触だった。[p]これ以上濡れないうちにと僕は家路に足を向け直す。[p]罪悪感が影のように尾を引いていた。[p]
-
+じっとりとした感触に我に返る。[r]右肩に濡れて張り付くワイシャツの感触だった。[p]
+これ以上濡れないうちにと僕は家路に足を向け直す。[r]罪悪感が影のように尾を引いていた。[p]
 雨音が遠くまで続いている。[r]ひとりになった傘の中は、広いけれどどこか空しい。[p]
 
 [clearfix name="role_button"]
-@layopt layer="message" visible=false
-;◆メッセージボックス消えて、背景だけ。【雨音】。[p]
-;◆クロスフェードでスチル。春也の背後に巨大な魚影が迫っているが、春也は気づいていない。[p]
-;◆不穏なSE欲しい。不安を煽るというか。「おわかりいただけただろうか」的な。[p]
-[mask time="500"]
-[wait time="500"]
-@layopt layer="message" visible=true
+[anim layer="message0" opacity=0 time=2000]
+[bg2 storage="shadow.png" time="3000" method="fadeInUp" wait=true]
+
+[mask time="1500"]
+[wait time="1500"]
+[anim layer="message0" opacity=255 time="0"]
 [bg2 storage="busitu.jpg" time="0"]
 [button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 [mask_off time="500"]
