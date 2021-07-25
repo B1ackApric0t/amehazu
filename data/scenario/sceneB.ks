@@ -1,6 +1,5 @@
 *scene7B
 [cm]
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 [loadcss file="./data/others/css/next1.css"]
 #春也
 「正直、死ぬほど辛いと思います。というか嫌ですよ。[r]ちゃんと卒業していなくなるならともかく、いきなりなんて僕はごめんですよ」[p]

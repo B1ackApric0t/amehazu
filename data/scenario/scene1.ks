@@ -1,5 +1,4 @@
 *start
-
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -217,9 +216,14 @@
 じっとりとした感触に我に返る。[r]右肩に濡れて張り付くワイシャツの感触だった。[p]
 これ以上濡れないうちにと僕は家路に足を向け直す。[r]罪悪感が影のように尾を引いていた。[p]
 雨音が遠くまで続いている。[r]ひとりになった傘の中は、広いけれどどこか空しい。[p]
-
 [clearfix name="role_button"]
 [anim layer="message0" opacity=0 time=2000]
+[mask time="500"]
+[wait time="500"]
+[bg2 storage="black.png" time="0"]
+[mask_off time="500"]
+[wait time="500"]
+
 [bg2 storage="shadow.png" time="3000" method="fadeInUp" wait=true]
 
 [mask time="1500"]

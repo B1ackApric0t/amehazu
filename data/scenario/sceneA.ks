@@ -1,6 +1,5 @@
 *scene7A
 [cm]
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 [loadcss file="./data/others/css/next1.css"]
 #春也
 「どうにかやっていきます。上手くやれるかはわからないですけど、[r]少なくとも生きてはいきますよ。」[p]
