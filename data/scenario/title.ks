@@ -29,19 +29,19 @@
 ;   </div>
 ;</div>
 
-<div id="title_start" class="title_item" style="left:120px;top:340px;position:absolute;">
+<div id="title_start" class="title_item" style="left:120px;top:340px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_start.png" alt="" class="non">
 </div>
-<div id="title_load" class="title_item" style="left:120px;top:400px;position:absolute;">
+<div id="title_load" class="title_item" style="left:120px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_load.png" alt="" class="non">
 </div>
-<div id="title_config" class="title_item" style="left:120px;top:460px;position:absolute;">
+<div id="title_config" class="title_item" style="left:120px;top:460px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_config.png" alt="" class="non">
 </div>
-<div id="title_gallery" class="title_item" style="left:120px;top:520px;position:absolute;">
+<div id="title_gallery" class="title_item" style="left:120px;top:520px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_gallery.png" alt="" class="non">
 </div>
-<div id="title_quit" class="title_item" style="left:120px;top:580px;position:absolute;">
+<div id="title_quit" class="title_item" style="left:120px;top:580px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_quit.png" alt="" class="non">
 </div>
 

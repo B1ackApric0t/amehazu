@@ -180,6 +180,49 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 
 [endmacro]
 
+;1無表情,2にこにこ,3悲しげ,4ごまかし,5苛立ち,6困惑
+[macro name="yukino/1"][chara_mod name="yukino" storage="yukino/tatie1.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/2"][chara_mod name="yukino" storage="yukino/tatie2.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/3"][chara_mod name="yukino" storage="yukino/tatie3.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/4"][chara_mod name="yukino" storage="yukino/tatie4.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/5"][chara_mod name="yukino" storage="yukino/tatie5.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/6"][chara_mod name="yukino" storage="yukino/tatie6.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/7"][chara_mod name="yukino" storage="yukino/tatie7.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/8"][chara_mod name="yukino" storage="yukino/tatie8.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/9"][chara_mod name="yukino" storage="yukino/tatie9.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/10"][chara_mod name="yukino" storage="yukino/tatie10.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/11"][chara_mod name="yukino" storage="yukino/tatie11.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/12"][chara_mod name="yukino" storage="yukino/tatie12.png" cross="false" wait="false"][endmacro]
+[macro name="yukino/13"][chara_mod name="yukino" storage="yukino/tatie13.png" cross="false" wait="false"][endmacro]
+[macro name="yukino1"][chara_show name="yukino" storage="yukino/tatie1.png" top="30" left="150"][endmacro]
+[macro name="yukino2"][chara_show name="yukino" storage="yukino/tatie2.png" top="30" left="150"][endmacro]
+[macro name="yukino3"][chara_show name="yukino" storage="yukino/tatie3.png" top="30" left="150"][endmacro]
+[macro name="yukino4"][chara_show name="yukino" storage="yukino/tatie4.png" top="30" left="150"][endmacro]
+[macro name="yukino5"][chara_show name="yukino" storage="yukino/tatie5.png" top="30" left="150"][endmacro]
+[macro name="yukino6"][chara_show name="yukino" storage="yukino/tatie6.png" top="30" left="150"][endmacro]
+[macro name="yukino7"][chara_show name="yukino" storage="yukino/tatie7.png" top="30" left="150"][endmacro]
+[macro name="yukino8"][chara_show name="yukino" storage="yukino/tatie8.png" top="30" left="150"][endmacro]
+[macro name="yukino9"][chara_show name="yukino" storage="yukino/tatie9.png" top="30" left="150"][endmacro]
+[macro name="yukino10"][chara_show name="yukino" storage="yukino/tatie10.png" top="30" left="150"][endmacro]
+[macro name="yukino11"][chara_show name="yukino" storage="yukino/tatie11.png" top="30" left="150"][endmacro]
+[macro name="yukino12"][chara_show name="yukino" storage="yukino/tatie12.png" top="30" left="150"][endmacro]
+[macro name="yukino13"][chara_show name="yukino" storage="yukino/tatie13.png" top="30" left="150"][endmacro]
+[macro name="yukinohide"][chara_hide name="yukino"][endmacro]
+
+[macro name="bucho"][chara_show name="bucho" storage="bucho.png" top="30" left="150"][endmacro]
+
+;スチル
+[macro name="M1"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still.png" page=fore visible=true]
+[position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]
+[loadcss file="./data/others/css/next2.css"]
+[anim name="chara_name_area" top="+=150" left="-=120" time="0"][endmacro]
+
+;通常
+[macro name="M0"][position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
+[position layer="message0" page=fore margint="70" marginl="190" marginr="150" marginb="50"]
+[loadcss file="./data/others/css/next1.css"]
+[anim name="chara_name_area" top="-=150" left="+=120" time="0"][endmacro]
+
 [return]
 
 

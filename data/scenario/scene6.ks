@@ -1,4 +1,20 @@
-*star
+*chapter
+[html]
+<img src="data/bgimage/black.png" class="fadein">
+[endhtml]
+[wait time=1500]
+[cm]
+[clearfix]
+[start_keyconfig]
+[fadeoutbgm]
+[position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
+[position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
+[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
+[chara_config ptext="chara_name_area" pos_mode=false memory=true effect=easeOutQuad]
+@layopt layer=message0 visible=true
+[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+
+*start
 [mask time="700"]
 [wait time="700"]
 [bg2 storage="black.png" time="0"]
@@ -285,4 +301,4 @@
 明日が来なければいいと思った。[r]僕は目を閉じて、どうしようもない考え事を頭の中から必死に追い払った。[p]
 暗闇で満ちていく頭の中。先輩の姿が最後に残っていた。[p]
 それだけはどうやっても消えなかった。[p]
-@jump storage="scene7.ks"
+@jump storage="scene7.ks" target=*start

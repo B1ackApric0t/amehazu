@@ -1,5 +1,20 @@
-*start
+*chapter
+[html]
+<img src="data/bgimage/black.png" class="fadein">
+[endhtml]
+[wait time=1500]
+[cm]
+[clearfix]
+[start_keyconfig]
+[fadeoutbgm]
+[position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
+[position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
+[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
+[chara_config ptext="chara_name_area" pos_mode=false memory=true effect=easeOutQuad]
+@layopt layer=message0 visible=true
+[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 
+*start
 #校内アナウンス
 『これより、部活動見学の時間に移ります。新入生の皆さんは――』[p]
 #
@@ -243,4 +258,4 @@
 今も僕は、先輩の後ろについていっている。[r]きっと直接触れることはなくても、それでも僕たちは、遠くへ行くのだ。[p]
 ベッドの中。[r]胸の中で散らばってうずうずしていたものが、まとまって固まっていく。
 [p]決意にも似た安心感とともに、僕は眠りに落ちていく。[p]
-@jump storage="scene4.ks"
+@jump storage="scene4.ks" target=*start

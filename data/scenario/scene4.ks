@@ -1,3 +1,19 @@
+*chapter
+[html]
+<img src="data/bgimage/black.png" class="fadein">
+[endhtml]
+[wait time=1500]
+[cm]
+[clearfix]
+[start_keyconfig]
+[fadeoutbgm]
+[position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
+[position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
+[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
+[chara_config ptext="chara_name_area" pos_mode=false memory=true effect=easeOutQuad]
+@layopt layer=message0 visible=true
+[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+
 *start
 [mask time="1000" effect="fadeInDown"]
 [wait time="700"]
@@ -286,4 +302,4 @@
 #
 その後も先輩はあちこちで歓声をあげた。感嘆の声をあげた。[r]ふたり揃って写真だって撮った。[p]でも僕は、そんな先輩をどんなまなざしで見ればいいのか、[r]もうわからなくなっていた。[p]
 白い霧があじさい園全体を覆っていた。[r]その中を僕たちふたりは歩いていく。[p]先輩がひとり。僕がひとり。[p]
-@jump storage="scene5.ks"
+@jump storage="scene5.ks" target=*start

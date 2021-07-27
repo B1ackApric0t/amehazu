@@ -179,24 +179,27 @@ abbr,acronym{
 
 
 /* 戻るボタン */
-.log_back {
-	margin: 0;
-	padding: 0;
-	width: 220px;
-    height: 100px;
-    color: #B3B3B3;
-	border-radius: 1em;
-	border: 2.5px solid #B3B3B3;
-	transition: transform 0.2s ease 0s;
+.log_back:before {
+ 	content: '';
+    /*絶対配置で位置を指定*/
+ 	position: absolute;
+ 	top: 12px;
+ 	left: -20px;
+ 	z-index: -1;
+    /*色や形状*/
+    background-image: url("images/system/title_hover.png");
+    background-size:  auto;
+ 	width: 173px;
+	height: 29px;
+    /*アニメーション*/
+ 	transition: transform .3s cubic-bezier(0.8, 0, 0.2, 1) 0s;
+ 	transform: scale(0, 1);
+	transform-origin: left top;
 }
 
-.log_back:hover{
-	background-color: #B3B3B3;
-	color: #333333;
-}
-
-.log_bg_base{
-	opacity: 0.8;
+.log_back:hover:before{
+	transform-origin:left top;
+	transform:scale(1, 1);
 }
 
 
@@ -787,12 +790,141 @@ body{
 	color: #666666;
 }
 
-/*タイトル*/
 
 /*CG*/
 .cg{
 	cursor: pointer;
 }
+
+.tabs{
+  width:50%;
+  position:absolute;
+  top:170px;
+  left:320px;
+}
+.tab-buttons span{
+  font-size:32px;
+  font-weight:bold;
+  font-family:applimincho;
+  cursor:pointer;
+  display:block;
+  width:20%;
+  float:left;
+  text-align:center;
+  height:40px;
+  line-height:40px;
+  margin: auto 10px;
+}
+.tab-buttons span:hover{
+	background-color: rgba(255, 255, 254,0.55);
+}
+.tab-content{
+  padding:15px;
+  position:absolute;
+  top:80px;
+  left:-250px;
+  height:370px;
+  width:1100px;
+}
+#lamp{
+  width:20%;
+  height:2px;
+  background:#333;
+  display:block;
+  position:absolute;
+  top:40px;
+  transition: all .3s ease-in;
+-o-transition: all .3s ease-in;
+-webkit-transition: all .3s ease-in;
+-moz-transition: all .3s ease-in;
+}
+#lamp.content2{
+  left:39.7%;
+  transition: all .3s ease-in;
+-o-transition: all .3s ease-in;
+-webkit-transition: all .3s ease-in;
+-moz-transition: all .3s ease-in;
+}
+#lamp.content3{
+  left:62.8%;
+  transition: all .3s ease-in;
+-o-transition: all .3s ease-in;
+-webkit-transition: all .3s ease-in;
+-moz-transition: all .3s ease-in;
+}
+#lamp.content1{
+  left:16.3%;
+  transition: all .3s ease-in;
+-o-transition: all .3s ease-in;
+-webkit-transition: all .3s ease-in;
+-moz-transition: all .3s ease-in;
+}
+
+#chaptertitle{
+	font-size: 22px;
+	font-family:applimincho;
+	margin: 7px 0 7px 30px;
+}
+
+#summary{
+	font-size: 16px;
+	font-family:applimincho;
+	width: 380px;
+	overflow: hidden;
+	margin-left: 15px;
+}
+
+.chapterchoice{
+	position:absolute;
+	top:60px;
+	left:500px;
+	font-size:20px;
+}
+
+.chapterA{
+	position:absolute;
+	top:60px;
+	left:725px;
+	font-size:20px;
+	font-family:applimincho;
+}
+
+.chapterB{
+	position:absolute;
+	top:60px;
+	left:950px;
+	font-size:20px;
+	font-family:applimincho;
+}
+
+.chap{
+	margin-bottom:10px;
+	cursor:pointer;
+}
+
+.cg_back:before {
+ 	content: '';
+    /*絶対配置で位置を指定*/
+ 	position: absolute;
+ 	top: 12px;
+ 	left: -20px;
+ 	z-index: -1;
+    /*色や形状*/
+    background-image: url("../tyrano/images/system/back_hover.png");
+    background-size:  auto;
+ 	width: 118px;
+	height: 20px;
+    /*アニメーション*/
+ 	transition: transform .3s cubic-bezier(0.8, 0, 0.2, 1) 0s;
+ 	transform: scale(0, 1);
+	transform-origin: left top;
+}
+
+.cg_back:hover:before{
+	transform-origin:left top;
+	transform:scale(1, 1);
+}
+
 
 .english{
 	font-family: redhat;
@@ -1029,3 +1161,12 @@ body{
 
 }
 
+@keyframes wave {
+  from {
+    opacity: 1;
+  }
+  to {
+    transform: scale(1,1);
+    opacity: 0;
+  }
+}
