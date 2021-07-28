@@ -159,7 +159,8 @@
 [chara_hide name="yukino"]
 #
 ――僕たちは観光計画について話し始めた。[p]
-日程を詰めていく中で急速に現実味を帯びてくるふたりでの休日に、[r]なんだか僕は頭が熱くなり始めていた。[p]そのせいで僕は、なにか適当なことばかり言っていたような気がする。[p]
+日程を詰めていく中で急速に現実味を帯びてくるふたりでの休日に、[r]なんだか僕は頭が熱くなり始めていた。[p]
+そのせいで僕は、なにか適当なことばかり言っていたような気がする。[p]
 [chara_show name="yukino" storage="yukino/tatie2.png" top="30" left="150"]
 #先輩
 「どうしよう春也くん、スケジュールができてしまった。[r]できてしまったからには遂行しなくちゃいけない」[p]
@@ -223,8 +224,8 @@
 #
 先輩は笑った。にっこりと笑った。[p]
 
-[image layer="2" page="back" storage="umbrella.png" width=800 left=240 top=50]
-[trans layer="2" time=500 method="fadeIn"]
+[image layer="2" page="back" storage="umbrella.png" width=800 left=240 top=40]
+[trans layer="2" time=500 method="fadeInUp"]
 [wt]
 ふと僕のスマホがポケットの中で振動した。取り出して開いてみると、[r]クラスでよく話している人から、とある写真が送信されていた。[p]
 黒板に書かれた落書き。ハートのついた相合傘、その下で肩を並べる名前。[p]下地春也と赤羽雪乃。……僕と先輩。[p]
@@ -233,7 +234,8 @@
 ふたつ目は、男女の名前を記した相合傘というシンボルが、[r]この現代社会にも根強く息をしていたこと。[p]
 そして最後に、先輩と面識のない僕のクラスメートにまで[r]フルネームが知れ渡っている、先輩のスター性。[p]
 一種の天才だ。[p]
-[freeimage layer="2" time=500]
+[trans_out layer="2" time=500 method="fadeOutUp"]
+[freeimage layer="2" time=0 page=back]
 [chara_show name="yukino" storage="yukino/tatie2.png" top="30" left="150"]
 #先輩
 「どうしたんだい春也くん、ため息なんてついて」[p]

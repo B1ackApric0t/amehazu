@@ -878,28 +878,33 @@ body{
 	position:absolute;
 	top:60px;
 	left:500px;
-	font-size:20px;
 }
 
 .chapterA{
 	position:absolute;
 	top:60px;
 	left:725px;
-	font-size:20px;
-	font-family:applimincho;
 }
 
 .chapterB{
 	position:absolute;
 	top:60px;
 	left:950px;
-	font-size:20px;
-	font-family:applimincho;
 }
 
 .chap{
+	padding-left:5px; 
+	font-size:20px;
+	font-family:applimincho;
 	margin-bottom:10px;
+	border-left: solid rgba(0, 0, 0,0);
+	border-width:4px;
 	cursor:pointer;
+}
+
+#chapter1{
+	border-left: solid rgba(0, 0, 0,1);
+	border-width:4px;
 }
 
 .cg_back:before {
