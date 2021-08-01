@@ -11,8 +11,7 @@
 
 [html]
 <div class="fadein">
-<img src="data/bgimage/load_bg.png" style="z-index:-10;">
-<img src="data/image/savetop.png" style="left:70px;top:50px;position:absolute;">
+<img src="data/bgimage/gallery_bg.png" style="z-index:-10;">
 <div class="cg_back" style="left:50px;top:670px;position:absolute;cursor:pointer;z-index:10;">
 	<img src="data/fgimage/back_system.png" alt="" class="non">
 </div>
@@ -52,14 +51,31 @@
       <div id="chapterEX" class="chap" style="position:absolute;top:200px;left:870px;">EX.背中</div>
     </div>
     
-    <div class='content2'>スチル</div>
+    <div class='content2'>
+      <div style="float:left;position:absolute;top:-10px;left:40px;">
+        <img src="data/bgimage/tonari.png" style="width:240px;" class="cg" id="tonari">
+        <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/hug1.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/hug2.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/tonari.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/hug1.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/hug2.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/tonari.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
+      </div>
+    </div>
     
     <div class='content3'>音楽</div>
     
   </div>
+  <img src="data/bgimage/tonari.png" class="cgbig" id="tonari1">
 </div>
 
-
+<script>
+$('#tonari').click(function(){$('#tonari1').css('visibility','visible')});
+$('#tonari1').click(function(){$('#tonari1').css('visibility','hidden')});
+</script>
 
 <script>
 $('.cg_back').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"backtitle"})});

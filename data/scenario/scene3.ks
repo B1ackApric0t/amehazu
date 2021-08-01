@@ -11,7 +11,6 @@
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
-[chara_config ptext="chara_name_area" pos_mode=false memory=true effect=easeOutQuad]
 @layopt layer=message0 visible=true
 [button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 [wait time="500"]
@@ -21,14 +20,13 @@
 [mask_off time="500"]
 
 *start
-#校内アナウンス
-『これより、部活動見学の時間に移ります。新入生の皆さんは――』[p]
 #
+『これより、部活動見学の時間に移ります。新入生の皆さんは――』[p]
 校内放送とともに、クラスの人たちががやがやと廊下へ出ていく。[p]
 校内に声があふれ出す。人の流れ、勧誘の声、……にぎやかだ。[p]
 僕もひとまず流れに沿って廊下に抜け出す。[p]
 
-[bg2 storage="schoolcorridor.jpg" time="1000" wait=true method="fadeInRight"]
+[bg2 storage="corridor.jpg" time="1000" wait=true method="fadeInRight"]
 
 「陸上やってみない？」[p]
 「演劇部興味ありませんかー？」[p]
@@ -39,8 +37,10 @@
 そのたび僕はいまいち煮え切らない曖昧な返事を返してしまう。[p]
 もっとさらりと、気軽い感じで断れたらいいのだろうけど。[r]相手にとって僕は人混みの切れ端に過ぎないのだろうけど。[p]
 人の波から逃れるように校内をさまよう。[p]
-
-[bg2 storage="class.jpg" time="1000" method="fadeInRight" wait=true]
+[mask time=500]
+[bg2 storage="class.jpg" time="0" method="fadeInRight" wait=true]
+[wait time=500]
+[mask_off time=500]
 
 最終的に僕が流れ着いたのは、[r]本校舎から離れた別棟の、未使用の教室だった。[p]
 そこだけは不思議と静謐に満たされていて、[r]勧誘の声も誰かの足音もまったく聞こえない。[p]

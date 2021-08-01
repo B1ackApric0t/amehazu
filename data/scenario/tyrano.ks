@@ -14,15 +14,14 @@
 [endmacro]
 
 
+
 ;キャラクターを表示、そして設定
 [macro name="charaset"]
 
-[backlay]
-[image storage=%storage left=%left|0 top=%top|0 layer=%layer page=back visible=true  ]
-[trans time=%time|1]
-@wt
+[image storage=%storage left=%left|0 top=%top|0 layer=%layer page=back visible=true]
 
 [endmacro]
+
 
 [macro name="chararemove"]
 
@@ -180,38 +179,60 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 
 [endmacro]
 
-;1無表情,2にこにこ,3悲しげ,4ごまかし,5苛立ち,6困惑
-[macro name="yukino/1"][chara_mod name="yukino" storage="yukino/tatie1.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/2"][chara_mod name="yukino" storage="yukino/tatie2.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/3"][chara_mod name="yukino" storage="yukino/tatie3.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/4"][chara_mod name="yukino" storage="yukino/tatie4.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/5"][chara_mod name="yukino" storage="yukino/tatie5.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/6"][chara_mod name="yukino" storage="yukino/tatie6.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/7"][chara_mod name="yukino" storage="yukino/tatie7.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/8"][chara_mod name="yukino" storage="yukino/tatie8.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/9"][chara_mod name="yukino" storage="yukino/tatie9.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/10"][chara_mod name="yukino" storage="yukino/tatie10.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/11"][chara_mod name="yukino" storage="yukino/tatie11.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/12"][chara_mod name="yukino" storage="yukino/tatie12.png" cross="false" wait="false"][endmacro]
-[macro name="yukino/13"][chara_mod name="yukino" storage="yukino/tatie13.png" cross="false" wait="false"][endmacro]
-[macro name="yukino1"][chara_show name="yukino" storage="yukino/tatie1.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino2"][chara_show name="yukino" storage="yukino/tatie2.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino3"][chara_show name="yukino" storage="yukino/tatie3.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino4"][chara_show name="yukino" storage="yukino/tatie4.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino5"][chara_show name="yukino" storage="yukino/tatie5.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino6"][chara_show name="yukino" storage="yukino/tatie6.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino7"][chara_show name="yukino" storage="yukino/tatie7.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino8"][chara_show name="yukino" storage="yukino/tatie8.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino9"][chara_show name="yukino" storage="yukino/tatie9.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino10"][chara_show name="yukino" storage="yukino/tatie10.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino11"][chara_show name="yukino" storage="yukino/tatie11.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino12"][chara_show name="yukino" storage="yukino/tatie12.png" top="30" left="150" time=700][endmacro]
-[macro name="yukino13"][chara_show name="yukino" storage="yukino/tatie13.png" top="30" left="150" time=700][endmacro]
+;1無表情,2にこにこ,3悲しげ,4ごまかし,5苛立ち,6困惑,7微笑,8考え事,9驚き,10目閉じ微笑,11目閉じ,12困り笑い,13落ち込み
+[macro name="yukino/1"][chara_mod name="yukino" storage="yukino/tatie1.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/2"][chara_mod name="yukino" storage="yukino/tatie2.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/3"][chara_mod name="yukino" storage="yukino/tatie3.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/4"][chara_mod name="yukino" storage="yukino/tatie4.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/5"][chara_mod name="yukino" storage="yukino/tatie5.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/6"][chara_mod name="yukino" storage="yukino/tatie6.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/7"][chara_mod name="yukino" storage="yukino/tatie7.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/8"][chara_mod name="yukino" storage="yukino/tatie8.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/9"][chara_mod name="yukino" storage="yukino/tatie9.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/10"][chara_mod name="yukino" storage="yukino/tatie10.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/11"][chara_mod name="yukino" storage="yukino/tatie11.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/12"][chara_mod name="yukino" storage="yukino/tatie12.png" cross="false" wait="true" time=100][endmacro]
+[macro name="yukino/13"][chara_mod name="yukino" storage="yukino/tatie13.png" cross="false" wait="true" time=100][endmacro]
+
+[macro name="yukino1"][chara_show name="yukino" storage="yukino/tatie1.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino2"][chara_show name="yukino" storage="yukino/tatie2.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino3"][chara_show name="yukino" storage="yukino/tatie3.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino4"][chara_show name="yukino" storage="yukino/tatie4.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino5"][chara_show name="yukino" storage="yukino/tatie5.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino6"][chara_show name="yukino" storage="yukino/tatie6.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino7"][chara_show name="yukino" storage="yukino/tatie7.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino8"][chara_show name="yukino" storage="yukino/tatie8.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino9"][chara_show name="yukino" storage="yukino/tatie9.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino10"][chara_show name="yukino" storage="yukino/tatie10.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino11"][chara_show name="yukino" storage="yukino/tatie11.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino12"][chara_show name="yukino" storage="yukino/tatie12.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
+[macro name="yukino13"][chara_show name="yukino" storage="yukino/tatie13.png" top="30" left="%left" time="%time|700" width=1000][endmacro]
 [macro name="yukinohide"][chara_hide name="yukino" time=700][endmacro]
+[macro name="hide"][chara_hide name="yukino" time="%time|1000"][endmacro]
 
-[macro name="bucho"][chara_show name="bucho" storage="bucho.png" top="30" left="150" time=700][endmacro]
-[macro name="buchohide"][chara_hide name="bucho" time=700][endmacro]
 
+[macro name="ynear"]
+[chara_show name="yukino" storage="%storage" time="%time|700" top="%top|30" left="%left" width="1400"]
+[endmacro]
+[macro name="yfar"]
+[chara_show name="yukino" storage="%storage" time="%time|700" top="%top|30" left="%left" width="800"]
+[endmacro]
+[macro name="yajisai"]
+[chara_show name="yukino" storage="%storage" time="%time|700" top="%top|30" left="%left" width="500"]
+[endmacro]
+
+[macro name="bucho"][chara_show name="bucho" storage="bucho.png" top="%top|30" left="%left" time="%time|700"][endmacro]
+[macro name="buchohide"][chara_hide name="bucho" time="%time|700"][endmacro]
+
+[macro name="haruya"][chara_show name="haruya" storage="%storage|haruya/haruya1.png" top="370" left="-330" time="%time|700" zindex="200" layer="message0"][endmacro]
+[macro name="haruyahide"][chara_hide name="haruya" time="%time|700" layer="message0"][endmacro]
+
+
+[chara_config ptext="chara_name_area" pos_mode=true memory=true effect=easeOutQuad]
+[macro name="role"][button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610][endmacro]
+[macro name="rhide"][clearfix name="role_button"][endmacro]
+[macro name="mhide"][anim layer="message0" opacity=0 time="%time|1000"][endmacro]
+[macro name="mshow"][anim layer="message0" opacity=255 time="%time|1000"][endmacro]
 ;スチル
 [macro name="M1"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still.png" page=fore visible=true]
 [position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]
@@ -236,6 +257,13 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [wt]
 [freeimage layer="%layer|0"]
 [endmacro]
+
+;keyframe
+[keyframe name="nod"]
+[frame p="0%" y="0"]
+[frame p="50%" y="20"]
+[frame p="100%" y=" 0"]
+[endkeyframe]
 
 [return]
 

@@ -9,13 +9,7 @@
 [plugin name=bg_rule]
 
 [loadbgm str="BGM1.ogg"]
-[loadbgm str="BGM2.ogg"]
-[loadbgm str="BGM3.ogg"]
-[loadbgm str="BGM4.ogg"]
-[loadbgm str="BGM5.ogg"]
-[loadbgm str="BGM6.ogg"]
-[loadbgm str="ED.ogg"]
-[loadbgm str="OP.ogg"]
+
 
 [iscript]
 f.preload_yukino = [
@@ -36,16 +30,39 @@ f.preload_yukino = [
 f.preload_bucho = [
 "data/fgimage/bucho.png",
 ];
+f.preload_bg = [
+"data/bgimage/ajisai.jpg",
+"data/bgimage/bas.jpg",
+"data/bgimage/black.png",
+"data/bgimage/bluesky.jpg",
+"data/bgimage/bushi_bg.png",
+"data/bgimage/busitu.jpg",
+"data/bgimage/busitu_yoru.jpg",
+"data/bgimage/class.jpg",
+"data/bgimage/corridor.jpg",
+"data/bgimage/entrance.jpg",
+"data/bgimage/genkan.jpg",
+"data/bgimage/haruyaroom.jpg",
+"data/bgimage/moon.jpg",
+"data/bgimage/sky.jpg",
+"data/bgimage/town.jpg",
+"data/bgimage/tonari.png",
+"data/bgimage/shadow.png",
+"data/bgimage/hug1.png",
+"data/bgimage/hug2.png",
+"data/bgimage/hug3.png",
+"data/bgimage/hug4.png",
+];
 [endscript]
 
 [preload storage="&f.preload_yukino"]
 [preload storage="&f.preload_bucho"]
+[preload storage="&f.preload_bg"]
 
+[chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
 [chara_new  name="bucho" storage="bucho.png" width=1000 jname="部長" color=fff ]
 [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="先輩" color=fff ]
 
-;ティラノスクリプトが標準で用意している便利なライブラリ群
-;コンフィグ、CG、回想モードを使う場合は必須
 @call storage="tyrano.ks"
 
 @layopt layer="message" visible=false
