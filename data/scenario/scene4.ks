@@ -7,17 +7,17 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
+[bg2 storage="bus.png" time="0"]
+[wait time="700"]
+[mask_off time="1000" effect="fadeOutUp"]
 
 *start
-[mask time="1000" effect="fadeInDown"]
-[wait time="700"]
-[bg2 storage="bus.jpg" time="0"]
-[mask_off time="1000" effect="fadeOutUp"]
 #先輩
 「不思議だなあ」[p]
 
@@ -95,7 +95,7 @@
 
 [mask time="700"]
 [wait time="400"]
-[bg2 storage="ajisaimono.jpg" time="0"]
+[bg2 storage="ajisai.png" time="0"]
 [mask_off time="700"]
 
 #
@@ -212,7 +212,7 @@
 
 #春也
 「先輩……？」[p]
-[bg2 storage="ajisaimono.jpg" time="1000" cross=true]
+[bg2 storage="ajisai.png" time="1000" cross=true]
 [M0]
 #
 突然のことに頭が真っ白になる。[r]しかしすぐに僕は先輩のもとに駆け寄る。[p]
@@ -273,7 +273,7 @@
 #春也
 「……いえ。無事ならよかったです」[p]
 [M0]
-[bg2 storage="ajisaimono.jpg" time="1000" cross=true]
+[bg2 storage="ajisai.png" time="1000" cross=true]
 [yukino2]
 #先輩
 「すまない、心配かけてしまって」[p]

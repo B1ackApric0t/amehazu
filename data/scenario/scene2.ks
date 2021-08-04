@@ -11,7 +11,7 @@
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
 [bg2 storage="busitu.jpg" time="500"]
 
 *start
@@ -176,9 +176,21 @@
 「最近、話題になってるじゃないですか。連続殺人事件……」[p]
 #
 [yukino/1]僕の言葉に、先輩はぴくりと目を見開かせた。[p]
+[mask time=300]
+[hide time=0][haruyahide time=0]
+[bg2 storage="jutakugai.jpg" width=1920 height=1080 top=-360 left=0 time=0 wait=false]
+[wait time=200]
+[camera time=30000 x=360 y=360 ease_type=linear wait=false]
+[mask_off time=300]
 近頃世間を賑わせている、惨殺事件。[p]全国各地でまばらに事件が起きており、[r]その屍体は見るも無残に破壊されていて、[r]身体の一部が見つからないなどはザラだという。[p]
 犯人は未だ捕まっておらず、また範囲が全国に散らばるものだから[r]犯人の足取りも掴めない。[p]
 昨日は北の果て、今日は本州の南端なんてのは当たり前。[r]その怪事件っぷりに複数犯の可能性も挙げられるぐらいだ。[p]
+[mask time=300]
+[bg2  storage="busitu.jpg"  width=1920 height=1080 left=-430 top=-150 time=0]
+[yukino1 time=0][haruya time=0]
+[reset_camera time=0]
+[wait time=200]
+[mask_off time=300]
 #春也
 「これはあくまで確認なんですけど。[r]　今って絶対安全とは言い切れない状況じゃないですか。[r]　でも、行くってことで、いいんですよね」[p]
 

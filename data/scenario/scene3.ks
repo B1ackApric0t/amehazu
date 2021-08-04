@@ -12,7 +12,7 @@
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
 [wait time="500"]
 [bg2 storage="class.jpg" time="0"]
 [layopt layer=1 visible=true]
@@ -120,7 +120,7 @@
 ……放っておいても拡散していきそうだ。[r]望むと望まずとに関わらず。[p]
 #？？
 「こうやって、街の景色を眺めているとさ」[p]
-[bg2 storage="classwindow.jpg" time="1000" method="fadeInLeft"]
+[bg2 storage="classwindow.png" time="1000" method="fadeInLeft"]
 #
 言いつつ相手は、くるりと背中を窓辺にもたせかけた。[p]
 #？？
@@ -264,4 +264,9 @@
 今も僕は、先輩の後ろについていっている。[r]きっと直接触れることはなくても、それでも僕たちは、遠くへ行くのだ。[p]
 ベッドの中。[r]胸の中で散らばってうずうずしていたものが、まとまって固まっていく。
 [p]決意にも似た安心感とともに、僕は眠りに落ちていく。[p]
+
+[mask time="1000" effect="fadeInDown"]
+[bg2 storage="bus.png" time="0"]
+[wait time="700"]
+[mask_off time="1000" effect="fadeOutUp"]
 @jump storage="scene4.ks" target=*start
