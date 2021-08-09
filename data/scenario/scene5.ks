@@ -7,17 +7,17 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
+[bg2 storage="busitu.jpg" time=0]
+[wait time=500]
+[mask_off time=700]
 
 *start
-[mask time="700"]
-[wait time=500]
-[bg2 storage="busitu.jpg" time="0"]
-[mask_off time="700"]
 #
 翌日。放課後。[p]
 ひとり部室で待ってみたものの、先輩がやってくる気配はない。[p]
@@ -47,7 +47,7 @@
 ;（帰路）
 [clearfix name="role_button"]
 @layopt layer="message" visible=false
-[bg2 storage="town.jpg" time=1000 cross=true wait=true]
+[bg2 storage="michi.png" time=1000 cross=true wait=true]
 @layopt layer="message" visible=true
 [button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 

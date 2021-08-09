@@ -18,7 +18,7 @@
 
 [html]
 <div id="tl">
-<img class="img_title" src="data/bgimage/main.png" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
+<img class="img_title" src="data/bgimage/title.png" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
 
 ;<div class="container">
 ;  <div class="rains">
@@ -46,7 +46,7 @@
 </div>
 
 
-<img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;">
+<img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;cursor:pointer;" class="jumpHP">
 <img src="data/fgimage/title_logo.png" style="left:880px;top:440px;position:absolute;">
 </div>
 
@@ -63,6 +63,7 @@ $('#title_load').click(function(){tyrano.plugin.kag.ftag.startTag("showload")});
 $('#title_config').click(function(){tyrano.plugin.kag.ftag.startTag("showconfig")});
 $('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"cg.ks",target:"start"})});
 $('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close")});
+$('.jumpHP').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"HP"})});
 
 $('#tl').mousemove(function(e){
   if(e.pageX > 640){
@@ -89,5 +90,13 @@ $('#tl').mousemove(function(e){
 [wait time=1500]
 
 @jump storage="scene1.ks"
+
+*HP
+[iscript]
+window.open("https://d10rama.com/");
+[endscript]
+@jump target=title
+[cm]
+[s]
 
 

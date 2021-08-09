@@ -25,7 +25,7 @@
 #
 「相合傘って」[p]
 [M1]
-[bg2 storage="tonari.png" time=1000 ]
+[bg2 storage="tonarib.png" time=1000 ]
 #先輩
 「濡れてるほうが惚れてるって言うね」[p]
 #春也
@@ -39,14 +39,18 @@
 ひとつの傘にふたりは狭い。[r]気を付けていても幾度となく肩や腕が触れてしまう。[p]
 非常に困ったことだ。[p]
 「うお。春也……」[p]
+[bg2 storage="tonarimono.png" time=0 cross=false wait=false]
 ……今僕をちらりと見て去ったのは、クラスメイトの男子だ。[r]自転車に雨合羽。梅雨時の制服みたいな出で立ちだった。[p]
+[bg2 storage="tonarib.png" time=0 cross=false wait=false]
 #先輩
 「知り合いかい？」[p]
 #春也
 「クラスの人ですよ。知り合いというか、本当に知っているだけというか」[p]
+[bg2 storage="tonarik.png" time=0 cross=false wait=false]
 #先輩
 「ふむ」[p]
 #
+[bg2 storage="tonarib.png" time=0 cross=false wait=false]
 去っていく合羽の背中を眺めながら、先輩は何やらにやにや笑い出した。[p]
 #先輩
 「ちょうどいいね」[p]
@@ -64,11 +68,14 @@
 「うん。足りるね」[p]
 #春也
 「何にですか。二ヶ月後……八月。夏休み？[r]　えっ夏休みに噂持ち込んで何する気ですか」[p]
+#
+[bg2 storage="tonarik.png" time=0 cross=false wait=false]
 #先輩
 「何しようかなあ」[p]
 #春也
 「何もしないでくれません？」[p]
 #
+[bg2 storage="tonarib.png" time=0 cross=false wait=false]
 軽く笑って先輩は、善処するよ、とだけ答えた。[p]たぶん今の僕の目つきは梅雨の湿気に負けないぐらいじっとりしていると思う。[p]
 先輩の真っ黒な長髪が、雨に濡れて艶を放っていた。[p]
 烏の濡羽色なんて言うけれど、あれは要するに先輩の髪の色だ。[r]白い肌によく映える黒々とした瞳が、長いまつげの奥に覗いている。[p]
@@ -100,10 +107,14 @@
 「泣いていてもバレないよ」[p]
 #春也
 「…………はい？」[p]
+#
+[bg2 storage="tonarik.png" time=0 cross=false wait=false]
 #先輩
 「おや？　これは冗談の加減を間違えたかな？」[p]
 #春也
 「……今俺泣きたいぐらいうんざりしてます」[p]
+#
+[bg2 storage="tonarib.png" time=0 cross=false wait=false]
 #先輩
 「傘持っててあげようか？」[p]
 #春也
