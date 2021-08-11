@@ -300,4 +300,8 @@
 明日が来なければいいと思った。[r]僕は目を閉じて、どうしようもない考え事を頭の中から必死に追い払った。[p]
 暗闇で満ちていく頭の中。先輩の姿が最後に残っていた。[p]
 それだけはどうやっても消えなかった。[p]
+[mask time="700"]
+[wait time="500"]
+[bg2 storage="busitu.jpg" time="0"]
+[mask_off time="700"]
 @jump storage="scene7.ks" target=*start

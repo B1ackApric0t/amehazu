@@ -7,27 +7,30 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
-[bg2 storage="ajisai.jpg" time=500]
+[bg2 storage="ajisai_rain.png" time=500]
+[mask_off time=500]
 
 *scene9
 #
 沈黙の中、僕たちは雨に降られていた。[r]しばらくして先輩のほうを振り向こうとしたとき、[r]先輩に優しく抱きしめられた。[p]
 僕は驚いて、迷いながらも、抱き返した。[r]お互いびしょびしょに濡れていて、それだけに先輩の暖かさが肌に伝わってくる。[p]
+[yukino]
 #先輩
 「春也くん」[p]
 #春也
 「はい」[p]
 #先輩
-「よかった……」[p]
+[yukino/13]「よかった……」[p]
 #春也
 「はい。先輩も」[p]
 #先輩
-「うん」[p]
+[yukino/7]「うん」[p]
 #春也
 「よかったです。先輩……」[p]
 #
@@ -45,12 +48,12 @@
 #春也
 「お付き合いしますよ」[p]
 #先輩
-「当たり前。君は私の後輩なのだから」[p]
+[yukino/2]「当たり前。君は私の後輩なのだから」[p]
 #
 ――そうだ。これでいいんだ。[p]
 これが僕たちの距離感なんだ。[p]
 #先輩
-「ひとまずあじさい園は出ないと、[r]　春也くんが帰れなくなってしまうからな」[p]
+[yukino/8]「ひとまずあじさい園は出ないと、[r]　春也くんが帰れなくなってしまうからな」[p]
 #春也
 「それは困りますね」[p]
 #先輩
@@ -58,7 +61,7 @@
 #
 僕が掲げた傘の下に、びしょぬれの先輩が入ってくる。[r]そして言った。[p]
 #先輩
-「一緒に帰ろう。相合傘でさ」[p]
+[yukino/2]「一緒に帰ろう。相合傘でさ」[p]
 #春也
 「そうですね。そうしましょう」[p]
 #
@@ -66,6 +69,7 @@
 先輩がその姿を妖へと変ずる。[r]軽く僕を抱きかかえて、赤い羽が闇にきらめく。[p]
 
 [mask time=700 effect="fadeInUp"]
+[hide time=0]
 [bg2 storage="entrance.jpg" time="0"]
 [wait time=500]
 [mask_off time=700 effect="fadeOutDown"]
@@ -74,45 +78,50 @@
 赤い羽が闇にさらりと溶けた。[r]先輩の羽で飛び立った僕たちは、しばらくの夜間飛行を経てここに降りた。[p]
 僕たちの高校。すでに閉じた校門の前だ。[p]
 僕たちはこれから帰るのだ。長いようで一瞬だった、この旅路から。[p]
+[yukino1]
 #先輩
-[yukino1]「……」[p]
+「……」[p]
 #
 先輩は校門から夜の校舎を眺めていた。[r]僕はその横で、じっと先輩の顔を見つめていた。[p]
 卒業するんだ、と僕は思った。[p]
 #先輩
-「……ごめん。待たせてしまったね。行こうか」[p]
+[yukino/7]「……ごめん。待たせてしまったね。行こうか」[p]
 #春也
 「もういいんですか？」[p]
 #先輩
-「うん」[p]
+[yukino/10]「うん」[p]
 #
 先輩がうなずいた。[p]
 #先輩
-「行こう。行かなきゃ」[p]
+[yukino/7]「行こう。行かなきゃ」[p]
 [chara_hide name="yukino"]
 #
 僕たちは校舎に背を向ける。[r]僕が少し早く、先輩は少し遅れて。[p]
 そして僕たちは、最後の帰路につき始めた。[p]
 
 [mask time=500 effect="fadeInLeft"]
-[bg2 storage="tonari.png" time="0"]
+[bg2 storage="tonarib_n.png" time="0"]
 [wait time=500]
 [mask_off time=500 effect="fadeOutRight"]
 
 #春也
 「どうでした？　高校生活」[p]
+[bg2 storage="tonarik_n.png" time=0 cross=false wait=false]
 #先輩
 「んー。色々悔いは残るけど、[r]　こうして振り返ってみると悪くなかったなあと思う」[p]
 #春也
 「好きな行事とかありました？」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 #先輩
 「そうだな。やっぱり文化祭とか体育祭はいいね。[r]　賑やかで、その場にいるだけでだいぶ面白い」[p]
 #春也
 「先輩って運動できるんですか？」[p]
+[bg2 storage="tonarik_n.png" time=0 cross=false wait=false]
 #先輩
 「できる……んじゃないかなあ。普通の人間とは感覚も体の出来も違う」[p]
 #春也
 「ああ……なんか。ずるいですね？」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 #先輩
 「だいぶ期限の短い体だもの、それくらいは許してほしいね。春也くんは？」[p]
 #春也
@@ -121,15 +130,19 @@
 「私もインドアな妖だったけどね」[p]
 #春也
 「先輩って、元の世界でどんな風に暮らしてたんですか？」[p]
+[bg2 storage="tonarime_n.png" time=0 cross=false wait=false]
 #先輩
 「あまりいいものじゃないよ。虫かごに入れられてるみたいなものさ。」[p]
 「限られた空間で、定められた手順を踏んで一日を暮らしていく。[r]　その運行の滞りないことが、私の家にとって何より価値あることだったんだ。」[p]
 「別にその是非を論じたってしょうがないけど、[r]　私にはどうしても合わなかった。」[p]
+[bg2 storage="tonarik_n.png" time=0 cross=false wait=false]
 「……出来の悪い娘で、本当に申し訳ないとは思うんだけど」[p]
 #春也
 「……僕なんかが、あまり家のことに口を挟むべきじゃないんでしょうけど。」[p]
 「そこは出来云々じゃなくて、[r]　やっぱり単に合わなかったってだけじゃないでしょうか。」[p]
+[bg2 storage="tonarime_n.png" time=0 cross=false wait=false]
 「それで先輩は僕たちのところに来たんですし、そういう好奇心旺盛だったり[r]　革新的なところがいいって人もいるはずじゃないですか」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 #先輩
 「君が言うと説得力が違うね」[p]
 #春也
@@ -139,10 +152,12 @@
 #春也
 「いいですけど。だから……先輩の世界にも、そういう先輩を評価したり、[r]　受け入れてくれる人がきっといるんじゃないでしょうか。」[p]
 「……僕はその世界のこと知らないので、[r]　的外れなことを言ってたら申し訳ないんですが」[p]
+[bg2 storage="tonarime_n.png" time=0 cross=false wait=false]
 #先輩
 「…………ううん。ありがとう。」[p]
 「……もしかしたら私、自分の世界のことすらよく知らずに、[r]　ここに来てしまったのかもしれないな。」[p]
 「……生きたいなあ。もっと良い生き方をしてみたい。」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 「……春也くんは？　[r]　私と別れた後、春也くんはどんな風に暮らしていくんだい？」[p]
 #春也
 「さあ……あんまり想像つかないです。」[p]
@@ -153,9 +168,11 @@
 「来ないよ。私は来ない」[p]
 #春也
 「……ですよね」[p]
+[bg2 storage="tonarime_n.png" time=0 cross=false wait=false]
 #先輩
 「だから……」[p]
 「私はいまが一番大事……」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 「ね、春也くん」[p]
 #春也
 「はい」[p]
@@ -174,7 +191,9 @@
 「なんですか。なんですかそのリアクションは」[p]
 #先輩
 「なんでもないよ。なんでもないのにさ、すごいなあと。ふふ……」[p]
+[bg2 storage="tonarik_n.png" time=0 cross=false wait=false]
 「はぁ。もっと早くから名前呼びしてもらったらよかった」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 「あーでもこれなんか恥ずかしいからダメだな。[r]　というかまず春也くんがもたないねこれは。」[p]
 「私は春也くんの先輩だからわかるけど君はこれには一時間と耐えられないね。[r]　やっぱり私が向こうに帰るその直前だからなんとかもってるやつだ。」[p]
 「ああなんか饒舌になってしまうなあ、[r]　人間のとき名前で呼ばれると饒舌になってしまうのかな私は」[p]
@@ -184,6 +203,7 @@
 「はいはい」[p]
 #春也
 「行かないでくださいよ……」[p]
+[bg2 storage="tonarime_n.png" time=0 cross=false wait=false]
 #先輩
 「…………」[p]
 #春也
@@ -194,6 +214,7 @@
 「一生忘れない。一生」[p]
 #春也
 「……はい。一生」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 #先輩
 「ねえ、春也くん。最後にひとつ言わせて」[p]
 #春也
@@ -222,8 +243,10 @@
 「会いたいよ。でもそれ以上はなにも言えない」[p]
 #春也
 「……そうですか」[p]
+[bg2 storage="tonarik_n.png" time=0 cross=false wait=false]
 #先輩
 「でもまぁ、そうだね。」[p]
+[bg2 storage="tonarib_n.png" time=0 cross=false wait=false]
 「雨の日。雨の日だね。また来るとしたら」[p]
 #春也
 「雨の日？[r]　再会とか、喜ばしい事って晴れの日なイメージありますけど」[p]
@@ -240,7 +263,7 @@
 「僕が絶対傘を持って、迎えに行きますから……」[p]
 
 ;（雨音だけの間が欲しい）
-[bg2 storage="town.jpg" time="1000" cross=true wait=true]
+[bg2 storage="michi_rain.png" time="1000" cross=true wait=true]
 
 #
 降りしきる雨の音に、僕は隣を振り向いた。[p]

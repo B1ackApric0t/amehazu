@@ -7,18 +7,18 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
+[bg2 storage="busitu.jpg" time="0"]
+[wait time="500"]
+[mask_off time=500]
 
 *start
 [loadcss file="./data/others/css/next1.css"]
-[mask time="500"]
-[wait time="500"]
-[bg2 storage="busitu.jpg" time="0"]
-[mask_off time="500"]
 #
 翌日放課後。[r]部室の机に鞄を放り出すと、そのまま顔を突っ伏せた。[p]
 僕にはいつも通り学校があったけれど、集中なんかできるはずがない。[r]どうにか放課後までやり過ごしたといったところだ。[p]
@@ -162,7 +162,7 @@
 #先輩
 『……ごめん。もしかして私、ずっと変なこと言ってる？』[p]
 [mask time=300]
-[fkaisou][haruyahide time=0]
+[fkaisou][haruyahide time=0][hide time=0]
 [bg2 storage="black.png" time="300"]
 [mask_off time=300]
 #
@@ -473,12 +473,19 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [mask_off time="800"]
 
 部室を背にしながら、そういえばと僕は思い出す。[p]
-[bg2 storage="busitu.jpg" time="500" cross=true]
+[mask time=300]
+[kaisou]
+[buchohide time=0][yukino13 time=0]
+[bg2 storage="busitu.jpg" time="300"]
+[mask_off time=300]
 『僕が先輩なしでやっていけるのかって、そう言う先輩はどうなんですか。[r]うちの文芸部を出てって大丈夫なんですか？』[p]
 [yukino3]
 『私も卒業しなければならない』[p]
-[chara_hide name="yukino"]
-[bg2 storage="black.png" time="500" cross=true]
+[mask time=300]
+[fkaisou]
+[hide time=0]
+[bg2 storage="black.png" time="300"]
+[mask_off time=300]
 答えになっていない。違う、そもそも答えていない。[p]
 いや。[p]
 答えていないこと自体がアンサーだ。[p]
@@ -488,10 +495,10 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 僕が回答を決めたのではなくて、[r]あのときの回答がこれからの僕を決めるのだ。[p]
 僕たちは綺麗に終わる。今夜の雨が、そのための最後の関門だ。[p]
 
-[mask time="500"]
+[mask time="700"]
 [bg2 storage="genkan.jpg" time="0"]
 [wait time="500"]
-[mask_off time="500"]
+[mask_off time="700"]
 
 @jump storage="scene8A.ks"  target=*scene8
 

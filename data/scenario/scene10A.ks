@@ -7,12 +7,14 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
 [bg2 storage ="black.png" time=500]
+[mask_off time=500]
 
 *scene10
 #
@@ -31,7 +33,7 @@
 そして世界は元通りになった。[p]
 
 ただひとつの例外を除いて。[p]
-[image layer="2" page="back" storage="umbrella.png" width=800 left=240 top=40]
+[image layer="2" page="back" storage="smart.png" width=250 left=515 top=30]
 [trans_in layer="2" time=500 method="fadeInUp"]
 [wt]
 いつからか僕のスマートフォンには、覚えのない写真が入り込んでいた。[p]
@@ -46,7 +48,7 @@
 [wt]
 [mask time=500]
 [bg2 storage="busitu.jpg" time="0"]
-[bucho]
+[bucho storage="bucho/buchoc1.png" time=0]
 [wait time=500]
 [mask_off time=500]
 
@@ -63,8 +65,9 @@
 「部長」[p]
 #
 部室を去ろうとする部長の背中を、僕は思わず呼び止めた。[p]
+[bucho storage="bucho/buchoc1.png"]
 #部長
-[bucho]「はい？」[p]
+「はい？」[p]
 #
 なんだか改めてこんなことを言うのはこっぱずかしい気もしたけれど、[r]すでに引き留めてしまった以上、言わないわけにもいかなかった。[p]
 #春也
