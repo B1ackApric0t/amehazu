@@ -3,7 +3,6 @@
 @import url("./css/animate.css");
 @import url("./css/glink.css");
 
-
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
 form,fieldset,input,textarea,p,blockquote,th,td{
     padding:0;
@@ -217,8 +216,13 @@ abbr,acronym{
 /* コンフィグ画面 */
 
 .config_body{
-    color: #4A24E0;
+	position:absolute;
+	top:200px;
+	left:365px;
+	width:40px;
 	transform: translateZ(0);
+	font-family:applimincho;
+	font-size:26pt;
 }
 
 input[type="range"]{
@@ -227,7 +231,7 @@ input[type="range"]{
     cursor: pointer; /* カーソルを分かりやすく */
     outline: none; /* スライダーのアウトラインは見た目がキツイので消す */
     height: 3px; /* バーの高さ */
-    width: 290px; /* バーの幅 */
+    width: 450px; /* バーの幅 */
     margin-left: 50px;
     background: #000000; /* バーの背景色 */
     border-radius: 10px; /* バーの両端の丸み */
@@ -247,7 +251,7 @@ input[type="range"]::-webkit-slider-thumb {
 .unread_area {
   position       : relative;            /* 親要素が基点       */
   margin         : auto;                /* 中央寄せ           */
-  width          : 250px;               /* ボタンの横幅       */
+  width          : 400px;               /* ボタンの横幅       */
   height         : 60px;                /* ボタンの高さ       */
 }
  
@@ -258,8 +262,6 @@ input[type="range"]::-webkit-slider-thumb {
  
  /* === ラジオボタンのラベル（標準） ======================== */
 .unread_area label {
-  display        : block;               /* ボックス要素に変更 */
-  position       : absolute;            /* 親要素からの相対位置*/
   top            : 0;                   /* 標準表示位置(上)   */
   bottom         : 0;                   /* 標準表示位置(下)   */
   left           : 0;                   /* 標準表示位置(左)   */
@@ -270,27 +272,65 @@ input[type="range"]::-webkit-slider-thumb {
   font-weight    : bold;                /* 太字               */
 }
  
- /* === ON側のラジオボタンのラベル（標準） ================== */
-.unread_area #unreadon + label {
-  right          : 50%;                 /* 右端を中央に変更   */
-  border-radius  : 6px 0 0 6px;         /* 角丸(左側の上下)   */
-  color          : #000000;                /* 文字色             */
+.checkbox {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    padding: 25px 40px;
+    position: relative;
+    width: auto;
+    cursor:pointer;
 }
- 
- /* === ON側のラジオボタンのラベル（ONのとき） ============== */
-.unread_area #unreadon:checked +label {
-  color          : #ffffff;                /* 文字色             */
+.c1:before {
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 50%;
+    content: '';
+    display: block;
+    height: 40px;
+    left: -105px;
+    position: absolute;
+    top: 5px;
+    width: 40px;
 }
- 
- /* === OFF側のラジオボタンのラベル（標準） ================ */
-.unread_area #unreadoff + label {
-  left           : 50%;                 /* 左端を中央に変更   */
-  color          : #000000;                /* 文字色             */
+.c1:after {
+    background: #000;
+    border-radius: 50%;
+    content: '';
+    display: block;
+    height: 28px;
+    left: -98.5px;
+    opacity: 0;
+    position: absolute;
+    top: 12px;
+    width: 28px;
 }
- 
- /* === OFF側のラジオボタンのラベル（OFFのとき） ============= */
-.unread_area #unreadoff:checked +label {
-    color: #ffffff;                /* 文字色             */
+.c2:before {
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 50%;
+    content: '';
+    display: block;
+    height: 40px;
+    left: -50px;
+    position: absolute;
+    top: 5px;
+    width: 40px;
+}
+.c2:after {
+    background: #000;
+    border-radius: 50%;
+    content: '';
+    display: block;
+    height: 28px;
+    left: -43px;
+    opacity: 0;
+    position: absolute;
+    top: 12px;
+    width: 28px;
+}
+input[type=radio]:checked + .checkbox:after {
+    opacity: 1;
 }
 
 .config_back:before {
@@ -674,46 +714,32 @@ body{
   display: block;
 }
 
-.music_back {
-	margin: 0;
-	padding: 0;
-	width: 220px;
-    height: 100px;
-    color: #808080;
-	border-radius: 1em;
-	border: 2.5px solid #808080;
-	transition: transform 0.2s ease 0s;
+/*音楽*/
+audio {
+  display: none
 }
-
-.music_back:hover{
-	background-color: #808080;
-	color: #FFF;
+#play{
+  cursor:pointer;
 }
-
-
-#hitoyane:hover{
-	color: #666666;
+#stop {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  margin: 1em;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 60px;
+  cursor: pointer;
 }
-#anone:hover{
-	color: #666666;
+#stop:hover {
+  background: #eee;
 }
-#nanikao:hover{
-	color: #666666;
+#time {
+  margin: 0 1em;
 }
-#ho:hover{
-	color: #666666;
-}
-#sonna:hover{
-	color: #666666;
-}
-#moyamoya:hover{
-	color: #666666;
-}
-#epi:hover{
-	color: #666666;
-}
-#pro:hover{
-	color: #666666;
+#current, #duration {
+  padding: 0;
+  margin: .2em;
 }
 
 
@@ -737,7 +763,7 @@ body{
 .tabs{
   width:50%;
   position:absolute;
-  top:150px;
+  top:120px;
   left:320px;
 }
 .tab-buttons span{
@@ -751,7 +777,7 @@ body{
   text-align:center;
   height:45px;
   line-height:40px;
-  margin: -5px 10px 10px 10px;
+  margin: -15px 10px 10px 10px;
 }
 .tab-buttons span:hover{
 	background-color: rgba(255, 255, 254,0.55);
@@ -834,10 +860,11 @@ body{
 	padding-left:5px; 
 	font-size:20px;
 	font-family:applimincho;
-	margin-bottom:13px;
+	margin-bottom:17px;
 	border-left: solid rgba(0, 0, 0,0);
 	border-width:4px;
 	cursor:pointer;
+	transition: .3s;
 }
 
 #chapter1{

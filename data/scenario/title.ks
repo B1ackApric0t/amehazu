@@ -47,12 +47,12 @@
 
 
 <img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;cursor:pointer;" class="jumpHP">
-<img src="data/fgimage/title_logo.png" style="left:880px;top:440px;position:absolute;">
+<img src="data/fgimage/title_logo.png" style="left:860px;top:440px;position:absolute;">
 </div>
 
 <style>
 .img_title{
-  transition: transform 0.2s, top, 0.5s, left 0.5s;
+  transition: transform 0.2s, top, 0.4s, left 0.4s;
   transition-timing-function: ease-out;
 }
 </style>

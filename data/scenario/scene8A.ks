@@ -7,13 +7,14 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
-
+[role]
 [bg2 storage="genkan.jpg" time="500"]
+[mask_off time=500]
 
 
 *scene8
@@ -79,7 +80,7 @@
 
 ;◆暗転、場転
 [mask time="500"]
-;[image layer="base" storage="ajisai_rain.png" page=back wait=false]
+;[image layer="base" storage="ajisairain.png" page=back wait=false]
 ;[filter layer="base" page="back" blur="5px"]
 [wait time="700"]
 [mask_off time="500"]
@@ -96,7 +97,7 @@
 #
 またも響く重低音に体がしびれる。[p]
 雨妖の声に全身が包まれているような感覚と、[r]ぶよぶよして揺れ動く地面の生ぬるい感触から、[r]僕は自分が置かれた状況をおぼろげながらも推察できた。[p]
-[bg2 storage="ajisai_rain.png" cross=true wait=true]
+[bg2 storage="ajisairain.png" cross=true wait=true]
 ;[trans layer="base" time="500"]
 ;[wt]
 ここは雨妖の口の中だ。目が暗闇に慣れるとともに、[r]物々しい歯列が視界の上下を縁取っているのに気付く。[p]
@@ -218,18 +219,18 @@
 [hide time=0]
 [bg2 storage="white.jpg" time="0"]
 [wait time=500]
-[mask_off time=500]
 #
+[mask_off time=500]
 僕には見えた。[p]
 白く輝く指先が、先輩の体に光の筋を刻む。[r]そこから白い光が、堰を切ったようにあふれ出す。[p]
 ――そんな未来が、僕の目には確かに見えた。[p]
 待ち望んだ瞬間の到来。先輩が見せた諦念。悲願成就の時。[p]
 そして不意の脱出。[p]
-人間風情の僕が雨妖の隙を突けたのは、そういった要因が重なったからだろう。[p]
+人間風情の僕が雨妖の隙を突けたのは、[r]そういった要因が重なったからだろう。[p]
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 [mask time=500 color="0xFFFFFF"]
 [yukino9 time=0]
-[bg2 storage="ajisai_rain.png" time="500" cross=true wait=true]
+[bg2 storage="ajisairain.png" time="500" cross=true wait=true]
 [mask_off time=500]
 #春也
 「それだけは、駄目なんです！！」[p]
@@ -248,10 +249,10 @@
 #
 雨妖に喰われる寸前に、それだけは言い残すことが出来た。[p]
 
-[mask time=500 effect="fadeInDownBig"]
+[mask time=800 effect="fadeInDownBig"]
 [bg2 storage="black.png" time="0"]
-[wait time=500]
-[mask_off time=500]
+[wait time=800]
+[mask_off time=800]
 
 #
 雨妖の体内は真っ黒な水で満たされていた。[r]さながら流れの激しい夜の海を漂流するように、[r]僕は化け鮫の内部を漂っていた。[p]
@@ -260,15 +261,16 @@
 果たして僕の言葉に、どれほどの意味があっただろうか？　[r]ただ生きろと言われたことが、先輩にとってどんな意味を持ちうるのか？[p]
 わからない。水は激しく渦を巻いている。[r]噛み潰さなかったということは、まだ僕を人質として使う気があるのか……？[p]
 わからない。何もわからなくなってくる。[r]息苦しさの中で、場違いな浮遊感に意識が染まり始める。[p]
+[M1]
 [bg2 storage="inthedark.png" time="500" cross=true wait=true]
 ――闇の中に何かが見えた。それは白い光だった。[p]
 それは。[p]
 それは、きっと先輩の手に違いなかった。闇の中ではっきり感じた。[p]
 それは視界を下に外れる。そのまま僕の体を抱きかかえ、ぐっと引き上げた。[p]
-[mask time=500 color="0xffffff"]
+[mask time=800 color="0xffffff"]
 [bg2 storage="vsuyo.png" time="0"]
-[wait time=800]
-[mask_off time=500]
+[wait time=500]
+[mask_off time=800]
 ざばんと空気に体が浮く。そのまま僕たちは空を飛んでいた。[p]
 下を見れば雨妖が悶えながら地面を泳いでいる。[r]その背中の一端からはどす黒い水が吹き出ていた。[r]どうやら穴を空けられたらしい。[p]
 #春也
@@ -311,7 +313,7 @@
 #先輩
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
 [mask time=500 color="0xffffff"]
-[bg2 storage="ajisai_rain.png" time="0"]
+[bg2 storage="ajisairain.png" time="0"]
 [wait time=500]
 [mask_off time=500]
 #

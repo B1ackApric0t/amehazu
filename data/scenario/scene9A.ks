@@ -12,15 +12,15 @@
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
-[bg2 storage="ajisai_rain.png" time=500]
+[role]
+[bg2 storage="ajisairain.png" time=500]
 [mask_off time=500]
 
 *scene9
 #
 沈黙の中、僕たちは雨に降られていた。[r]しばらくして先輩のほうを振り向こうとしたとき、[r]先輩に優しく抱きしめられた。[p]
 僕は驚いて、迷いながらも、抱き返した。[r]お互いびしょびしょに濡れていて、それだけに先輩の暖かさが肌に伝わってくる。[p]
-[yukino]
+[yukino1]
 #先輩
 「春也くん」[p]
 #春也
@@ -100,6 +100,7 @@
 そして僕たちは、最後の帰路につき始めた。[p]
 
 [mask time=500 effect="fadeInLeft"]
+[M1]
 [bg2 storage="tonarib_n.png" time="0"]
 [wait time=500]
 [mask_off time=500 effect="fadeOutRight"]
@@ -283,6 +284,7 @@
 手が届きそうなほど遠い夜。[p]
 
 [mask time="700"]
+[M0]
 [bg2 storage="black.png" time="0"]
 [wait time="800"]
 [mask_off time="700"]

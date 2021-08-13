@@ -8,19 +8,18 @@
 @clearfix
 [cm]
 
-
 [html]
 <div class="fadein">
 <img src="data/bgimage/gallery_bg.png" style="z-index:-10;">
-<div class="cg_back" style="left:50px;top:670px;position:absolute;cursor:pointer;z-index:10;">
+<div class="cg_back" style="left:50px;top:650px;position:absolute;cursor:pointer;z-index:10;">
 	<img src="data/fgimage/back_system.png" alt="" class="non">
 </div>
 
 <div class='tabs'>
   <div class='tab-buttons'>
-    <span class='content1' style="margin-left:105px;">章選択</span>
-    <span class='content2'>画廊</span>
-    <span class='content3'>音楽</span>
+    <span class='content1' style="margin-left:105px;padding-top:10px;transition: .3s;">章選択</span>
+    <span class='content2' style="padding-top:10px;transition: .3s;">画廊</span>
+    <span class='content3' style="padding-top:10px;transition: .3s;">音楽</span>
     <div id='lamp' class='content1 lamp'></div>
   </div>
   <div class='tab-content'>
@@ -30,7 +29,7 @@
       <div id="chaptertitle">場面1. 相合傘</div>
       <div id="summary">ふたりでひとつの傘に入りながら、ともに帰路を歩む春也と先輩。やがて先輩と別れひとりになる春也だったが、その背後には巨大な魚影が忍び寄っていた。</div>
       <div class="chapterchoice">
-        <div id="chapter1" class="chap">場面1.相合傘</div>
+        <div id="chapter1" class="chap" style="transition: .3s;">場面1.相合傘</div>
         <div id="chapter2" class="chap">場面2.約束</div>
         <div id="chapter3" class="chap">場面3.回想／邂逅</div>
         <div id="chapter4" class="chap">場面4.あじさい園</div>
@@ -55,10 +54,10 @@
       <div style="float:left;position:absolute;top:-10px;left:40px;">
         <img src="data/bgimage/tonari.png" style="width:240px;" class="cg" id="tonari">
         <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/hug1.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/hug2.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/tonari.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/assault.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/tekubi.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/inthedark.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/vsuyo.png" style="width:240px;" class="cg">
         <img src="data/bgimage/hug1.png" style="width:240px;" class="cg">
         <img src="data/bgimage/hug2.png" style="width:240px;" class="cg">
         <img src="data/bgimage/tonari.png" style="width:240px;" class="cg">
@@ -66,11 +65,22 @@
       </div>
     </div>
     
-    <div class='content3'>音楽</div>
+    <div class='content3'>
+      <audio src="data/bgm/BGM1.ogg" id="audiotag"></audio>
+      <div id="play"><img src="data/image/music3.png" style="position:absolute;left:780px;top:300px;" ></div>
+	  <div id="stop">Stop</div>
+	  <div id="time">
+  		<span id="current">00:00</span>
+		<span id="duration">00:00</span>
+	  </div>
+	  <img src="data/image/music1.png" style="position:absolute;left:670px;top:10px;" >
+    </div>
     
   </div>
   <img src="data/bgimage/tonari.png" class="cgbig" id="tonari1">
 </div>
+
+
 
 <script>
 $('#tonari').click(function(){$('#tonari1').css('visibility','visible')});
@@ -80,7 +90,6 @@ $('#tonari1').click(function(){$('#tonari1').css('visibility','hidden')});
 <script>
 $('.cg_back').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"backtitle"})});
 </script>
-
 
 <script>
 var $chapters = $("#chapter1,#chapter2,#chapter3,#chapter4,#chapter5,#chapter6,#chapter7,#chapter8A,#chapter9A,#chapter10A,#chapter8B,#chapter9B,#chapter10B,#chapterEX");
@@ -229,6 +238,8 @@ $('.tab-content>div').first().slideDown();
   });
 </script>
 [endhtml]
+
+[loadjs storage="music.js"]
 [s]
 
 

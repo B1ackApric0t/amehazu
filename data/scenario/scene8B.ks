@@ -7,12 +7,14 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
 [bg2 storage ="black.png" time=500]
+[mask_off time=500]
 
 *scene8
 #
@@ -44,7 +46,7 @@
 「空ですか？」[p]
 #先輩
 「一生に一度の見物だよ。見逃さないように」[p]
-[bg2 storage="sky.jpg" time=500 cross=true wait=true]
+[bg2 storage="sky.png" time=500 cross=true wait=true]
 #
 僕は念のため部屋の電気を消すと、カーテンを開けて窓を開いた。[r]真っ黒な雲が夜の闇と一体になって、その最中に雨音だけが響いている。[p]
 #先輩
@@ -61,7 +63,7 @@
 その光は少しずつ膨張していく。[r]そして夜空の月ぐらいの大きさになったかと思うと、[r]一気に凝縮して光は点となった。[p]
 なおも空の動静を見守っていた。するとその瞬間だった。[p]
 [mask time=400 color=0xffffff]
-[bg2 storage="moon.jpg" time="0"]
+[bg2 storage="moon.png" time="0"]
 [wait time=700]
 [mask_off time=400]
 空の一点から全天に向けて、まばゆい光が輪のように広がり駆け抜けていく。[r]まるで星の爆発だった。[p]
@@ -302,7 +304,7 @@
 #
 先輩が僕を抱き上げる。僕は先輩に身を任せる。[r]ふわりと体が宙に浮いて、じきに目線が民家の屋根を越した。[p]
 [mask time=500 effct="fadeInUp"]
-[bg2 storage="jutakugai.jpg" time="0"]
+[bg2 storage="jutakugai.png" time="0"]
 [wait time=500]
 [mask_off time=500 effct="fadeOutUp"]
 #先輩

@@ -3,27 +3,20 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[fadeinbgm storage=rain_kasa.mp3 loop=true time=3000]
 [mask time=500]
-[bg storage="black.png" time="500"]
-
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
-
-;メッセージウィンドウ
+[bg storage="black.png" time="1000"]
+[role]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
-
-
 @layopt layer=message0 visible=true
-
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
-
-[mask_off time=500]
+[mask_off time=1000]
 
 *scene1
-;◆雨音が聞こえ始める。→【雨音】が欲しい。SE？　BGM？
-
 #
 「相合傘って」[p]
+[fadeoutbgm time=3000]
 [M1]
 [bg2 storage="tonarib.png" time=1000 ]
 #先輩
@@ -127,7 +120,7 @@
 だからここが別れの場所だ。[p]
 
 [M0]
-[bg2 storage="michi.png" time=700 cross=true wait=false]
+[bg2 storage="michi_rain.png" time=700 cross=true wait=false]
 [haruya]
 [ynear storage="yukino/tatie7.png" time=500]
 [wait time=500]
@@ -191,7 +184,7 @@
 [mask time="1500"]
 [wait time="1500"]
 [anim layer="message0" opacity=255 time="0"]
-[bg2 storage="busitu.jpg" time="0"]
+[bg2 storage="busiturain.jpg" time="0"]
 [role]
 [mask_off time="500"]
 

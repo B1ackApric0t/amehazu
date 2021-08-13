@@ -7,17 +7,16 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
+[bg2 storage="black.png" time="500"]
+[mask_off time=500]
 
 *start
-[mask time="700"]
-[wait time="700"]
-[bg2 storage="black.png" time="0"]
-[mask_off time="700"]
 #？？
 『今宵、雨が降る』[p]
 
@@ -302,6 +301,6 @@
 それだけはどうやっても消えなかった。[p]
 [mask time="700"]
 [wait time="500"]
-[bg2 storage="busitu.jpg" time="0"]
+[bg2 storage="busiturain.png" time="0"]
 [mask_off time="700"]
 @jump storage="scene7.ks" target=*start

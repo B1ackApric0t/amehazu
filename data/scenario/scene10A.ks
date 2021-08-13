@@ -47,7 +47,7 @@
 [trans_out layer="2" time=500 method="fadeOutUp"]
 [wt]
 [mask time=500]
-[bg2 storage="busitu.jpg" time="0"]
+[bg2 storage="busitucolor.jpg" time="0"]
 [bucho storage="bucho/buchoc1.png" time=0]
 [wait time=500]
 [mask_off time=500]

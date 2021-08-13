@@ -14,7 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [wait time="500"]
-[bg2 storage="class.jpg" time="0"]
+[bg2 storage="class.png" time="0"]
 [layopt layer=1 visible=true]
 [image layer="1" storage="vignette.png" name="kaisou"]
 [mask_off time="500"]
@@ -22,6 +22,7 @@
 *start
 #
 『これより、部活動見学の時間に移ります。新入生の皆さんは――』[p]
+[fadeinbgm storage=noise.mp3 loop=true time=2000]
 校内放送とともに、クラスの人たちががやがやと廊下へ出ていく。[p]
 校内に声があふれ出す。人の流れ、勧誘の声、……にぎやかだ。[p]
 僕もひとまず流れに沿って廊下に抜け出す。[p]
@@ -37,8 +38,9 @@
 そのたび僕はいまいち煮え切らない曖昧な返事を返してしまう。[p]
 もっとさらりと、気軽い感じで断れたらいいのだろうけど。[r]相手にとって僕は人混みの切れ端に過ぎないのだろうけど。[p]
 人の波から逃れるように校内をさまよう。[p]
+[fadeoutbgm time=3000]
 [mask time=500 effect="fadeInRight"]
-[bg2 storage="class.jpg" time="0"]
+[bg2 storage="class.png" time="0"]
 [wait time=500]
 [mask_off time=500 effect="fadeOutLeft"]
 [wait time=500]
@@ -47,9 +49,10 @@
 そこだけは不思議と静謐に満たされていて、[r]勧誘の声も誰かの足音もまったく聞こえない。[p]
 誰もいないとはいえ、勝手に教室に入るのは緊張する。[r]僕はおそるおそる中に足を踏み入れた。[p]
 椅子や机が整然と並べられてひっそりしている。[r]どういうときに使う教室なんだろう？[p]
+[bg2 storage="window.png" time=1000 cross=true wait=true]
 僕は窓辺に身を寄せた。[p]
 街並みが遠くまで見渡せる。空の端が目に見える。[p]
-
+[haruya]
 #春也
 「……はあ」[p]
 #
@@ -58,7 +61,8 @@
 #？？
 「いい景色だ」[p]
 #
-[yukino2]
+[bg2 storage="class.png" time=0 cross=false wait=false]
+[yukino2 time=500]
 突然の声にぶんっと首が振り向いた。[r]いつの間にか隣に女の人が立っていた。[r]白い肌に真っ黒な長髪が印象的な、きれいな人だった。[p]
 いったいいつの間に？　[r]ドアは閉めておいたはずだ。[p]
 #？？
@@ -121,7 +125,9 @@
 ……放っておいても拡散していきそうだ。[r]望むと望まずとに関わらず。[p]
 #？？
 「こうやって、街の景色を眺めているとさ」[p]
-[bg2 storage="classwindow.png" time="1000" method="fadeInLeft"]
+[hide time=500 wait=false]
+[bg2 storage="window.png" time="1000" method="fadeInLeft"]
+[yukino2 top=30 width=1400]
 #
 言いつつ相手は、くるりと背中を窓辺にもたせかけた。[p]
 #？？
@@ -181,8 +187,8 @@
 [hide time=0][haruyahide time=0]
 [free name="kaisou" layer=1 ]
 [wait time=500]
-[mask_off time=500]
 #
+[mask_off time=500]
 ――なぜだろう？[p]
 そのときのことが、僕の脳裏に今でもはっきり焼き付いている。[p]
 僕はそのとき、窓を開けてほしかったのか？[p]
@@ -192,7 +198,7 @@
 ――[p]
 [mask time=500]
 [image layer="1" storage="vignette.png" name="kaisou"]
-[bg2  storage="class.jpg" time=0]
+[bg2  storage="class.png" time=0]
 [yukino7 time=0][haruya time=0]
 [wait time=500]
 [mask_off time=500]
@@ -222,7 +228,7 @@
 [mask time=500]
 [hide time=0]
 [bg2 storage="busitu.jpg" time=0]
-[yukino7 left=-80 time=0][bucho left=360]
+[yukino7 left=-80 time=0][bucho left=360 time=700]
 [mask_off time=500]
 扉は開かれた。[p]
 文芸部の部室は、[r]元々は物置のか何かだったかと思うぐらい狭い部屋だった。[p]
@@ -278,7 +284,7 @@
 [free name="kaisou" layer=1 ]
 [mask_off time="500"]
 
-[bg2 storage="bluesky.jpg" time="3000" method="fadeInUp" wait=true]
+[bg2 storage="bluesky.png" time="3000" method="fadeInUp" wait=true]
 [wait time=500]
 [mask time="1000"]
 [wait time="200"]

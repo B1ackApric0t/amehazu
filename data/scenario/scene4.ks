@@ -95,7 +95,7 @@
 
 [mask time="700"]
 [wait time="400"]
-[bg2 storage="ajisai.png" time="0" width=1600 left=-160 height=900]
+[bg2 storage="ajisairain.png" time="0" width=1600 left=-160 height=900]
 [mask_off time="700"]
 
 #
@@ -214,7 +214,7 @@
 #春也
 「先輩……？」[p]
 [M0]
-[bg2 storage="ajisai.png" time="900" width=1600 left=-160 height=900 top=-180 cross=true]
+[bg2 storage="ajisairain.png" time="900" width=1600 left=-160 height=900 top=-180 cross=true]
 #
 突然のことに頭が真っ白になる。[r]しかしすぐに僕は先輩のもとに駆け寄る。[p]
 
@@ -274,7 +274,7 @@
 #春也
 「……いえ。無事ならよかったです」[p]
 [M0]
-[bg2 storage="ajisai.png" time="1000" width=1600 left=-160 height=900 cross=true method="fadeInUp"]
+[bg2 storage="ajisairain.png" time="1000" width=1600 left=-160 height=900 cross=true method="fadeInUp"]
 [yukino7]
 #先輩
 「すまない、心配かけてしまって」[p]
@@ -306,7 +306,7 @@
 
 [mask time="700"]
 [wait time=500]
-[bg2 storage="busitu.jpg" time="0"]
+[bg2 storage="busiturain.jpg" time="0"]
 [mask_off time="700"]
 
 @jump storage="scene5.ks" target=*start
