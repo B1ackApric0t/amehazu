@@ -1,8 +1,4 @@
-
-;[cm]
-
 [fadeoutbgm time=10]
-
 
 *start
 
@@ -12,8 +8,6 @@
 
 @clearstack
 ;[playbgm storage="OP.ogg"]
-
-
 
 
 [html]
