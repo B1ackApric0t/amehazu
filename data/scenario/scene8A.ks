@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="genkan.jpg" time="500"]
+[bg2 storage="genkan.jpg" time="300"]
 [mask_off time=500]
 
 
@@ -80,7 +80,7 @@
 
 ;◆暗転、場転
 [mask time="500"]
-;[image layer="base" storage="ajisairain.png" page=back wait=false]
+;[image layer="base" storage="ajisairain.jpg" page=back wait=false]
 ;[filter layer="base" page="back" blur="5px"]
 [wait time="700"]
 [mask_off time="500"]
@@ -97,7 +97,7 @@
 #
 またも響く重低音に体がしびれる。[p]
 雨妖の声に全身が包まれているような感覚と、[r]ぶよぶよして揺れ動く地面の生ぬるい感触から、[r]僕は自分が置かれた状況をおぼろげながらも推察できた。[p]
-[bg2 storage="ajisairain.png" cross=true wait=true]
+[bg2 storage="ajisairain.jpg" cross=true wait=true]
 ;[trans layer="base" time="500"]
 ;[wt]
 ここは雨妖の口の中だ。目が暗闇に慣れるとともに、[r]物々しい歯列が視界の上下を縁取っているのに気付く。[p]
@@ -230,7 +230,7 @@
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 [mask time=500 color="0xFFFFFF"]
 [yukino9 time=0]
-[bg2 storage="ajisairain.png" time="500" cross=true wait=true]
+[bg2 storage="ajisairain.jpg" time="500" cross=true wait=true]
 [mask_off time=500]
 #春也
 「それだけは、駄目なんです！！」[p]
@@ -313,7 +313,7 @@
 #先輩
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
 [mask time=500 color="0xffffff"]
-[bg2 storage="ajisairain.png" time="0"]
+[bg2 storage="ajisairain.jpg" time="0"]
 [wait time=500]
 [mask_off time=500]
 #

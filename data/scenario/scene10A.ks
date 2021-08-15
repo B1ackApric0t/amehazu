@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage ="black.png" time=500]
+[bg2 storage ="black.png" time=300]
 [mask_off time=500]
 
 *scene10

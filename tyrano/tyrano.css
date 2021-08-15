@@ -298,8 +298,8 @@ input[type="range"]::-webkit-slider-thumb {
     border-radius: 50%;
     content: '';
     display: block;
-    height: 28px;
-    left: -98.5px;
+    height: 28.5px;
+    left: -98px;
     opacity: 0;
     position: absolute;
     top: 12px;
@@ -322,8 +322,8 @@ input[type="range"]::-webkit-slider-thumb {
     border-radius: 50%;
     content: '';
     display: block;
-    height: 28px;
-    left: -43px;
+    height: 28.5px;
+    left: -42.5px;
     opacity: 0;
     position: absolute;
     top: 12px;
@@ -753,9 +753,10 @@ audio {
 .cgbig{
 	visibility:hidden;
 	position:absolute;
-	top:-150px;
+	top:-120px;
 	left:-320px;
 	width:1280px;
+	height:720px;
 	z-index:100;
 	transition: .5s;
 }

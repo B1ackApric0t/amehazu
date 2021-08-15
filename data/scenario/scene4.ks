@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,9 +13,8 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="bus.png" time="0"]
-[wait time="700"]
-[mask_off time="1000" effect="fadeOutUp"]
+[bg2 storage="bus.jpg" time="300"]
+[mask_off time="500"]
 
 *start
 #先輩
@@ -94,20 +93,20 @@
 バスは行く。僕たちの非日常を乗せて。[p]
 
 [mask time="700"]
-[wait time="400"]
-[bg2 storage="ajisairain.png" time="0" width=1600 left=-160 height=900]
+[wait time="700"]
+[bg2 storage="ajisairain.jpg" time="0" width=1600 left=-160 height=900]
 [mask_off time="700"]
 
 #
 僕の目の前をその人は、くるくると踊りながら歩いていた。[r]赤い傘の下にスカートの裾と黒髪が舞っていた。[p]
 青や紫や桃色のあじさいに囲まれながら、[r]その人は無邪気にはしゃいでいた。[p]
-[yukino2]
+[yukino2 top=50 left=540 width=500]
 #先輩
 「どうして人間の目って前にしかついていないんだろう！」[p]
 「全部一遍に視界に収めたいんだけどっ、中々うまくいかないなあ！」[p]
 #
 そういって子どものように喜ぶ様に、思わず僕の顔も綻ぶ。[p]
-
+[haruya]
 #春也
 「それはちょっと、というかだいぶ難しい気もしますけどね」[p]
 
@@ -192,37 +191,35 @@
 
 #春也
 「あの。先輩？」[p]
-
 #
 それはそれとして危なっかしいぐらいはしゃぎまわるので、[r]僕は遠くから声をかける。[p]
-
 #春也
 「足下には気をつけて……」[p]
-[chara_hide name="yukino" time="500"]
+#
+[playse storage=batan.ogg]
+[haruyahide time=500 wait=false]
 [M1]
 [bg2 storage="assault.png" time="1000" cross=true wait=true]
-
-#
 ――？[p]
-
-#
 ……それが何だったのか。[p]
 僕にはよくわからなかった。[p]
-強いて言えば影の塊に見えた。地面から何かが飛び出てきたと思ったら、[r]それは先輩の手から何かを奪ってまた地面に消えた。[p]
+強いて言えば影の塊に見えた。[p]
+地面から何かが飛び出てきたと思ったら、[r]それは先輩の手から何かを奪ってまた地面に消えた。[p]
 赤い傘があじさいの道に落ちて弾んだ。[r]雨のにじむ土の地面に、先輩の体が倒れ込んだ。[p]
 
 #春也
 「先輩……？」[p]
-[M0]
-[bg2 storage="ajisairain.png" time="900" width=1600 left=-160 height=900 top=-180 cross=true]
 #
+[M0]
+[bg2 storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 method="vanishIn"]
 突然のことに頭が真っ白になる。[r]しかしすぐに僕は先輩のもとに駆け寄る。[p]
-
+[haruya]
 #春也
 「大丈夫ですか！？」[p]
 
 #
-先輩はじっとうつむいていた。何を見つめているのかと思って[r]その視線をたどってみると、そこには先輩の制服の袖があった。[p]
+先輩はじっとうつむいていた。[p]
+何を見つめているのかと思ってその視線をたどってみると、[r]そこには先輩の制服の袖があった。[p]
 
 #春也
 「あれ……先輩……？」[p]
@@ -235,8 +232,9 @@
 
 #
 先輩の左腕。その先。[p]
+[haruyahide time=500]
 [M1]
-[bg2 storage="tekubi.png" time="1000" cross=true wait=true method="fadeInUp"]
+[bg2 storage="tekubi.jpg" time="1000" cross=true wait=true method="fadeInUp"]
 そこには袖しかなかった。空っぽの袋を地面に垂らしたみたいに、[r]制服の袖がだらりと伸びていた。[p]
 先輩は袖をちらりと見て、[r]立とうとしてふらついて――再びぺたんと腰を下ろした。[p]
 底なし沼みたいな沈黙が場に満ちる。[p]
@@ -245,11 +243,11 @@
 「……しまったなあ」[p]
 
 #
-急に先輩は口を開いた。完全にいつもの調子に戻っていた。[p]
+急に先輩は口を開いた。[r]完全にいつもの調子に戻っていた。[p]
 過剰にすら思えるほどに。[p]
 
 #先輩
-「うっかりして転んでしまった。はしゃぎすぎるのも考えものだね」[p]
+「うっかりして転んでしまった。[r]　はしゃぎすぎるのも考えものだね」[p]
 #春也
 「え？　あの。先輩……」[p]
 #先輩
@@ -274,11 +272,12 @@
 #春也
 「……いえ。無事ならよかったです」[p]
 [M0]
-[bg2 storage="ajisairain.png" time="1000" width=1600 left=-160 height=900 cross=true method="fadeInUp"]
-[yukino7]
+[bg2 name="ajisaibg" storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 cross=true]
+[yukino7 top=30 width=1500]
 #先輩
 「すまない、心配かけてしまって」[p]
 #
+[anim name=ajisaibg top=+180 time=1000]
 先輩が立ち上がる。[r]転がっていた傘を拾い上げると、僕のほうを振り返って言った。[p]
 
 #先輩
@@ -291,22 +290,25 @@
 
 #先輩
 「春也くん」[p]
+#
+[haruya]
 #春也
 「……はい」[p]
 #先輩
 [yukino/4]「行かないの？」[p]
 #春也
 「……行きます」[p]
-[hide]
+[hide wait=false][haruyahide time=1000]
 #
 その後も先輩はあちこちで歓声をあげた。感嘆の声をあげた。[r]ふたり揃って写真だって撮った。[p]
 でも僕は、そんな先輩をどんなまなざしで見ればいいのか、[r]もうわからなくなっていた。[p]
 白い霧があじさい園全体を覆っていた。[r]その中を僕たちふたりは歩いていく。[p]
 先輩がひとり。僕がひとり。[p]
 
-[mask time="700"]
-[wait time=500]
+[mask time="800"]
+[wait time=800]
+[anim name=ajisaibg top=0 time=0]
 [bg2 storage="busiturain.jpg" time="0"]
-[mask_off time="700"]
+[mask_off time="800"]
 
 @jump storage="scene5.ks" target=*start

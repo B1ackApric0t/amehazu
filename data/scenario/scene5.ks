@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -14,8 +14,8 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage="busiturain.jpg" time=0]
-[wait time=500]
-[mask_off time=700]
+[wait time=300]
+[mask_off time=500]
 
 *start
 #
@@ -47,7 +47,7 @@
 ;（帰路）
 [clearfix name="role_button"]
 @layopt layer="message" visible=false
-[bg2 storage="michi.png" time=1000 cross=true wait=true]
+[bg2 storage="michi_rain.jpg" time=1000 cross=true wait=true]
 @layopt layer="message" visible=true
 [button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
 

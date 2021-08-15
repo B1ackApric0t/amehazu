@@ -10,7 +10,7 @@
 
 [html]
 <div class="fadein">
-<img src="data/bgimage/gallery_bg.png" style="z-index:-10;">
+<img src="data/bgimage/gallery_bg.jpg" style="z-index:-10;">
 <div class="cg_back" style="left:50px;top:650px;position:absolute;cursor:pointer;z-index:10;">
 	<img src="data/fgimage/back_system.png" alt="" class="non">
 </div>
@@ -52,15 +52,14 @@
     
     <div class='content2'>
       <div style="float:left;position:absolute;top:-10px;left:40px;">
-        <img src="data/bgimage/tonari.png" style="width:240px;" class="cg" id="tonari">
+        <img src="data/bgimage/tonarib.jpg" style="width:240px;" class="cg" id="tonari">
         <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
         <img src="data/bgimage/assault.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/tekubi.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/tekubi.jpg" style="width:240px;" class="cg">
         <img src="data/bgimage/inthedark.png" style="width:240px;" class="cg">
         <img src="data/bgimage/vsuyo.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/hug1.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/hug2.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/tonari.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/hug1.jpg" style="width:240px;" class="cg">
+        <img src="data/bgimage/tonarib.jpg" style="width:240px;" class="cg">
         <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
       </div>
     </div>
@@ -77,7 +76,7 @@
     </div>
     
   </div>
-  <img src="data/bgimage/tonari.png" class="cgbig" id="tonari1">
+  <img src="data/bgimage/tonarib.jpg" class="cgbig" id="tonari1">
 </div>
 
 

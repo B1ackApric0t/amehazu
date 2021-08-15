@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,8 +13,8 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[wait time="500"]
-[bg2 storage="class.png" time="0"]
+[wait time="300"]
+[bg2 storage="class.jpg" time="0"]
 [layopt layer=1 visible=true]
 [image layer="1" storage="vignette.png" name="kaisou"]
 [mask_off time="500"]
@@ -40,7 +40,7 @@
 人の波から逃れるように校内をさまよう。[p]
 [fadeoutbgm time=3000]
 [mask time=500 effect="fadeInRight"]
-[bg2 storage="class.png" time="0"]
+[bg2 storage="class.jpg" time="0"]
 [wait time=500]
 [mask_off time=500 effect="fadeOutLeft"]
 [wait time=500]
@@ -61,7 +61,7 @@
 #？？
 「いい景色だ」[p]
 #
-[bg2 storage="class.png" time=0 cross=false wait=false]
+[bg2 storage="class.jpg" time=0 cross=false wait=false]
 [yukino2 time=500]
 突然の声にぶんっと首が振り向いた。[r]いつの間にか隣に女の人が立っていた。[r]白い肌に真っ黒な長髪が印象的な、きれいな人だった。[p]
 いったいいつの間に？　[r]ドアは閉めておいたはずだ。[p]
@@ -75,7 +75,7 @@
 ……うまく返せない。[p]
 もっとさらりと言えたらいいんだろうけど、それが僕には難しい。[r]言葉を発する前にあれこれ考えてしまう。[r]発した言葉についてもあれこれ考えてしまう。[p]
 #？？
-[yukino/7]「うん」[p]
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]「うん」[p]
 #
 しかし相手は、しどろもどろな僕には構いもせずにうなずいた。[p]
 #？？
@@ -198,7 +198,7 @@
 ――[p]
 [mask time=500]
 [image layer="1" storage="vignette.png" name="kaisou"]
-[bg2  storage="class.png" time=0]
+[bg2  storage="class.jpg" time=0]
 [yukino7 time=0][haruya time=0]
 [wait time=500]
 [mask_off time=500]
@@ -225,11 +225,11 @@
 #雪乃
 「今は部活勧誘真っ盛りだよ。[r]　私も文芸部員としての務めを果たさねばならない」[p]
 #
-[mask time=500]
+[mask time=800]
 [hide time=0]
 [bg2 storage="busitu.jpg" time=0]
-[yukino7 left=-80 time=0][bucho left=360 time=700]
-[mask_off time=500]
+[yukino7 left=-80 time=0][bucho left=360 time=1000]
+[mask_off time=800]
 扉は開かれた。[p]
 文芸部の部室は、[r]元々は物置のか何かだったかと思うぐらい狭い部屋だった。[p]
 中央には大きなテーブルが置かれ、[r]部屋の奥には上級生らしい女の人が座っている。[r]茶髪をお下げにした眼鏡の人だった。[p]
@@ -284,7 +284,7 @@
 [free name="kaisou" layer=1 ]
 [mask_off time="500"]
 
-[bg2 storage="bluesky.png" time="3000" method="fadeInUp" wait=true]
+[bg2 storage="bluesky.jpg" time="3000" method="fadeInUp" wait=true]
 [wait time=500]
 [mask time="1000"]
 [wait time="200"]
@@ -301,7 +301,7 @@
 [p]決意にも似た安心感とともに、僕は眠りに落ちていく。[p]
 
 [mask time="1000" effect="fadeInDown"]
-[bg2 storage="bus.png" time="0"]
+[bg2 storage="bus.jpg" time="0"]
 [wait time="700"]
 [mask_off time="1000" effect="fadeOutUp"]
 @jump storage="scene4.ks" target=*start

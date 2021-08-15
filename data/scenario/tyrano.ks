@@ -222,8 +222,7 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [endmacro]
 
 ;1基本,2驚き,3笑顔１,4笑顔２,5笑顔３,6目伏せ横顔,7自嘲
-[macro name="bucho"][chara_show name="bucho" storage="%storage|bucho.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho1"][chara_show name="bucho" storage="bucho/bucho1.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho"][chara_show name="bucho" storage="%storage|bucho/bucho1.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
 [macro name="bucho2"][chara_show name="bucho" storage="bucho/bucho2.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
 [macro name="bucho3"][chara_show name="bucho" storage="bucho/bucho3.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
 [macro name="bucho4"][chara_show name="bucho" storage="bucho/bucho4.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
@@ -260,7 +259,7 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [macro name="mshow"][anim layer="message0" opacity=255 time="%time|1000"][endmacro]
 ;スチル
 [macro name="M1"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still.png" page=fore visible=true]
-[position layer="message0" page=fore margint="0" marginl="300" marginr="150" marginb="80"]
+[position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]
 [loadcss file="./data/others/css/next2.css"]
 [anim name="chara_name_area" top="+=150" left="-=120" time="0"][endmacro]
 
@@ -286,8 +285,17 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 ;keyframe
 [keyframe name="nod"]
 [frame p="0%" y="0"]
-[frame p="50%" y="20"]
+[frame p="50%" y="15"]
 [frame p="100%" y=" 0"]
+[endkeyframe]
+
+[keyframe name="otikomi"]
+[frame p="0%" y="0"]
+[frame p="100%" y="15"]
+
+[keyframe name="okiru"]
+[frame p="0%" y="0"]
+[frame p="100%" y="-15"]
 [endkeyframe]
 
 [return]

@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage ="black.png" time=500]
+[bg2 storage ="black.png" time=300]
 [mask_off time=500]
 
 *scene8
@@ -25,7 +25,9 @@
 なにも手につかない。[p]
 外の様子が気になったけれど、[r]そうすると雨妖になにか気付かれてしまいそうでできなかった。[p]
 先輩はなにをするつもりなのか？[p]
+[playse storage=phone.ogg loop=true ]
 ――着信。体が跳ね上がる。[p]
+[stopse]
 #春也
 「も。もしもし？」[p]
 #先輩
@@ -46,7 +48,7 @@
 「空ですか？」[p]
 #先輩
 「一生に一度の見物だよ。見逃さないように」[p]
-[bg2 storage="sky.png" time=500 cross=true wait=true]
+[bg2 storage="sky.jpg" time=500 cross=true wait=true]
 #
 僕は念のため部屋の電気を消すと、カーテンを開けて窓を開いた。[r]真っ黒な雲が夜の闇と一体になって、その最中に雨音だけが響いている。[p]
 #先輩
@@ -62,8 +64,8 @@
 なにが起こっている？　あれは先輩がやっているのか？[p]
 その光は少しずつ膨張していく。[r]そして夜空の月ぐらいの大きさになったかと思うと、[r]一気に凝縮して光は点となった。[p]
 なおも空の動静を見守っていた。するとその瞬間だった。[p]
-[mask time=400 color=0xffffff]
-[bg2 storage="moon.png" time="0"]
+[mask time=700 color=0xffffff]
+[bg2 storage="moon.jpg" time="500"wait=true]
 [wait time=700]
 [mask_off time=400]
 空の一点から全天に向けて、まばゆい光が輪のように広がり駆け抜けていく。[r]まるで星の爆発だった。[p]
@@ -84,7 +86,7 @@
 #春也
 「こんなことして大丈夫なんですか？」[p]
 #先輩
-「大丈夫じゃない。でも別にどうでもいい。そこら辺は君と同じ気持ちだよ」[p]
+「大丈夫じゃない。でも別にどうでもいい。[r]　そこら辺は君と同じ気持ちだよ」[p]
 #
 僕と同じ気持ち。[p]
 だけれど僕と先輩では、あまりに持っている力が違うようだった。[p]
@@ -146,10 +148,10 @@
 ふと隙間から覗いた窓の向こうに、夜が遠く広がっていた。[r]どこまでも遠く広がっていた。[p]
 
 [mask time=500]
-[bg2 storage="haruyaroom.jpg" time="0"]
+[bg2 storage="black.png" time="0"]
 [wait time=800]
 [mask_off time=500]
-
+[playse storage=knock.ogg loop=false ]
 #
 こんこんと、窓を叩く音がした。先輩の合図。[p]
 一応カーテンを開いてみるが、窓の外には誰もいない。[r]ただ宵の闇が広がっているばかりだ。[p]
@@ -207,7 +209,7 @@
 #先輩
 「そうそう。たぶん、少なからず狂っている。私も春也くんも」[p]
 #春也
-「おかしくもなります。それだけのことを聞かされたんですよ、僕は」[p]
+「おかしくもなります。[r]　それだけのことを聞かされたんですよ、僕は」[p]
 #先輩
 「それでも私と会おうとした」[p]
 #春也
@@ -238,7 +240,7 @@
 「特別」[p]
 #
 反射的だった。[r]自分で自分の発した言葉に驚いて、ひやりとした。[p]
-いつもなら間違いなく取り消すけれど、だけれど今はそのいつもではないのだ。[p]
+いつもなら間違いなく取り消すけれど、[r]だけれど今はそのいつもではないのだ。[p]
 僕は先輩に重ねた手を、そっと胸元に持ってきた。[r]そして両手で包み込み、僕は先輩の、顔のない顔を見上げて、改めて言った。[p]
 #春也
 「特別……ですよ。僕にとって先輩は先輩です。[r]　人であろうがなかろうがそれは変わりませんし譲れません」[p]
@@ -304,7 +306,7 @@
 #
 先輩が僕を抱き上げる。僕は先輩に身を任せる。[r]ふわりと体が宙に浮いて、じきに目線が民家の屋根を越した。[p]
 [mask time=500 effct="fadeInUp"]
-[bg2 storage="jutakugai.png" time="0"]
+[bg2 storage="nightcity.jpg" time="0"]
 [wait time=500]
 [mask_off time=500 effct="fadeOutUp"]
 #先輩
@@ -326,9 +328,9 @@
 結局ぽつぽつ話しながら、僕らは夜の飛行を続けた。[r]満月を戴きながら、夜空の雲を縫って。[p]
 きっと僕らは遠目に見れば、ひとつの点となってこの空を駆けていた。[p]
 
-[mask time=500]
-[bg2 storage="black.png" time="0"]
-[wait time=500]
-[mask_off time=500]
+[mask time=800]
+[bg2 storage="ajisairain.jpg" width=1600 left=-160 height=900 time="0"]
+[wait time=800]
+[mask_off time=800]
 
 @jump storage="scene9B.ks" target=*scene9

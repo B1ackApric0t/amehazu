@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="busiturain.jpg" time="500"]
+[bg2 storage="busiturain.jpg" time="300"]
 [mask_off time=500]
 
 *start
@@ -26,6 +26,7 @@
 [haruya]
 #春也
 「体調、悪いんですか」[p]
+;ちょっと低く
 #
 [yukino13]
 #先輩
@@ -40,6 +41,7 @@
 #先輩
 [yukino/3]「……んー。おかしいな」[p]
 
+;起き上がる
 #
 先輩は顎を立てて腕の上に乗せ、顔だけで僕と向かい合った。[p]
 
@@ -53,10 +55,13 @@
 「元々してた覚えもないんですが」[p]
 #先輩
 「しようよ」[p]
+;近づく
 #春也
 「しません」[p]
+;離れる
 #
 僕がそう答えると、先輩は再び左の頬を下にして机に伏せる。[p]
+;低く
 
 #先輩
 [yukino/8]「出かけたいな……」[p]
@@ -88,6 +93,7 @@
 「ねえ、春也くん」[p]
 #
 ゆっくりと体を起こして、先輩が言った。[p]
+;起き上がる
 #先輩
 「行かない？　あじさい、見に」[p]
 #春也
@@ -97,6 +103,7 @@
 #
 先輩とふたりで、遠出して、あじさい畑に行く？[p]
 #春也
+;画面揺らす？
 「えぁっとですね」[p]
 #
 変な声が出た。[p]
@@ -124,12 +131,14 @@
 「別に、雨降ってても……」[p]
 #先輩
 [yukino/9]「ほんと！？」[p]
+;近づく
 #
 ぱっと顔を輝かせた先輩に、僕は何かがズレているのを直感した。[p]
 僕がコメントしたのは、別に雨の日に出かけるのがおかしいとか、[r]そんなことはないという意味だったのだけど。[p]
 先輩は別の文脈で取ってしまったらしかった。[p]
 #先輩
 [yukino/2]「嬉しいなあ……楽しみだなあ」[p]
+;離れてゆらゆら？
 #
 ……先輩のにこにこした顔を見ては、[r]その誤解を訂正する訳にもいかなかった。[p]
 #春也
@@ -143,17 +152,22 @@
 「土日、一緒に出かけましょう。あじさい、見に」[p]
 #先輩
 [yukino/2]「ああ！[r]　そうしようよ春也くん、ほら日程について話そうじゃないか」[p]
-[chara_hide name="yukino" time=700 wait=false]
-[haruyahide]
+[mask time=300]
+;部室横に動かす
+[chara_hide name="yukino" time=0]
+[haruyahide time=300]
+[mask_off time=300]
 #
 ――僕たちは観光計画について話し始めた。[p]
 日程を詰めていく中で急速に現実味を帯びてくるふたりでの休日に、[r]なんだか僕は頭が熱くなり始めていた。[p]
 そのせいで僕は、なにか適当なことばかり言っていたような気がする。[p]
-[yukino2]
+[mask time=300]
+[yukino2 time=0][haruya time=300]
+[mask_off time=300]
 #先輩
 「どうしよう春也くん、スケジュールができてしまった。[r]できてしまったからには遂行しなくちゃいけない」[p]
 #春也
-[haruya]「遂行するために作ったんでしょう」[p]
+「遂行するために作ったんでしょう」[p]
 
 #
 日程を組み終わる頃には僕も落ち着いてきていた。[p]正午前に駅前で待ち合わせして、昼食を取って、バスに乗る。[r]それから午後を使ってあじさい園を回ったり観光したりする。[p]
@@ -180,7 +194,7 @@
 [yukino/1]僕の言葉に、先輩はぴくりと目を見開かせた。[p]
 [mask time=300]
 [hide time=0][haruyahide time=0]
-[bg2 storage="jutakugai.png" width=1600 height=900 top=-180 left=0 time=0 wait=false]
+[bg2 storage="jutakugai.jpg" width=1600 height=900 top=-180 left=0 time=0 wait=false]
 [wait time=200]
 [camera time=30000 x=320 y=180 ease_type=linear wait=false]
 [mask_off time=300]
@@ -256,7 +270,7 @@
 [hide]
 [haruyahide]
 [wait time="700"]
-[bg2 storage="class.png" time="0"]
+[bg2 storage="class.jpg" time="0"]
 [layopt layer=1 visible=true]
 [image layer="1" storage="vignette.png" name="kaisou"]
 [mask_off time="700"]

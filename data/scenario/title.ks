@@ -18,7 +18,7 @@
 
 [html]
 <div id="tl">
-<img class="img_title" src="data/bgimage/title.png" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
+<img class="img_title" src="data/bgimage/title.jpg" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
 
 ;<div class="container">
 ;  <div class="rains">

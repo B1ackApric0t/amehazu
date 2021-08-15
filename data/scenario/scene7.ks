@@ -2,7 +2,7 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
@@ -13,8 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="busiturain.jpg" time="0"]
-[wait time="500"]
+[bg2 storage="busiturain.jpg" time="300"]
 [mask_off time=500]
 
 *start
@@ -157,7 +156,7 @@
 [mask time=300]
 [kaisou]
 [buchohide time=0][yukino13 time=0]
-[bg2 storage="class.png" time=300]
+[bg2 storage="class.jpg" time=300]
 [mask_off time=300]
 #先輩
 『……ごめん。もしかして私、ずっと変なこと言ってる？』[p]
@@ -467,7 +466,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 その時万が一にも僕が未練になってはいけない。[r]だから隠したのだ。[p]
 歪なところは他にもある。[p]
 [M1]
-[bg2 storage="tekubi.png" time=500 cross=true]
+[bg2 storage="tekubi.jpg" time=500 cross=true]
 卒業前の思い出作りという言葉に、[r]僕たちはお互い間違いなく先日のあじさい園を思い浮かべた。[p]
 だけれど互いに示し合わせたかのように、[r]それを敢えて口に出しはしなかった。[p]
 あれは僕たちの間に空いた綻びのような記憶だから、[r]沈黙の内に葬ってしまいたかった。[p]
@@ -500,7 +499,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [mask time=300]
 [fkaisou]
 [hide time=0]
-[bg2 storage="black.png" time="300"]
+[bg2 storage="black.jpg" time="300"]
 [mask_off time=300]
 答えになっていない。違う、そもそも答えていない。[p]
 いや。[p]

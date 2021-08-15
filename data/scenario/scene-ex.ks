@@ -2,21 +2,21 @@
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 [cm]
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
+[mask time=500]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 [chara_config ptext="chara_name_area" pos_mode=false memory=true effect=easeOutQuad]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+[role]
+[bg2 storage="busitu.jpg" time=300]
+[mask_off time=500]
 
-
-
-[bg2 storage="busitu.jpg" time="500"]
 #先輩
 「君は文芸部室で漫画を読む種の人間なんだね」[p]
 #春也

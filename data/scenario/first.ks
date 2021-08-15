@@ -28,31 +28,53 @@ f.preload_yukino = [
 "data/fgimage/yukino/tatie13.png",
 ];
 f.preload_bucho = [
-"data/fgimage/bucho.png",
+"data/fgimage/bucho/bucho1.png",
+"data/fgimage/bucho/bucho2.png",
+"data/fgimage/bucho/bucho3.png",
+"data/fgimage/bucho/bucho4.png",
+"data/fgimage/bucho/bucho5.png",
+"data/fgimage/bucho/bucho6.png",
+"data/fgimage/bucho/bucho7.png",
 ];
 f.preload_bg = [
-"data/bgimage/ajisai.png",
-"data/bgimage/bus.png",
+"data/bgimage/ajisairain.jpg",
+"data/bgimage/bluesky.jpg",
+"data/bgimage/bus.jpg",
 "data/bgimage/black.png",
-"data/bgimage/bluesky.png",
 "data/bgimage/bushi_bg.png",
 "data/bgimage/busitu.jpg",
+"data/bgimage/busitucolor.jpg",
+"data/bgimage/busiturain.jpg",
+"data/bgimage/busiturain2.jpg",
 "data/bgimage/busituyoru.jpg",
-"data/bgimage/class.png",
+"data/bgimage/class.jpg",
 "data/bgimage/classwindow.png",
 "data/bgimage/corridor.jpg",
 "data/bgimage/entrance.jpg",
+"data/bgimage/gallery_bg.jpg",
 "data/bgimage/genkan.jpg",
 "data/bgimage/haruyaroom.jpg",
-"data/bgimage/moon.png",
-"data/bgimage/sky.png",
-"data/bgimage/michi.png",
-"data/bgimage/tonari.png",
+"data/bgimage/hug1.jpg",
+"data/bgimage/hug2.jpg",
+"data/bgimage/hug3.jpg",
+"data/bgimage/hug4.jpg",
+"data/bgimage/moon.jpg",
+"data/bgimage/sky.jpg",
+"data/bgimage/michi_rain.jpg",
+"data/bgimage/title.jpg",
+"data/bgimage/tonarib.jpg",
+"data/bgimage/tonarib_n.jpg",
+"data/bgimage/tonariemi_n.jpg",
+"data/bgimage/tonarik.jpg",
+"data/bgimage/tonarik_n.jpg",
+"data/bgimage/tonarime_n.jpg",
+"data/bgimage/tonarimono.jpg",
+"data/bgimage/tonarimu.jpg",
 "data/bgimage/shadow.png",
-"data/bgimage/hug1.png",
-"data/bgimage/hug2.png",
-"data/bgimage/hug3.png",
-"data/bgimage/hug4.png",
+"data/bgimage/hug1.jpg",
+"data/bgimage/hug2.jpg",
+"data/bgimage/hug3.jpg",
+"data/bgimage/hug4.jpg",
 ];
 [endscript]
 
@@ -61,7 +83,7 @@ f.preload_bg = [
 [preload storage="&f.preload_bg"]
 
 [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
-[chara_new  name="bucho" storage="bucho.png" width=1000 jname="部長" color=fff ]
+[chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="部長" color=fff ]
 [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="先輩" color=fff ]
 
 @call storage="tyrano.ks"
