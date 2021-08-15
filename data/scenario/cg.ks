@@ -53,14 +53,14 @@
     <div class='content2'>
       <div style="float:left;position:absolute;top:-10px;left:40px;">
         <img src="data/bgimage/tonarib.jpg" style="width:240px;" class="cg" id="tonari">
-        <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/shadow.jpg" style="width:240px;" class="cg">
         <img src="data/bgimage/assault.png" style="width:240px;" class="cg">
         <img src="data/bgimage/tekubi.jpg" style="width:240px;" class="cg">
         <img src="data/bgimage/inthedark.png" style="width:240px;" class="cg">
         <img src="data/bgimage/vsuyo.png" style="width:240px;" class="cg">
         <img src="data/bgimage/hug1.jpg" style="width:240px;" class="cg">
         <img src="data/bgimage/tonarib.jpg" style="width:240px;" class="cg">
-        <img src="data/bgimage/shadow.png" style="width:240px;" class="cg">
+        <img src="data/bgimage/shadow.jpg" style="width:240px;" class="cg">
       </div>
     </div>
     

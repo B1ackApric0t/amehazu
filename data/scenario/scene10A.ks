@@ -127,7 +127,7 @@
 #
 そう言い残して、部長は部屋を去っていった。[p]
 [mask time=500]
-[resertfont]
+[resetfont]
 [M1]
 @clearfix
 [role]

@@ -254,7 +254,7 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 
 [chara_config ptext="chara_name_area" pos_mode=true memory=true effect=easeOutQuad]
 [macro name="role"][button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610][endmacro]
-[macro name="role2"][button name="role_button" role=menu graphic="menu_off2.png" enterimg="menu_on2.png" x=1130 y=590][endmacro]
+[macro name="role2"][button name="role_button" role=menu graphic="menu_off2.png" enterimg="menu_on2.png" x=1130 y=610][endmacro]
 [macro name="rhide"][clearfix name="role_button"][endmacro]
 [macro name="mhide"][anim layer="message0" opacity=0 time="%time|1000"][endmacro]
 [macro name="mshow"][anim layer="message0" opacity=255 time="%time|1000"][endmacro]

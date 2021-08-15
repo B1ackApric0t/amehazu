@@ -237,7 +237,6 @@ tyrano.plugin.kag.config.defaultLineSpacing = '25';
 [loadcss file="./data/others/css/next1.css"]
 [resetfont]
 [mask time="500"]
-[clearfix name="role_button"]
 [bg2 storage="busiturain.jpg" time=500 cross=true ]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer="message0" page=fore margint="70" marginl="190" marginr="150" marginb="50"]
