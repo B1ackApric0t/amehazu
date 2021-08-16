@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="busiturain.jpg" time="300"]
+[bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=300]
 [mask_off time=500]
 
 *start
@@ -21,7 +21,11 @@
 #
 翌日放課後。[r]部室の机に鞄を放り出すと、そのまま顔を突っ伏せた。[p]
 僕にはいつも通り学校があったけれど、集中なんかできるはずがない。[r]どうにか放課後までやり過ごしたといったところだ。[p]
-[bg2 storage="genkan.jpg" time=500 cross=true wait=true]
+[mask time=300]
+[kaisou]
+[uyo time=0]
+[bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=100]
+[mask_off time=300]
 #雨妖
 『翌夜、雨が降る。そのとき其方の返事を聞こう。[r]　それまで充分に検討を重ねてもらいたい』[p]
 #
@@ -34,12 +38,17 @@
 もちろん雨妖が怖くないと言えば嘘になる。[r]いまも雨妖の巨大な歯茎が脳裏にちらついている。[r]その光景に僕は、恐怖と自分の無力とを感じてる。[p]
 悔しい。どうしても怖い。[p]
 絶対協力なんかしないつもりだけど、[r]それで自分の身がどうなるかを考えると、僕はどうしても日和ってしまう。[p]
-[bg2 storage="busiturain.jpg" time=500 cross=true wait=true]
+[mask time=300]
+[fkaisou]
+[uyohide time=0]
+[bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=100]
+[mask_off time=300]
 混沌としている。閉塞している。[p]
 僕は、どうするべきなのだろう？[p]
 #？？
 「うぉ。下地くんが死んでいる」[p]
 #
+[bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
 突然響いたドアの音と、後に続いた久しい声に、僕は思わず振り向いた。[p]
 [bucho]
 #？？
@@ -61,6 +70,7 @@
 #部長
 「用事なんですよ。本を回収しときたかった」[p]
 #
+;背景と地の文の矛盾
 文芸部室の隅っこには申し訳程度に本棚が設置されている。[p]
 そこには歴代の部誌が所蔵されていたり、[r]部員の持ち込んできた本が並べられて、[r]誰でも自由に読めるようになっている。[p]
 #部長
@@ -156,20 +166,17 @@
 [mask time=300]
 [kaisou]
 [buchohide time=0][yukino13 time=0]
-[bg2 storage="class.jpg" time=300]
+[bg2 storage="class.jpg" time=100]
 [mask_off time=300]
 #先輩
 『……ごめん。もしかして私、ずっと変なこと言ってる？』[p]
-[mask time=300]
-[fkaisou][haruyahide time=0][hide time=0]
-[bg2 storage="black.png" time="300"]
-[mask_off time=300]
 #
 本当に先輩は、部長が評しているような無敵の人なんだろうか？[r]いずれ埋まるにしても穴は穴なんじゃないのか？[p]
 痛みが消えるだけで、傷は傷なんじゃないのか？[p]
 [mask time=300]
-[bucho time=0][haruya time=0]
-[bg2 storage="busiturain.jpg" time=300]
+[fkaisou][hide time=0]
+[bucho time=0]
+[bg2 storage="busiturain.jpg" time=100]
 [mask_off time=300]
 #部長
 「私は行くよ。お疲れ様」[p]
@@ -201,8 +208,8 @@
 [wait time="500"]
 [bg2 storage="black.png" time=0]
 [mask_off time="500"]
-
-部長が去ってすぐ、僕は本棚から部誌を取り出した。[r]目次を見ると先輩の名前がいくつか載っている。[r]ひとつずつ作品にあたっていくと、こんな文章を見つけた。[p]
+部長が去ってすぐ、僕は本棚から部誌を取り出した。[r]目次を見ると先輩の名前がいくつか載っている。[p]
+ひとつずつ作品にあたっていくと、こんな文章を見つけた。[p]
 *busi
 [mask time="500"]
 [clearfix name="role_button"]
@@ -249,7 +256,7 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 なんだかしばらくぼーっとしていた。[r]気を取り直して僕は、先輩のことを思い浮かべる。[p]
 先輩が元の世界でどんな暮らしをしていたのか。[r]どうしてこの世界にやって来たのか。[p]
 そんなことを、想像していた。[p]
-不意に僕は驚いて振り向く。[r人の声にドアを振り返るのは本日二度目だ。[p]
+不意に僕は驚いて振り向く。[r]人の声にドアを振り返るのは本日二度目だ。[p]
 そしてそこにいたのは、[p]
 #？？
 「お疲れ様、春也くん」[p]
@@ -281,6 +288,9 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 #先輩
 [yukino/7]「うん。あんまりそういうの気にならないみたい」[p]
 #
+[bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=1000 wait=false cross=false]
+[hide time=100]
+[yukino7 width=1400 top=30]
 先輩はそう言っていたけれど、[r]僕は読みたいところは読んだので再び取り出すことはしなかった。[r]僕もまた元の席につく。[p]
 #春也
 「体調、大丈夫ですか」[p]
@@ -321,10 +331,13 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 「生き方は変わっていくものだと思いますよ。」[p]
 「たとえばタバコとかアルコールとか、[r]　子どものときは全然味を知らなかったはずなのに、[r]　大人になって手放せないみたいなことはザラにあると思います」[p]
 「うちの部はそうじゃないんですか？」[p]
-[hide]
 #
-先輩はため息をついた。そして椅子から立ち上がり、窓辺に身を寄せた。[r]僕に背を向けたまま、先輩が言う。[p]
+[kanim name="yukino" keyframe="down" time="500"]
+先輩はため息をついた。[p]
+[bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
+[hide time=100]
 [yukino11]
+そして椅子から立ち上がり、窓辺に身を寄せた。[r]僕に背を向けたまま、先輩が言う。[p]
 #先輩
 「私も卒業しなくちゃいけない」[p]
 #春也
@@ -396,7 +409,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 #先輩
 [yukino/9]「思い出す？」[p]
 #春也
-「忘れないってことです。先輩がいなくなっても、きっと僕は少なからず、[r]　先輩のおかげで生きていくんだと思います。」[p]
+「忘れないってことです。先輩がいなくなっても、[r]　きっと僕は少なからず、先輩のおかげで生きていくんだと思います。」[p]
 「僕はそれを忘れません。」[p]
 「だから心配しないでください。僕は大丈夫ですから」[p]
 #先輩
@@ -464,8 +477,11 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 そうでなければ先輩は卒業できない。[r]先輩はもはやきっと、元いた場所に帰るほかないのだろう。[p]
 その時万が一にも僕が未練になってはいけない。[r]だから隠したのだ。[p]
 歪なところは他にもある。[p]
+[mask time=300]
+[kaisou]
 [M1]
-[bg2 storage="tekubi.jpg" time=500 cross=true]
+[bg2 storage="tekubi.jpg" time=100]
+[mask_off time=300]
 卒業前の思い出作りという言葉に、[r]僕たちはお互い間違いなく先日のあじさい園を思い浮かべた。[p]
 だけれど互いに示し合わせたかのように、[r]それを敢えて口に出しはしなかった。[p]
 あれは僕たちの間に空いた綻びのような記憶だから、[r]沈黙の内に葬ってしまいたかった。[p]
@@ -473,24 +489,27 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 ……雨妖が僕に接近したことを知らない先輩は、[r]きっとそんなことを考えている。[p]
 だから僕もそれに同調した。[p]
 ……会話を振り返るのは悪い癖だ。僕は鞄を手にする。[p]
-[M0]
-[bg2 storage="busiturain.jpg" time=500 cross=true]
+[mask time=300]
+[fkaisou][M0]
+[bg2 storage="busiturain.jpg" time=100]
+[mask_off time=300]
 これは僕の推測ではあるけれど、先輩は明日の放課後、[r]僕との外出を最後に元の世界へ帰ろうとしている。[p]
 僕はその旨を今夜雨妖に伝える。先輩を連れ帰りに来た雨妖は、[r]わざわざ先輩を罠に嵌める手間が省ける。和解だ。[p]
-ひとまずこれで一件落着するんじゃないか。[r]すべてが収まるべき所に収まった、[r]いい話の筋が出来上がったのではないだろうか。[p]
+ひとまずこれで一件落着するんじゃないか。[p]
+すべてが収まるべき所に収まった、[r]いい話の筋が出来上がったのではないだろうか。[p]
 これに不満を漏らす奴なんて誰もいない。[p]
 そう、誰も。[p]
 
 [mask time="800"]
 [bg2 storage="corridor.jpg" time="0"]
-[wait time="500"]
+[wait time="800"]
 [mask_off time="800"]
 
 部室を背にしながら、そういえばと僕は思い出す。[p]
 [mask time=300]
 [kaisou]
 [buchohide time=0][yukino13 time=0]
-[bg2 storage="busiturain.jpg" time="300"]
+[bg2 storage="busiturain.jpg" time="100"]
 [mask_off time=300]
 『僕が先輩なしでやっていけるのかって、そう言う先輩はどうなんですか。[r]うちの文芸部を出てって大丈夫なんですか？』[p]
 [yukino3]
@@ -498,21 +517,22 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [mask time=300]
 [fkaisou]
 [hide time=0]
-[bg2 storage="black.jpg" time="300"]
+[bg2 storage="black.png" time="100"]
 [mask_off time=300]
 答えになっていない。違う、そもそも答えていない。[p]
 いや。[p]
 答えていないこと自体がアンサーだ。[p]
-[bg2 storage="corridor.jpg" time="500" cross=true wait=true]
+[bg2 storage="corridor.jpg" time="1000" cross=true wait=true]
 足が止まる。けれどまた歩き出す。[p]
 僕は先輩なしでもやっていけると答えた。[r]その回答に合わせて、僕たちは動き出した。[p]
 僕が回答を決めたのではなくて、[r]あのときの回答がこれからの僕を決めるのだ。[p]
-僕たちは綺麗に終わる。今夜の雨が、そのための最後の関門だ。[p]
+僕たちは綺麗に終わる。[r]今夜の雨が、そのための最後の関門だ。[p]
 
-[mask time="800"]
-[bg2 storage="genkan.jpg" time="0"]
-[wait time="800"]
-[mask_off time="800"]
+[mask time="1000"]
+@layopt layer="2" visible=true
+[haruya time=0][image layer="2" storage="uyo.png" width=900 left=190 top=-150]
+[bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=1000 name=genkanbg]
+[mask_off time="1000"]
 
 @jump storage="scene8A.ks"  target=*scene8
 
@@ -624,10 +644,10 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 暗い雨雲が空を彼方まで埋め尽くしている。[p]
 僕は再び晴れた空を拝むことはあるのだろうか？[p]
 
-[mask time=500]
+[mask time=1000]
 [hide time=0][haruyahide time=0]
 [bg2 storage="black.png" time="0"]
-[wait time=800]
-[mask_off time=500]
+[wait time=1000]
+[mask_off time=1000]
 
 @jump storage="scene8B.ks" target=*scene8

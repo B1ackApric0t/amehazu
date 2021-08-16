@@ -129,7 +129,7 @@
 
 #
 傘の中で、僕たちは向かい合う。[p]
-[hide time=200]
+[hide time=100]
 [yukino7]
 
 #先輩
@@ -168,24 +168,23 @@
 こうなるといつも後味が悪い。[p]
 これで先輩が風邪を引きでもしたら、[r]僕はいつまでも今日のことを引きずるに違いない。[p]
 じっとりとした感触に我に返る。[r]右肩に濡れて張り付くワイシャツの感触だった。[p]
-[haruyahide]
+[haruyahide wait=false]
+[M1]
+[bg2 storage=shadow.jpg time=1500 cross=true wait=true]
 これ以上濡れないうちにと僕は家路に足を向け直す。[r]罪悪感が影のように尾を引いていた。[p]
 雨音が遠くまで続いている。[r]ひとりになった傘の中は、広いけれどどこか空しい。[p]
 [rhide]
 [mhide]
-[mask time="500"]
-[wait time="500"]
-[bg2 storage="black.png" time="0"]
-[mask_off time="500"]
-[wait time="500"]
+[wait time="1000"]
 
-[bg2 storage="shadow.png" time="3000" method="fadeInUp" wait=true]
+[bg2 storage="shadow2.jpg" time="3000" wait=true]
+[wait time=1000]
 
 [mask time="1500"]
 [wait time="1500"]
 [anim layer="message0" opacity=255 time="0"]
 [bg2 storage="busiturain.jpg" time="0"]
 [role]
-[mask_off time="500"]
+[mask_off time="1000"]
 
 @jump storage="scene2.ks" target=*start

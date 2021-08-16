@@ -88,6 +88,7 @@ f.preload_bg = [
 [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
 [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="部長" color=fff ]
 [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="先輩" color=fff ]
+[chara_new  name="uyo" storage="uyo.png" width=900 jname="雨妖" color=fff ]
 
 @call storage="tyrano.ks"
 

@@ -13,16 +13,18 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="ajisairain.jpg" time=300]
+[bg2 storage="ajisairain.jpg" time=300 width=1600 left=-160 height=900]
 [mask_off time=500]
 
 *scene9
 #
 沈黙の中、僕たちは雨に降られていた。[r]しばらくして先輩のほうを振り向こうとしたとき、[r]先輩に優しく抱きしめられた。[p]
-僕は驚いて、迷いながらも、抱き返した。[r]お互いびしょびしょに濡れていて、それだけに先輩の暖かさが肌に伝わってくる。[p]
-[yukino1]
+僕は驚いて、迷いながらも、抱き返した。[r]お互いびしょびしょに濡れていて、[r]それだけに先輩の暖かさが肌に伝わってくる。[p]
+[yukino1 width=1400 top=30]
 #先輩
 「春也くん」[p]
+#
+[haruya]
 #春也
 「はい」[p]
 #先輩
@@ -66,11 +68,11 @@
 「そうですね。そうしましょう」[p]
 #
 ずぶぬれの僕が答えた。[p]
+[hide]
 先輩がその姿を妖へと変ずる。[r]軽く僕を抱きかかえて、赤い羽が闇にきらめく。[p]
 
 [mask time=700 effect="fadeInUp"]
-[hide time=0]
-[bg2 storage="entrance.jpg" time="0"]
+[bg2 storage="entrance2.jpg" time="0"][haruyahide time=0]
 [wait time=500]
 [mask_off time=700 effect="fadeOutDown"]
 
@@ -78,7 +80,7 @@
 赤い羽が闇にさらりと溶けた。[r]先輩の羽で飛び立った僕たちは、しばらくの夜間飛行を経てここに降りた。[p]
 僕たちの高校。すでに閉じた校門の前だ。[p]
 僕たちはこれから帰るのだ。長いようで一瞬だった、この旅路から。[p]
-[yukino1]
+[yukino1 width=1400 top=30 wait=false][haruya time=700]
 #先輩
 「……」[p]
 #
@@ -94,8 +96,9 @@
 先輩がうなずいた。[p]
 #先輩
 [yukino/7]「行こう。行かなきゃ」[p]
-[chara_hide name="yukino"]
 #
+[haruyahide time=1000]
+[hide]
 僕たちは校舎に背を向ける。[r]僕が少し早く、先輩は少し遅れて。[p]
 そして僕たちは、最後の帰路につき始めた。[p]
 
@@ -124,7 +127,7 @@
 「ああ……なんか。ずるいですね？」[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 #先輩
-「だいぶ期限の短い体だもの、それくらいは許してほしいね。春也くんは？」[p]
+「だいぶ期限の短い体だもの、それくらいは許してほしいね。[r]　春也くんは？」[p]
 #春也
 「僕はあまり。インドアな人間ですから」[p]
 #先輩
@@ -133,8 +136,9 @@
 「先輩って、元の世界でどんな風に暮らしてたんですか？」[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 #先輩
-「あまりいいものじゃないよ。虫かごに入れられてるみたいなものさ。」[p]
-「限られた空間で、定められた手順を踏んで一日を暮らしていく。[r]　その運行の滞りないことが、私の家にとって何より価値あることだったんだ。」[p]
+「あまりいいものじゃないよ。[r]　虫かごに入れられてるみたいなものさ。」[p]
+「限られた空間で、定められた手順を踏んで一日を暮らしていく」[p]
+「その運行の滞りないことが、[r]　私の家にとって何より価値あることだったんだ。」[p]
 「別にその是非を論じたってしょうがないけど、[r]　私にはどうしても合わなかった。」[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 「……出来の悪い娘で、本当に申し訳ないとは思うんだけど」[p]
@@ -262,31 +266,32 @@
 「…………」[p]
 「別に。忘れてきても大丈夫ですよ」[p]
 「僕が絶対傘を持って、迎えに行きますから……」[p]
+#
 
 ;（雨音だけの間が欲しい）
+[M0]
 [bg2 storage="michi_rain.jpg" time="1000" cross=true wait=true]
 
-#
+
 降りしきる雨の音に、僕は隣を振り向いた。[p]
 ――いない。誰もいない。いままでそこにいたはずの人。[p]
-
 傘を持つ手の力が抜ける。[r]僕はしばらくそのまま、冷たい雨に打たれていた。[p]
-
 先輩はいつか、雨に濡れて歩くのも好きだと言っていた。[p]
 今ならその気持ちも、ちょっとはわかる。[p]
 あのひとのことがわかる。[p]
-
 少しではあるけれど。[p]
-
+[M1]
+[filter brightness=30 layer=base]
+[bg2 storage="shadow.jpg" time=1000 wait=true cross=true]
 やがて僕は雨とともに、ひとりの帰路を歩み始める。[p]
-
 雨に濡れつつ空を見上げた。どこまでも遠い夜。[p]
 手が届きそうなほど遠い夜。[p]
 
-[mask time="700"]
+[mask time="1000"]
+[free_filter]
 [M0]
 [bg2 storage="black.png" time="0"]
-[wait time="800"]
-[mask_off time="700"]
+[wait time="1000"]
+[mask_off time="1000"]
 
 @jump storage="scene10A.ks" target=*scene10

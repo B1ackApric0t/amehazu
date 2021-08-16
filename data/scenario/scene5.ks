@@ -29,10 +29,16 @@
 先輩のことが不安になるものの、どう動けば良いか分からない。[p]
 体は大丈夫ですかなんて聞くにしても、[r]本人が何もなかったような体で振る舞うので、[r]僕はそれ以上身動きできない。[p]
 もどかしさが募って苛立ちに変わってくる。[p]
+[mask time=300]
+[kaisou]
+[M1]
+[bg2 storage=tekubi.jpg time=300]
+[mask_off time=300]
 頭に浮かぶのは先輩のことばかりだ。[r]それから、あの不意に目に入った影のことも。[p]
 地面から飛び出して、[r]おそらく先輩の手首から先を食いちぎって消えたあの影だ。[p]
 あれはなんだったんだろう？　[r]どうして先輩は、あれの存在を無理にでも隠し通そうとするのだろう？　[r]しらばっくれるのだろう？[p]
 僕の頭はそのまま記憶をたどって、全国連続殺人事件を引っ張り出す。[r]今日のニュースで、再び犠牲者は数を一人増やしていた。[p]自然、僕の頭の中で二つの事件が結びつく。[p]
+[bg2 storage=assault.png time=1000 cross=true]
 全国で人を襲っているのは、殺人犯などではなく、あの影なんじゃないか？[p]
 それなら犯人の足取りがつかめないことや、[r]全国に犯行が分布している理由も説明できる。[p]
 説明できるのだが。[p]
@@ -40,18 +46,23 @@
 あの影が僕の見間違いで、先輩の言っていたことも本当で、[r]本当にただあのタイミングで転んでしまっただけというのは？[p]
 ……わからない。どんな想像も推測も空を掴むようだ。[p]
 ただひとつわかっているのは、僕たちがいまなんだか危険で怪しくて[r]不可解な状況にあるということだけだ。[p]
+[mask time=300]
+[fkaisou]
+[M0]
+[bg2 storage=black.png time=300]
+[mask_off time=300]
 このまま考えていてもしょうがないので、僕は部室を発つことにする。[r]いま何時頃かとポケットからスマホを出したが、先輩からの連絡はなかった。[p]
 [bg2 storage="entrance.jpg" time=800 cross=true wait=true method=fadeInRight]
 玄関口を出る。地面に一歩踏み出すとき、[r]まるでガラス張りの床を歩いているみたいにひやひやした。[p]
 
-;（帰路）
-[clearfix name="role_button"]
-@layopt layer="message" visible=false
+;[clearfix name="role_button"]
+;@layopt layer="message" visible=false
 [bg2 storage="michi_rain.jpg" time=1000 cross=true wait=true]
-@layopt layer="message" visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
+;@layopt layer="message" visible=true
+;[role]
 
-曇天のもとを歩んでいると、何かが僕の首筋を這い上がった。[r]その感覚に思わず声をあげそうになるが、すんでのところでこらえた。[r]虫か何かだろうか？[p]
+曇天のもとを歩んでいると、何かが僕の首筋を這い上がった。[p]
+その感覚に思わず声をあげそうになるが、すんでのところでこらえた。[r]虫か何かだろうか？[p]
 うなじを手で払おうとするがその感覚は抜けない。[r]首筋がどこか濡れている。[p]
 すると今度はそのぞわぞわしたものが耳元にまで上ってきた。[p]
 #？？
@@ -69,8 +80,8 @@
 ただ、ひとつだけ言えることは、何か超常的なものが今この町に出没していて、[r]それは僕と関わりを持とうとしているらしいということだった。[p]
 僕は何かに巻き込まれたらしかった。[r]そして昨日先輩が襲われたことも、その何かの一部に違いなかった。[p]
 呼びつけられた不穏さを胸に抱えながら、[r]僕は重い足取りで帰路を歩むのだった。[p]
-[mask time="700"]
-[wait time="700"]
+[mask time="1000"]
+[wait time="1000"]
 [bg2 storage="black.png" time="0"]
-[mask_off time="700"]
+[mask_off time="1000"]
 @jump storage="scene6.ks" target=*start

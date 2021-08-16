@@ -12,8 +12,10 @@
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
+@layopt layer="2" visible=true
 [role]
-[bg2 storage="genkan.jpg" time="300"]
+[haruya time=0][image layer="2" storage="uyo.png" width=900 left=190 top=-150]
+[bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=300 name=genkanbg]
 [mask_off time=500]
 
 
@@ -27,13 +29,14 @@
 #
 はいと返事して僕は、じっとりと湿った夜気を深く吸い込む。[p]
 心臓は破裂しそうだし背筋には嫌な冷たさが走っているし、[r]いつ正気を失ってもおかしくはないぐらいだ。[p]
-永遠に返答を先延ばしできたらと思いつつも、僕は決意を固めて声を発した。[p]
+永遠に返答を先延ばしできたらと思いつつも、[r]僕は決意を固めて声を発した。[p]
 #春也
 「僕は、雨妖さんの言う作戦に協力する気はありません。[r]　というのは、そもそもそんなことをする必要がないからです」[p]
 #雨妖
 「……ほう？　その心が儂にはどうも図りかねる。[r]　手間を取らせてすまないが、この鈍物にもわかるよう説明してくれるな？」[p]
 #
-慇懃無礼。[r]いかにも相手と対等に接し、あるいは下手に出ているようで、[r]その実は高圧的かつ挑発的。[p]
+慇懃無礼。[p]
+いかにも相手と対等に接し、あるいは下手に出ているようで、[r]その実は高圧的かつ挑発的。[p]
 初対面から薄々感じていた雨妖への心証だが、[r]その感触は今ここでピークを迎えていた。[p]
 きっと雨妖は僕のことを人間風情とでも捉えているのだろう。[p]
 肌がびりびり粟立つほどの圧迫感を全身に受けつつ、[r]しかし僕は努めて冷静に話し出す。[p]
@@ -44,13 +47,16 @@
 「そして先輩は、[r]　明日で僕たちの世界にけじめをつけようとしているみたいでした。」[p]
 「だからどうか、せめて明日まで待ってもらえませんか。」[p]
 「先輩はきっと来ます。」[p]
-「帰って来いって命令を聞かないから殺すなんてしないでいいんです、[r]　先輩はやっと決心したに違いないんですよ、だから一緒に元の場所に帰って、[r]　それで先輩の話を聞いてあげてくれませんか……！」[p]
+「帰って来いって命令を聞かないから殺すなんてしないでいいんです、[r]　先輩はやっと決心したに違いないんですよ」[p]
+「だから一緒に元の場所に帰って、[r]　それで先輩の話を聞いてあげてくれませんか……！」[p]
 #
 雨の音が、僕の声に取って代わる。[p]
+[trans_out layer="2" time=1000 method="fadeOutDown"][wt]
 雨妖はまるで水面から突き出た岩のように、[r]眼球をぴくりとも動かさず僕のことを見つめていたが、[r]やがてぶくぶくと地面の中へ沈んでいった。[p]
+[trans layer="2" time=1000 method="fadeInUp"][wt]
 再び浮上してくると雨妖は、まるで僕の意見に講評を述べるかのように、[r]ゆっくりと喋り始めた。[p]
 #雨妖
-「ひとまず。気になるところは色々とあるが、それはこの際置いておこう」[p]
+「ひとまず。[r]　気になるところは色々とあるが、それはこの際置いておこう」[p]
 #
 ……本当に気に食わない言い方をする。[p]
 #雨妖
@@ -69,9 +75,15 @@
 #雨妖
 「人の子ごときが御託を並べおって！！[r]　殊勝にも雪乃のために儂を説得しようと思うたか！！[r]　思い上がるな小賢しいッ、やはり貴様は――」[p]
 #
+[freeimage layer=2]
 盛大な水しぶきとともに、雨妖の姿が眼前から消え失せる。[r]ふっと我に返り、雨妖の行方を捉えようと辺りを見回したそのとき。[p]
+[anim name=genkanbg top=+360 time=1000]
 頭上にただならない重圧を感じ、僕は思わず傘を下ろして天を仰ぐ。[p]
-[bg2 storage="black.png" time="500" cross=true wait=true]
+[mask time=300 effect=fadeInDownBig]
+[haruyahide wait=false]
+[anim name=genkanbg top=0 time=0]
+[bg2 storage="black.png" time="100"]
+[mask_off time=300]
 闇。生暖かい闇。真っ白な歯列の奥に広がる、際限なく深い闇。[p]
 #雨妖
 「――こうすべきだった」[p]
@@ -79,11 +91,9 @@
 水をぶちまける音が、くぐもって耳に聞こえた。[p]
 
 ;◆暗転、場転
-[mask time="500"]
-;[image layer="base" storage="ajisairain.jpg" page=back wait=false]
-;[filter layer="base" page="back" blur="5px"]
-[wait time="700"]
-[mask_off time="500"]
+[mask time="800"]
+[wait time="800"]
+[mask_off time="800"]
 
 
 #
@@ -91,32 +101,36 @@
 #雨妖
 「下地春也はここにいる」[p]
 #
-突如全身を揺るがした雨妖の声に、横わっていた体が跳ね起きる。[r]朦朧とした意識に虚脱感を覚えつつも、僕は周囲を見回す。[r]辺り一面の闇。雨妖の姿は見えない。[p]
+突如全身を揺るがした雨妖の声に、横わっていた体が跳ね起きる。[p]
+朦朧とした意識に虚脱感を覚えつつも、僕は周囲を見回す。[p]
+辺り一面の闇。雨妖の姿は見えない。[p]
 #雨妖
 「――ちょうど目覚めたようだな」[p]
 #
 またも響く重低音に体がしびれる。[p]
 雨妖の声に全身が包まれているような感覚と、[r]ぶよぶよして揺れ動く地面の生ぬるい感触から、[r]僕は自分が置かれた状況をおぼろげながらも推察できた。[p]
-[bg2 storage="ajisairain.jpg" cross=true wait=true]
-;[trans layer="base" time="500"]
-;[wt]
+[filter layer="base" brightness=25 blur=5]
+[bg2 storage="ajisairain.jpg" time=1000 cross=true wait=true]
 ここは雨妖の口の中だ。目が暗闇に慣れるとともに、[r]物々しい歯列が視界の上下を縁取っているのに気付く。[p]
 そしていま、僕が雨妖の口内から相対しているその影は――[p]
 #雨妖
 「こいつの命が惜しいのだろう？　ならば貴様の命と交換だ。わかるな？　[r]　赤羽雪乃……いや。『[ruby text="し"]翅[ruby text="よう"]妖：[ruby text="か"]華[ruby text="ばね"]羽[ruby text="しろ"]白[ruby text="ゆき"]逝[ruby text="ひめ"]姫』」[p]
-[yukino3]
+#
+[yukino3 wait=false][haruya time=700]
 #春也
 「先輩！！」[p]
 #雨妖
 「騒ぐな」[p]
 #
+[haruyahide wait=false]
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
 #先輩
 [yukino/9]「春也くん！！」[p]
 #雨妖
 「動くな白逝！！」[p]
 #
-雨妖の怒声に、一瞬体が浮き上がるかのような錯覚を覚える。[r]それでもどうにか喉の奥へと転落しないようこらえていると、[r]やっと舌が元の平坦さを取り戻す。[p]
+雨妖の怒声に、一瞬体が浮き上がるかのような錯覚を覚える。[p]
+それでもどうにか喉の奥へと転落しないようこらえていると、[r]やっと舌が元の平坦さを取り戻す。[p]
 #先輩
 [yukino/5]「深江。……本当にそんな手段が通ると思っているのか？[r]　私が誰か知っているだろう？」[p]
 #雨妖
@@ -140,11 +154,17 @@
 #雨妖
 「血は争えんものだな。[r]　貴様も随分こいつに慕われているようじゃないか？」[p]
 #
+[backlay layer=base]
+[bg storage="ajisairain.jpg" time=0]
+[filter blur=0 brightness=100 layer=base page=back]
+[trans layer=base time=1000]
 雨妖が大口を開いた。[r]それにつれて僕の目に映る景色も広がりを見せる。[p]
 雨降る闇の最中。月の白い光がかすかに兆していた。[r]辺りにきらきら輝いているのは、[r]草木に散った雨粒が月光を照り返しているものらしい。[p]
+[free_filter]
 月と雨のしずくが暗がりに花の色を描き出す様は、[r]幻想的と言ってよかった。[p]
 あじさい園。[p]
 花と草木に囲まれた中で、広場のように開けた場所。[r]その中央に見慣れた人影が立っていた。[p]
+[haruya]
 #春也
 「先輩……なんですよね」[p]
 #先輩
@@ -216,7 +236,7 @@
 #先輩
 「君が最後にそう言ってくれたこと、それが私の救いだ」[p]
 [mask time=500 color="0xFFFFFF"]
-[hide time=0]
+[hide time=0][haruyahide time=0]
 [bg2 storage="white.jpg" time="0"]
 [wait time=500]
 #
@@ -227,11 +247,11 @@
 待ち望んだ瞬間の到来。先輩が見せた諦念。悲願成就の時。[p]
 そして不意の脱出。[p]
 人間風情の僕が雨妖の隙を突けたのは、[r]そういった要因が重なったからだろう。[p]
-濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 [mask time=500 color="0xFFFFFF"]
-[yukino9 time=0]
-[bg2 storage="ajisairain.jpg" time="500" cross=true wait=true]
-[mask_off time=500]
+[yukino9 time=0][haruya time=0]
+[bg2 storage="ajisairain.jpg" time="500" wait=true]
+[mask_off time=500 effect=vanishOut]
+濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 #春也
 「それだけは、駄目なんです！！」[p]
 #
@@ -240,18 +260,18 @@
 「貴様ァッ」[p]
 #
 即座に雨妖が追いすがる。[r]だけれど僕は人間として、というかたぶん、後輩としての意地で。[p]
-[mask time=500]
-[hide time=500]
-[bg2 storage="black.png" time="0"]
-[mask_off time=500]
 #春也
 「生きていてほしいんです……っ」[p]
 #
+[mask time=500 effect="fadeInDown"]
+[hide time=0][haruyahide time=300]
+[bg2 storage="black.png" time="0"]
+[mask_off time=500]
 雨妖に喰われる寸前に、それだけは言い残すことが出来た。[p]
 
-[mask time=800 effect="fadeInDownBig"]
+[mask time=800]
 [bg2 storage="black.png" time="0"]
-[wait time=800]
+[wait time=2000]
 [mask_off time=800]
 
 #
@@ -299,7 +319,7 @@
 「大丈夫。安心して」[p]
 #
 先輩の胸に細く切れ込みが入る。[r]するとまるで先輩の内部が光で満ちていたかのように、[r]まばゆい光芒が胴の切れ目からあふれ出す。[p]
-夜空を割らんばかりに迸っていた光だったが、少しずつその力は弱まっていき、[r]やがて瞳を閉ざすかのように消え入った。[p]
+夜空を割らんばかりに迸っていた光だったが、[r]少しずつその力は弱まっていき、[r]やがて瞳を閉ざすかのように消え入った。[p]
 #雨妖
 「白逝！！　貴様何を――」[p]
 #先輩
@@ -312,14 +332,18 @@
 「正気か！？　今更帰還したところで到底許されはせんぞ……！」[p]
 #先輩
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
-[mask time=500 color="0xffffff"]
+[mask time=800 color="0xffffff"]
+[M0]
 [bg2 storage="ajisairain.jpg" time="0"]
-[wait time=500]
-[mask_off time=500]
+[wait time=800]
+[mask_off time=800]
 #
 そう言って先輩は地上に降り立つ。先程までの戦いが嘘のような静寂だ。[p]
 戦闘は終わったのだ。[p]
-雨妖はしばし呆然としていたが、やがて歯噛みしてぶつぶつ呟いた。[r]捨て台詞のようだったが上手く聞き取れない。[r]しかしやがて雨妖は、僕を睨んでこう言った。[p]
+@layopt layer="2" visible=true
+[image layer="2" storage="uyo.png" width=900 left=190 top=-150 time=700]
+雨妖はしばし呆然としていたが、やがて歯噛みしてぶつぶつ呟いた。[r]捨て台詞のようだったが上手く聞き取れない。[p]
+しかしやがて雨妖は、僕を睨んでこう言った。[p]
 #雨妖
 「下地春也」[p]
 #春也
@@ -328,11 +352,17 @@
 「これは返しておく。[r]　こんな穢らわしいものを持って帰るわけにはいかない」[p]
 #
 そう言って雨妖が吐き出したのは、僕が差していた傘だった。[r]開いた状態で放り出されて、そのままぼよんと地面に弾んだ。[p]
+[trans_out layer="2" time=1000 method="fadeOutDown"]
+[freeimage layer="2" time=0 page=back]
 傘一本を置き土産に、雨妖は地面に沈んでいく。[p]
 静寂。雨の音。いつの間にか先輩は人間の姿に戻っていた。[p]
 僕たちはしばらく、ふたり寄り添って呆然としていた。[p]
 誰もいないあじさい園。[p]
 僕は地面を。[p]
 先輩は遠い夜空を見つめていた。[p]
+
+[mask time=1000]
+[bg2 storage=ajisairain.jpg time=1000 width=1600 left=-160 height=900]
+[mask_off time=1000]
 
 @jump storage="scene9A.ks" target=*scene9
