@@ -222,13 +222,13 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [endmacro]
 
 ;1基本,2驚き,3笑顔１,4笑顔２,5笑顔３,6目伏せ横顔,7自嘲
-[macro name="bucho"][chara_show name="bucho" storage="%storage|bucho/bucho1.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho2"][chara_show name="bucho" storage="bucho/bucho2.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho3"][chara_show name="bucho" storage="bucho/bucho3.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho4"][chara_show name="bucho" storage="bucho/bucho4.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho5"][chara_show name="bucho" storage="bucho/bucho5.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho6"][chara_show name="bucho" storage="bucho/bucho6.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
-[macro name="bucho7"][chara_show name="bucho" storage="bucho/bucho7.png" page="%page|fore" top="%top|30" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho"][chara_show name="bucho" storage="%storage|bucho/bucho1.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho2"][chara_show name="bucho" storage="bucho/bucho2.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho3"][chara_show name="bucho" storage="bucho/bucho3.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho4"][chara_show name="bucho" storage="bucho/bucho4.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho5"][chara_show name="bucho" storage="bucho/bucho5.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho6"][chara_show name="bucho" storage="bucho/bucho6.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
+[macro name="bucho7"][chara_show name="bucho" storage="bucho/bucho7.png" page="%page|fore" top="%top|20" left="%left" time="%time|700" width="%width|1000"][endmacro]
 [macro name="buchohide"][chara_hide name="bucho" time="%time|700"][endmacro]
 [macro name="bucho/1"][chara_mod name="bucho" storage="bucho/bucho1.png" cross="false" wait="true" time="%time|100][endmacro]
 [macro name="bucho/2"][chara_mod name="bucho" storage="bucho/bucho2.png" cross="false" wait="true" time="%time|100][endmacro]
@@ -254,7 +254,7 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 
 [macro name="kaisou"][layopt layer=1 visible=true][image layer="1" storage="vignette.png" name="kaisou"][endmacro]
 [macro name="fkaisou"][free name="kaisou" layer=1][endmacro]
-
+;機能
 [chara_config ptext="chara_name_area" pos_mode=true memory=true effect=easeOutQuad]
 [macro name="role"][button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610][endmacro]
 [macro name="role2"][button name="role_button" role=menu graphic="menu_off2.png" enterimg="menu_on2.png" x=1130 y=610][endmacro]
@@ -299,13 +299,34 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [frame p="100%" y=" 0"]
 [endkeyframe]
 
+[keyframe name="nod2"]
+[frame p="0%" y="0"]
+[frame p="25%" y="15"]
+[frame p="50%" y="0"]
+[frame p="75%" y="15"]
+[frame p="100%" y=" 0"]
+[endkeyframe]
+
+[keyframe name="surp"]
+[frame p="0%" y="0"]
+[frame p="50%" y="-15"]
+[frame p="100%" y=" 0"]
+[endkeyframe]
+
 [keyframe name="down"]
 [frame p="0%" y="0"]
-[frame p="100%" y="15"]
+[frame p="100%" y="10"]
 
 [keyframe name="up"]
 [frame p="0%" y="0"]
-[frame p="100%" y="-15"]
+[frame p="100%" y="-10"]
+[endkeyframe]
+
+[keyframe name="no"]
+[frame p="0%" x="0"]
+[frame p="25%" x="15"]
+[frame p="66%" x="-15"]
+[frame p="100%" x=" 0"]
 [endkeyframe]
 
 [return]

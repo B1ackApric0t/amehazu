@@ -5,7 +5,7 @@ div.circle {
   width:  26px;
   height: 26px;
   margin: 0px auto;
-  border: #FFF 2.5px solid;
+  border: #000000 2.5px solid;
   border-radius: 50%;
   transform: scale(0.01,0.01);
   animation: wave 1.5s infinite;

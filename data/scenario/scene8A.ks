@@ -77,10 +77,10 @@
 #
 [freeimage layer=2]
 盛大な水しぶきとともに、雨妖の姿が眼前から消え失せる。[r]ふっと我に返り、雨妖の行方を捉えようと辺りを見回したそのとき。[p]
-[anim name=genkanbg top=+360 time=1000]
+[anim name=genkanbg top=+360 time=1000][wa]
 頭上にただならない重圧を感じ、僕は思わず傘を下ろして天を仰ぐ。[p]
 [mask time=300 effect=fadeInDownBig]
-[haruyahide wait=false]
+[haruyahide time=0]
 [anim name=genkanbg top=0 time=0]
 [bg2 storage="black.png" time="100"]
 [mask_off time=300]
@@ -116,13 +116,13 @@
 #雨妖
 「こいつの命が惜しいのだろう？　ならば貴様の命と交換だ。わかるな？　[r]　赤羽雪乃……いや。『[ruby text="し"]翅[ruby text="よう"]妖：[ruby text="か"]華[ruby text="ばね"]羽[ruby text="しろ"]白[ruby text="ゆき"]逝[ruby text="ひめ"]姫』」[p]
 #
-[yukino3 wait=false][haruya time=700]
+[yukino3][haruya time=700]
 #春也
 「先輩！！」[p]
 #雨妖
 「騒ぐな」[p]
 #
-[haruyahide wait=false]
+[haruyahide time=400 wait=false]
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
 #先輩
 [yukino/9]「春也くん！！」[p]
@@ -167,6 +167,8 @@
 [haruya]
 #春也
 「先輩……なんですよね」[p]
+#
+[haruyahide time=400]
 #先輩
 [yukino/3]「……春也くん……」[p]
 #
@@ -198,6 +200,7 @@
 罪なんて裁く奴が裁けばいい。[r]僕は雨妖の思っているように、断罪者役を務める気はなかった。[p]
 僕は先輩の後輩なのだ。[p]
 そしていま、後輩として伝えるべきことは。[p]
+[haruya]
 #春也
 [yukino/9]「違います！！　騙したのは僕のほうなんです……！」[p]
 「本当は先輩と離れたくなんかないですよ！！[r]　僕は強い人間なんかじゃない……！」[p]
@@ -212,7 +215,8 @@
 #先輩
 [yukino/12]「……私も父上に飼われていた。ただ広いだけで何もない、[r]　窓もない虫かごみたいな部屋に閉じ込められて、[r]　誰と会うこともなく過ごしてきた」[p]
 「そんなだったから私、誰かと関わってみたかったんだよ。[r]　それで方々に無理を通して、ここにやって来た」[p]
-「だけど難しいね。誰かと関わりを持つって、それがゴールじゃないもんね。[r]　私には中々上手くできなかった。[r]　やっぱり私が人間じゃないからなのかな」[p]
+「だけど難しいね。[r]　誰かと関わりを持つって、それがゴールじゃないもんね」[p]
+「私には中々上手くできなかった。[r]　やっぱり私が人間じゃないからなのかな」[p]
 「それでもう期限も近くなって、諦めて素直に帰ろうかと思ったけど。[r]　期間の間際に君と出会って、もう少しここにいたいと思ってしまった」[p]
 [yukino/13]「私、たくさんの人に迷惑をかけてしまった。[r]　どれだけの人を困らせたり、嫌な思いをさせてしまったか知れない」[p]
 「考えると辛くなるんだよ。あげく君さえも命の危機に陥れてしまっている。[r]　やっぱり私は駄目な奴だ。消えるべきなんだ」[p]
@@ -248,8 +252,8 @@
 そして不意の脱出。[p]
 人間風情の僕が雨妖の隙を突けたのは、[r]そういった要因が重なったからだろう。[p]
 [mask time=500 color="0xFFFFFF"]
-[yukino9 time=0][haruya time=0]
-[bg2 storage="ajisairain.jpg" time="500" wait=true]
+[yukino9 width=1400 top=30 time=0][haruya time=0]
+[bg2 storage="ajisairain.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
 [mask_off time=500 effect=vanishOut]
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 #春也
@@ -271,6 +275,7 @@
 
 [mask time=800]
 [bg2 storage="black.png" time="0"]
+[fadeinse storage=sea.ogg loop=true time=2000]
 [wait time=2000]
 [mask_off time=800]
 
@@ -281,6 +286,7 @@
 果たして僕の言葉に、どれほどの意味があっただろうか？　[r]ただ生きろと言われたことが、先輩にとってどんな意味を持ちうるのか？[p]
 わからない。水は激しく渦を巻いている。[r]噛み潰さなかったということは、まだ僕を人質として使う気があるのか……？[p]
 わからない。何もわからなくなってくる。[r]息苦しさの中で、場違いな浮遊感に意識が染まり始める。[p]
+[fadeoutse time=2000]
 [M1]
 [bg2 storage="inthedark.png" time="500" cross=true wait=true]
 ――闇の中に何かが見えた。それは白い光だった。[p]
@@ -351,6 +357,7 @@
 #雨妖
 「これは返しておく。[r]　こんな穢らわしいものを持って帰るわけにはいかない」[p]
 #
+[playse storage=basa.ogg]
 そう言って雨妖が吐き出したのは、僕が差していた傘だった。[r]開いた状態で放り出されて、そのままぼよんと地面に弾んだ。[p]
 [trans_out layer="2" time=1000 method="fadeOutDown"]
 [freeimage layer="2" time=0 page=back]

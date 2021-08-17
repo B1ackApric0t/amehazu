@@ -52,15 +52,9 @@
 [bg2 storage=black.png time=300]
 [mask_off time=300]
 このまま考えていてもしょうがないので、僕は部室を発つことにする。[r]いま何時頃かとポケットからスマホを出したが、先輩からの連絡はなかった。[p]
-[bg2 storage="entrance.jpg" time=800 cross=true wait=true method=fadeInRight]
-玄関口を出る。地面に一歩踏み出すとき、[r]まるでガラス張りの床を歩いているみたいにひやひやした。[p]
-
-;[clearfix name="role_button"]
-;@layopt layer="message" visible=false
-[bg2 storage="michi_rain.jpg" time=1000 cross=true wait=true]
-;@layopt layer="message" visible=true
-;[role]
-
+[bg2 storage="entrance.jpg" time=2000 cross=true wait=true method=fadeInRight]
+[wait time=200]
+[bg2 storage="michi_rain.jpg" time=2000 cross=true wait=true method=fadeInRight]
 曇天のもとを歩んでいると、何かが僕の首筋を這い上がった。[p]
 その感覚に思わず声をあげそうになるが、すんでのところでこらえた。[r]虫か何かだろうか？[p]
 うなじを手で払おうとするがその感覚は抜けない。[r]首筋がどこか濡れている。[p]
@@ -76,8 +70,9 @@
 #
 耳元で何かがぱちんと弾けた。[r]おそるおそる手をやってみると、指先が濡れている。[p]
 いまのは何だったんだ？[p]
-僕は急に恐ろしくてたまらなくなる。知ってはいけないもの、[r]聞いてはならないものに触れられてしまった気がする。[p]どうして立て続けにこんな目に遭うのだろう？　訳が分からない。[p]
-ただ、ひとつだけ言えることは、何か超常的なものが今この町に出没していて、[r]それは僕と関わりを持とうとしているらしいということだった。[p]
+僕は急に恐ろしくてたまらなくなる。知ってはいけないもの、[r]聞いてはならないものに触れられてしまった気がする。[p]
+どうして立て続けにこんな目に遭うのだろう？　[r]訳が分からない。[p]
+ただ、ひとつだけ言えることは、[r]何か超常的なものが今この町に出没していて、[r]それは僕と関わりを持とうとしているらしいということだった。[p]
 僕は何かに巻き込まれたらしかった。[r]そして昨日先輩が襲われたことも、その何かの一部に違いなかった。[p]
 呼びつけられた不穏さを胸に抱えながら、[r]僕は重い足取りで帰路を歩むのだった。[p]
 [mask time="1000"]

@@ -12,8 +12,8 @@
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
-[button name="role_button" role=menu graphic="menu_off.png" enterimg="menu_on.png" x=1130 y=610]
-[bg2 storage ="ajisairain.jpg" width=1600 left=-160 height=900 time=300]
+[role][haruya time=0]
+[bg2 storage ="ajisai.jpg" width=1600 left=-160 height=900 time=300]
 [mask_off time=500]
 
 *scene9
@@ -136,7 +136,7 @@
 [yukino/10]「いいね。いいかもしれない。でも……」[p]
 #
 そこで先輩は、ああ、と声を上げた。[r]振り向くと先輩は、空の月を見上げていた。[p]
-[hide wait=false time=500]
+[hide wait=false time=400][haruyahide time=400]
 [bg2 storage=moon.jpg wait=true time=1000 cross=true method=fadeInUp]
 #先輩
 「月が、きれいだ」[p]
@@ -165,10 +165,10 @@
 「寂しい」[p]
 #
 [bg2 storage ="ajisairain.jpg" width=1600 left=-160 height=900 time=1000 method=fadeInDown]
-[yukino13 top=30 width=1500]
+[haruya time=700 wait=false][yukino11 top=30 width=1500]
 即答して、先輩は目を伏せた。[p]
 #先輩
-「寂しくていまにも体が崩れてしまいそうだ」[p]
+[yukino/13]「寂しくていまにも体が崩れてしまいそうだ」[p]
 #春也
 「……僕に何かできることがあれば」[p]
 #
@@ -193,13 +193,14 @@
 #雨妖
 「貴様らァァッ！！」[p]
 #
+[playse storage=zabun.ogg]
 背後でざぱんと音がした。[r]耳をつんざく雨妖の声が上空から地面に叩きつけられる。[r]その地響きにあじさいがそよいだ。[p]
 #春也
 「――！！」[p]
 #
 振り向こうとしたところを先輩の胸に抱え込まれる。[p]
 [mask time=300]
-[hide time=0]
+[hide time=0][haruyahide time=0]
 [bg2 storage=black.png time=300]
 [mask_off time=300]
 #先輩
@@ -221,7 +222,7 @@
 さっき先輩が口にしたのは、『咲け』だったのか『裂け』だったのか。[p]
 しかしいまとなってはどうでもいいことなのだろう。[p]
 [mask time=500]
-[yukino12 time=0 top=30 width=1500]
+[yukino12 time=0 top=30 width=1500][haruya time=0]
 [bg2 storage ="ajisairain.jpg" width=1600 left=-160 height=900 time=500]
 [mask_off tme=500]
 #春也
@@ -253,13 +254,13 @@
 #先輩
 「ありがとう。それじゃ、そうだね」[p]
 #
-[hide]
+[hide time=400][haruyahide time=400]
 先輩の姿が異形に転じてゆく。[r]そして再び僕を抱えて、空へ飛び立った。[p]
 [bg2 storage ="moon.jpg" time=1000 cross=true wait=true method="vanishIn"]
 月が眼前に迫る。その向こうが覗けそうなほどに。[p]
 
-[mask time=800]
-[bg2 storage ="entrance2.jpg" time=800 wait=true]
+[mask time=1000]
+[bg2 storage ="entrance2.jpg" time=1000 wait=true]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
 @jump storage="scene10B.ks" target=*scene10

@@ -19,7 +19,7 @@
 *scene8
 #
 雨。闇。時刻は夜九時。雨妖の定めた刻限の、ちょうど一時間前。[p]
-[bg2 storage="haruyaroom.jpg" time=500 cross=true wait=true]
+[bg2 storage="haruyaroom.jpg" time=1000 cross=true wait=true]
 僕はスマートフォンを握りしめたまま、机に肘を突いて悶々としていた。[p]
 やたら緊張している。電話を待っているだけなのに。[p]
 なにも手につかない。[p]
@@ -48,7 +48,10 @@
 「空ですか？」[p]
 #先輩
 「一生に一度の見物だよ。見逃さないように」[p]
-[bg2 storage="sky.jpg" time=500 cross=true wait=true]
+[mask time=500]
+[bg2 storage="sky.jpg" time=300]
+[playse storage=openw.ogg]
+[mask_off time=1000 effect=fadeOutLeftBig]
 #
 僕は念のため部屋の電気を消すと、カーテンを開けて窓を開いた。[r]真っ黒な雲が夜の闇と一体になって、その最中に雨音だけが響いている。[p]
 #先輩
@@ -65,16 +68,17 @@
 その光は少しずつ膨張していく。[r]そして夜空の月ぐらいの大きさになったかと思うと、[r]一気に凝縮して光は点となった。[p]
 なおも空の動静を見守っていた。するとその瞬間だった。[p]
 [mask time=700 color=0xffffff]
-[bg2 storage="moon.jpg" time="500"wait=true]
-[wait time=700]
-[mask_off time=400]
+[bg2 storage="moon.jpg" time="400"wait=true]
+[mask_off time=700]
 空の一点から全天に向けて、まばゆい光が輪のように広がり駆け抜けていく。[r]まるで星の爆発だった。[p]
 かと思うと夜空にきらきら星が輝き、巨大な満月が地上を照らし始めた。[p]
 空は晴れ上がった。地域一帯の雨雲が一掃されたのだ。[p]
 #春也
 「……先輩……？」[p]
 #
+[playse storage=phone.ogg loop=true ]
 再び着信。受話すると同時に僕は声を張り上げた。[p]
+[stopse]
 #春也
 「あれ先輩がやったんですか！？」[p]
 #先輩
@@ -94,9 +98,11 @@
 「さ。それじゃ次は待ち合わせといこうか。私が君を迎えに行くよ」[p]
 「そうだな……君の部屋って、確か窓はあったよね？」[p]
 #
+[bg2 storage="black.png" time=1000 cross=true]
 先輩はやはりなんでもない調子で続ける。[p]
 そうか。僕たちが選んだ道は、こういうことなのか。[p]
-[bg2 storage="haruyaroom.jpg" time=500 cross=true wait=true]
+[filter layer="base" brightness=25]
+[bg2 storage="haruyaroom.jpg" time=1000]
 深呼吸。一度気持ちを落ち着かせたい。[p]
 #先輩
 「あ。深呼吸してる」[p]
@@ -148,6 +154,7 @@
 ふと隙間から覗いた窓の向こうに、夜が遠く広がっていた。[r]どこまでも遠く広がっていた。[p]
 
 [mask time=500]
+[free_filter]
 [bg2 storage="black.png" time="0"]
 [wait time=800]
 [mask_off time=500]
@@ -168,12 +175,13 @@
 先輩、先輩……[p]
 準備は出来た。意は決した。[p]
 自分でも驚くほど震える手先で、僕は玄関の戸を開く。[p]
-#春也
-「……先輩……？」[p]
 [mask time=500]
-[bg2 storage="genkan.jpg" time="0"]
+[bg2 storage="genkan1.jpg" time="0"]
+[haruya time=0]
 [wait time=500]
 [mask_off time=500]
+#春也
+「……先輩……？」[p]
 #
 そこに立っていたのは異形のもの。[r]決して人ではありえないが、しかし怪物と称するには美麗すぎる。[p]
 この世界に類似するものなんてひとつもなさそうな、[r]唯一無二の存在だった。[p]
@@ -183,7 +191,8 @@
 「うん。私だよ、春也くん。はじめまして。[r]　赤羽雪乃改め、[ruby text="し"]翅[ruby text="よう"]妖：[ruby text="か"]華[ruby text="ばね"]羽[ruby text="しら"]白[ruby text="ゆき"]逝[ruby text="ひめ"]姫。これが私の姿と名前」[p]
 #
 白い長髪が夜風になびいて、さながら白銀の川の流れだった。[r]すらりとして真っ黒な胴体の背後に、蝶のような赤い翅が広がっている。[r]そして何より目を引いたのは、顔のあるべき所に顔のないその姿だった。[p]
-僕がしばらく先輩の姿をじっと見つめていると、先輩が困ったように笑った。[r]僕もうっかり見過ぎていると気付いて慌てて視線を逸らした。[r]少々のぎこちなさ。[p]
+僕がしばらく先輩の姿をじっと見つめていると、[r]先輩が困ったように笑った。[p]
+僕もうっかり見過ぎていると気付いて慌てて視線を逸らした。[r]少々のぎこちなさ。[p]
 #先輩
 「きっと、本当は来るべきじゃなかった」[p]
 #
@@ -198,6 +207,7 @@
 「それが問題だ」[p]
 #
 はぁ、と先輩は息をついた。やれやれ、といった雰囲気だった。[r]それから空を見上げて呟いた。[p]
+[haruyahide time=400][bg2 storage=moon.jpg time=1000 cross=true method=fadeInUp]
 #先輩
 「月がまぶしいせいだ」[p]
 #
@@ -239,6 +249,7 @@
 #春也
 「特別」[p]
 #
+[bg2 storage="genkan1.jpg" time="1000" cross=true method=fadeInDown][haruya]
 反射的だった。[r]自分で自分の発した言葉に驚いて、ひやりとした。[p]
 いつもなら間違いなく取り消すけれど、[r]だけれど今はそのいつもではないのだ。[p]
 僕は先輩に重ねた手を、そっと胸元に持ってきた。[r]そして両手で包み込み、僕は先輩の、顔のない顔を見上げて、改めて言った。[p]
@@ -304,6 +315,7 @@
 #先輩
 「この翅で」[p]
 #
+[haruyahide]
 先輩が僕を抱き上げる。僕は先輩に身を任せる。[r]ふわりと体が宙に浮いて、じきに目線が民家の屋根を越した。[p]
 [mask time=500 effct="fadeInUp"]
 [bg2 storage="nightcity.jpg" time="0"]
@@ -328,9 +340,9 @@
 結局ぽつぽつ話しながら、僕らは夜の飛行を続けた。[r]満月を戴きながら、夜空の雲を縫って。[p]
 きっと僕らは遠目に見れば、ひとつの点となってこの空を駆けていた。[p]
 
-[mask time=800]
-[bg2 storage="ajisairain.jpg" width=1600 left=-160 height=900 time="0"]
-[wait time=800]
-[mask_off time=800]
+[mask time=1000]
+[bg2 storage="ajisai.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
+[wait time=1000]
+[mask_off time=1000 effect="fadeOutUpBig"]
 
 @jump storage="scene9B.ks" target=*scene9

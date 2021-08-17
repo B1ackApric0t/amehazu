@@ -3,7 +3,7 @@
 [clearfix]
 [start_keyconfig]
 [fadeoutbgm]
-[fadeinbgm storage=rain_kasa.mp3 loop=true time=3000]
+[fadeinse storage=rain_kasa.ogg loop=true time=2000]
 [mask time=500]
 [bg storage="black.png" time="1000"]
 [role]
@@ -11,14 +11,16 @@
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 @layopt layer=message0 visible=true
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
+[wait time=1500]
 [mask_off time=1000]
 
 *scene1
 #
 「相合傘って」[p]
-[fadeoutbgm time=3000]
+[fadeoutse time=5000]
 [M1]
 [bg2 storage="tonarib.jpg" time=1000 ]
+[fadeinbgm storage=kaiwa_loop.ogg time=3000]
 #先輩
 「濡れてるほうが惚れてるって言うね」[p]
 #春也
@@ -126,22 +128,16 @@
 [wait time=500]
 #先輩
 「ありがとう、春也くん」[p]
-
 #
 傘の中で、僕たちは向かい合う。[p]
 [hide time=100]
 [yukino7]
-
 #先輩
 「傘、入れてくれて。もう大丈夫だよ」[p]
-
 #春也
 「ひとりで歩いてくつもりですか？　この雨の中」[p]
-
 #
 [kanim name="yukino" keyframe="nod" time="500"]
-[wa]
-[stop_kanim name="yukino"]
 先輩はうなずいた。その姿に色んな思いが湧き上がってくる。[p]
 先輩は濡れて帰るつもりだ。[p]
 僕が途中まででも送っていったほうがいいんじゃないか？[r]いくら先輩でもびしょ濡れで歩いていては体調を崩しかねない。[p]
@@ -151,26 +147,25 @@
 [yukino/2]
 #先輩
 「じゃあね、春也くん。また明日」[p]
-
 #春也
 「あ……」[p]
-
 #
 声が詰まる。気付けば口が勝手に動いていた。[p]
-
 #春也
 「はい。また明日……」[p]
 #
 [hide]
+[fadeinse storage=rain_kasa.ogg time=3000]
 小さくなっていく先輩の背中を眺めながら、僕はため息をついた。[p]
 まただ。[p]
 言うか言うまいか迷った末にタイミングを逸して、[r]そのまま流されてしまう。[p]
 こうなるといつも後味が悪い。[p]
 これで先輩が風邪を引きでもしたら、[r]僕はいつまでも今日のことを引きずるに違いない。[p]
 じっとりとした感触に我に返る。[r]右肩に濡れて張り付くワイシャツの感触だった。[p]
+[fadeoutbgm time=5000]
 [haruyahide wait=false]
 [M1]
-[bg2 storage=shadow.jpg time=1500 cross=true wait=true]
+[bg2 storage=shadow.jpg time=1500 cross=true wait=false]
 これ以上濡れないうちにと僕は家路に足を向け直す。[r]罪悪感が影のように尾を引いていた。[p]
 雨音が遠くまで続いている。[r]ひとりになった傘の中は、広いけれどどこか空しい。[p]
 [rhide]
@@ -178,9 +173,11 @@
 [wait time="1000"]
 
 [bg2 storage="shadow2.jpg" time="3000" wait=true]
+[fadeoutse time=1500]
 [wait time=1000]
 
 [mask time="1500"]
+[M0]
 [wait time="1500"]
 [anim layer="message0" opacity=255 time="0"]
 [bg2 storage="busiturain.jpg" time="0"]

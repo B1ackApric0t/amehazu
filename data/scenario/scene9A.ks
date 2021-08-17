@@ -18,8 +18,10 @@
 
 *scene9
 #
-沈黙の中、僕たちは雨に降られていた。[r]しばらくして先輩のほうを振り向こうとしたとき、[r]先輩に優しく抱きしめられた。[p]
-僕は驚いて、迷いながらも、抱き返した。[r]お互いびしょびしょに濡れていて、[r]それだけに先輩の暖かさが肌に伝わってくる。[p]
+沈黙の中、僕たちは雨に降られていた。[p]
+しばらくして先輩のほうを振り向こうとしたとき、[r]先輩に優しく抱きしめられた。[p]
+僕は驚いて、迷いながらも、抱き返した。[p]
+お互いびしょびしょに濡れていて、[r]それだけに先輩の暖かさが肌に伝わってくる。[p]
 [yukino1 width=1400 top=30]
 #先輩
 「春也くん」[p]
@@ -36,6 +38,8 @@
 #春也
 「よかったです。先輩……」[p]
 #
+[hide time=100]
+[yukino7 width=1000 top=50 wait=false]
 僕たちはもうしばらくそうしていた。[r]それから体を離して、互いの姿を眺めた。[p]
 #先輩
 「びしょぬれだ」[p]
@@ -61,6 +65,8 @@
 #先輩
 「んー……そうだ」[p]
 #
+[hide time=100]
+[yukino7 width=1400 top=30 wait=false]
 僕が掲げた傘の下に、びしょぬれの先輩が入ってくる。[r]そして言った。[p]
 #先輩
 [yukino/2]「一緒に帰ろう。相合傘でさ」[p]
@@ -73,14 +79,14 @@
 
 [mask time=700 effect="fadeInUp"]
 [bg2 storage="entrance2.jpg" time="0"][haruyahide time=0]
-[wait time=500]
+[wait time=800]
 [mask_off time=700 effect="fadeOutDown"]
 
 #
 赤い羽が闇にさらりと溶けた。[r]先輩の羽で飛び立った僕たちは、しばらくの夜間飛行を経てここに降りた。[p]
 僕たちの高校。すでに閉じた校門の前だ。[p]
 僕たちはこれから帰るのだ。長いようで一瞬だった、この旅路から。[p]
-[yukino1 width=1400 top=30 wait=false][haruya time=700]
+[yukino1 width=1400 top=30]
 #先輩
 「……」[p]
 #
@@ -88,10 +94,12 @@
 卒業するんだ、と僕は思った。[p]
 #先輩
 [yukino/7]「……ごめん。待たせてしまったね。行こうか」[p]
+#
+[haruya]
 #春也
 「もういいんですか？」[p]
 #先輩
-[yukino/10]「うん」[p]
+[yukino/10][kanim name="yukino" keyframe="nod" time="500"]「うん」[p]
 #
 先輩がうなずいた。[p]
 #先輩
@@ -102,11 +110,11 @@
 僕たちは校舎に背を向ける。[r]僕が少し早く、先輩は少し遅れて。[p]
 そして僕たちは、最後の帰路につき始めた。[p]
 
-[mask time=500 effect="fadeInLeft"]
+[mask time=700 effect="fadeInLeft"]
 [M1]
 [bg2 storage="tonarib_n.jpg" time="0"]
-[wait time=500]
-[mask_off time=500 effect="fadeOutRight"]
+[wait time=700]
+[mask_off time=700 effect="fadeOutRight"]
 
 #春也
 「どうでした？　高校生活」[p]
@@ -280,14 +288,18 @@
 今ならその気持ちも、ちょっとはわかる。[p]
 あのひとのことがわかる。[p]
 少しではあるけれど。[p]
+[mask time=500]
 [M1]
 [filter brightness=30 layer=base]
-[bg2 storage="shadow.jpg" time=1000 wait=true cross=true]
+[bg2 storage="shadow.jpg" width=1600 height=900 left=-160 top=-120 time=500]
+[camera time=18000 y=120 ease_type=linear wait=false]
+[mask_off time=500]
 やがて僕は雨とともに、ひとりの帰路を歩み始める。[p]
 雨に濡れつつ空を見上げた。どこまでも遠い夜。[p]
 手が届きそうなほど遠い夜。[p]
-
+[wait time=700]
 [mask time="1000"]
+[reset_camera time=0]
 [free_filter]
 [M0]
 [bg2 storage="black.png" time="0"]

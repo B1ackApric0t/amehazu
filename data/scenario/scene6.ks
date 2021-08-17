@@ -209,10 +209,18 @@
 「殺してでも……え？　どうして……仲間じゃないんですか？」[p]
 #雨妖
 「この国では近頃、ある殺人事件が世間を賑わせているようだな」[p]
-
+[mask time=300]
+@layopt layer="2" visible=false
+[haruyahide time=0]
+[bg2 storage="jutakugai.jpg" time=100]
+[mask_off tim=300]
 #
 それには覚えがある。全国連続殺人事件。[r]僕が先輩とあじさい園に出かける前、話題に出したあの事件だ。[p]
-
+[mask time=300]
+@layopt layer="2" visible=true
+[haruya time=0]
+[bg2 storage="genkan2.jpg"  width=1920 height=1080 left=-320 top=-360 time=100]
+[mask_off tim=300]
 #春也
 「それがどうしたんですか？　いや、まさか先輩が……」[p]
 #雨妖
@@ -251,7 +259,7 @@
 [bg2 storage="tekubi.jpg" time=100]
 [mask_off time=300]
 #
-――あのときだ。あれは雨妖が計算づくでやっていたのか。[p]
+――あのときだ。あれは雨妖が計算ずくでやっていたのか。[p]
 [mask time=300]
 [M0]
 [fkaisou]
@@ -280,7 +288,12 @@
 「奴は其方を信用している。[r]　其方の誘いとあらばさほど警戒もせんだろう」[p]
 #春也
 「でもそれって……！」[p]
-
+#
+[mask time=300]
+[haruyahide time=0]
+@layopt layer="2" visible=false
+[bg2 storage="sky.jpg" time=100]
+[mask_off time=300]
 #雨妖
 「雨が止む」[p]
 #
@@ -294,16 +307,17 @@
 
 #
 ……言えば即座にバレるということか。[r]警告というより脅しに近い。[p]
-
+[mask time=300]
+@layopt layer="2" visible=true
+[haruya time=0]
+[bg2 storage="genkan1.jpg"  width=1920 height=1080 left=-320 top=-360 time=100]
+[mask_off tim=300]
 #雨妖
 「翌夜、雨が降る。そのとき其方の返事を聞こう。[r]　それまで十分に検討を重ねていただきたい」[p]
-
 #
 わざとらしく口を大きく開けて、雨妖はそう言った。[r]嫌でも威圧感溢れる口腔が目に飛び込んでくる。[p]
-
 #雨妖
 「其方の人道的な判断と返答を、期待している」[p]
-
 #
 [trans_out layer="2" time=1000 method="fadeOutDown"]
 [freeimage layer="2" time=0 page=back]

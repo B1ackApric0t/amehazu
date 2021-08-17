@@ -242,7 +242,7 @@
 #雪乃
 「ご期待に添えられたのなら何よりです」[p]
 #部長
-「期待ね。ま、期待は特にしてなかったけどねえ」[p]
+[bucho/3]「期待ね。ま、期待は特にしてなかったけどねえ」[p]
 #
 ふっ、と部長さんは笑った。ふふふふ、と赤羽先輩も笑った。[r]独自の文化が醸成されている。[p]
 #部長
@@ -275,22 +275,19 @@
 そんな気がした。[p]
 [chara_hide_all wait=false][haruyahide time=1000]
 僕たちは三人して外の景色を眺める。遠く空が広がっていた。[p]
-
-[rhide]
-[mhide]
-[mask time="500"]
-[wait time="500"]
-[bg2 storage="black.png" time="0"]
+[mask time="300"]
+[rhide time=0]
+[mhide time=0]
+[bg2 storage="black.png" time="300"]
 [free name="kaisou" layer=1 ]
-[mask_off time="500"]
+[mask_off time="300"]
 
 [bg2 storage="bluesky.jpg" time="3000" method="fadeInUp" wait=true]
 [wait time=500]
 [mask time="1000"]
-[wait time="200"]
 [anim layer="message0" opacity=255 time="0"]
 [role]
-[bg2 storage="black.png" time="0"]
+[bg2 storage="black.png" time="200"]
 [mask_off time="500"]
 
 
