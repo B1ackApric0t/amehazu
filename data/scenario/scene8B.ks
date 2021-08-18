@@ -28,7 +28,7 @@
 先輩はなにをするつもりなのか？[p]
 [playse storage=phone.ogg loop=true buf=1]
 ――着信。体が跳ね上がる。[p]
-[stopse]
+[stopse buf=1]
 #春也
 「も。もしもし？」[p]
 #先輩
@@ -51,7 +51,7 @@
 「一生に一度の見物だよ。見逃さないように」[p]
 [mask time=500]
 [bg2 storage="sky.jpg" time=300]
-[playse storage=openw.ogg]
+[playse storage=openw.ogg buf=1]
 [mask_off time=1000 effect=fadeOutLeftBig]
 #
 僕は念のため部屋の電気を消すと、カーテンを開けて窓を開いた。[r]真っ黒な雲が夜の闇と一体になって、その最中に雨音だけが響いている。[p]
@@ -180,6 +180,7 @@
 [mask time=500]
 [bg2 storage="genkan1.jpg" time="0"]
 [haruya time=0]
+;[yukinoA time=0]
 [wait time=500]
 [mask_off time=500]
 #春也
