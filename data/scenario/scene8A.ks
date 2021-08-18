@@ -112,8 +112,8 @@
 #
 またも響く重低音に体がしびれる。[p]
 雨妖の声に全身が包まれているような感覚と、[r]ぶよぶよして揺れ動く地面の生ぬるい感触から、[r]僕は自分が置かれた状況をおぼろげながらも推察できた。[p]
-[filter layer="base" brightness=15 blur=5]
-[bg2 storage="ajisairain.jpg" time=1000 cross=true wait=true]
+[filter layer="base" brightness=60 blur=5]
+[bg2 storage="ajisai_night2.jpg" time=1000 cross=true wait=true]
 ここは雨妖の口の中だ。目が暗闇に慣れるとともに、[r]物々しい歯列が視界の上下を縁取っているのに気付く。[p]
 そしていま、僕が雨妖の口内から相対しているその影は――[p]
 #雨妖
@@ -158,8 +158,8 @@
 「血は争えんものだな。[r]　貴様も随分こいつに慕われているようじゃないか？」[p]
 #
 [backlay layer=base]
-[bg storage="ajisairain.jpg" time=0]
-[filter blur=0 brightness=30 layer=base page=back]
+[bg storage="ajisai_night2.jpg" time=0]
+[filter blur=0 brightness=100 layer=base page=back]
 [trans layer=base time=1000]
 雨妖が大口を開いた。[r]それにつれて僕の目に映る景色も広がりを見せる。[p]
 雨降る闇の最中。月の白い光がかすかに兆していた。[r]辺りにきらきら輝いているのは、[r]草木に散った雨粒が月光を照り返しているものらしい。[p]
@@ -257,8 +257,7 @@
 人間風情の僕が雨妖の隙を突けたのは、[r]そういった要因が重なったからだろう。[p]
 [mask time=500 color="0xFFFFFF"]
 [yukino9 width=1400 top=30 time=0][haruya time=0]
-[filter brightness=30 layer=base]
-[bg2 storage="ajisairain.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
+[bg2 storage="ajisai_night2.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
 [mask_off time=500 effect=vanishOut]
 [playse storage=rain8.ogg loop=true]
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
@@ -281,7 +280,6 @@
 雨妖に喰われる寸前に、それだけは言い残すことが出来た。[p]
 
 [mask time=800]
-[free_filter]
 [bg2 storage="black.png" time="0"]
 [fadeinse storage=sea.ogg loop=true time=2000]
 [wait time=2000]
@@ -348,8 +346,7 @@
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
 [mask time=1000 color="0xffffff"]
 [M0]
-[filter brightness=30 layer=base]
-[bg2 storage="ajisairain.jpg" time="0"]
+[bg2 storage="ajisai_night2.jpg" time="0"]
 [wait time=1000]
 [fadeinse storage=rain8.ogg loop=true time=2000]
 [mask_off time=1000]
@@ -379,7 +376,7 @@
 先輩は遠い夜空を見つめていた。[p]
 
 [mask time=1000]
-[bg2 storage=ajisairain.jpg time=1000 width=1600 left=-160 height=900]
+[bg2 storage=ajisai_night2.jpg time=1000 width=1600 left=-160 height=900]
 [mask_off time=1000]
 
 @jump storage="scene9A.ks" target=*scene9

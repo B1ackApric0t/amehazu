@@ -668,6 +668,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [hide time=0][haruyahide time=0]
 [bg2 storage="black.png" time="0"]
 [wait time=2000]
+[fadeinse storage=rain8r.ogg time=2000]
 [mask_off time=1000]
 
 @jump storage="scene8B.ks" target=*scene8

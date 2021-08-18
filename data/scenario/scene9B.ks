@@ -13,8 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role][haruya time=0]
-[filter brightness=30 layer=base]
-[bg2 storage ="ajisai.jpg" width=1600 left=-160 height=900 time=300]
+[bg2 storage ="ajisai_night.jpg" width=1600 left=-160 height=900 time=300]
 [mask_off time=500]
 
 *scene9
@@ -137,11 +136,8 @@
 [yukino/10]「いいね。いいかもしれない。でも……」[p]
 #
 そこで先輩は、ああ、と声を上げた。[r]振り向くと先輩は、空の月を見上げていた。[p]
-[mask time=300 effect=fadeInUp]
-[hide wait=false time=0][haruyahide time=0]
-[free_filter]
-[bg2 storage=moon.jpg wait=true time=100]
-[mask_off time=300 effect=fadeOutUp]
+[hide wait=false time=400][haruyahide time=400]
+[bg2 storage=moon.jpg wait=true time=1000 method=fadeInUp]
 #先輩
 「月が、きれいだ」[p]
 #
@@ -168,11 +164,8 @@
 #先輩
 「寂しい」[p]
 #
-[mask time=300]
-[filter brightness=30 layer=base]
-[bg2 storage ="ajisai.jpg" width=1600 left=-160 height=900 time=100]
-[haruya time=0][yukino11 top=30 width=1500 time=0]
-[mask_off time=300]
+[bg2 storage ="ajisai_night.jpg" width=1600 left=-160 height=900 time=1000 method=fadeInDown]
+[haruya time=400][yukino11 top=30 width=1500 time=400]
 即答して、先輩は目を伏せた。[p]
 #先輩
 [yukino/13]「寂しくていまにも体が崩れてしまいそうだ」[p]
@@ -231,7 +224,7 @@
 しかしいまとなってはどうでもいいことなのだろう。[p]
 [mask time=500]
 [yukino12 time=0 top=30 width=1500][haruya time=0]
-[bg2 storage ="ajisairain.jpg" width=1600 left=-160 height=900 time=500]
+[bg2 storage ="ajisai_night2.jpg" width=1600 left=-160 height=900 time=500]
 [mask_off tme=500]
 #春也
 「彼岸花、心残りなんですか。最後に見たかったとか」[p]
@@ -263,7 +256,6 @@
 「ありがとう。それじゃ、そうだね」[p]
 #
 [mask time=300]
-[free_filter]
 [hide time=0][haruyahide time=0]
 [bg2 storage=black.png time=100]
 [mask_off time=300]
@@ -272,7 +264,8 @@
 月が眼前に迫る。その向こうが覗けそうなほどに。[p]
 
 [mask time=1000]
-[bg2 storage ="entrance2.jpg" time=1000 wait=true]
+[bg2 storage ="entrance2.jpg" time=2000 wait=true]
+[fadeinse storage=rain5.ogg time=2000 loop=true]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
 @jump storage="scene10B.ks" target=*scene10

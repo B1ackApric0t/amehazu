@@ -14,6 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage ="entrance2.jpg" time=300]
+[fadeinse storage=rain5.ogg time=1500 loop=true]
 [mask_off time=500]
 
 *scene10
@@ -31,6 +32,7 @@
 「暗いから。気をつけて」[p]
 #
 僕たちは特にそうと決めたわけでもなく、[r]自然な流れで部室の中へ入り始めた。[p]
+[fadeoutse time=2500]
 [bg2 storage ="busiturain2.jpg" time=1000 cross=true wait=true method="bounceInUp"]
 僕は窓の縁を両手につかむと、窓枠に足をかけて乗り越えた。[r]土足の足の裏がフローリングの床に着く。[p]
 それから脇によけて振り返り、[r]先輩がふわりと蝶のように舞い込んでくるのを見届けた。[p]
@@ -94,6 +96,7 @@
 ……言葉は誰かと通じるためにあるけれど、仲が深まれば深まるほど、[r]むしろ言葉はいらなくなる……そういう境地がある。[p]
 臨界。特異点。――僕らの文芸部室。[p]
 わずかに空気が乱れた。[r]先輩の体温を含んだ吐息が首筋を流れて伝っていく。[r]たぶん言葉になり損なった吐息だった。[p]
+[fadeinse storage=rain5r.ogg time=2000]
 外では雨がさあさあと柔らかなノイズのように降り続いている。[r]沈黙の音だ。[p]
 先輩が耳に口を近づけた。[r]頬に触れる髪の感触がくすぐったい。[r]僕たちはしばし顔を寄せ合ったまま、互いの耳元に互いの息遣いを聞いた。[p]
 [mask time=300]

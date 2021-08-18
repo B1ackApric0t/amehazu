@@ -14,6 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage ="black.png" time=300]
+[fadeinse storage=rain8r.ogg time=1500]
 [mask_off time=500]
 
 *scene8
@@ -25,7 +26,7 @@
 なにも手につかない。[p]
 外の様子が気になったけれど、[r]そうすると雨妖になにか気付かれてしまいそうでできなかった。[p]
 先輩はなにをするつもりなのか？[p]
-[playse storage=phone.ogg loop=true ]
+[playse storage=phone.ogg loop=true buf=1]
 ――着信。体が跳ね上がる。[p]
 [stopse]
 #春也
@@ -67,6 +68,7 @@
 なにが起こっている？　あれは先輩がやっているのか？[p]
 その光は少しずつ膨張していく。[r]そして夜空の月ぐらいの大きさになったかと思うと、[r]一気に凝縮して光は点となった。[p]
 なおも空の動静を見守っていた。するとその瞬間だった。[p]
+[fadeoutse time=700]
 [mask time=700 color=0xffffff]
 [bg2 storage="moon.jpg" time="400"wait=true]
 [mask_off time=700]
@@ -158,7 +160,7 @@
 [bg2 storage="black.png" time="0"]
 [wait time=800]
 [mask_off time=500]
-[playse storage=knock.ogg loop=false ]
+[playse storage=knock.ogg loop=false buf=1]
 #
 こんこんと、窓を叩く音がした。先輩の合図。[p]
 一応カーテンを開いてみるが、窓の外には誰もいない。[r]ただ宵の闇が広がっているばかりだ。[p]
@@ -340,10 +342,9 @@
 結局ぽつぽつ話しながら、僕らは夜の飛行を続けた。[r]満月を戴きながら、夜空の雲を縫って。[p]
 きっと僕らは遠目に見れば、ひとつの点となってこの空を駆けていた。[p]
 
-[mask time=1000]
-[filter brightness=30 layer=base]
-[bg2 storage="ajisai.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
-[wait time=1000]
-[mask_off time=1000 effect="fadeOutUpBig"]
+[mask time=1500]
+[bg2 storage="ajisai_night.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
+[wait time=2000]
+[mask_off time=1500 effect="fadeOutUpBig"]
 
 @jump storage="scene9B.ks" target=*scene9
