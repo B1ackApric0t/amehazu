@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[haruya storage=yukino/tatie8.png time=0]
+[haruya1 time=0]
 [bg2 storage="bus.jpg" time="300"]
 [fadeinse storage=rain5.ogg loop=true time=2000]
 [playse storage=bus.ogg buf=1]
@@ -27,7 +27,7 @@
 [hmod]「何がですか？」[p]
 
 #先輩
-[haruyahide time=0][haruya1 time=0]
+[hmod storage=yukino/tatie1.png]
 「バスの窓から見た景色って、いつもと全然違って見えない？[r]　この街だって、ほら」[p]
 
 #

@@ -138,7 +138,7 @@
 待てよ。急にわからない。[p]
 このわからないというのは共感できないという意味ではなくて、[r]何を言いたいのか掴めないということだ。[p]
 #？？
-「……ごめん。もしかして私、ずっと変なこと言ってる？」[p]
+[yukino3]「……ごめん。もしかして私、ずっと変なこと言ってる？」[p]
 #
 僕が答えあぐねていると、相手は困ったように笑った。[p]
 #春也
@@ -306,6 +306,6 @@
 [bg2 storage="bus.jpg" time="1000"]
 [fadeinse storage=rain5.ogg loop=true time=2000]
 [playse storage=bus.ogg buf=1]
-[haruya storage=yukino/tatie8.png time=0]
+[haruya1 time=0]
 [mask_off time="1000" effect="fadeOutUp"]
 @jump storage="scene4.ks" target=*start

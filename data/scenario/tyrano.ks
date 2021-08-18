@@ -252,8 +252,11 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [macro name="bc/7"][chara_mod name="bucho" storage="bucho/buchoc7.png" cross="false" wait="true" time="%time|100"][endmacro]
 
 [macro name="haruya"][chara_show name="haruya" storage="%storage|haruya/haruya1.png" page="%page|fore" top="370" left="-330" time="%time|700" zindex="200" layer="message0"][endmacro]
-[macro name="haruya1"][chara_show name="haruya" storage="%storage|yukino/tatie1.png" page="%page|fore" top="430" left="-330" time="%time|700" zindex="200" layer="message0"][endmacro]
-[macro name="hmod"][chara_mod name="haruya" storage="%storage|haruya/haruya1.png" cross="false" wait="true" time=0][endmacro]
+[macro name="haruyahide"][chara_hide name="haruya" time="%time|700" layer="message0" wait="%wait|true"][endmacro]
+
+
+[macro name="haruya1"][chara_show name="haruya" storage="%storage|yukino/tatie8.png" page="%page|fore" top="430" left="-330" time="%time|700" zindex="200" layer="message0"][endmacro]
+[macro name="hmod"][chara_mod name="haruya" storage="%storage|haruya/haruya1_1.png" cross="false" wait="true" time=0][endmacro]
 [macro name="haruyahide"][chara_hide name="haruya" time="%time|700" layer="message0" wait="%wait|true"][endmacro]
 
 [macro name="uyo"][chara_show name="uyo" storage="uyo.png" page="%page|fore" top="%top|-150" left="%left" time="%time|700" width="%width|900"][endmacro]
