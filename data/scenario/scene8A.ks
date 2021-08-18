@@ -109,7 +109,7 @@
 #
 またも響く重低音に体がしびれる。[p]
 雨妖の声に全身が包まれているような感覚と、[r]ぶよぶよして揺れ動く地面の生ぬるい感触から、[r]僕は自分が置かれた状況をおぼろげながらも推察できた。[p]
-[filter layer="base" brightness=25 blur=5]
+[filter layer="base" brightness=15 blur=5]
 [bg2 storage="ajisairain.jpg" time=1000 cross=true wait=true]
 ここは雨妖の口の中だ。目が暗闇に慣れるとともに、[r]物々しい歯列が視界の上下を縁取っているのに気付く。[p]
 そしていま、僕が雨妖の口内から相対しているその影は――[p]
@@ -122,6 +122,7 @@
 #雨妖
 「騒ぐな」[p]
 #
+;画面揺らす
 [haruyahide time=400 wait=false]
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
 #先輩
@@ -156,11 +157,10 @@
 #
 [backlay layer=base]
 [bg storage="ajisairain.jpg" time=0]
-[filter blur=0 brightness=100 layer=base page=back]
+[filter blur=0 brightness=30 layer=base page=back]
 [trans layer=base time=1000]
 雨妖が大口を開いた。[r]それにつれて僕の目に映る景色も広がりを見せる。[p]
 雨降る闇の最中。月の白い光がかすかに兆していた。[r]辺りにきらきら輝いているのは、[r]草木に散った雨粒が月光を照り返しているものらしい。[p]
-[free_filter]
 月と雨のしずくが暗がりに花の色を描き出す様は、[r]幻想的と言ってよかった。[p]
 あじさい園。[p]
 花と草木に囲まれた中で、広場のように開けた場所。[r]その中央に見慣れた人影が立っていた。[p]
@@ -202,7 +202,7 @@
 そしていま、後輩として伝えるべきことは。[p]
 [haruya]
 #春也
-[yukino/9]「違います！！　騙したのは僕のほうなんです……！」[p]
+[yukino/14]「違います！！　騙したのは僕のほうなんです……！」[p]
 「本当は先輩と離れたくなんかないですよ！！[r]　僕は強い人間なんかじゃない……！」[p]
 「先輩だって本当は自信ないんですよね？[r]　帰りたくなんかないんですよね……！？」[p]
 #
@@ -228,7 +228,7 @@
 #雨妖
 「もういい！！　お前は彼奴が憎くないのか！？」[p]
 #
-雨妖がの怒声に鼓膜が破れそうになる。[r]見当が外れたことに苛立っているのだろう。[p]
+雨妖の怒声に鼓膜が破れそうになる。[r]見当が外れたことに苛立っているのだろう。[p]
 だけれどおかげで言いたかったことは伝えられた。[r]僕に出来るのはここまでだ。[p]
 先輩は目を閉じて僕の言葉に耳を傾けていた。[r]そしてやがて、言葉の意味を噛みしめるような間の後に、先輩は口を開いた。[p]
 #先輩
@@ -240,6 +240,7 @@
 #先輩
 「君が最後にそう言ってくれたこと、それが私の救いだ」[p]
 [mask time=500 color="0xFFFFFF"]
+[free_filter]
 [hide time=0][haruyahide time=0]
 [bg2 storage="white.jpg" time="0"]
 [wait time=500]
@@ -253,6 +254,7 @@
 人間風情の僕が雨妖の隙を突けたのは、[r]そういった要因が重なったからだろう。[p]
 [mask time=500 color="0xFFFFFF"]
 [yukino9 width=1400 top=30 time=0][haruya time=0]
+[filter brightness=30 layer=base]
 [bg2 storage="ajisairain.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
 [mask_off time=500 effect=vanishOut]
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
@@ -274,6 +276,7 @@
 雨妖に喰われる寸前に、それだけは言い残すことが出来た。[p]
 
 [mask time=800]
+[free_filter]
 [bg2 storage="black.png" time="0"]
 [fadeinse storage=sea.ogg loop=true time=2000]
 [wait time=2000]
@@ -340,6 +343,7 @@
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
 [mask time=800 color="0xffffff"]
 [M0]
+[filter brightness=30 layer=base]
 [bg2 storage="ajisairain.jpg" time="0"]
 [wait time=800]
 [mask_off time=800]

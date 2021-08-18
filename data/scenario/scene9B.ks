@@ -13,6 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role][haruya time=0]
+[filter brightness=30 layer=base]
 [bg2 storage ="ajisai.jpg" width=1600 left=-160 height=900 time=300]
 [mask_off time=500]
 
@@ -136,8 +137,11 @@
 [yukino/10]「いいね。いいかもしれない。でも……」[p]
 #
 そこで先輩は、ああ、と声を上げた。[r]振り向くと先輩は、空の月を見上げていた。[p]
-[hide wait=false time=400][haruyahide time=400]
-[bg2 storage=moon.jpg wait=true time=1000 cross=true method=fadeInUp]
+[mask time=300 effect=fadeInUp]
+[hide wait=false time=0][haruyahide time=0]
+[free_filter]
+[bg2 storage=moon.jpg wait=true time=100]
+[mask_off time=300 effect=fadeOutUp]
 #先輩
 「月が、きれいだ」[p]
 #
@@ -164,8 +168,11 @@
 #先輩
 「寂しい」[p]
 #
-[bg2 storage ="ajisairain.jpg" width=1600 left=-160 height=900 time=1000 method=fadeInDown]
-[haruya time=700 wait=false][yukino11 top=30 width=1500]
+[mask time=300]
+[filter brightness=30 layer=base]
+[bg2 storage ="ajisai.jpg" width=1600 left=-160 height=900 time=100]
+[haruya time=0][yukino11 top=30 width=1500 time=0]
+[mask_off time=300]
 即答して、先輩は目を伏せた。[p]
 #先輩
 [yukino/13]「寂しくていまにも体が崩れてしまいそうだ」[p]
@@ -209,6 +216,7 @@
 先輩が呟いた。さけとだけ一言呟いた。[p]
 断末魔。絞り上げるような苦痛の声。[r]相手が相手なのに嫌でも血の気が引いた。[p]
 叫びの声が消え入るまでの音量やうねりやトーンの変遷が、[r]死の輪郭をありありと浮かび上がらせてくるようだった。[p]
+[playse storage=zabun.ogg]
 それから大量の水を地面にぶちまけるかのような音。[p]
 #先輩
 「そうだ」[p]
@@ -254,7 +262,11 @@
 #先輩
 「ありがとう。それじゃ、そうだね」[p]
 #
-[hide time=400][haruyahide time=400]
+[mask time=300]
+[free_filter]
+[hide time=0][haruyahide time=0]
+[bg2 storage=black.png time=100]
+[mask_off time=300]
 先輩の姿が異形に転じてゆく。[r]そして再び僕を抱えて、空へ飛び立った。[p]
 [bg2 storage ="moon.jpg" time=1000 cross=true wait=true method="vanishIn"]
 月が眼前に迫る。その向こうが覗けそうなほどに。[p]

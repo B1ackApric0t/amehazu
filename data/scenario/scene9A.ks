@@ -13,6 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
+[filter brightness=30 layer=base]
 [bg2 storage="ajisairain.jpg" time=300 width=1600 left=-160 height=900]
 [mask_off time=500]
 
@@ -78,6 +79,7 @@
 先輩がその姿を妖へと変ずる。[r]軽く僕を抱きかかえて、赤い羽が闇にきらめく。[p]
 
 [mask time=700 effect="fadeInUp"]
+[free_filter]
 [bg2 storage="entrance2.jpg" time="0"][haruyahide time=0]
 [wait time=800]
 [mask_off time=700 effect="fadeOutDown"]

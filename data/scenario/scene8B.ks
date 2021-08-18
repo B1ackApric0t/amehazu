@@ -341,6 +341,7 @@
 きっと僕らは遠目に見れば、ひとつの点となってこの空を駆けていた。[p]
 
 [mask time=1000]
+[filter brightness=30 layer=base]
 [bg2 storage="ajisai.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
 [wait time=1000]
 [mask_off time=1000 effect="fadeOutUpBig"]
