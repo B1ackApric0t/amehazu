@@ -49,7 +49,7 @@
 そこだけは不思議と静謐に満たされていて、[r]勧誘の声も誰かの足音もまったく聞こえない。[p]
 誰もいないとはいえ、勝手に教室に入るのは緊張する。[r]僕はおそるおそる中に足を踏み入れた。[p]
 椅子や机が整然と並べられてひっそりしている。[r]どういうときに使う教室なんだろう？[p]
-[bg2 storage="window.png" time=1000 cross=true wait=true]
+[bg2 storage="window.jpg" time=1000 cross=true wait=true]
 僕は窓辺に身を寄せた。[p]
 街並みが遠くまで見渡せる。空の端が目に見える。[p]
 [haruya]
@@ -126,7 +126,7 @@
 #？？
 「こうやって、街の景色を眺めているとさ」[p]
 [hide time=500 wait=false]
-[bg2 storage="window.png" time="1000" method="fadeInLeft"]
+[bg2 storage="window.jpg" time="1000" method="fadeInLeft"]
 [yukino2 top=30 width=1400]
 #
 言いつつ相手は、くるりと背中を窓辺にもたせかけた。[p]
@@ -170,6 +170,7 @@
 沈黙。[p]
 ……気の利いたことでも言えればいいんだろうけど。[r]あいにく僕はそういうのは不得手だ。[p]
 静けさの中、相手もまた窓に向き直った。[r]そしてふと僕の眼前に腕を伸ばした。[r]窓の鍵が下ろされる。[p]
+[playse storage=openw.ogg]
 そして、窓が開かれた。[p]
 流れ込んできた風が、相手の髪をふわりと膨らませた。[r]風に長髪をなびかせながら、その人は僕に声をかけた。[p]
 #？？
@@ -227,22 +228,26 @@
 #
 [mask time=800]
 [hide time=0]
-[bg2 storage="busitu.jpg" time=0]
-[yukino7 left=-80 time=0][bucho left=360 time=1000]
+[bg2 storage="busitu.jpg" time=100]
+[playse storage=door.ogg]
 [mask_off time=800]
 扉は開かれた。[p]
 文芸部の部室は、[r]元々は物置のか何かだったかと思うぐらい狭い部屋だった。[p]
 中央には大きなテーブルが置かれ、[r]部屋の奥には上級生らしい女の人が座っている。[r]茶髪をお下げにした眼鏡の人だった。[p]
 #？？
 「お帰り」[p]
+#
+[yukino7]
 #雪乃
 「ただいま戻りました、部長」[p]
+#
+[buchob1]
 #部長
 「収穫ありのようだねえ。さすがはバネちゃんだ」[p]
 #雪乃
 「ご期待に添えられたのなら何よりです」[p]
 #部長
-[bucho/3]「期待ね。ま、期待は特にしてなかったけどねえ」[p]
+[bucho/b3]「期待ね。ま、期待は特にしてなかったけどねえ」[p]
 #
 ふっ、と部長さんは笑った。ふふふふ、と赤羽先輩も笑った。[r]独自の文化が醸成されている。[p]
 #部長
@@ -298,7 +303,9 @@
 [p]決意にも似た安心感とともに、僕は眠りに落ちていく。[p]
 
 [mask time="1000" effect="fadeInDown"]
-[bg2 storage="bus.jpg" time="0"]
-[wait time="700"]
+[bg2 storage="bus.jpg" time="1000"]
+[fadeinse storage=rain5.ogg loop=true time=2000]
+[playse storage=bus.ogg buf=1]
+[haruya storage=yukino/tatie8.png time=0]
 [mask_off time="1000" effect="fadeOutUp"]
 @jump storage="scene4.ks" target=*start

@@ -14,6 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage="busiturain.jpg" time="300"]
+[playse storage=rain5r.ogg loop=true]
 [mask_off time=500]
 
 *start
@@ -54,10 +55,8 @@
 「元々してた覚えもないんですが」[p]
 #先輩
 「しようよ」[p]
-;近づく
 #春也
 「しません」[p]
-;離れる
 #
 僕がそう答えると、先輩は再び左の頬を下にして机に伏せる。[p]
 [kanim name="yukino" keyframe="down" time="500"]
@@ -101,7 +100,6 @@
 #
 先輩とふたりで、遠出して、あじさい畑に行く？[p]
 #春也
-;画面揺らす？
 「えぁっとですね」[p]
 #
 変な声が出た。[p]
@@ -129,14 +127,12 @@
 「別に、雨降ってても……」[p]
 #先輩
 [yukino/9]「ほんと！？」[p]
-;近づく
 #
 ぱっと顔を輝かせた先輩に、僕は何かがズレているのを直感した。[p]
 僕がコメントしたのは、別に雨の日に出かけるのがおかしいとか、[r]そんなことはないという意味だったのだけど。[p]
 先輩は別の文脈で取ってしまったらしかった。[p]
 #先輩
 [yukino/2]「嬉しいなあ……楽しみだなあ」[p]
-;離れてゆらゆら？
 #
 ……先輩のにこにこした顔を見ては、[r]その誤解を訂正する訳にもいかなかった。[p]
 #春也
@@ -192,9 +188,10 @@
 [yukino/1]僕の言葉に、先輩はぴくりと目を見開かせた。[p]
 [mask time=300]
 [hide time=0][haruyahide time=0]
+[layopt layer=1 visible=true][image layer="1" storage="obi.png" top=-1.1 name="kaisou"]
 [bg2 storage="jutakugai.jpg" width=1600 height=900 top=-180 left=0 time=0 wait=false]
 [wait time=200]
-[camera time=30000 x=320 y=180 ease_type=linear wait=false]
+[camera time=30000 x=320 y=180 ease_type=linear wait=false layer=base]
 [mask_off time=300]
 近頃世間を賑わせている、惨殺事件。[p]
 全国各地でまばらに事件が起きており、[r]その屍体は見るも無残に破壊されていて、[r]身体の一部が見つからないなどはザラだという。[p]
@@ -202,6 +199,7 @@
 昨日は北の果て、今日は本州の南端なんてのは当たり前。[r]その怪事件っぷりに複数犯の可能性も挙げられるぐらいだ。[p]
 [mask time=300]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=0]
+[free name="kaisou" layer=1]
 [yukino1 time=0][haruya time=0]
 [reset_camera time=0]
 [wait time=200]
@@ -263,13 +261,13 @@
 #
 先輩は笑った。[p]
 六月。手狭な部室から覗く空は、今日も雨模様。[p]
-
-[mask time="700"]
-[hide]
-[haruyahide]
-[wait time="700"]
+[fadeoutse time=2000]
+[mask time="1000"]
+[hide time=0]
+[haruyahide time=0]
+[wait time="1000"]
 [bg2 storage="class.jpg" time="0"]
 [layopt layer=1 visible=true]
 [image layer="1" storage="vignette.png" name="kaisou"]
-[mask_off time="700"]
+[mask_off time="1000"]
 @jump storage="scene3.ks" target=*start

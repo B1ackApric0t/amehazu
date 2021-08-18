@@ -16,6 +16,7 @@
 [role]
 [haruya time=0][image layer="2" storage="uyo.png" width=900 left=190 top=-150]
 [bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=300 name=genkanbg]
+[fadeinse storage=rain_kasa.ogg loop=true time=1500]
 [mask_off time=500]
 
 
@@ -77,6 +78,7 @@
 #
 [freeimage layer=2]
 盛大な水しぶきとともに、雨妖の姿が眼前から消え失せる。[r]ふっと我に返り、雨妖の行方を捉えようと辺りを見回したそのとき。[p]
+[playse storage=rain8.ogg loop=true]
 [anim name=genkanbg top=+360 time=1000][wa]
 頭上にただならない重圧を感じ、僕は思わず傘を下ろして天を仰ぐ。[p]
 [mask time=300 effect=fadeInDownBig]
@@ -88,13 +90,14 @@
 #雨妖
 「――こうすべきだった」[p]
 #
+[playse storage=zabun.ogg]
 水をぶちまける音が、くぐもって耳に聞こえた。[p]
 
-;◆暗転、場転
-[mask time="800"]
-[wait time="800"]
-[mask_off time="800"]
 
+[mask time="1000"]
+[wait time="1500"]
+[fadeinse storage=rain8.ogg loop=true time=2000]
+[mask_off time="1000"]
 
 #
 闇の中に意識が開ける。雨の音。[p]
@@ -122,8 +125,7 @@
 #雨妖
 「騒ぐな」[p]
 #
-;画面揺らす
-[haruyahide time=400 wait=false]
+[haruyahide time=400 wait=false][quake time=1000]
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
 #先輩
 [yukino/9]「春也くん！！」[p]
@@ -239,6 +241,7 @@
 「先輩？」[p]
 #先輩
 「君が最後にそう言ってくれたこと、それが私の救いだ」[p]
+[fadeoutse time=500]
 [mask time=500 color="0xFFFFFF"]
 [free_filter]
 [hide time=0][haruyahide time=0]
@@ -257,6 +260,7 @@
 [filter brightness=30 layer=base]
 [bg2 storage="ajisairain.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
 [mask_off time=500 effect=vanishOut]
+[playse storage=rain8.ogg loop=true]
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 #春也
 「それだけは、駄目なんです！！」[p]
@@ -269,6 +273,7 @@
 #春也
 「生きていてほしいんです……っ」[p]
 #
+[playse storage=zabun.ogg]
 [mask time=500 effect="fadeInDown"]
 [hide time=0][haruyahide time=300]
 [bg2 storage="black.png" time="0"]
@@ -341,12 +346,13 @@
 「正気か！？　今更帰還したところで到底許されはせんぞ……！」[p]
 #先輩
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
-[mask time=800 color="0xffffff"]
+[mask time=1000 color="0xffffff"]
 [M0]
 [filter brightness=30 layer=base]
 [bg2 storage="ajisairain.jpg" time="0"]
-[wait time=800]
-[mask_off time=800]
+[wait time=1000]
+[fadeinse storage=rain8.ogg loop=true time=2000]
+[mask_off time=1000]
 #
 そう言って先輩は地上に降り立つ。先程までの戦いが嘘のような静寂だ。[p]
 戦闘は終わったのだ。[p]
@@ -361,7 +367,7 @@
 #雨妖
 「これは返しておく。[r]　こんな穢らわしいものを持って帰るわけにはいかない」[p]
 #
-[playse storage=basa.ogg]
+[playse storage=basa.ogg buf=1]
 そう言って雨妖が吐き出したのは、僕が差していた傘だった。[r]開いた状態で放り出されて、そのままぼよんと地面に弾んだ。[p]
 [trans_out layer="2" time=1000 method="fadeOutDown"]
 [freeimage layer="2" time=0 page=back]

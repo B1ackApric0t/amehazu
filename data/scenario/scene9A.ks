@@ -15,6 +15,7 @@
 [role]
 [filter brightness=30 layer=base]
 [bg2 storage="ajisairain.jpg" time=300 width=1600 left=-160 height=900]
+[fadeinse storage=rain8.ogg loop=true time=1500]
 [mask_off time=500]
 
 *scene9
@@ -66,6 +67,7 @@
 #先輩
 「んー……そうだ」[p]
 #
+[playse storage=rain_kasa.ogg loop=true]
 [hide time=100]
 [yukino7 width=1400 top=30 wait=false]
 僕が掲げた傘の下に、びしょぬれの先輩が入ってくる。[r]そして言った。[p]
@@ -278,9 +280,10 @@
 「僕が絶対傘を持って、迎えに行きますから……」[p]
 #
 
-;（雨音だけの間が欲しい）
+[mask time=1500]
 [M0]
-[bg2 storage="michi_rain.jpg" time="1000" cross=true wait=true]
+[bg2 storage="michi_rain.jpg" time="2000"]
+[mask_off time=1000]
 
 
 降りしきる雨の音に、僕は隣を振り向いた。[p]
@@ -300,12 +303,13 @@
 雨に濡れつつ空を見上げた。どこまでも遠い夜。[p]
 手が届きそうなほど遠い夜。[p]
 [wait time=700]
-[mask time="1000"]
+[mask time="1500"]
+[fadeoutse time=3000]
 [reset_camera time=0]
 [free_filter]
 [M0]
 [bg2 storage="black.png" time="0"]
-[wait time="1000"]
-[mask_off time="1000"]
+[wait time="2000"]
+[mask_off time="2000"]
 
 @jump storage="scene10A.ks" target=*scene10

@@ -79,11 +79,23 @@ f.preload_bg = [
 "data/bgimage/hug3.jpg",
 "data/bgimage/hug4.jpg",
 ];
+f.preload_bgm = [
+"data/bgm/A_end_loop.ogg",
+"data/bgm/ajisai.ogg",
+"data/bgm/ajisai_loop.ogg",
+"data/bgm/fuon.ogg",
+"data/bgm/fuon_loop.ogg",
+"data/bgm/kaiwa_loop.ogg",
+"data/bgm/main.ogg",
+"data/bgm/main_loop.ogg",
+"data/bgm/rain_kasa.ogg",
+];
 [endscript]
 
 [preload storage="&f.preload_yukino"]
 [preload storage="&f.preload_bucho"]
 [preload storage="&f.preload_bg"]
+;[preload storage="&f.preload_bgm"]
 
 [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
 [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="部長" color=fff ]

@@ -17,10 +17,8 @@
 *scene1
 #
 「相合傘って」[p]
-[fadeoutse time=5000]
 [M1]
 [bg2 storage="tonarib.jpg" time=1000 ]
-[fadeinbgm storage=kaiwa_loop.ogg time=3000]
 #先輩
 「濡れてるほうが惚れてるって言うね」[p]
 #春也
@@ -33,8 +31,9 @@
 先輩はくすくす笑った。僕の隣、ひとつ傘の下。[p]
 ひとつの傘にふたりは狭い。[r]気を付けていても幾度となく肩や腕が触れてしまう。[p]
 非常に困ったことだ。[p]
+[playse storage=bicycle.ogg buf=1]
 「うお。春也……」[p]
-[bg2 storage="tonarimono.jpg" time=0 cross=false wait=false]
+[bg2 storage="tonarimono.jpg" time=0 cross=false wait=false][fadeoutse time=200 buf=1]
 ……今僕をちらりと見て去ったのは、クラスメイトの男子だ。[r]自転車に雨合羽。梅雨時の制服みたいな出で立ちだった。[p]
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
 #先輩
@@ -155,15 +154,13 @@
 「はい。また明日……」[p]
 #
 [hide]
-[fadeinse storage=rain_kasa.ogg time=3000]
 小さくなっていく先輩の背中を眺めながら、僕はため息をついた。[p]
 まただ。[p]
 言うか言うまいか迷った末にタイミングを逸して、[r]そのまま流されてしまう。[p]
 こうなるといつも後味が悪い。[p]
 これで先輩が風邪を引きでもしたら、[r]僕はいつまでも今日のことを引きずるに違いない。[p]
 じっとりとした感触に我に返る。[r]右肩に濡れて張り付くワイシャツの感触だった。[p]
-[fadeoutbgm time=5000]
-[haruyahide wait=false]
+[haruyahide time=400]
 [M1]
 [bg2 storage=shadow.jpg time=1500 cross=true wait=false]
 これ以上濡れないうちにと僕は家路に足を向け直す。[r]罪悪感が影のように尾を引いていた。[p]
@@ -173,7 +170,7 @@
 [wait time="1000"]
 
 [bg2 storage="shadow2.jpg" time="3000" wait=true]
-[fadeoutse time=1500]
+[fadeoutse time=2500]
 [wait time=1000]
 
 [mask time="1500"]
@@ -181,6 +178,7 @@
 [wait time="1500"]
 [anim layer="message0" opacity=255 time="0"]
 [bg2 storage="busiturain.jpg" time="0"]
+[playse storage=rain5r.ogg loop=true]
 [role]
 [mask_off time="1000"]
 

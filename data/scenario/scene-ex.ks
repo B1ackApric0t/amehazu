@@ -181,10 +181,10 @@
 五月の末。[r]曇りがちの鈍い日光が窓から差し込んでいる。[p]
 梅雨が来る、と思った。先輩との梅雨が。[p]
 
-[mask time=1000]
-@clearfix
-@layopt layer="message" visible=false
-[bg2 storage=black.png time=1000]
-[mask_off tme=1000]
-@jump storage="title.ks" target=*title
+;[mask time=1000]
+;@clearfix
+;@layopt layer="message" visible=false
+;[bg2 storage=black.png time=1000]
+;[mask_off tme=1000]
+;@jump storage="title.ks" target=*title
 [s]

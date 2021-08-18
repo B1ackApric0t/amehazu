@@ -14,6 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage="black.png" time="300"]
+[fadeinse storage=rain8r.ogg time=2000 loop=true]
 [mask_off time=500]
 
 *start
@@ -35,11 +36,13 @@
 22:00。[p]
 #春也
 「……嫌だな」[p]
+[fadeoutse time=500]
 #
 見つめていた携帯をポケットに突っ込んで、僕は立ち上がる。[p]
 傘を手に取り、極力音がしないよう細心の注意を払いながら、[r]玄関の鍵を開ける。[p]
 冷ややかな雨の空気が開いたドアの隙間から流れ込んでくる。[r]玄関もそのすぐ外も、真っ暗だ。[p]
 [bg2 storage="genkan2.jpg" time=1000 cross=true wait=true]
+[playse storage=rain_kasa.ogg loop=true]
 僕は傘を開いて外に一歩踏み出し、ゆっくりと戸を閉めた。[p]
 こんな時間に、それも雨の降っているときに外へ出るなんて初めてだった。[r]家の近くの街灯が濡れた路面に光をにじませている。[p]
 間違った時間に間違った場所に立っているような居心地悪さだ。[p]
@@ -210,6 +213,7 @@
 #雨妖
 「この国では近頃、ある殺人事件が世間を賑わせているようだな」[p]
 [mask time=300]
+[layopt layer=1 visible=true][image layer="1" storage="obi.png" top=-1.1 name="kaisou"]
 @layopt layer="2" visible=false
 [haruyahide time=0]
 [bg2 storage="jutakugai.jpg" time=100]
@@ -217,6 +221,7 @@
 #
 それには覚えがある。全国連続殺人事件。[r]僕が先輩とあじさい園に出かける前、話題に出したあの事件だ。[p]
 [mask time=300]
+[free name="kaisou" layer=1]
 @layopt layer="2" visible=true
 [haruya time=0]
 [bg2 storage="genkan2.jpg"  width=1920 height=1080 left=-320 top=-360 time=100]
@@ -294,6 +299,7 @@
 @layopt layer="2" visible=false
 [bg2 storage="sky.jpg" time=100]
 [mask_off time=300]
+[fadeoutse time=4500]
 #雨妖
 「雨が止む」[p]
 #
@@ -335,11 +341,14 @@
 未だに現実感がないけれど、本当に僕は明日の夜までに、[r]雨妖の問いへ答えを出さなくてはならないのか？[p]
 [bg2 storage="black.png" time=1000 method="fadeInDown"]
 明日が来なければいいと思った。[r]僕は目を閉じて、どうしようもない考え事を頭の中から必死に追い払った。[p]
+[yukino1 time=1500]
 暗闇で満ちていく頭の中。先輩の姿が最後に残っていた。[p]
 それだけはどうやっても消えなかった。[p]
-[mask time="1000"]
+[mask time="2000"]
+[hide time=0]
 [wait time="1000"]
 [free_filter]
 [bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=3000]
+[fadeinse storage=rain5r.ogg time=2000 loop=true]
 [mask_off time="1000"]
 @jump storage="scene7.ks" target=*start

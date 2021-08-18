@@ -14,6 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=300]
+[fadeinse storage=rain5r.ogg time=1500 loop=true]
 [mask_off time=500]
 
 *start
@@ -45,12 +46,13 @@
 [mask_off time=300]
 混沌としている。閉塞している。[p]
 僕は、どうするべきなのだろう？[p]
+[playse storage=door.ogg buf=1]
 #？？
 「うぉ。下地くんが死んでいる」[p]
 #
 [bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
 突然響いたドアの音と、後に続いた久しい声に、僕は思わず振り向いた。[p]
-[bucho]
+[buchob1]
 #？？
 「お疲れ」[p]
 #
@@ -81,11 +83,11 @@
 #春也
 「さあ……でも昨日は学校休んでたみたいですよ」[p]
 #部長
-[bucho/2][kanim name="bucho" keyframe="surp" time="500"]「はー！　驚天動地。あの健康優良児がね。[r]　永久機関搭載してるんじゃなかったのか」[p]
+[bucho/b2][kanim name="bucho" keyframe="surp" time="500"]「はー！　驚天動地。あの健康優良児がね。[r]　永久機関搭載してるんじゃなかったのか」[p]
 #春也
 「まぁ、先輩はいつも元気ですけど」[p]
 #部長
-[bucho/1][kanim name="bucho" keyframe="down" time="500"]「元気ってもんじゃないね。尊敬に値するよ、あれはまるで……」[p]
+[bucho/b1][kanim name="bucho" keyframe="down" time="500"]「元気ってもんじゃないね。尊敬に値するよ、あれはまるで……」[p]
 #
 ふと部長は本棚を漁る手を止めた。[r]しばらく首を傾げて天井を仰いでいたが、やがて僕に顔を向けて言った。[p]
 #部長
@@ -104,7 +106,7 @@
 「そういえば、部長とか雪乃先輩の作品も部誌に載ってるんですよね」[p]
 #
 [buchohide time=100]
-[bucho width=1400 top=-80]
+[buchob1 width=1400 top=-80]
 #部長
 「禁忌です」[p]
 #春也
@@ -205,10 +207,12 @@
 #部長
 「自由と権利を認めてるだけ。どうせ今日はもう行くし。じゃあね」[p]
 #
+[playse storage=door.ogg buf=1]
 [buchohide]
 そして部長は去っていった。[p]
 僕はひとり、残された。[p]
 [mask time="500"]
+[fadeoutse time=800]
 [haruyahide time=0]
 [wait time="500"]
 [bg2 storage="black.png" time=0]
@@ -225,6 +229,7 @@
 tyrano.plugin.kag.config.defaultLineSpacing = '25';
 [endscript]
 [wait time="500"]
+[playbgm storage=main_loop.ogg]
 [mask_off time="500"]
 [loadcss file="./data/others/css/message_busi.css"]
 [font color=0x000000]
@@ -248,6 +253,7 @@ tyrano.plugin.kag.config.defaultLineSpacing = '25';
 今も文芸部の部室から、窓の外を眺めています。[p]
 [loadcss file="./data/others/css/next1.css"]
 [resetfont]
+[fadeoutbgm time=900]
 [mask time="500"]
 [bg2 storage="busiturain.jpg" time=500 cross=true ]
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
@@ -257,10 +263,12 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 [endscript]
 [role]
 [wait time="500"]
+[playse storage=rain5r.ogg loop=true]
 [mask_off time="500"]
 なんだかしばらくぼーっとしていた。[r]気を取り直して僕は、先輩のことを思い浮かべる。[p]
 先輩が元の世界でどんな暮らしをしていたのか。[r]どうしてこの世界にやって来たのか。[p]
 そんなことを、想像していた。[p]
+[playse storage=door.ogg buf=1]
 不意に僕は驚いて振り向く。[r]人の声にドアを振り返るのは本日二度目だ。[p]
 そしてそこにいたのは、[p]
 #？？
@@ -472,6 +480,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 #先輩
 「もちろん。明日は大切な日になりそうだから」[p]
 #
+[playse storage=door.ogg buf=1]
 [hide][haruyahide]
 それじゃと言って去っていく背中を見送り、僕は深く空気を吸い込む。[r]それから深く吐き出す。[p]
 もし僕の呼気に色がついていたら、[r]それは酷く濁った暗色をしていただろう。[p]
@@ -534,11 +543,12 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 僕は先輩なしでもやっていけると答えた。[r]その回答に合わせて、僕たちは動き出した。[p]
 僕が回答を決めたのではなくて、[r]あのときの回答がこれからの僕を決めるのだ。[p]
 僕たちは綺麗に終わる。[r]今夜の雨が、そのための最後の関門だ。[p]
-
+[fadeoutse time=1500]
 [mask time="1000"]
 @layopt layer="2" visible=true
 [haruya time=0][image layer="2" storage="uyo.png" width=900 left=190 top=-150]
-[bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=1000 name=genkanbg]
+[bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=2000 name=genkanbg]
+[fadeinse storage=rain_kasa.ogg loop=true time=2000]
 [mask_off time="1000"]
 
 @jump storage="scene8A.ks"  target=*scene8
@@ -653,11 +663,11 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 #
 暗い雨雲が空を彼方まで埋め尽くしている。[p]
 僕は再び晴れた空を拝むことはあるのだろうか？[p]
-
+[fadeoutse time=2000]
 [mask time=1000]
 [hide time=0][haruyahide time=0]
 [bg2 storage="black.png" time="0"]
-[wait time=1000]
+[wait time=2000]
 [mask_off time=1000]
 
 @jump storage="scene8B.ks" target=*scene8

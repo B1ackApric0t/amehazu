@@ -13,8 +13,8 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="busiturain.jpg" time=0]
-[wait time=300]
+[bg2 storage="busiturain.jpg" time=300]
+[playse storage=rain5r.ogg loop=true]
 [mask_off time=500]
 
 *start
@@ -30,6 +30,7 @@
 体は大丈夫ですかなんて聞くにしても、[r]本人が何もなかったような体で振る舞うので、[r]僕はそれ以上身動きできない。[p]
 もどかしさが募って苛立ちに変わってくる。[p]
 [mask time=300]
+[fadeoutse time=4000]
 [kaisou]
 [M1]
 [bg2 storage=tekubi.jpg time=300]
@@ -38,7 +39,8 @@
 地面から飛び出して、[r]おそらく先輩の手首から先を食いちぎって消えたあの影だ。[p]
 あれはなんだったんだろう？　[r]どうして先輩は、あれの存在を無理にでも隠し通そうとするのだろう？　[r]しらばっくれるのだろう？[p]
 僕の頭はそのまま記憶をたどって、全国連続殺人事件を引っ張り出す。[r]今日のニュースで、再び犠牲者は数を一人増やしていた。[p]自然、僕の頭の中で二つの事件が結びつく。[p]
-[bg2 storage=assault.png time=1000 cross=true]
+[bg2 storage=black.png time=1000 cross=true]
+[M0]
 全国で人を襲っているのは、殺人犯などではなく、あの影なんじゃないか？[p]
 それなら犯人の足取りがつかめないことや、[r]全国に犯行が分布している理由も説明できる。[p]
 説明できるのだが。[p]
@@ -48,17 +50,20 @@
 ただひとつわかっているのは、僕たちがいまなんだか危険で怪しくて[r]不可解な状況にあるということだけだ。[p]
 [mask time=300]
 [fkaisou]
-[M0]
 [bg2 storage=black.png time=300]
 [mask_off time=300]
 このまま考えていてもしょうがないので、僕は部室を発つことにする。[r]いま何時頃かとポケットからスマホを出したが、先輩からの連絡はなかった。[p]
+[mhide]
 [bg2 storage="entrance.jpg" time=2000 cross=true wait=true method=fadeInRight]
 [wait time=200]
+[fadeinse storage=rain_kasa.ogg time=3000 loop=true]
 [bg2 storage="michi_rain.jpg" time=2000 cross=true wait=true method=fadeInRight]
+[mshow]
 曇天のもとを歩んでいると、何かが僕の首筋を這い上がった。[p]
 その感覚に思わず声をあげそうになるが、すんでのところでこらえた。[r]虫か何かだろうか？[p]
 うなじを手で払おうとするがその感覚は抜けない。[r]首筋がどこか濡れている。[p]
 すると今度はそのぞわぞわしたものが耳元にまで上ってきた。[p]
+[bg2 storage=black.png time=100]
 #？？
 「今宵、雨が降る」[p]
 #
@@ -66,8 +71,8 @@
 
 #？？
 「亥の刻。汝が住まいの戸口にて待たれたし」[p]
-
 #
+[bg2 storage="michi_rain.jpg" time=500 wait=true]
 耳元で何かがぱちんと弾けた。[r]おそるおそる手をやってみると、指先が濡れている。[p]
 いまのは何だったんだ？[p]
 僕は急に恐ろしくてたまらなくなる。知ってはいけないもの、[r]聞いてはならないものに触れられてしまった気がする。[p]
@@ -75,8 +80,9 @@
 ただ、ひとつだけ言えることは、[r]何か超常的なものが今この町に出没していて、[r]それは僕と関わりを持とうとしているらしいということだった。[p]
 僕は何かに巻き込まれたらしかった。[r]そして昨日先輩が襲われたことも、その何かの一部に違いなかった。[p]
 呼びつけられた不穏さを胸に抱えながら、[r]僕は重い足取りで帰路を歩むのだった。[p]
+[fadeoutse time=1500]
 [mask time="1000"]
-[wait time="1000"]
-[bg2 storage="black.png" time="0"]
-[mask_off time="1000"]
+[bg2 storage="black.png" time="1500"]
+[fadeinse storage=rain8r.ogg time=3000 loop=true]
+[mask_off time="1500"]
 @jump storage="scene6.ks" target=*start

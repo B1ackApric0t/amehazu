@@ -49,13 +49,14 @@
 [wt]
 [mask time=500]
 [bg2 storage="busitucolor.jpg" time="0"]
-[bucho storage="bucho/buchoc1.png" time=0]
+[bucho storage="bucho/buchocn1.png" time=0]
 [haruya storage=haruya/haruya_c1.png]
 [M2]
 @clearfix
 [role2]
 [font color=0x000000]
 [wait time=500]
+[fadeinbgm storage=kaiwa_loop.ogg time=1500]
 [mask_off time=500]
 
 #部長
@@ -71,7 +72,7 @@
 「部長」[p]
 #
 部室を去ろうとする部長の背中を、僕は思わず呼び止めた。[p]
-[bucho storage="bucho/buchoc1.png"]
+[bucho storage="bucho/buchocn1.png"]
 #部長
 「はい？」[p]
 #
@@ -112,10 +113,11 @@
 #
 [buchohide]
 部長は困ったように笑った。[r]そして部室のドアを開き、最後にこちらを振り向いた。[p]
-[bucho storage=bucho/buchoc5.png]
+[bucho storage=bucho/buchocn5.png]
 #部長
 「でもまぁ……ありがとね。じゃ」[p]
 #
+[fadeoutbgm time=2000]
 [buchohide]
 そう言い残して、部長は部屋を去っていった。[p]
 [mask time=500]
@@ -125,7 +127,7 @@
 [role]
 [haruyahide time=0]
 [bg2 storage="Alast.png" time="0"]
-[wait time=500]
+[wait time=1000]
 [mask_off time=500]
 
 #
@@ -140,7 +142,7 @@
 部誌は窓について書こう。[r]窓がテーマの小説でもエッセイでも、とにかくなんでもいい。[p]
 
 窓について書くんだ。[p]
-
+[fadeinbgm storage=A_end_loop.ogg time=1500]
 [trans_in layer="2" time=500 method="fadeInUp"]
 [wt]
 

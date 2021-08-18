@@ -13,7 +13,10 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
+[haruya storage=yukino/tatie8.png time=0]
 [bg2 storage="bus.jpg" time="300"]
+[fadeinse storage=rain5.ogg loop=true time=2000]
+[playse storage=bus.ogg buf=1]
 [mask_off time="500"]
 
 *start
@@ -21,80 +24,83 @@
 「不思議だなあ」[p]
 
 #春也
-「何がですか？」[p]
+[hmod]「何がですか？」[p]
 
 #先輩
+[haruyahide time=0][haruya1 time=0]
 「バスの窓から見た景色って、いつもと全然違って見えない？[r]　この街だって、ほら」[p]
 
 #
 窓外に雨の街が流れていく。[r]水滴のしたたるバスの窓を、先輩は実に感慨深そうに眺めていた。[p]
 
 #春也
-「……先輩が制服で来たことのほうが、僕には何より不思議ですけど」[p]
+[hmod]「……先輩が制服で来たことのほうが、僕には何より不思議ですけど」[p]
 
 #
 驚くべき事だった。[r]先輩は休日にも関わらず、学校の制服を着用してきたのだ。[p]
-休日も制服で過ごすという人もいるとは、風の噂で聞いたことはあるのだけど。[r]まさかこんな身近で観測できるとは思わなかった。[p]
+休日も制服で過ごすという人もいるとは、[r]風の噂で聞いたことはあるのだけど。[r]まさかこんな身近で観測できるとは思わなかった。[p]
 
 #先輩
-「制服、好きなんだよ」[p]
+[hmod storage=yukino/tatie7.png]「制服、好きなんだよ」[p]
 
 #春也
-「気に入ってるんですか？」[p]
+[hmod]「気に入ってるんですか？」[p]
 
 #先輩
-「そう。非日常って感じがしないかい？」[p]
+[hmod storage=yukino/tatie1.png]「そう。非日常って感じがしないかい？」[p]
 
 #春也
-「うーん？　分からなくもないような……」[p]
+[hmod]「うーん？　分からなくもないような……」[p]
 「でも僕らの日常って学校がほとんどを占めてて、[r]　学校では制服を着てるわけなので……いやでも日常っていったら[r]　ふつう休みの日のことなんですかね……？」[p]
 
 #先輩
-「見て見て春也くん、あそこに人がたくさん並んでいる」[p]
+[hmod storage=yukino/tatie4.png]「見て見て春也くん、あそこに人がたくさん並んでいる」[p]
 
 #春也
-「……」[p]
+[hmod]「……」[p]
 
 #
 先輩の日常には驚きや発見があふれているようだ。[p]
 
 #先輩
-「私、窓って好きなんだよね。色んな景色が流れていって、[r]　外の世界がどこまでも広がってて。まず見ていて飽きないよね」[p]
+[hmod storage=yukino/tatie7.png]「私、窓って好きなんだよね。色んな景色が流れていって、[r]　外の世界がどこまでも広がってて。まず見ていて飽きないよね」[p]
 
 #春也
-「まあ、その気持ちはちょっとわかりますけど」[p]
+[hmod]「まあ、その気持ちはちょっとわかりますけど」[p]
 「飽きると言えば……いくら非日常って言っても、[r]　毎日制服でいたら飽きちゃいませんか？[r]　日常あっての非日常というか」[p]
 
 #先輩
-「今のところ飽きてはいないね。長い目で見れば高校自体非日常だ」[p]
+[hmod storage=yukino/tatie7.png]「今のところ飽きてはいないね。長い目で見れば高校自体非日常だ」[p]
 
 #春也
-「達観してますね」[p]
+[hmod]「達観してますね」[p]
 
 #先輩
-「今だってそうじゃないか？　誰かとどこかに出かけるなんてさ」[p]
+[hmod storage=yukino/tatie7.png]「今だってそうじゃないか？　誰かとどこかに出かけるなんてさ」[p]
 
 #
 一応先輩もこれが日常からはみ出た行為だとは思っているらしい。[p]
 
 #先輩
-「そうだなあ、せっかくなら体操着で来たほうがよかったかな？」[p]
+[hmod storage=yukino/tatie8.png]「そうだなあ、せっかくなら体操着で来たほうがよかったかな？」[p]
 
 #春也
-「どういうことですか……」[p]
+[hmod]「どういうことですか……」[p]
 
 #先輩
-「んん？　体操着のほうが非日常じゃないか？」[p]
+[hmod storage=yukino/tatie12.png]「んん？　体操着のほうが非日常じゃないか？」[p]
 
 #春也
-「非常識です」[p]
+[hmod]「非常識です」[p]
 
 #
 バスは行く。僕たちの非日常を乗せて。[p]
-
+[fadeoutse time=1000]
+[playse storage=bus.ogg buf=1]
 [mask time="700"]
-[wait time="700"]
+[wait time="1000"]
 [bg2 storage="ajisairain.jpg" time="0" width=1600 left=-160 height=900]
+[fadeinbgm storage=ajisai_loop.ogg time=2000]
 [mask_off time="700"]
 
 #
@@ -168,20 +174,15 @@
 「わ、かりたい、です」[p]
 #先輩
 [yukino/9]「……わかりたい」[p]
-
 #
 先輩が僕の言葉を反復した。[p]
 [hide wait=false time=400]
 ……わかりたい。あまりいい言葉ではない気がする。[r]というか、要するにわからないと言っているのと同じじゃないか？[p]
-
 #先輩
-;[yukino/10]
 「ふふ」[p]
-
 #
 [yukino10 top=50 left=540 width=500 wait=false]
 先輩が笑った。いつの間にかうつむいていた視線を持ち上げると、[r]先輩は跳ねるような足取りで先まで進んでいた。[p]
-
 #先輩
 [yukino/2]「わからないなあ！」[p]
 #春也
@@ -192,7 +193,6 @@
 [hide]
 そう言って笑いながら、先輩はどんどん遠ざかっていく。[r]……相変わらずよくわからない。[p]
 よくわからないが、幸せそうだ。[p]
-
 #春也
 「あの。先輩？」[p]
 #
@@ -200,10 +200,10 @@
 #春也
 「足下には気をつけて……」[p]
 #
+[stopbgm]
 [playse storage=batan.ogg]
 [haruyahide time=500 wait=false]
-[M1]
-[bg2 storage="assault.png" time="1000" cross=true wait=true]
+[bg2 storage="black.png" time="1000" cross=true wait=true]
 ――？[p]
 ……それが何だったのか。[p]
 僕にはよくわからなかった。[p]
@@ -215,7 +215,7 @@
 [mhide time=100]
 #
 [bg2 storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 method="vanishIn" wait=false]
-[M0][mshow]
+[mshow]
 突然のことに頭が真っ白になる。[r]しかしすぐに僕は先輩のもとに駆け寄る。[p]
 [haruya]
 #春也
@@ -308,11 +308,11 @@
 でも僕は、そんな先輩をどんなまなざしで見ればいいのか、[r]もうわからなくなっていた。[p]
 白い霧があじさい園全体を覆っていた。[r]その中を僕たちふたりは歩いていく。[p]
 先輩がひとり。僕がひとり。[p]
-
-[mask time="800"]
-[wait time=800]
+[mask time=1500]
+[wait time=500]
+[fadeinse storage=rain5r.ogg time=3000 loop=true]
 [anim name=ajisaibg top=0 time=0]
-[bg2 storage="busiturain.jpg" time="0"]
-[mask_off time="800"]
+[bg2 storage="busiturain.jpg" time="3000"]
+[mask_off time="1500"]
 
 @jump storage="scene5.ks" target=*start
