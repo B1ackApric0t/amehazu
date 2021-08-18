@@ -168,9 +168,9 @@
 [rhide]
 [mhide]
 [wait time="1000"]
-
+[fadeinse storage=fuon.ogg time=500 buf=1]
 [bg2 storage="shadow2.jpg" time="3000" wait=true]
-[fadeoutse time=2500]
+[fadeoutse time=2500][fadeoutse time=2500 buf=1]
 [wait time=1000]
 
 [mask time="1500"]
