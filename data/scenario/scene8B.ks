@@ -180,7 +180,7 @@
 [mask time=500]
 [bg2 storage="genkan1.jpg" time="0"]
 [haruya time=0]
-;[yukinoA time=0]
+[yukinoA time=0]
 [wait time=500]
 [mask_off time=500]
 #春也
@@ -210,7 +210,7 @@
 「それが問題だ」[p]
 #
 はぁ、と先輩は息をついた。やれやれ、といった雰囲気だった。[r]それから空を見上げて呟いた。[p]
-[haruyahide time=400][bg2 storage=moon.jpg time=1000 cross=true method=fadeInUp]
+[hide time=400 wait=false][haruyahide time=400][bg2 storage=moon.jpg time=1000 cross=true method=fadeInUp]
 #先輩
 「月がまぶしいせいだ」[p]
 #
@@ -252,7 +252,8 @@
 #春也
 「特別」[p]
 #
-[bg2 storage="genkan1.jpg" time="1000" cross=true method=fadeInDown][haruya]
+[bg2 storage="genkan1.jpg" time="1000" cross=true method=fadeInDown]
+[yukinoA time=400 wait=false][haruya time=400]
 反射的だった。[r]自分で自分の発した言葉に驚いて、ひやりとした。[p]
 いつもなら間違いなく取り消すけれど、[r]だけれど今はそのいつもではないのだ。[p]
 僕は先輩に重ねた手を、そっと胸元に持ってきた。[r]そして両手で包み込み、僕は先輩の、顔のない顔を見上げて、改めて言った。[p]
@@ -321,6 +322,7 @@
 [haruyahide]
 先輩が僕を抱き上げる。僕は先輩に身を任せる。[r]ふわりと体が宙に浮いて、じきに目線が民家の屋根を越した。[p]
 [mask time=500 effct="fadeInUp"]
+[hide time=0]
 [bg2 storage="nightcity.jpg" time="0"]
 [wait time=500]
 [mask_off time=500 effct="fadeOutUp"]

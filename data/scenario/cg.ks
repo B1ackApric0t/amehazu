@@ -2,13 +2,14 @@
 ; CG モード　画面作成
 ;=========================================
 *start
-[fadeoutbgm time=10]
+[fadeoutbgm time=1500]
 @layopt layer=message0 visible=false
 
 @clearfix
 [cm]
 
 [html]
+<div id="cgall">
 <div class="fadein">
 <img src="data/bgimage/gallery_bg.jpg" style="z-index:-10;">
 <div class="cg_back" style="left:50px;top:650px;position:absolute;cursor:pointer;z-index:10;">
@@ -29,7 +30,7 @@
       <div id="chaptertitle">場面1. 相合傘</div>
       <div id="summary">ふたりでひとつの傘に入りながら、ともに帰路を歩む春也と先輩。やがて先輩と別れひとりになる春也だったが、その背後には巨大な魚影が忍び寄っていた。</div>
       <div class="chapterchoice">
-        <div id="chapter1" class="chap" style="transition: .3s;">場面1.相合傘</div>
+        <div id="chapter1" class="chap">場面1.相合傘</div>
         <div id="chapter2" class="chap">場面2.約束</div>
         <div id="chapter3" class="chap">場面3.回想／邂逅</div>
         <div id="chapter4" class="chap">場面4.あじさい園</div>
@@ -52,31 +53,45 @@
     
     <div class='content2'>
       <div style="float:left;position:absolute;top:-10px;left:40px;">
-        <img src="data/bgimage/tonarib.jpg" style="width:240px;" class="cg" id="tonari">
-        <img src="data/bgimage/shadow.jpg" style="width:240px;" class="cg">
-        <img src="data/bgimage/assault.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/tekubi.jpg" style="width:240px;" class="cg">
-        <img src="data/bgimage/inthedark.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/vsuyo.png" style="width:240px;" class="cg">
-        <img src="data/bgimage/hug1.jpg" style="width:240px;" class="cg">
-        <img src="data/bgimage/tonarib.jpg" style="width:240px;" class="cg">
-        <img src="data/bgimage/shadow.jpg" style="width:240px;" class="cg">
+        <img src="data/bgimage/tonarib.jpg" class="cg" id="tonari">
+        <img src="data/bgimage/shadow.jpg" class="cg" id="shadow">
+        <img src="data/bgimage/tekubi.jpg" class="cg" id="tekubi">
+        <img src="data/bgimage/inthedark.png" class="cg" id="siroite">
+        <img src="data/bgimage/vsuyo.png" class="cg" id="vsuyo">
+        <img src="data/bgimage/Alast.png" class="cg" id="alast">
+        <img src="data/bgimage/white.jpg" class="cg" id="blast">
+        <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
       </div>
     </div>
     
     <div class='content3'>
-      <audio src="data/bgm/BGM1.ogg" id="audiotag"></audio>
-      <div id="play"><img src="data/image/music3.png" style="position:absolute;left:780px;top:300px;" ></div>
-	  <div id="stop">Stop</div>
+      <audio src="data/bgm/A_ED.ogg" id="audiotag"></audio>
+      <div style="position:absolute;left:150px;">
+        <div id="bgm1" class="m_title">A_ED</div>
+        <div id="bgm2" class="m_title">A_end</div>
+        <div id="bgm3" class="m_title">ajisai</div>
+        <div id="bgm4" class="m_title">B_ED</div>
+        <div id="bgm5" class="m_title">fuon</div>
+        <div id="bgm6" class="m_title">kaiwa</div>
+        <div id="bgm7" class="m_title">main</div>
+      </div>
+      <div id="play"><img src="data/image/music3.png" style="position:absolute;left:650px;top:320px;"></div>
+	  <div id="stop" style="display:none;">Stop</div>
 	  <div id="time">
-  		<span id="current">00:00</span>
-		<span id="duration">00:00</span>
+  		<span id="current" style="position:absolute;top:265px;left:575px;font-weight:bold;font-size:20px;">00:00</span>
+		<span id="duration" style="position:absolute;top:265px;left:980px;font-weight:bold;font-size:20px;"">00:00</span>
 	  </div>
-	  <img src="data/image/music1.png" style="position:absolute;left:670px;top:10px;" >
+	  <div id="seekbar" style="position:absolute;top:264px;left:647px;"></div>
+	  <img src="data/image/music5.png"  style="position:absolute;left:805px;top:328px;">
+	  <input type="range" id="volume" style="position:absolute;top:341px;left:800px;width:200px;height:4px;" value="50" min="0" max="99">
+	  <div id="bmusic" style="position:absolute;left:580px;top:326px;cursor:pointer;"><img src="data/image/music2.png"></div>
+	  <div id="nmusic" style="position:absolute;left:720px;top:326px;cursor:pointer;"><img src="data/image/music4.png"></div>
+	  <img src="data/image/music1.png" style="position:absolute;left:670px;top:-20px;" >
     </div>
     
   </div>
   <img src="data/bgimage/tonarib.jpg" class="cgbig" id="tonari1">
+</div>
 </div>
 
 

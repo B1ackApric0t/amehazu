@@ -7,7 +7,7 @@
 [cm]
 
 @clearstack
-;[playbgm storage="OP.ogg"]
+[playbgm storage="main.ogg"]
 
 
 [html]
