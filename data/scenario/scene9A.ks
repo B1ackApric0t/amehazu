@@ -13,7 +13,7 @@
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 @layopt layer=message0 visible=true
 [role]
-[bg2 storage="ajisai_night2jpg" time=300 width=1600 left=-160 height=900]
+[bg2 storage="ajisai_night2.jpg" time=300 width=1600 left=-160 height=900]
 [fadeinse storage=rain8.ogg loop=true time=1500]
 [mask_off time=500]
 

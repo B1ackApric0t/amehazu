@@ -2,7 +2,7 @@
 ; CG モード　画面作成
 ;=========================================
 *start
-[fadeoutbgm time=1500]
+[fadeoutbgm time=1200]
 @layopt layer=message0 visible=false
 
 @clearfix
@@ -56,7 +56,7 @@
         <img src="data/bgimage/tonarib.jpg" class="cg" id="tonari">
         <img src="data/bgimage/shadow.jpg" class="cg" id="shadow">
         <img src="data/bgimage/tekubi.jpg" class="cg" id="tekubi">
-        <img src="data/bgimage/inthedark.png" class="cg" id="siroite">
+        <img src="data/bgimage/inthedark.png" class="cg" id="senpai">
         <img src="data/bgimage/vsuyo.png" class="cg" id="vsuyo">
         <img src="data/bgimage/Alast.png" class="cg" id="alast">
         <img src="data/bgimage/white.jpg" class="cg" id="blast">
@@ -78,8 +78,8 @@
       <div id="play"><img src="data/image/music3.png" style="position:absolute;left:650px;top:320px;"></div>
 	  <div id="stop" style="display:none;">Stop</div>
 	  <div id="time">
-  		<span id="current" style="position:absolute;top:265px;left:575px;font-weight:bold;font-size:20px;">00:00</span>
-		<span id="duration" style="position:absolute;top:265px;left:980px;font-weight:bold;font-size:20px;"">00:00</span>
+  		<span id="current" style="position:absolute;top:265px;left:575px;font-weight:bold;font-size:20px;font-family:applimincho;">00:00</span>
+		<span id="duration" style="position:absolute;top:265px;left:980px;font-weight:bold;font-size:20px;font-family:applimincho;">00:00</span>
 	  </div>
 	  <div id="seekbar" style="position:absolute;top:264px;left:647px;"></div>
 	  <img src="data/image/music5.png"  style="position:absolute;left:805px;top:328px;">
@@ -91,14 +91,35 @@
     
   </div>
   <img src="data/bgimage/tonarib.jpg" class="cgbig" id="tonari1">
+  <div id="cgbig"></div>
 </div>
 </div>
 
 
 
 <script>
-$('#tonari').click(function(){$('#tonari1').css('visibility','visible')});
-$('#tonari1').click(function(){$('#tonari1').css('visibility','hidden')});
+var still = "a";
+$('#tonari').click(function(){
+  $('#cgbig').css({'background-image':'url("data/bgimage/tonarib.jpg")','visibility':'visible'});
+  still = "tonarib";
+});
+$('#shadow').click(function(){
+  $('#cgbig').css({'background-image':'url("data/bgimage/shadow.jpg")','visibility':'visible'});
+});
+$('#tekubi').click(function(){
+  $('#cgbig').css({'background-image':'url("data/bgimage/tekubi.jpg")','visibility':'visible'});
+});
+$('#hug').click(function(){
+  $('#cgbig').css({'background-image':'url("data/bgimage/hug1.jpg")','visibility':'visible'});
+});
+
+$('#cgbig').click(function(){
+  if (still == "tonarib") {
+    $('#cgbig').css('background-image','data/bgimage/tonarik.jpg');
+    still = "tonarik";
+  } else {
+    $('#cgbig').css({'background-image':'','visibility':'hidden'});}
+});
 </script>
 
 <script>

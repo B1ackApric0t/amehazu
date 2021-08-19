@@ -170,19 +170,9 @@
 沈黙。[p]
 ……気の利いたことでも言えればいいんだろうけど。[r]あいにく僕はそういうのは不得手だ。[p]
 静けさの中、相手もまた窓に向き直った。[r]そしてふと僕の眼前に腕を伸ばした。[r]窓の鍵が下ろされる。[p]
-[mask color=0xFFFFFF time=500]
-[fkaisou]
 [playse storage=openw.ogg]
-[hide time=0][haruyahide time=0]
-[bg2 storage=white.jpg time=300]
-[mask_off time=500]
 そして、窓が開かれた。[p]
 流れ込んできた風が、相手の髪をふわりと膨らませた。[r]風に長髪をなびかせながら、その人は僕に声をかけた。[p]
-[mask color=0xFFFFFF time=500]
-[kaisou]
-[bg2 storage=class.jpg time=300 cross=true]
-[yukino2 width=1400 top=30 time=0][haruya time=0]
-[mask_off time=500]
 #？？
 「いい風だ」[p]
 #春也
@@ -193,12 +183,12 @@
 その人はにっこり笑って。[p]
 #？？
 「開けたそうにしてたから」[p]
-#
 [mask time=500]
-[bg2  storage="bg3.png" time=0]
+[bg2  storage="black.png" time=0]
 [hide time=0][haruyahide time=0]
 [free name="kaisou" layer=1 ]
 [wait time=500]
+#
 [mask_off time=500]
 ――なぜだろう？[p]
 そのときのことが、僕の脳裏に今でもはっきり焼き付いている。[p]
@@ -210,7 +200,7 @@
 [mask time=500]
 [image layer="1" storage="vignette.png" name="kaisou"]
 [bg2  storage="class.jpg" time=0]
-[yukino7 width=1400 top=30 time=0][haruya time=0]
+[yukino7 time=0][haruya time=0]
 [wait time=500]
 [mask_off time=500]
 
@@ -232,7 +222,7 @@
 #春也
 「……あの。もしかしてこれは」[p]
 #
-[yukino2 width=1400 top=30]
+[yukino2]
 #雪乃
 「今は部活勧誘真っ盛りだよ。[r]　私も文芸部員としての務めを果たさねばならない」[p]
 #
@@ -288,11 +278,22 @@
 そう言う先輩は楽しそうで、どこか頼もしい横顔をしていた。[p]
 ――この人は、僕をどこか遠いところへ連れて行ってくれる。[p]
 そんな気がした。[p]
-[chara_hide_all time=400 wait=false][haruyahide time=400]
+[chara_hide_all wait=false][haruyahide time=1000]
 僕たちは三人して外の景色を眺める。遠く空が広がっていた。[p]
-[mask time="1000" color=0xFFFFFF]
-[bg2 storage=black.png time=2000]
-[mask_off time="1000"]
+[mask time="300"]
+[rhide time=0]
+[mhide time=0]
+[bg2 storage="black.png" time="300"]
+[free name="kaisou" layer=1 ]
+[mask_off time="300"]
+
+[bg2 storage="bluesky.jpg" time="3000" method="fadeInUp" wait=true]
+[wait time=500]
+[mask time="1000"]
+[anim layer="message0" opacity=255 time="0"]
+[role]
+[bg2 storage="black.png" time="200"]
+[mask_off time="500"]
 
 
 ああ、そうだ。[p]

@@ -267,5 +267,6 @@
 [bg2 storage="class.jpg" time="0"]
 [layopt layer=1 visible=true]
 [image layer="1" storage="vignette.png" name="kaisou"]
+[fadeinse storage=noise.ogg loop=true time=2000]
 [mask_off time="1000"]
 @jump storage="scene3.ks" target=*start

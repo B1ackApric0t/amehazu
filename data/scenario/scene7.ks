@@ -413,6 +413,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 
 *scene7A
 [cm]
+[pushlog text="【それでも生きていきます】"]
 [loadcss file="./data/others/css/next1.css"]
 #春也
 「どうにかやっていきます。上手くやれるかはわからないですけど、[r]　少なくとも生きてはいきますよ。」[p]
@@ -555,6 +556,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 
 *scene7B
 [cm]
+[pushlog text="【死んでも嫌です】"]
 [loadcss file="./data/others/css/next1.css"]
 [yukino/9]
 #春也
