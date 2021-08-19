@@ -2,7 +2,7 @@
 ; CG モード　画面作成
 ;=========================================
 *start
-[fadeoutbgm time=1200]
+[fadeoutbgm time=1000]
 @layopt layer=message0 visible=false
 
 @clearfix
