@@ -146,18 +146,20 @@
 「土日、一緒に出かけましょう。あじさい、見に」[p]
 #先輩
 [yukino/2]「ああ！[r]　そうしようよ春也くん、ほら日程について話そうじゃないか」[p]
+[fadeoutse time=1000]
 #
-[mask time=300]
+[mask time=500]
+[fadeinbgm storage=kaiwa_loop.ogg time=1000]
 ;部室横に動かす
 [chara_hide name="yukino" time=0]
 [haruyahide time=300]
-[mask_off time=300]
+[mask_off time=500]
 ――僕たちは観光計画について話し始めた。[p]
 日程を詰めていく中で急速に現実味を帯びてくるふたりでの休日に、[r]なんだか僕は頭が熱くなり始めていた。[p]
 そのせいで僕は、なにか適当なことばかり言っていたような気がする。[p]
-[mask time=300]
+[mask time=500]
 [yukino2 width=1400 top=30 time=0][haruya time=300]
-[mask_off time=300]
+[mask_off time=500]
 #先輩
 「どうしよう春也くん、スケジュールができてしまった。[r]　できてしまったからには遂行しなくちゃいけない」[p]
 #春也
@@ -174,7 +176,7 @@
 「……あの」[p]
 #
 先輩の笑顔を前にしては、切り出しにくい話題だったのだが。[p]
-[fadeoutse time=5000]
+[fadeoutbgm time=4000]
 #春也
 「ひとつだけ、確かめておきたいんですが」[p]
 #先輩
@@ -185,24 +187,26 @@
 「最近、話題になってるじゃないですか。連続殺人事件……」[p]
 #
 [yukino/1]僕の言葉に、先輩はぴくりと目を見開かせた。[p]
-[mask time=300]
+[mask time=500]
+[fadeinbgm storage=fuon_loop.ogg time=2000]
 [hide time=0][haruyahide time=0]
 [layopt layer=1 visible=true][image layer="1" storage="obi.png" top=-1.1 name="kaisou"]
 [bg2 storage="jutakugai.jpg" width=1600 height=900 top=-180 left=0 time=0 wait=false]
 [wait time=200]
 [camera time=30000 x=320 y=180 ease_type=linear wait=false layer=base]
-[mask_off time=300]
+[mask_off time=500]
 近頃世間を賑わせている、惨殺事件。[p]
 全国各地でまばらに事件が起きており、[r]その屍体は見るも無残に破壊されていて、[r]身体の一部が見つからないなどはザラだという。[p]
 犯人は未だ捕まっておらず、また範囲が全国に散らばるものだから[r]犯人の足取りも掴めない。[p]
 昨日は北の果て、今日は本州の南端なんてのは当たり前。[r]その怪事件っぷりに複数犯の可能性も挙げられるぐらいだ。[p]
-[mask time=300]
+[mask time=500]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=0]
 [free name="kaisou" layer=1]
 [yukino1 time=0][haruya time=0]
 [reset_camera time=0]
 [wait time=200]
-[mask_off time=300]
+[fadeoutbgm time=4000]
+[mask_off time=500]
 #春也
 「これはあくまで確認なんですけど。[r]　今って絶対安全とは言い切れない状況じゃないですか。[r]　でも、行くってことで、いいんですよね」[p]
 
@@ -222,9 +226,9 @@
 僕は首を振る。[p]
 #春也
 「もうスケジュール……組んじゃいましたし」[p]
+[fadeinbgm storage=kaiwa_loop.ogg time=1500]
 #先輩
 [yukino/2]「そうだね。そうだなあ」[p]
-
 #
 先輩は笑った。にっこりと笑った。[p]
 ふと僕のスマホがポケットの中で振動した。[p]
@@ -260,6 +264,7 @@
 #
 先輩は笑った。[p]
 六月。手狭な部室から覗く空は、今日も雨模様。[p]
+[fadeoutbgm time=1500]
 [mask time="1000"]
 [hide time=0]
 [haruyahide time=0]

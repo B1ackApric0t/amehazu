@@ -95,7 +95,7 @@
 
 [mask time="1000"]
 [wait time="1500"]
-[fadeinse storage=rain8.ogg loop=true time=2000]
+[fadeinse storage=rain8r.ogg loop=true time=2000]
 [mask_off time="1000"]
 
 #
@@ -122,7 +122,7 @@
 #春也
 「先輩！！」[p]
 #雨妖
-「騒ぐな」[p]
+[yukino/14]「騒ぐな」[p]
 #
 [haruyahide time=400 wait=false][quake time=1000]
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]

@@ -14,7 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage="black.png" time="300"]
-[fadeinse storage=rain8r.ogg time=2000 loop=true]
+;[fadeinse storage=rain8r.ogg time=2000 loop=true]
 [mask_off time=500]
 
 *start
@@ -36,7 +36,7 @@
 22:00。[p]
 #春也
 「……嫌だな」[p]
-[fadeoutse time=500]
+;[fadeoutse time=500]
 #
 見つめていた携帯をポケットに突っ込んで、僕は立ち上がる。[p]
 傘を手に取り、極力音がしないよう細心の注意を払いながら、[r]玄関の鍵を開ける。[p]
@@ -52,6 +52,7 @@
 [bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=1000 wait=false cross=false]
 真っ黒な空を眺めつつそんなことを考えていた僕だったが、[r]ふと目線を下ろしてみて、全身にぞわりと波が走った。[p]
 何かが地面から現れ、浮上してきていた。[p]
+[fadeinbgm storage=fuon_loop.ogg time=2000]
 僕が足で立っているのと一続きの地面から、[r]それはまるで水面から顔を出すかのように、[r]少しずつ浮かび上がってくる。[p]
 ……目の錯覚みたいで気持ちが悪い。[p]
 当たり前だと思っていたものが揺さぶられているようで、[r]不安になってくる。[p]
@@ -170,6 +171,7 @@
 
 #
 空気がぴりりと引き締まる。[p]
+[fadeoutbgm time=2000]
 #雨妖
 「先に言っておこう。赤羽雪乃は人間ではない」[p]
 
@@ -177,7 +179,7 @@
 「…………はい？」[p]
 #雨妖
 「奴も儂も、この世に生きるものではない。[r]　異界よりこの世界を訪れた、いわば異邦の民である。」[p]
-「我々は『妖』である。人に非ず禽獣に非ず、しかし花にも魚にも非ず。[r]　我々は、この世界の理を外れた存在である」[p]
+「我々は『[ruby text="あやかし"]妖』である。人に非ず禽獣に非ず、しかし花にも魚にも非ず。[r]　我々は、この世界の理を外れた存在である」[p]
 
 #
 台本を読み上げるように淡々と、雨妖はそう述べた。[p]
@@ -344,8 +346,10 @@
 [yukino1 time=1500]
 暗闇で満ちていく頭の中。先輩の姿が最後に残っていた。[p]
 それだけはどうやっても消えなかった。[p]
+[mhide time=1500][wa]
 [mask time="2000"]
 [hide time=0]
+[mshow time=0]
 [wait time="1000"]
 [free_filter]
 [bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=3000]

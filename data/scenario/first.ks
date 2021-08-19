@@ -81,14 +81,9 @@ f.preload_bg = [
 ];
 f.preload_bgm = [
 "data/bgm/A_end_loop.ogg",
-"data/bgm/ajisai.ogg",
 "data/bgm/ajisai_loop.ogg",
-"data/bgm/fuon.ogg",
 "data/bgm/fuon_loop.ogg",
 "data/bgm/kaiwa_loop.ogg",
-"data/bgm/main.ogg",
-"data/bgm/main_loop.ogg",
-"data/bgm/rain_kasa.ogg",
 ];
 [endscript]
 
