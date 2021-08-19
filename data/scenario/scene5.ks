@@ -84,5 +84,6 @@
 [mask time="1000"]
 [bg2 storage="black.png" time="1500"]
 ;[fadeinse storage=rain8r.ogg time=3000 loop=true]
+[eval exp="sf.S6=1"]
 [mask_off time="1500"]
 @jump storage="scene6.ks" target=*start

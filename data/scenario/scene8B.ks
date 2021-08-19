@@ -348,6 +348,7 @@
 [mask time=1500]
 [bg2 storage="ajisai_night.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
 [wait time=2000]
+[eval exp="sf.S9b=1"]
 [mask_off time=1500 effect="fadeOutUpBig"]
 
 @jump storage="scene9B.ks" target=*scene9

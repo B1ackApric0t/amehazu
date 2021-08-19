@@ -207,6 +207,12 @@
 「さけ」[p]
 #
 先輩が呟いた。さけとだけ一言呟いた。[p]
+[mask color=0xFFFFFF time=100]
+[mask_off time=10]
+[wait time=20]
+[mask color=0xFFFFFF time=100]
+[mask_off]
+[wait time=500]
 断末魔。絞り上げるような苦痛の声。[r]相手が相手なのに嫌でも血の気が引いた。[p]
 叫びの声が消え入るまでの音量やうねりやトーンの変遷が、[r]死の輪郭をありありと浮かび上がらせてくるようだった。[p]
 [playse storage=zabun.ogg]
@@ -266,6 +272,7 @@
 [mask time=1000]
 [bg2 storage ="entrance2.jpg" time=2000 wait=true]
 [fadeinse storage=rain5.ogg time=2000 loop=true]
+[eval exp="sf.S10b=1"]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
 @jump storage="scene10B.ks" target=*scene10

@@ -1,6 +1,52 @@
 [fadeoutbgm time=10]
 
 *start
+[if exp="sf.Aroot==undefined"]
+[eval exp="sf.Aroot=0"]
+[endif]
+[if exp="sf.Broot==undefined"]
+[eval exp="sf.Broot=0"]
+[endif]
+[if exp="sf.S1==undefined"]
+[eval exp="sf.S1=0"]
+[endif]
+[if exp="sf.S2==undefined"]
+[eval exp="sf.S2=0"]
+[endif]
+[if exp="sf.S3==undefined"]
+[eval exp="sf.S3=0"]
+[endif]
+[if exp="sf.S4==undefined"]
+[eval exp="sf.S4=0"]
+[endif]
+[if exp="sf.S5==undefined"]
+[eval exp="sf.S5=0"]
+[endif]
+[if exp="sf.S6==undefined"]
+[eval exp="sf.S6=0"]
+[endif]
+[if exp="sf.S7==undefined"]
+[eval exp="sf.S7=0"]
+[endif]
+[if exp="sf.S8a==undefined"]
+[eval exp="sf.S8a=0"]
+[endif]
+[if exp="sf.S9a==undefined"]
+[eval exp="sf.S9a=0"]
+[endif]
+[if exp="sf.S10a==undefined"]
+[eval exp="sf.S10a=0"]
+[endif]
+[if exp="sf.S8b==undefined"]
+[eval exp="sf.S8b=0"]
+[endif]
+[if exp="sf.S9b==undefined"]
+[eval exp="sf.S9b=0"]
+[endif]
+[if exp="sf.S10b==undefined"]
+[eval exp="sf.S10b=0"]
+[endif]
+
 
 *title
 @clearfix
@@ -14,14 +60,14 @@
 <div id="tl">
 <img class="img_title" src="data/bgimage/title.jpg" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
 
-;<div class="container">
-;  <div class="rains">
-;    <span></span><span></span><span></span><span></span><span></span>
-;    <span></span><span></span><span></span><span></span><span></span>
-;    <span></span><span></span><span></span><span></span><span></span>
-;    <span></span><span></span><span></span><span></span><span></span>
-;   </div>
-;</div>
+<div class="container">
+  <div class="rains">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+   </div>
+</div>
 
 <div id="title_start" class="title_item" style="left:120px;top:340px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_start.png" alt="" class="non">

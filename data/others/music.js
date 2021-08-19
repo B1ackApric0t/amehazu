@@ -1,6 +1,5 @@
 var audio = document.getElementsByTagName("audio")[0]
 var playButton = document.getElementById("play")
-var stopButton = document.getElementById("stop")
 var volume = document.getElementById('volume');
 var x = 1;
 
@@ -12,10 +11,18 @@ playButton.addEventListener('click', () => {
     audio.pause()
   }
 })
-stopButton.addEventListener('click', () => {
-  audio.pause()
-  audio.currentTime = 0
-})
+
+audio.onplay = (event) => {
+  $('.act').attr('src','data/image/music6.png');
+};
+
+audio.onpause = (event) => {
+  $('.act').attr('src','data/image/music3.png');
+};
+
+audio.onended = (event) => {
+  $('.act').attr('src','data/image/music3.png');
+};
 
 function playTime (t) {
   let hms = ''

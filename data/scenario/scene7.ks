@@ -550,6 +550,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [haruya time=0][image layer="2" storage="uyo.png" width=900 left=190 top=-150]
 [bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=2000 name=genkanbg]
 [fadeinse storage=rain_kasa.ogg loop=true time=2000]
+[eval exp="sf.S8a=1"]
 [mask_off time="1000"]
 
 @jump storage="scene8A.ks"  target=*scene8
@@ -671,6 +672,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [bg2 storage="black.png" time="0"]
 [wait time=2000]
 [fadeinse storage=rain8r.ogg time=2000]
+[eval exp="sf.S8b=1"]
 [mask_off time=1000]
 
 @jump storage="scene8B.ks" target=*scene8

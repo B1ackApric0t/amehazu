@@ -162,5 +162,11 @@
 好きだよ。[p]
 
 ――何もかも。[l]君の味も。[p]
-
-
+[mask time=1500]
+[M0]
+@clearfix
+@layopt layer="message0" visible=false
+[bg2 storage=black.png time=1000]
+[mask_off tme=1000]
+[eval exp="sf.Broot=1"]
+@jump storage="title.ks" target=*title

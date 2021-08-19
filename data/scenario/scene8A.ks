@@ -376,6 +376,7 @@
 
 [mask time=1000]
 [bg2 storage=ajisai_night2.jpg time=1000 width=1600 left=-160 height=900]
+[eval exp="sf.S9a=1"]
 [mask_off time=1000]
 
 @jump storage="scene9A.ks" target=*scene9

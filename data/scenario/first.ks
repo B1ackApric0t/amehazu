@@ -8,8 +8,6 @@
 [plugin name="waapi"]
 [plugin name=bg_rule]
 
-[loadbgm str="BGM1.ogg"]
-
 
 [iscript]
 f.preload_yukino = [
@@ -48,7 +46,6 @@ f.preload_bg = [
 "data/bgimage/busiturain2.jpg",
 "data/bgimage/busituyoru.jpg",
 "data/bgimage/class.jpg",
-"data/bgimage/classwindow.png",
 "data/bgimage/corridor.jpg",
 "data/bgimage/entrance.jpg",
 "data/bgimage/entrance2.jpg",
@@ -56,14 +53,13 @@ f.preload_bg = [
 "data/bgimage/genkan.jpg",
 "data/bgimage/genkan2.jpg",
 "data/bgimage/haruyaroom.jpg",
-"data/bgimage/hug1.jpg",
-"data/bgimage/hug2.jpg",
-"data/bgimage/hug3.jpg",
-"data/bgimage/hug4.jpg",
 "data/bgimage/moon.jpg",
 "data/bgimage/sky.jpg",
 "data/bgimage/michi_rain.jpg",
 "data/bgimage/title.jpg",
+"data/bgimage/tekubi.jpg",
+"data/bgimage/tekubi2.jpg",
+"data/bgimage/tekubi3.jpg",
 "data/bgimage/tonarib.jpg",
 "data/bgimage/tonarib_n.jpg",
 "data/bgimage/tonariemi_n.jpg",
@@ -102,6 +98,15 @@ f.preload_bgm = [
 @layopt layer="message" visible=false
 
 [hidemenubutton]
+
+;[mask time=1000]
+;[image layer=0 page=fore visible=true storage=logo.png]
+;[mask_off time=1000]
+;[wait time=1000]
+;[movie storage="logo.mp4" skip=false]
+;[mask time=1000]
+;[freeimage layer=0 time=1500]
+;[mask_off time=500]
 
 @jump storage="title.ks"
 [s]

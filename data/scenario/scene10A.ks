@@ -173,4 +173,11 @@
 
 狭いけれど大きな窓がついていて、[r]僕の大切なものや時間がいっぱい詰まっている。[p]
 この部屋のことが、僕は好きだ。[p]
-
+[mask time=1500]
+[M0]
+@clearfix
+@layopt layer="message0" visible=false
+[bg2 storage=black.png time=1000]
+[mask_off tme=1000]
+[eval exp="sf.Aroot=1"]
+@jump storage="title.ks" target=*title

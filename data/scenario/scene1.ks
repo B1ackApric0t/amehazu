@@ -13,6 +13,7 @@
 @layopt layer=message0 visible=true
 [ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
 [wait time=1500]
+[eval exp="sf.S1=1"]
 [mask_off time=1000]
 
 *scene1
@@ -181,6 +182,7 @@
 [bg2 storage="busiturain.jpg" time="0"]
 [playse storage=rain5r.ogg loop=true]
 [role]
+[eval exp="sf.S2=1"]
 [mask_off time="1000"]
 
 @jump storage="scene2.ks" target=*start
