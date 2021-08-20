@@ -136,7 +136,7 @@
 [mask time1000]
 [M1]
 [hide time=0][haruyahide time=0]
-[bg2 storage=hug1.jpg time=600]
+[bg2 storage=hug3.jpg time=600]
 [fadeinbgm storage=A_end_loop.ogg time=1500]
 [mask_off time=1200]
 
@@ -147,6 +147,7 @@
 #先輩
 「君の背の傷を想っている」[p]
 #
+[bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 横目に見た先輩は瞳を閉じていた。きれいだと思った。[r]……この人は美しい人なのだ。[p]
 同じぐらいに変人だけど。[p]
 #春也
@@ -162,10 +163,12 @@
 #先輩
 「そんな気分なんだ」[p]
 #
+[bg2 storage="hug3.jpg" time=0 cross=false wait=false]
 先輩が僕のそばから離れた。[p]
 それから椅子の背もたれと、緊張でぴんと張った僕の背の間に手を差し挟み、[r]制服の背中に指先を滑らせた。[p]
 不思議なことに、先輩の指の軌跡は、[r]僕の背中の手術痕を正確になぞっていた。[p]
 再び先輩は僕の背中を抱く。さっきよりもひしと抱かれた。[r]優しい力がこめられていた。[p]
+[bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 #先輩
 「たぶん私は、君の背の傷のことをこれから何度も想うのだろうね」[p]
 #

@@ -83,7 +83,7 @@
 #
 [freeimage layer=2]
 盛大な水しぶきとともに、雨妖の姿が眼前から消え失せる。[r]ふっと我に返り、雨妖の行方を捉えようと辺りを見回したそのとき。[p]
-[anim name=genkanbg top=+360 time=1000][wa]
+[anim name=genkanbg top=+360 time=1000][wait time=1000]
 頭上にただならない重圧を感じ、僕は思わず傘を下ろして天を仰ぐ。[p]
 [mask time=300 effect=fadeInDownBig]
 [haruyahide time=0]
