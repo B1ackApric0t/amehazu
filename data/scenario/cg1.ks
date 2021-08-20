@@ -19,8 +19,16 @@
 <div class='tabs'>
   <div class='tab-buttons'>
     <span class='content1' style="margin-left:105px;padding-top:10px;transition: .3s;">章選択</span>
+    [if exp="sf.Aroot == 1 && sf.Broot == 1"]
     <span class='content2' style="padding-top:10px;transition: .3s;">画廊</span>
-    <span class='content3' style="padding-top:10px;transition: .3s;">音楽</span>
+    [else]
+    <span style="padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">画廊</span>
+    [endif]
+    [if exp="sf.Aroot == 1 && sf.Broot == 1"]
+    <span class='content3' style="padding-top:10px;transition:.3s;">音楽</span>
+    [else]
+    <span style="padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">音楽</span>
+    [endif]
     <div id='lamp' class='content1 lamp'></div>
   </div>
   <div class='tab-content'>
@@ -72,7 +80,7 @@
         <div id="chapter10B" class="chap">場面10B.「　」</div>
         [else][endif]
       </div>
-      [if exp="sf.Aroot = 1 & sf.Broot = 1"]
+      [if exp="sf.Aroot == 1 && sf.Broot == 1"]
       <div id="chapterEX" class="chap" style="position:absolute;top:200px;left:870px;">EX.背中</div>
       [else][endif]
     </div>
@@ -82,11 +90,13 @@
         <img src="data/bgimage/tonarib.jpg" class="cg" id="tonari">
         <img src="data/bgimage/shadow.jpg" class="cg" id="shadow">
         <img src="data/bgimage/tekubi.jpg" class="cg" id="tekubi">
-        <img src="data/bgimage/inthedark.png" class="cg" id="senpai">
+        <img src="data/bgimage/te.jpg" class="cg" id="senpai">
         <img src="data/bgimage/vsuyo.png" class="cg" id="vsuyo">
         <img src="data/bgimage/Alast.png" class="cg" id="alast">
         <img src="data/bgimage/white.jpg" class="cg" id="blast">
+        [if exp="sf.SX = 1"]
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
+        [else][endif]
       </div>
     </div>
     

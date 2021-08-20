@@ -138,7 +138,7 @@
 待てよ。急にわからない。[p]
 このわからないというのは共感できないという意味ではなくて、[r]何を言いたいのか掴めないということだ。[p]
 #？？
-[yukino12]「……ごめん。もしかして私、ずっと変なこと言ってる？」[p]
+[yukino/12]「……ごめん。もしかして私、ずっと変なこと言ってる？」[p]
 #
 僕が答えあぐねていると、相手は困ったように笑った。[p]
 #春也
@@ -242,7 +242,7 @@
 [playse storage=door.ogg]
 [mask_off time=800]
 扉は開かれた。[p]
-文芸部の部室は、[r]元々は物置のか何かだったかと思うぐらい狭い部屋だった。[p]
+文芸部の部室は、[r]元々は物置か何かだったかと思うぐらい狭い部屋だった。[p]
 中央には大きなテーブルが置かれ、[r]部屋の奥には上級生らしい女の人が座っている。[r]茶髪をお下げにした眼鏡の人だった。[p]
 #？？
 「お帰り」[p]
@@ -259,7 +259,9 @@
 #部長
 [bucho/b3]「期待ね。ま、期待は特にしてなかったけどね」[p]
 #
+[kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 ふっ、と部長さんは笑った。ふふふふ、と赤羽先輩も笑った。[r]独自の文化が醸成されている。[p]
+;[stop_kanim name=yukino][stop_kanim name=bucho]
 #部長
 「適当に座ってくれる？」[p]
 #春也
@@ -291,6 +293,7 @@
 [chara_hide_all time=400 wait=false][haruyahide time=400]
 僕たちは三人して外の景色を眺める。遠く空が広がっていた。[p]
 [mask time="1000" color=0xFFFFFF]
+[fkaisou]
 [bg2 storage=black.png time=2000]
 [mask_off time="1000"]
 

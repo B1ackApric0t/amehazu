@@ -201,6 +201,12 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [endmacro]
 
 ;keyframe
+[keyframe name="nod3"]
+[frame p="0%" y="0"]
+[frame p="50%" y="10"]
+[frame p="100%" y=" 0"]
+[endkeyframe]
+
 [keyframe name="nod"]
 [frame p="0%" y="0"]
 [frame p="50%" y="15"]
