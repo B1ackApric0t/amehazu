@@ -1029,9 +1029,10 @@ audio {
 .rains{
   position: absolute;
   left:0px;
-  top:0px;
+  top:15px;
   width: 100%;
   height:100%;
+  transform: rotate(6deg);
 }
 
 /*widthは雨の太さ、heightは長さ*/

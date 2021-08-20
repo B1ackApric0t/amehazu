@@ -105,8 +105,8 @@ f.preload_bgm = [
 [wait time=1000]
 ;[movie storage="logo.mp4" skip=false]
 [mask time=1000]
-[freeimage layer=0 time=1500]
-[mask_off time=500]
+[freeimage layer=0 time=100]
+[mask_off time=100]
 
 @jump storage="title.ks"
 [s]

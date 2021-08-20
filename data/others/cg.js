@@ -66,7 +66,12 @@ $('#cgbig').click(function(){
 
 
 
+$("#cgbig").bind('contextmenu', function() {
+  still = 1;
+  $(this).css({'background-image':'','visibility':'hidden'});
 
+  return false;
+});
 
 
 var $chapters = $("#chapter1,#chapter2,#chapter3,#chapter4,#chapter5,#chapter6,#chapter7,#chapter8A,#chapter9A,#chapter10A,#chapter8B,#chapter9B,#chapter10B,#chapterEX");
