@@ -14,6 +14,7 @@
 @layopt layer=message0 visible=true
 [role][haruya time=0]
 [bg2 storage ="ajisai_night.jpg" width=1600 left=-160 height=900 time=300]
+[fadeinbgm storage=ajisai_loop.ogg time=1500]
 [mask_off time=500]
 
 *scene9
@@ -188,8 +189,10 @@
 #先輩
 「そろそろ一雨来るみたいだ」[p]
 #
+[fadeoutbgm time=2500]
 不意にぱらりと雨粒が落ちた。[r]頭上を仰ぐと、先程払ったはずの雨雲が再び夜空を覆い始めていた。[p]
 ということは、今来ているのは。[p]
+[quake count=5 time=500 hmax=20 wait=false]
 #雨妖
 「貴様らァァッ！！」[p]
 #
@@ -231,6 +234,7 @@
 [mask time=500]
 [yukino12 time=0 top=30 width=1500][haruya time=0]
 [bg2 storage ="ajisai_night2.jpg" width=1600 left=-160 height=900 time=500]
+[fadeinse storage=rain_kasa.ogg time=1000]
 [mask_off tme=500]
 #春也
 「彼岸花、心残りなんですか。最後に見たかったとか」[p]
@@ -238,6 +242,7 @@
 「ううん。大丈夫。そんなこと言ってても仕方ないしね。」[p]
 「それよりさっきの話の続きをしよう」[p]
 #
+[hide time=100][yukino12]
 体を離して先輩は言った。[p]
 #春也
 「逃避行の話ですか？」[p]
@@ -261,18 +266,22 @@
 #先輩
 「ありがとう。それじゃ、そうだね」[p]
 #
+[fadeoutse time=900]
 [mask time=300]
 [hide time=0][haruyahide time=0]
 [bg2 storage=black.png time=100]
 [mask_off time=300]
 先輩の姿が異形に転じてゆく。[r]そして再び僕を抱えて、空へ飛び立った。[p]
+[mhide time=100]
 [bg2 storage ="moon.jpg" time=1000 cross=true wait=true method="vanishIn"]
+[mshow time=400][wt]
 月が眼前に迫る。その向こうが覗けそうなほどに。[p]
 
 [mask time=1000]
 [bg2 storage ="entrance2.jpg" time=2000 wait=true]
 [fadeinse storage=rain5.ogg time=2000 loop=true]
 [eval exp="sf.S10b=1"]
+[wait time=1000]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
 @jump storage="scene10B.ks" target=*scene10

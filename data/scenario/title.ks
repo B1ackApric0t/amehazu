@@ -78,9 +78,15 @@
 <div id="title_config" class="title_item" style="left:120px;top:460px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_config.png" alt="" class="non">
 </div>
+[if exp="sf.S1 = 1"]
 <div id="title_gallery" class="title_item" style="left:120px;top:520px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_gallery.png" alt="" class="non">
 </div>
+[else]
+<div style="left:120px;top:520px;position:absolute;cursor:pointer;opacity:0.5;">
+	<img src="data/fgimage/title_gallery.png" alt="" class="non">
+</div>
+[endif]
 <div id="title_quit" class="title_item" style="left:120px;top:580px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_quit.png" alt="" class="non">
 </div>

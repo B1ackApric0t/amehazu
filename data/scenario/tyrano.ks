@@ -107,7 +107,7 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [macro name="yukinohide"][chara_hide name="yukino" time=700][endmacro]
 [macro name="hide"][chara_hide name="yukino" time="%time|1000" wait="%wait|true"][endmacro]
 
-[macro name="yukinoA"][chara_show name="yukino" storage="%storage|yukino/you1.png" page="%page|fore" top="%top|50" left="%left" time="%time|700" width="%width|1000" wait="%wait|true"][endmacro]
+[macro name="yukinoA"][chara_show name="yukino" storage="%storage|yukino/you1.png" page="%page|fore" top="%top|40" left="%left" time="%time|700" width="%width|1100" wait="%wait|true"][endmacro]
 
 [macro name="ynear"]
 [chara_show name="yukino" storage="%storage" time="%time|700" top="%top|30" left="%left" width="1400"]
@@ -228,6 +228,11 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [keyframe name="up"]
 [frame p="0%" y="0"]
 [frame p="100%" y="-10"]
+[endkeyframe]
+
+[keyframe name="up2"]
+[frame p="0%" y="0"]
+[frame p="100%" y="-20"]
 [endkeyframe]
 
 [keyframe name="no"]

@@ -282,6 +282,7 @@
 #春也
 「……いえ。無事ならよかったです」[p]
 [M0]
+[fadeinse storage=rain_kasa.ogg time=1500 loop=true]
 [bg2 name="ajisaibg" storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 cross=true]
 [yukino7 top=30 width=1500]
 #先輩
@@ -314,11 +315,13 @@
 でも僕は、そんな先輩をどんなまなざしで見ればいいのか、[r]もうわからなくなっていた。[p]
 白い霧があじさい園全体を覆っていた。[r]その中を僕たちふたりは歩いていく。[p]
 先輩がひとり。僕がひとり。[p]
+[fadeoutse time=1500]
 [mask time=1500]
 [wait time=500]
-[fadeinse storage=rain5r.ogg time=3000 loop=true]
 [anim name=ajisaibg top=0 time=0]
-[bg2 storage="busiturain.jpg" time="3000"]
+[bg2 storage="busiturain.jpg" time="2000"]
+[fadeinse storage=rain5r.ogg time=2500 loop=true]
+[wait time=800]
 [mask_off time="1500"]
 
 @jump storage="scene5.ks" target=*start

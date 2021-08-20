@@ -111,7 +111,7 @@
 #春也
 「……なんですか。駄目ですか」[p]
 #先輩
-「いや全然。」[p]
+「いや全然」[p]
 「そうだ。私も深呼吸していい？」[p]
 #春也
 「なんで僕に聞くんですか」[p]
@@ -177,12 +177,13 @@
 先輩、先輩……[p]
 準備は出来た。意は決した。[p]
 自分でも驚くほど震える手先で、僕は玄関の戸を開く。[p]
-[mask time=500]
+[mask time=1000]
 [bg2 storage="genkan1.jpg" time="0"]
+[playse storage=doorp.ogg]
 [haruya time=0]
 [yukinoA time=0]
-[wait time=500]
-[mask_off time=500]
+[wait time=2000]
+[mask_off time=1000]
 #春也
 「……先輩……？」[p]
 #
@@ -321,21 +322,21 @@
 #
 [haruyahide]
 先輩が僕を抱き上げる。僕は先輩に身を任せる。[r]ふわりと体が宙に浮いて、じきに目線が民家の屋根を越した。[p]
-[mask time=500 effct="fadeInUp"]
-[hide time=0]
-[bg2 storage="nightcity.jpg" time="0"]
-[wait time=500]
-[mask_off time=500 effct="fadeOutUp"]
+[hide time=400]
+[bg2 storage="nightcity.jpg" time="1000" method=fadeInUp]
 #先輩
 「下見ないで。きっと怖いよ」[p]
 #春也
 「分かりました。それなら……先輩を見てていいですか」[p]
 #
+[quake count=1 time=500 vmax=20]
 ぐらつく。[p]
 #春也
 「ちょっあっ先輩！？」[p]
 #
+[bg2 storage="moon.jpg" time="500"]
 地上と空が一回転する。[r]家々の灯りがぐるりと尾を引き、目に映る夜空に走った。[p]
+[bg2 storage="nightcity.jpg" time="500"]
 体勢を立て直して先輩は言う。[p]
 #先輩
 「私語を禁ずる」[p]
@@ -349,6 +350,7 @@
 [bg2 storage="ajisai_night.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
 [wait time=2000]
 [eval exp="sf.S9b=1"]
+[fadeinbgm storage=ajisai_loop.ogg time=2000]
 [mask_off time=1500 effect="fadeOutUpBig"]
 
 @jump storage="scene9B.ks" target=*scene9

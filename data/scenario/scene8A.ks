@@ -69,6 +69,11 @@
 「儂は主の命により、赤羽雪乃を殺しに来た。[r]　帰還命令を拒否し続けたから殺すとは言ったが、[r]　それは帰還すれば殺さないということではない」[p]
 #春也
 「なっ……どうして！？　同族なんじゃないんですか！！」[p]
+#
+[trans layer="2" time=0][wt][freeimage layer=2 page=back]
+[image layer="2" page="back" storage="uyo.png" width=1300 left=60 top=-380]
+[trans layer="2" time=1000]
+[wt]
 #雨妖
 「いかにも同族だ！　しかし同族だから殺すのだ！！[r]　彼奴は我ら同胞の面汚しなのだから！！」[p]
 #
@@ -124,7 +129,7 @@
 #雨妖
 [yukino/14]「騒ぐな」[p]
 #
-[haruyahide time=400 wait=false][quake time=1000]
+[haruyahide wait=false][quake count=4 time=700 vmax=15]
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
 #先輩
 [yukino/9]「春也くん！！」[p]
@@ -202,6 +207,8 @@
 僕は先輩の後輩なのだ。[p]
 そしていま、後輩として伝えるべきことは。[p]
 [haruya]
+[fadeoutse time=500]
+[fadeinbgm storage=A_end_loop.ogg time=2000]
 #春也
 [yukino/14]「違います！！　騙したのは僕のほうなんです……！」[p]
 「本当は先輩と離れたくなんかないですよ！！[r]　僕は強い人間なんかじゃない……！」[p]
@@ -225,7 +232,8 @@
 「そんなわけない！！」[p]
 「先輩はすごい人なんです。誰かと関わるって上手くいけば楽しいですけど、[r]　でも上手くいかなかったり傷ついたり失敗しちゃったり、[r]　そうなると逆にすごく苦しいじゃないですか」[p]
 [yukino/11]「それでも先輩は、誰かと関わろうとしてきたじゃないですか。[r]　それってすごいことなんですよ」[p]
-「それでも誰かに向かって飛び込んでいけることを、先輩は誇るべきなんです。[r]　強いのは先輩のほうなんです」[p]
+「それでも誰かに向かって飛び込んでいけることを、[r]先輩は誇るべきなんです」[p]
+「強いのは先輩のほうなんです」[p]
 #雨妖
 「もういい！！　お前は彼奴が憎くないのか！？」[p]
 #
@@ -240,13 +248,13 @@
 「先輩？」[p]
 #先輩
 「君が最後にそう言ってくれたこと、それが私の救いだ」[p]
-[fadeoutse time=500]
+#
+[fadeoutbgm time=1000]
 [mask time=500 color="0xFFFFFF"]
 [free_filter]
 [hide time=0][haruyahide time=0]
 [bg2 storage="white.jpg" time="0"]
 [wait time=500]
-#
 [mask_off time=500]
 僕には見えた。[p]
 白く輝く指先が、先輩の体に光の筋を刻む。[r]そこから白い光が、堰を切ったようにあふれ出す。[p]
@@ -257,8 +265,9 @@
 [mask time=500 color="0xFFFFFF"]
 [yukino9 width=1400 top=30 time=0][haruya time=0]
 [bg2 storage="ajisai_night2.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
-[mask_off time=500 effect=vanishOut]
 [playse storage=rain8.ogg loop=true]
+[filter layer=base blur=4]
+[mask_off time=500 effect=vanishOut]
 濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
 #春也
 「それだけは、駄目なんです！！」[p]
@@ -273,6 +282,7 @@
 #
 [playse storage=zabun.ogg]
 [mask time=500 effect="fadeInDown"]
+[free_filter]
 [hide time=0][haruyahide time=300]
 [bg2 storage="black.png" time="0"]
 [mask_off time=500]
@@ -293,12 +303,13 @@
 わからない。何もわからなくなってくる。[r]息苦しさの中で、場違いな浮遊感に意識が染まり始める。[p]
 [fadeoutse time=2000]
 [M1]
-[bg2 storage="inthedark.png" time="500" cross=true wait=true]
+[bg2 storage="inthedark.png" time="1000" cross=true wait=true]
 ――闇の中に何かが見えた。それは白い光だった。[p]
 それは。[p]
 それは、きっと先輩の手に違いなかった。闇の中ではっきり感じた。[p]
 それは視界を下に外れる。そのまま僕の体を抱きかかえ、ぐっと引き上げた。[p]
 [mask time=800 color="0xffffff"]
+[stopse]
 [bg2 storage="vsuyo.png" time="0"]
 [wait time=500]
 [mask_off time=800]
@@ -343,13 +354,13 @@
 「正気か！？　今更帰還したところで到底許されはせんぞ……！」[p]
 #先輩
 「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
+#
 [mask time=1000 color="0xffffff"]
 [M0]
 [bg2 storage="ajisai_night2.jpg" time="0"]
 [wait time=1000]
 [fadeinse storage=rain8.ogg loop=true time=2000]
 [mask_off time=1000]
-#
 そう言って先輩は地上に降り立つ。先程までの戦いが嘘のような静寂だ。[p]
 戦闘は終わったのだ。[p]
 @layopt layer="2" visible=true
@@ -375,7 +386,7 @@
 先輩は遠い夜空を見つめていた。[p]
 
 [mask time=1000]
-[bg2 storage=ajisai_night2.jpg time=1000 width=1600 left=-160 height=900]
+[bg2 storage=ajisai_night2.jpg time=1500 width=1600 left=-160 height=900]
 [eval exp="sf.S9a=1"]
 [mask_off time=1000]
 

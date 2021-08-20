@@ -76,12 +76,12 @@
 「そうですね。そうしましょう」[p]
 #
 ずぶぬれの僕が答えた。[p]
-[hide]
+[hide time=200][yukinoA time=1000]
 先輩がその姿を妖へと変ずる。[r]軽く僕を抱きかかえて、赤い羽が闇にきらめく。[p]
 
 [mask time=700 effect="fadeInUp"]
 [free_filter]
-[bg2 storage="entrance2.jpg" time="0"][haruyahide time=0]
+[bg2 storage="entrance2.jpg" time="0"][haruyahide time=0][hide time=0]
 [wait time=800]
 [mask_off time=700 effect="fadeOutDown"]
 
@@ -114,9 +114,11 @@
 そして僕たちは、最後の帰路につき始めた。[p]
 
 [mask time=700 effect="fadeInLeft"]
+[fadeoutse time=1000]
 [M1]
 [bg2 storage="tonarib_n.jpg" time="0"]
 [wait time=700]
+[fadeinbgm storage=A_end_loop.ogg time=1500]
 [mask_off time=700 effect="fadeOutRight"]
 
 #春也
@@ -278,11 +280,13 @@
 「別に。忘れてきても大丈夫ですよ」[p]
 「僕が絶対傘を持って、迎えに行きますから……」[p]
 #
-
+[fadeoutbgm time=1500]
+[fadeinse storage=rain_kasa.ogg loop=true time=800]
 [mask time=1500]
 [M0]
-[bg2 storage="michi_rain.jpg" time="2000"]
-[mask_off time=1000]
+[bg2 storage="michi_rain.jpg" time="0"]
+[wait time=3500]
+[mask_off time=1500]
 
 
 降りしきる雨の音に、僕は隣を振り向いた。[p]

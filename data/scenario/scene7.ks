@@ -269,6 +269,7 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 先輩が元の世界でどんな暮らしをしていたのか。[r]どうしてこの世界にやって来たのか。[p]
 そんなことを、想像していた。[p]
 [playse storage=door.ogg buf=1]
+[wait time=400]
 不意に僕は驚いて振り向く。[r]人の声にドアを振り返るのは本日二度目だ。[p]
 そしてそこにいたのは、[p]
 #？？
