@@ -303,7 +303,7 @@
 わからない。何もわからなくなってくる。[r]息苦しさの中で、場違いな浮遊感に意識が染まり始める。[p]
 [fadeoutse time=2000]
 [M1]
-[bg2 storage="inthedark.png" time="1000" cross=true wait=true]
+[bg2 storage="te.jpg" time="1000" cross=true wait=true]
 ――闇の中に何かが見えた。それは白い光だった。[p]
 それは。[p]
 それは、きっと先輩の手に違いなかった。闇の中ではっきり感じた。[p]

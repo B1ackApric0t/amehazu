@@ -19,16 +19,8 @@
 <div class='tabs'>
   <div class='tab-buttons'>
     <span class='content1' style="margin-left:105px;padding-top:10px;transition: .3s;">章選択</span>
-    [if exp="sf.Aroot == 1 && sf.Broot == 1"]
     <span class='content2' style="padding-top:10px;transition: .3s;">画廊</span>
-    [else]
-    <span style="padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">画廊</span>
-    [endif]
-    [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-    <span class='content3' style="padding-top:10px;transition:.3s;">音楽</span>
-    [else]
-    <span style="padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">音楽</span>
-    [endif]
+    <span class='content3' style="padding-top:10px;transition: .3s;">音楽</span>
     <div id='lamp' class='content1 lamp'></div>
   </div>
   <div class='tab-content'>
@@ -39,50 +31,24 @@
       <div id="summary">ふたりでひとつの傘に入りながら、ともに帰路を歩む春也と先輩。やがて先輩と別れひとりになる春也だったが、その背後には巨大な魚影が忍び寄っていた。</div>
       <div class="chapterchoice">
         <div id="chapter1" class="chap">場面1.相合傘</div>
-        [if exp="sf.S2 = 1"]
         <div id="chapter2" class="chap">場面2.約束</div>
-        [else][endif]
-        [if exp="sf.S3 = 1"]
         <div id="chapter3" class="chap">場面3.回想／邂逅</div>
-        [else][endif]
-        [if exp="sf.S4 = 1"]
         <div id="chapter4" class="chap">場面4.あじさい園</div>
-        [else][endif]
-        [if exp="sf.S5 = 1"]
         <div id="chapter5" class="chap">場面5.予兆</div>
-        [else][endif]
-        [if exp="sf.S6 = 1"]
         <div id="chapter6" class="chap">場面6.雨妖</div>
-        [else][endif]
-        [if exp="sf.S7 = 1"]
         <div id="chapter7" class="chap">場面7.葛藤</div>
-        [else][endif]
       </div>
       <div class="chapterA">
-        [if exp="sf.S8a = 1"]
         <div id="chapter8A" class="chap">場面8A.決着</div>
-        [else][endif]
-        [if exp="sf.S9a = 1"]
         <div id="chapter9A" class="chap">場面9A.別れ</div>
-        [else][endif]
-        [if exp="sf.S10a = 1"]
         <div id="chapter10A" class="chap">場面10A.エピローグ</div>
-        [else][endif]
       </div>
       <div class="chapterB">
-        [if exp="sf.S8b = 1"]
         <div id="chapter8B" class="chap">場面8B.対面</div>
-        [else][endif]
-        [if exp="sf.S9b = 1"]
         <div id="chapter9B" class="chap">場面9B.彼岸</div>
-        [else][endif]
-        [if exp="sf.S10b = 1"]
         <div id="chapter10B" class="chap">場面10B.「　」</div>
-        [else][endif]
       </div>
-      [if exp="sf.Aroot == 1 && sf.Broot == 1"]
       <div id="chapterEX" class="chap" style="position:absolute;top:200px;left:870px;">EX.背中</div>
-      [else][endif]
     </div>
     
     <div class='content2'>
@@ -94,9 +60,7 @@
         <img src="data/bgimage/vsuyo.png" class="cg" id="vsuyo">
         <img src="data/bgimage/Alast.png" class="cg" id="alast">
         <img src="data/bgimage/white.jpg" class="cg" id="blast">
-        [if exp="sf.SX = 1"]
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
-        [else][endif]
       </div>
     </div>
     

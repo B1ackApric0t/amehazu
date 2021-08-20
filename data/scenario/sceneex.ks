@@ -15,6 +15,7 @@
 [role]
 [bg2 storage="busitu.jpg" width=1920 height=1080 left=-430 top=-150 time=300]
 [yukino7 top=30 width=1400 time=0][haruya time=0]
+[fadeinbgm storage=kaiwa_loop.ong time=1500]
 [mask_off time=500]
 
 #先輩
@@ -131,15 +132,16 @@
 僕は再び雑誌に目を落とす。[p]
 漫画のキャラの傷跡に始まったこの話は、[r]僕の背中の傷跡を経て、こうして犬の話に着地したのだった。[p]
 
-
-[mask time=800]
+[fadeoutbgm time=1200]
+[mask time1000]
 [M1]
 [hide time=0][haruyahide time=0]
-[bg2 storage=hug1.jpg time=800]
-[mask_off time=800]
+[bg2 storage=hug1.jpg time=600]
+[fadeinbgm storage=A_end_loop.ogg time=1500]
+[mask_off time=1200]
 
 #
-後から腕が回された。先輩だった。[r]不意に後ろから抱きしめられて、僕の心臓はきゅっと張りつめる。[p]
+後ろから腕が回された。先輩だった。[r]不意に後ろから抱きしめられて、僕の心臓はきゅっと張りつめる。[p]
 #春也
 「どっ……どうしたんですか？」[p]
 #先輩
@@ -180,9 +182,10 @@
 ぱさりと雑誌が手から落ちた。[r]自由になった両手が、先輩の腕に触れた。[p]
 五月の末。[r]曇りがちの鈍い日光が窓から差し込んでいる。[p]
 梅雨が来る、と思った。先輩との梅雨が。[p]
-
+[fadeoutbgm time=2000]
 [mask time=1500]
 [M0]
+[eval exp="sf.SX=1"]
 @clearfix
 @layopt layer="message0" visible=false
 [bg2 storage=black.png time=1000]

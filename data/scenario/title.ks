@@ -46,6 +46,9 @@
 [if exp="sf.S10b==undefined"]
 [eval exp="sf.S10b=0"]
 [endif]
+[if exp="sf.SX==undefined"]
+[eval exp="sf.SX=0"]
+[endif]
 
 
 *title

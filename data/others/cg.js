@@ -12,6 +12,9 @@ $('#tekubi').click(function(){
   still = 4;
   $('#cgbig').css({'background-image':'url("data/bgimage/tekubi.jpg")','visibility':'visible'});
 });
+$('#senpai').click(function(){
+  $('#cgbig').css({'background-image':'url("data/bgimage/te.jpg")','visibility':'visible'});
+});
 $('#hug').click(function(){
   still = 8;
   $('#cgbig').css({'background-image':'url("data/bgimage/hug1.jpg")','visibility':'visible'});

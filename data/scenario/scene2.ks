@@ -14,7 +14,7 @@
 @layopt layer=message0 visible=true
 [role]
 [bg2 storage="busiturain.jpg" time="300"]
-[playse storage=rain5r.ogg loop=true]
+[fadeinbgm storage=kaiwa_loop.ogg time=2000]
 [mask_off time=500]
 
 *start
@@ -98,7 +98,7 @@
 #先輩
 「今度の休みにさ。ふたりで一緒に」[p]
 #
-先輩とふたりで、遠出して、あじさい畑に行く？[p]
+先輩とふたりで、遠出して、あじさい園に行く？[p]
 #春也
 「えぁっとですね」[p]
 #
@@ -146,10 +146,8 @@
 「土日、一緒に出かけましょう。あじさい、見に」[p]
 #先輩
 [yukino/2]「ああ！[r]　そうしようよ春也くん、ほら日程について話そうじゃないか」[p]
-[fadeoutse time=1000]
 #
 [mask time=500]
-[fadeinbgm storage=kaiwa_loop.ogg time=1000]
 ;部室横に動かす
 [chara_hide name="yukino" time=0]
 [haruyahide time=300]
@@ -176,13 +174,13 @@
 「……あの」[p]
 #
 先輩の笑顔を前にしては、切り出しにくい話題だったのだが。[p]
-[fadeoutbgm time=4000]
 #春也
 「ひとつだけ、確かめておきたいんですが」[p]
 #先輩
 [yukino/7]「うん？　何かな？」[p]
 #
 首を傾げた先輩に、僕は脳内の記憶の紐を手繰りながら喋りだす。[p]
+[fadeoutbgm time=2000]
 #春也
 「最近、話題になってるじゃないですか。連続殺人事件……」[p]
 #
@@ -205,7 +203,6 @@
 [yukino1 time=0][haruya time=0]
 [reset_camera time=0]
 [wait time=200]
-[fadeoutbgm time=4000]
 [mask_off time=500]
 #春也
 「これはあくまで確認なんですけど。[r]　今って絶対安全とは言い切れない状況じゃないですか。[r]　でも、行くってことで、いいんですよね」[p]
@@ -220,12 +217,14 @@
 「わかりました。ちょっと、確認はしておきたかっただけです」[p]
 #先輩
 「もし心配なら、やっぱりやめておこうか？」[p]
+[fadeoutbgm time=1000]
 #春也
 「いえ……」[p]
 #
 僕は首を振る。[p]
 #春也
 「もうスケジュール……組んじゃいましたし」[p]
+#
 [fadeinbgm storage=kaiwa_loop.ogg time=1500]
 #先輩
 [yukino/2]「そうだね。そうだなあ」[p]
@@ -244,7 +243,7 @@
 しかしその画像には感心した点がいくつかあった。[p]
 ひとつは噂話の足の速さ。[p]
 ふたつ目は、男女の名前を記した相合傘というシンボルが、[r]この現代社会にも根強く息をしていたこと。[p]
-そして最後に、先輩と面識のない僕のクラスメートにまで[r]フルネームが知れ渡っている、先輩のスター性。[p]
+そして最後に、先輩と面識のない僕のクラスメートにまで[r]名前が知れ渡っている、先輩のスター性。[p]
 一種の天才だ。[p]
 [trans_out layer="2" time=500 method="fadeOutUp"]
 [freeimage layer="2" time=0 page=back]
