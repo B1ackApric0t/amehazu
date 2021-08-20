@@ -15,7 +15,7 @@
 [role]
 [bg2 storage="busitu.jpg" width=1920 height=1080 left=-430 top=-150 time=300]
 [yukino7 top=30 width=1400 time=0][haruya time=0]
-[fadeinbgm storage=kaiwa_loop.ong time=1500]
+[fadeinbgm storage=kaiwa_loop.ogg time=1500]
 [mask_off time=500]
 
 #先輩
@@ -144,6 +144,8 @@
 後ろから腕が回された。先輩だった。[r]不意に後ろから抱きしめられて、僕の心臓はきゅっと張りつめる。[p]
 #春也
 「どっ……どうしたんですか？」[p]
+#
+[bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 #先輩
 「君の背の傷を想っている」[p]
 #
@@ -152,10 +154,13 @@
 同じぐらいに変人だけど。[p]
 #春也
 「そんなに面白かったですか？　僕の話」[p]
+#
+[bg2 storage="hug1.jpg" time=0 cross=false wait=false]
 #先輩
 「ああ。君の話だから」[p]
 #
 先輩が僕にぴったりと寄り添う。[p]
+[bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 #先輩
 「君の背中が、君をこの文芸部室まで運んできてくれたんだね」[p]
 #春也
@@ -163,17 +168,18 @@
 #先輩
 「そんな気分なんだ」[p]
 #
-[bg2 storage="hug3.jpg" time=0 cross=false wait=false]
+[bg2 storage="hug1.jpg" time=0 cross=false wait=false]
 先輩が僕のそばから離れた。[p]
 それから椅子の背もたれと、緊張でぴんと張った僕の背の間に手を差し挟み、[r]制服の背中に指先を滑らせた。[p]
+[bg2 storage="hug3.jpg" time=0 cross=false wait=false]
 不思議なことに、先輩の指の軌跡は、[r]僕の背中の手術痕を正確になぞっていた。[p]
 再び先輩は僕の背中を抱く。さっきよりもひしと抱かれた。[r]優しい力がこめられていた。[p]
-[bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 #先輩
 「たぶん私は、君の背の傷のことをこれから何度も想うのだろうね」[p]
 #
 僕の身体は指先までもガチガチに固まり、心臓はどくどくと音を打ち始めていた。かつてないほど僕と先輩は近くに寄り添っていた。[p]
 そして僕という人間の根幹に関わる背中の傷に、[r]先輩が想いを巡らせていることが、[r]僕の中の何より深い底の部分を震わせていた。[p]
+[bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 そんな僕をよそにして、先輩は瞳を閉じたまま、[r]遠い記憶を思い出すかのように呟いた。[p]
 #先輩
 「もしも人に翼が生えたら、その羽根は背中に伸びているのだろうね――」[p]
@@ -182,6 +188,7 @@
 でも僕は、自分の背の傷が、そんな羽みたいなものだとは、[r]つゆほども考えたことがなかった。[p]
 傷跡は傷跡だった。[p]
 それを羽に結びつけたのは、先輩が初めてだった。[p]
+[bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 ぱさりと雑誌が手から落ちた。[r]自由になった両手が、先輩の腕に触れた。[p]
 五月の末。[r]曇りがちの鈍い日光が窓から差し込んでいる。[p]
 梅雨が来る、と思った。先輩との梅雨が。[p]
