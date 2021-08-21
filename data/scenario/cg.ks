@@ -67,13 +67,13 @@
     <div class='content3'>
       <audio src="data/bgm/A_ED.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title">A_ED</div>
-        <div id="bgm2" class="m_title">A_end</div>
-        <div id="bgm3" class="m_title">ajisai</div>
-        <div id="bgm4" class="m_title">B_ED</div>
-        <div id="bgm5" class="m_title">fuon</div>
-        <div id="bgm6" class="m_title">kaiwa</div>
-        <div id="bgm7" class="m_title">main</div>
+        <div id="bgm1" class="m_title">外の光／エンドＡ（仮）</div>
+        <div id="bgm2" class="m_title">僕の先輩（仮）</div>
+        <div id="bgm3" class="m_title">あじさい園（仮）</div>
+        <div id="bgm4" class="m_title">心の中へ／エンドＢ（仮）</div>
+        <div id="bgm5" class="m_title">雨妖（仮）</div>
+        <div id="bgm6" class="m_title">日常会話（仮）</div>
+        <div id="bgm7" class="m_title">メインテーマ（仮）</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
