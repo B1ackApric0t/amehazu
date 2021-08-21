@@ -28,6 +28,11 @@ $('#g_op').click(function(){
   $('#cgbig').css('visibility','visible');
   $('#cgbig').html('<video src="data/video/amehazuOP3.mp4" autoplay></video>');
 });
+$('#g_ed2').click(function(){
+  still = 9;
+  $('#cgbig').css('visibility','visible');
+  $('#cgbig').html('<video src="data/video/amehazuED_B2.mp4" autoplay></video>');
+});
 
 $('#cgbig').click(function(){
   if (still == 2) {
@@ -91,6 +96,7 @@ $('#cgbig').click(function(){
 
 
 $("#cgbig").bind('contextmenu', function() {
+  $(this).html('');
   still = 1;
   $(this).css({'background-image':'','visibility':'hidden'});
 
