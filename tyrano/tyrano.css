@@ -779,21 +779,14 @@ audio {
 	margin-left:20px;
 	margin-bottom:11px;
 	width: 240px;
+	transition:0.3s;
 }
 
-.cgbig{
-	visibility:hidden;
-	position:absolute;
-	top:-120px;
-	left:-320px;
-	width:1280px;
-	height:720px;
-	z-index:100;
-	transition: .5s;
-	cursor:pointer;
+.cg:hover{
+  opacity:0.8;
 }
 
-#cgbig{
+#cgbig,#cgvideo{
   visibility:hidden;
   position:absolute;
   top:-120px;
@@ -802,7 +795,21 @@ audio {
   height:720px;
   z-index:15;
   background-size:contain;
-  transition:.3s;
+  transition:.5s;
+}
+
+.try{
+  position:absolute;
+  top:325px;
+  font-size:60px;
+  color:#fff;
+  background-color:#000;
+  opacity:0.8;
+  width:80px;
+  height:80px;
+  border-radius:50%;
+  text-align:center;
+  pointer-events:none;
 }
 
 .tabs{

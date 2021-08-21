@@ -36,7 +36,6 @@ f.preload_bucho = [
 ];
 f.preload_bg = [
 "data/bgimage/ajisairain.jpg",
-"data/bgimage/bluesky.jpg",
 "data/bgimage/bus.jpg",
 "data/bgimage/black.png",
 "data/bgimage/bushi_bg.png",
@@ -44,7 +43,6 @@ f.preload_bg = [
 "data/bgimage/busitucolor.jpg",
 "data/bgimage/busiturain.jpg",
 "data/bgimage/busiturain2.jpg",
-"data/bgimage/busituyoru.jpg",
 "data/bgimage/class.jpg",
 "data/bgimage/corridor.jpg",
 "data/bgimage/entrance.jpg",

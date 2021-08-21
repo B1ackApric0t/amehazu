@@ -265,7 +265,7 @@
 @layopt layer="message0" visible=false
 [bg2 storage=black.png time=1000]
 [mask_off tme=500]
-[movie storage="amehazuED_B2.mp4" skip=false]
+[movie storage="amehazuED_B2.mp4" skip=false volume="&sf.current_bgm_vol"]
 [mask time=500]
 [eval exp="sf.SM3=1"]
 [eval exp="sf.Broot=1"]

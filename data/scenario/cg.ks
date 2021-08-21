@@ -54,7 +54,7 @@
     <div class='content2'>
       <div style="float:left;position:absolute;top:-10px;left:40px;">
         <img src="data/bgimage/tonarib.jpg" class="cg" id="tonari">
-        <img src="data/bgimage/shadow.jpg" class="cg" id="shadow">
+        <img src="data/bgimage/shadow1.jpg" class="cg" id="shadow">
         <img src="data/bgimage/tekubi.jpg" class="cg" id="tekubi">
         <img src="data/bgimage/te.jpg" class="cg" id="senpai">
         <img src="data/bgimage/vsuyo.jpg" class="cg" id="vsuyo">
@@ -65,6 +65,9 @@
       <img src="data/bgimage/op.png" class="cg" id="g_op" style="position:absolute;top:297px;left:40px;">
       <img src="data/bgimage/endA.png" class="cg" id="g_ed1" style="position:absolute;top:297px;left:300px;">
       <img src="data/bgimage/endB.png" class="cg" id="g_ed2" style="position:absolute;top:297px;left:560px;">
+      <div class="try" style="left:140px;">▶</div>
+      <div class="try" style="left:400px;">▶</div>
+      <div class="try" style="left:660px;">▶</div>
     </div>
     
     <div class='content3'>
@@ -94,6 +97,7 @@
     
   </div>
   <div id="cgbig"></div>
+  <div id="cgvideo"><video src="" autoplay id="vcg"></video></div>
 </div>
 </div>
 

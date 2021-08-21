@@ -31,6 +31,12 @@
 [if exp="sf.SM2==undefined"][eval exp="sf.SM2=0"][endif]
 [if exp="sf.SM3==undefined"][eval exp="sf.SM3=0"][endif]
 
+[if exp="sf.current_bgm_vol==undefined"][eval exp="sf.current_bgm_vol=0"][endif]
+
+[iscript]
+sf.current_bgm_vol = sf._system_config_bgm_volume
+[endscript]
+
 [playbgm storage="main_loop.ogg"]
 *title
 @clearfix

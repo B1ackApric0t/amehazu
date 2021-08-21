@@ -246,7 +246,7 @@
 [bg2 storage="black.png" time=0]
 [wait time="1500"]
 [mask_off time="500"]
-[movie storage="amehazuOP3.mp4" skip=false]
+[movie storage="amehazuOP3.mp4" skip=false volume="&sf.current_bgm_vol"]
 [mask time="700"]
 [M0]
 [eval exp="sf.SM1=1"]

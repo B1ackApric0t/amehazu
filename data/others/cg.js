@@ -6,7 +6,7 @@ $('#tonari').click(function(){
 });
 $('#shadow').click(function(){
   still = 3;
-  $('#cgbig').css({'background-image':'url("data/bgimage/shadow.jpg")','visibility':'visible'});
+  $('#cgbig').css({'background-image':'url("data/bgimage/shadow1.jpg")','visibility':'visible'});
 });
 $('#tekubi').click(function(){
   still = 4;
@@ -24,14 +24,14 @@ $('#hug').click(function(){
   $('#cgbig').css({'background-image':'url("data/bgimage/hug1.jpg")','visibility':'visible'});
 });
 $('#g_op').click(function(){
-  still = 9;
-  $('#cgbig').css('visibility','visible');
-  $('#cgbig').html('<video src="data/video/amehazuOP3.mp4" autoplay></video>');
+  audio.pause()
+  $('#cgvideo').css('visibility','visible');
+  $('#vcg').attr('src','data/video/amehazuOP3.mp4');
 });
 $('#g_ed2').click(function(){
-  still = 9;
-  $('#cgbig').css('visibility','visible');
-  $('#cgbig').html('<video src="data/video/amehazuED_B2.mp4" autoplay></video>');
+  audio.pause()
+  $('#cgvideo').css('visibility','visible');
+  $('#vcg').attr('src','data/video/amehazuED_B2.mp4');
 });
 
 $('#cgbig').click(function(){
@@ -57,7 +57,7 @@ $('#cgbig').click(function(){
     $('#cgbig').css('background-image','url("data/bgimage/tonarime_n.jpg")');
     still = 1;
   } else if (still == 3) {
-    $('#cgbig').css('background-image','url("data/bgimage/shadow1.jpg")');
+    $('#cgbig').css('background-image','url("data/bgimage/shadow.jpg")');
     still = 31;
   } else if (still == 31) {
     $('#cgbig').css('background-image','url("data/bgimage/shadow2.jpg")');
@@ -80,20 +80,23 @@ $('#cgbig').click(function(){
   } else if (still == 82) {
     $('#cgbig').css('background-image','url("data/bgimage/hug4.jpg")');
     still = 1;
-    } else if (still == 9) {
-    $('#cgbig').html('');
-    still = 1;
-    } else if (still == 10) {
-    $('#cgbig').html('');
-    still = 1;
-    } else if (still == 11) {
-    $('#cgbig').html('');
-    still = 1;
   } else {
     $('#cgbig').css({'background-image':'','visibility':'hidden'});}
 });
 
+$('#cgvideo').click(function(){
+  $('#vcg').attr('src','');
+  $('#cgvideo').css('visibility','hidden');
+});
 
+var current_bgm_vol=parseInt(tyrano.plugin.kag.config.defaultBgmVolume);
+var videoElem = document.getElementById('vcg');
+videoElem.volume = current_bgm_vol/100;
+
+videoElem.onended = (event) => {
+  $('#vcg').attr('src','');
+  $('#cgvideo').css('visibility','hidden');
+};
 
 $("#cgbig").bind('contextmenu', function() {
   $(this).html('');
