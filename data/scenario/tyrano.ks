@@ -169,6 +169,7 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [macro name="rhide"][clearfix name="role_button"][endmacro]
 [macro name="mhide"][anim layer="message0" opacity=0 time="%time|1000"][endmacro]
 [macro name="mshow"][anim layer="message0" opacity=255 time="%time|1000"][endmacro]
+
 ;スチル
 [macro name="M1"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still.png" page=fore visible=true]
 [position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]

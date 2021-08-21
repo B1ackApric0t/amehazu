@@ -82,7 +82,7 @@
 	  </div>
 	  <div id="seekbar" style="position:absolute;top:264px;left:647px;"></div>
 	  <img src="data/image/music5.png"  style="position:absolute;left:805px;top:328px;">
-	  <input type="range" id="volume" style="position:absolute;top:341px;left:800px;width:200px;height:4px;" value="50" min="0" max="99">
+	  <input type="range" id="volume" style="position:absolute;top:341px;left:800px;width:200px;height:4px;" value="30" min="0" max="99">
 	  <div id="bmusic" style="position:absolute;left:580px;top:326px;cursor:pointer;"><img src="data/image/music2.png"></div>
 	  <div id="nmusic" style="position:absolute;left:720px;top:326px;cursor:pointer;"><img src="data/image/music4.png"></div>
 	  <img src="data/image/music1.png" style="position:absolute;left:670px;top:-20px;" >

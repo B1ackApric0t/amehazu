@@ -76,6 +76,7 @@
 [trans_out layer="2" time=500 method="fadeOutUp"]
 [wt]
 [mask time=500]
+[freeimage layer="2" time=0 page=back]
 [bg2 storage="busitucolor.jpg" time="0"]
 [bucho storage="bucho/buchocn1.png" time=0]
 [haruya storage=haruya/haruya_c1.png]
@@ -188,6 +189,7 @@
 [haruyahide time=0]
 [bg2 storage="Alast.png" time="0"]
 [eval exp="sf.ST6=1"]
+[image layer="2" page="back" storage="smartc.png" width=250 left=515 top=30]
 [wait time=1000]
 [mask_off time=500]
 
