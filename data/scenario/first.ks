@@ -103,7 +103,6 @@ f.preload_bgm = [
 ;[image layer=0 page=fore visible=true storage=logo.png]
 ;[mask_off time=1000]
 ;[wait time=1000]
-;[movie storage="logo.mp4" skip=false]
 ;[mask time=1000]
 ;[freeimage layer=0 time=100]
 ;[mask_off time=100]

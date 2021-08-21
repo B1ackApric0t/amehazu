@@ -249,6 +249,7 @@
 [movie storage="amehazuOP3.mp4" skip=false]
 [mask time="700"]
 [M0]
+[eval exp="sf.SM1=1"]
 [eval exp="sf.S2=1"]
 [wait time="1000"]
 [anim layer="message0" opacity=255 time="0"]

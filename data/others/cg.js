@@ -15,9 +15,18 @@ $('#tekubi').click(function(){
 $('#senpai').click(function(){
   $('#cgbig').css({'background-image':'url("data/bgimage/te.jpg")','visibility':'visible'});
 });
+$('#vsuyo').click(function(){
+  still = 6;
+  $('#cgbig').css({'background-image':'url("data/bgimage/vsuyo.jpg")','visibility':'visible'});
+});
 $('#hug').click(function(){
   still = 8;
   $('#cgbig').css({'background-image':'url("data/bgimage/hug1.jpg")','visibility':'visible'});
+});
+$('#g_op').click(function(){
+  still = 9;
+  $('#cgbig').css('visibility','visible');
+  $('#cgbig').html('<video src="data/video/amehazuOP3.mp4" autoplay></video>');
 });
 
 $('#cgbig').click(function(){
@@ -54,6 +63,9 @@ $('#cgbig').click(function(){
   } else if (still == 41) {
     $('#cgbig').css('background-image','url("data/bgimage/tekubi3.jpg")');
     still = 1;
+  } else if (still == 6) {
+    $('#cgbig').css('background-image','url("data/bgimage/vsuyo2.jpg")');
+    still = 1;
   } else if (still == 8) {
     $('#cgbig').css('background-image','url("data/bgimage/hug2.jpg")');
     still = 81;
@@ -62,6 +74,15 @@ $('#cgbig').click(function(){
     still = 82;
   } else if (still == 82) {
     $('#cgbig').css('background-image','url("data/bgimage/hug4.jpg")');
+    still = 1;
+    } else if (still == 9) {
+    $('#cgbig').html('');
+    still = 1;
+    } else if (still == 10) {
+    $('#cgbig').html('');
+    still = 1;
+    } else if (still == 11) {
+    $('#cgbig').html('');
     still = 1;
   } else {
     $('#cgbig').css({'background-image':'','visibility':'hidden'});}

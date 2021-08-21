@@ -263,6 +263,7 @@
 [M0]
 @clearfix
 @layopt layer="message0" visible=false
+[eval exp="sf.SM3=1"]
 [eval exp="sf.Broot=1"]
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]

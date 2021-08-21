@@ -108,6 +108,15 @@
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
         [else][endif]
       </div>
+      [if exp="sf.SM1 == 1"]
+      <img src="data/bgimage/op.png" class="cg" id="g_op" style="position:absolute;top:297px;left:40px;">
+      [else][endif]
+      [if exp="sf.SM2 == 1"]
+      <img src="data/bgimage/endA.png" class="cg" id="g_ed1" style="position:absolute;top:297px;left:300px;">
+      [else][endif]
+      [if exp="sf.SM3 == 1"]
+      <img src="data/bgimage/endB.png" class="cg" id="g_ed2" style="position:absolute;top:297px;left:560px;">
+      [else][endif]
     </div>
     
     <div class='content3'>

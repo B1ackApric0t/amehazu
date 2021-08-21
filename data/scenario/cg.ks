@@ -62,6 +62,9 @@
         <img src="data/bgimage/white.jpg" class="cg" id="blast">
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
       </div>
+      <img src="data/bgimage/op.png" class="cg" id="g_op" style="position:absolute;top:297px;left:40px;">
+      <img src="data/bgimage/endA.png" class="cg" id="g_ed1" style="position:absolute;top:297px;left:300px;">
+      <img src="data/bgimage/endB.png" class="cg" id="g_ed2" style="position:absolute;top:297px;left:560px;">
     </div>
     
     <div class='content3'>
