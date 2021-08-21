@@ -230,7 +230,6 @@
 [haruyahide time=400]
 [M1]
 [bg2 storage=shadow.jpg time=1500 cross=true wait=false]
-[eval exp="sf.ST2=1"]
 これ以上濡れないうちにと僕は家路に足を向け直す。[r]罪悪感が影のように尾を引いていた。[p]
 *72
 雨音が遠くまで続いている。[r]ひとりになった傘の中は、広いけれどどこか空しい。[p]
@@ -245,12 +244,12 @@
 
 [mask time="1500"]
 [M0]
+[eval exp="sf.S2=1"]
 [wait time="1500"]
 [anim layer="message0" opacity=255 time="0"]
 [bg2 storage="busiturain.jpg" time="0"]
 [fadeinbgm storage=kaiwa_loop.ogg time=2000]
 [role]
-[eval exp="sf.S2=1"]
 [mask_off time="1000"]
 
 @jump storage="scene2.ks" target=*start

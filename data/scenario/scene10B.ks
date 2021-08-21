@@ -257,14 +257,13 @@
 私も。[l]
 *89
 好きだよ。[p]
-
 *90
 ――何もかも。[l]君の味も。[p]
 [mask time=1500]
 [M0]
 @clearfix
 @layopt layer="message0" visible=false
+[eval exp="sf.Broot=1"]
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]
-[eval exp="sf.Broot=1"]
-@jump storage="title.ks" target=*title
+@jump storage="title.ks" target=*start

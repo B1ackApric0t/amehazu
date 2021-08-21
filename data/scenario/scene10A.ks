@@ -259,7 +259,7 @@
 [M0]
 @clearfix
 @layopt layer="message0" visible=false
+[eval exp="sf.Aroot=1"]
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]
-[eval exp="sf.Aroot=1"]
-@jump storage="title.ks" target=*title
+@jump storage="title.ks" target=*start

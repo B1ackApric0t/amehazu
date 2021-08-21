@@ -447,8 +447,8 @@
 [free_filter]
 [M0]
 [bg2 storage="black.png" time="0"]
-[wait time="2000"]
 [eval exp="sf.S10a=1"]
+[wait time="2000"]
 [mask_off time="2000"]
 
 @jump storage="scene10A.ks" target=*scene10

@@ -262,7 +262,6 @@
 [haruya time=0]
 [yukinoA time=0]
 [wait time=2000]
-[fadeinbgm storage=A_end_loop.ogg time=1500]
 [mask_off time=1000]
 *80
 #春也
@@ -285,6 +284,7 @@
 僕がしばらく先輩の姿をじっと見つめていると、[r]先輩が困ったように笑った。[p]
 *87
 僕もうっかり見過ぎていると気付いて慌てて視線を逸らした。[r]少々のぎこちなさ。[p]
+[fadeinbgm storage=A_end_loop.ogg time=1500]
 *88
 #先輩
 「きっと、本当は来るべきじゃなかった」[p]
@@ -508,9 +508,9 @@
 きっと僕らは遠目に見れば、ひとつの点となってこの空を駆けていた。[p]
 [fadeoutbgm time=1800]
 [mask time=1500]
+[eval exp="sf.S9b=1"]
 [bg2 storage="ajisai_night.jpg" width=1600 left=-160 height=900 time="0"][haruya time=0]
 [wait time=2000]
-[eval exp="sf.S9b=1"]
 [fadeinbgm storage=ajisai_loop.ogg time=2000]
 [mask_off time=1500 effect="fadeOutUpBig"]
 

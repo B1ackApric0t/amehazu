@@ -456,6 +456,7 @@
 [yukino1 time=1500]
 *141
 暗闇で満ちていく頭の中。先輩の姿が最後に残っていた。[p]
+[eval exp="sf.S7=1"]
 *142それだけはどうやっても消えなかった。[p]
 [mhide time=1000]
 [wait time=1000]
@@ -466,6 +467,5 @@
 [free_filter]
 [bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=3000]
 [fadeinse storage=rain5r.ogg time=2000 loop=true]
-[eval exp="sf.S7=1"]
 [mask_off time="1500"]
 @jump storage="scene7.ks" target=*start

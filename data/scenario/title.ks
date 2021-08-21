@@ -1,8 +1,7 @@
-[fadeoutbgm time=10]
-
+;[clearvar]
 *start
-[if exp="sf.Aroot==undefined"][eval exp="sf.Aroot=0"][endif]
-[if exp="sf.Broot==undefined"][eval exp="sf.Broot=0"][endif]
+[fadeoutbgm time=10][fadeoutse time=10][skipstop]
+
 [if exp="sf.S1==undefined"][eval exp="sf.S1=0"][endif]
 [if exp="sf.S2==undefined"][eval exp="sf.S2=0"][endif]
 [if exp="sf.S3==undefined"][eval exp="sf.S3=0"][endif]
@@ -17,6 +16,8 @@
 [if exp="sf.S9b==undefined"][eval exp="sf.S9b=0"][endif]
 [if exp="sf.S10b==undefined"][eval exp="sf.S10b=0"][endif]
 [if exp="sf.SX==undefined"][eval exp="sf.SX=0"][endif]
+[if exp="sf.Aroot==undefined"][eval exp="sf.Aroot=0"][endif]
+[if exp="sf.Broot==undefined"][eval exp="sf.Broot=0"][endif]
 
 [if exp="sf.ST1==undefined"][eval exp="sf.ST1=0"][endif]
 [if exp="sf.ST2==undefined"][eval exp="sf.ST2=0"][endif]
@@ -30,13 +31,12 @@
 [if exp="sf.SM2==undefined"][eval exp="sf.SM2=0"][endif]
 [if exp="sf.SM3==undefined"][eval exp="sf.SM3=0"][endif]
 
-
+[playbgm storage="main_loop.ogg"]
 *title
 @clearfix
 [cm]
 
 @clearstack
-[playbgm storage="main_loop.ogg"]
 
 
 [html]
@@ -61,7 +61,7 @@
 <div id="title_config" class="title_item" style="left:120px;top:460px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_config.png" alt="" class="non">
 </div>
-[if exp="sf.S1 = 1"]
+[if exp="sf.S1 == 1"]
 <div id="title_gallery" class="title_item" style="left:120px;top:520px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_gallery.png" alt="" class="non">
 </div>

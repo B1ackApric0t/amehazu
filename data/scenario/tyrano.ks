@@ -248,6 +248,12 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [frame p="100%" x=" 0"]
 [endkeyframe]
 
+[keyframe name="left"]
+[frame p="0%" x="0"]
+[frame p="50%" x="10"]
+[frame p="100%" ="0"]
+[endkeyframe]
+
 [return]
 
 

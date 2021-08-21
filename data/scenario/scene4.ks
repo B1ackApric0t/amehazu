@@ -387,12 +387,12 @@
 先輩がひとり。僕がひとり。[p]
 [fadeoutse time=1500]
 [mask time=1500]
+[eval exp="sf.S5=1"]
 [wait time=500]
 [anim name=ajisaibg top=0 time=0]
 [bg2 storage="busiturain.jpg" time="2000"]
 [fadeinse storage=rain5r.ogg time=2500 loop=true]
 [wait time=800]
-[eval exp="sf.S5=1"]
 [mask_off time="1500"]
 
 @jump storage="scene5.ks" target=*start

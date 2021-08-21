@@ -444,8 +444,8 @@
 [mask time="1000" effect="fadeInDown"]
 [bg2 storage="bus.jpg" time="1000"]
 [fadeinse storage=rain5.ogg loop=true time=2000]
+[eval exp="sf.S4=1"]
 [playse storage=bus.ogg buf=1]
 [haruya1 time=0]
-[eval exp="sf.S4=1"]
 [mask_off time="1000" effect="fadeOutUp"]
 @jump storage="scene4.ks" target=*start
