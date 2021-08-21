@@ -62,7 +62,7 @@ volume.addEventListener('change', function () {
 $('#nmusic').click(
   function(){
     if (x == 1) {
-      $('#audiotag').attr('src','data/bgm/A_end.ogg');
+      $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
       x = 2;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm2').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -74,31 +74,31 @@ $('#nmusic').click(
       $('#bgm3').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 3) {
-      $('#audiotag').attr('src','data/bgm/B_ED.ogg');
+      $('#audiotag').attr('src','data/bgm/fuon.ogg');
       x = 4;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm4').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 4) {
-      $('#audiotag').attr('src','data/bgm/fuon.ogg');
+      $('#audiotag').attr('src','data/bgm/A_end.ogg');
       x = 5;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm5').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 5) {
-      $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
+      $('#audiotag').attr('src','data/bgm/OP.ogg');
       x = 6;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 6) {
-      $('#audiotag').attr('src','data/bgm/main.ogg');
+      $('#audiotag').attr('src','data/bgm/A_ED.ogg');
       x = 7;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 7) {
-      $('#audiotag').attr('src','data/bgm/OP.ogg');
+      $('#audiotag').attr('src','data/bgm/B_ED.ogg');
       x = 8;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -109,13 +109,13 @@ $('#nmusic').click(
 $('#bmusic').click(
   function(){
     if (x == 2) {
-      $('#audiotag').attr('src','data/bgm/A_ED.ogg');
+      $('#audiotag').attr('src','data/bgm/main.ogg');
       x = 1;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm1').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 3) {
-      $('#audiotag').attr('src','data/bgm/A_end.ogg');
+      $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
       x = 2;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm2').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -127,25 +127,25 @@ $('#bmusic').click(
       $('#bgm3').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 5) {
-      $('#audiotag').attr('src','data/bgm/B_ED.ogg');
+      $('#audiotag').attr('src','data/bgm/fuon.ogg');
       x = 4;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm4').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 6) {
-      $('#audiotag').attr('src','data/bgm/fuon.ogg');
+      $('#audiotag').attr('src','data/bgm/A_end.ogg');
       x = 5;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm5').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 7) {
-      $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
+      $('#audiotag').attr('src','data/bgm/OP.ogg');
       x = 6;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 8) {
-      $('#audiotag').attr('src','data/bgm/main.ogg');
+      $('#audiotag').attr('src','data/bgm/A_ED.ogg');
       x = 7;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -156,7 +156,7 @@ $('#bmusic').click(
 
 $('#bgm1').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/A_ED.ogg');
+    $('#audiotag').attr('src','data/bgm/main.ogg');
     x = 1;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm1').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -164,7 +164,7 @@ $('#bgm1').click(
 });
 $('#bgm2').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/A_end.ogg');
+    $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
     x = 2;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm2').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -180,7 +180,7 @@ $('#bgm3').click(
 });
 $('#bgm4').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/B_ED.ogg');
+    $('#audiotag').attr('src','data/bgm/fuon.ogg');
     x = 4;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm4').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -188,7 +188,7 @@ $('#bgm4').click(
 });
 $('#bgm5').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/fuon.ogg');
+    $('#audiotag').attr('src','data/bgm/A_end.ogg');
     x = 5;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm5').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -196,7 +196,7 @@ $('#bgm5').click(
 });
 $('#bgm6').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
+    $('#audiotag').attr('src','data/bgm/OP.ogg');
     x = 6;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -204,7 +204,7 @@ $('#bgm6').click(
 });
 $('#bgm7').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/main.ogg');
+    $('#audiotag').attr('src','data/bgm/A_ED.ogg');
     x = 7;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -212,7 +212,7 @@ $('#bgm7').click(
 });
 $('#bgm8').click(
   function(){
-    $('#audiotag').attr('src','data/bgm/OP.ogg');
+    $('#audiotag').attr('src','data/bgm/B_ED.ogg');
     x = 8;
     $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');

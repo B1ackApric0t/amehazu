@@ -111,16 +111,16 @@
     </div>
     
     <div class='content3'>
-      <audio src="data/bgm/A_ED.ogg" id="audiotag"></audio>
+      <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title">外の光／エンドＡ</div>
-        <div id="bgm2" class="m_title">僕の先輩</div>
+        <div id="bgm1" class="m_title">雨にして人を外れ</div>
+        <div id="bgm2" class="m_title">日常会話</div>
         <div id="bgm3" class="m_title">あじさい園</div>
-        <div id="bgm4" class="m_title">心の中へ／エンドＢ</div>
-        <div id="bgm5" class="m_title">雨妖</div>
-        <div id="bgm6" class="m_title">日常会話</div>
-        <div id="bgm7" class="m_title">メインテーマ</div>
-        <div id="bgm8" class="m_title">雨にして人を外れ</div>
+        <div id="bgm4" class="m_title">雨妖</div>
+        <div id="bgm5" class="m_title">僕の先輩</div>
+        <div id="bgm6" class="m_title">雨にして人を外れ＿ＯＰ</div>
+        <div id="bgm7" class="m_title">外の光</div>
+        <div id="bgm8" class="m_title">心の中へ</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
