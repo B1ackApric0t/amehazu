@@ -460,7 +460,7 @@
 それは視界を下に外れる。そのまま僕の体を抱きかかえ、ぐっと引き上げた。[p]
 [mask time=800 color="0xffffff"]
 [stopse]
-[bg2 storage="vsuyo.png" time="0"]
+[bg2 storage="vsuyo.jpg" time="0"]
 [eval exp="sf.ST5=1"]
 [wait time=500]
 [mask_off time=800]

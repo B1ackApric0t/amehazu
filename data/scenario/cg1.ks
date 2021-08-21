@@ -96,7 +96,7 @@
         <img src="data/bgimage/te.jpg" class="cg" id="senpai">
         [else][endif]
         [if exp="sf.ST5 == 1"]
-        <img src="data/bgimage/vsuyo.png" class="cg" id="vsuyo">
+        <img src="data/bgimage/vsuyo.jpg" class="cg" id="vsuyo">
         [else][endif]
         [if exp="sf.ST6 == 1"]
         <img src="data/bgimage/Alast.png" class="cg" id="alast">
@@ -120,6 +120,7 @@
         <div id="bgm5" class="m_title">雨妖</div>
         <div id="bgm6" class="m_title">日常会話</div>
         <div id="bgm7" class="m_title">メインテーマ</div>
+        <div id="bgm8" class="m_title">雨にして人を外れ</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">

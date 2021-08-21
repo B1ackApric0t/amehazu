@@ -97,6 +97,12 @@ $('#nmusic').click(
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
+    } else if (x == 7) {
+      $('#audiotag').attr('src','data/bgm/OP.ogg');
+      x = 8;
+      $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');
+      audio.play();
     } else {
     }
 });
@@ -137,6 +143,12 @@ $('#bmusic').click(
       x = 6;
       $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
+      audio.play();
+    } else if (x == 8) {
+      $('#audiotag').attr('src','data/bgm/main.ogg');
+      x = 7;
+      $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else {
     }
@@ -198,6 +210,14 @@ $('#bgm7').click(
     $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
+$('#bgm8').click(
+  function(){
+    $('#audiotag').attr('src','data/bgm/OP.ogg');
+    x = 8;
+    $('.m_title').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');
+    audio.play();
+});
 
 $('#bgm1').hover(
   function(){
@@ -253,5 +273,13 @@ $('#bgm7').hover(
   },function(){
     if(x != 7){
       $('#bgm7').css('border-left','solid 4px rgba(0,0,0,0)');
+    }else{}
+});
+$('#bgm8').hover(
+  function(){
+    $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');
+  },function(){
+    if(x != 8){
+      $('#bgm8').css('border-left','solid 4px rgba(0,0,0,0)');
     }else{}
 });

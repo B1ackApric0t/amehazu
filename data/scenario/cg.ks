@@ -57,7 +57,7 @@
         <img src="data/bgimage/shadow.jpg" class="cg" id="shadow">
         <img src="data/bgimage/tekubi.jpg" class="cg" id="tekubi">
         <img src="data/bgimage/te.jpg" class="cg" id="senpai">
-        <img src="data/bgimage/vsuyo.png" class="cg" id="vsuyo">
+        <img src="data/bgimage/vsuyo.jpg" class="cg" id="vsuyo">
         <img src="data/bgimage/Alast.png" class="cg" id="alast">
         <img src="data/bgimage/white.jpg" class="cg" id="blast">
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
@@ -74,6 +74,7 @@
         <div id="bgm5" class="m_title">雨妖（仮）</div>
         <div id="bgm6" class="m_title">日常会話（仮）</div>
         <div id="bgm7" class="m_title">メインテーマ（仮）</div>
+        <div id="bgm8" class="m_title">雨にして人を外れ</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
