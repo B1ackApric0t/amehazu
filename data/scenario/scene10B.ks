@@ -259,6 +259,7 @@
 好きだよ。[p]
 *90
 ――何もかも。[l]君の味も。[p]
+[fadeoutse time=2000]
 [mask time=1500]
 [M0]
 @clearfix
