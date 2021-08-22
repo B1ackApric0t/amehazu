@@ -139,6 +139,7 @@
 
 [mask time="1000"]
 [wait time="1500"]
+[layopt layer=1 visible=true][image layer="1" storage="8A_mask.png" name="kaisou"]
 [fadeinse storage=rain8r.ogg loop=true time=2000]
 [mask_off time="1000"]
 
@@ -376,6 +377,7 @@
 #
 [fadeoutbgm time=1000]
 [mask time=500 color="0xFFFFFF"]
+[free name="kaisou" layer=1]
 [free_filter]
 [hide time=0][haruyahide time=0]
 [bg2 storage="white.jpg" time="0"]
