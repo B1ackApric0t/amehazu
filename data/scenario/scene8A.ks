@@ -187,7 +187,7 @@
 僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
 *54
 #先輩
-[yukino/9]「春也くん！！」[p]
+[yukino/14]「春也くん！！」[p]
 *55
 #雨妖
 「動くな白逝！！」[p]
@@ -460,7 +460,9 @@
 それは視界を下に外れる。そのまま僕の体を抱きかかえ、ぐっと引き上げた。[p]
 [mask time=800 color="0xffffff"]
 [stopse]
-[bg2 storage="vsuyo.jpg" time="0"]
+[M0]
+[bg2 storage="sky.jpg" time="0"]
+[yukinoA time=0][haruya time=0]
 [eval exp="sf.ST5=1"]
 [wait time=500]
 [mask_off time=800]
@@ -484,6 +486,9 @@
 *156a
 #
 だけれどそう答える声も声音も、間違いなく僕の先輩のものだった。[p]
+[hide time=400 wait=false][haruyahide time=400]
+[M1]
+[bg2 storage="vsuyo.jpg" time="800"]
 *156
 #雨妖
 「おのれェッ！！」[p]
