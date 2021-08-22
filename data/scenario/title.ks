@@ -1,7 +1,7 @@
 ;[clearvar]
 *start
 [fadeoutbgm time=10][fadeoutse time=10][skipstop]
-
+[stop_keyconfig]
 [if exp="sf.S1==undefined"][eval exp="sf.S1=0"][endif]
 [if exp="sf.S2==undefined"][eval exp="sf.S2=0"][endif]
 [if exp="sf.S3==undefined"][eval exp="sf.S3=0"][endif]
@@ -35,15 +35,6 @@
 
 [iscript]
 sf.current_bgm_vol = sf._system_config_bgm_volume
-[endscript]
-
-[iscript]
-window.onmousewheel = function(e){
-	if(e.wheelDelta > 0){
-	  e.preventDefault();
-	}else{
-	}
-}
 [endscript]
 
 [playbgm storage="main_loop.ogg"]
