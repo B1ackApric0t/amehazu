@@ -91,7 +91,7 @@
 *23
 なにが起こっている？　あれは先輩がやっているのか？[p]
 *24
-[bg2 storage="sky2.png" time=1000]
+;[bg2 storage="sky2.png" time=1000]
 その光は少しずつ膨張していく。[p]
 *24a
 [bg2 storage="sky3.png" time=1000]そして夜空の月ぐらいの大きさになったかと思うと、[r]一気に凝縮して光は点となった。[p]
@@ -106,7 +106,7 @@
 *27
 [bg2 storage="moon2.png" time="1000"wait=true]
 かと思うと夜空にきらきら星が輝き、巨大な満月が地上を照らし始めた。[p]
-*28
+*28[bg2 storage="moon.jpg" time="1000"wait=true]
 空は晴れ上がった。地域一帯の雨雲が一掃されたのだ。[p]
 *29
 #春也
