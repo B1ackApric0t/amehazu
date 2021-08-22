@@ -37,6 +37,15 @@
 sf.current_bgm_vol = sf._system_config_bgm_volume
 [endscript]
 
+[iscript]
+window.onmousewheel = function(e){
+	if(e.wheelDelta > 0){
+	  e.preventDefault();
+	}else{
+	}
+}
+[endscript]
+
 [playbgm storage="main_loop.ogg"]
 *title
 @clearfix
@@ -48,6 +57,7 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [html]
 <div id="tl">
 <img class="img_title" src="data/bgimage/title.jpg" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
+<img src="data/fgimage/title_vi.png" style="position:absolute;">
 
 <div class="container">
   <div class="rains">
@@ -79,7 +89,6 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 <div id="title_quit" class="title_item" style="left:120px;top:580px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/title_quit.png" alt="" class="non">
 </div>
-
 
 <img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;cursor:pointer;" class="jumpHP">
 <img src="data/fgimage/title_logo.png" style="left:860px;top:440px;position:absolute;">

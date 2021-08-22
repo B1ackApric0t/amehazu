@@ -234,7 +234,7 @@
 *82
 #
 [M1]
-[bg2 storage=black.png time=1000]
+[bg2 storage=Blast.jpg time=1000]
 [eval exp="sf.ST7=1"]
 #春也
 「好きです」[p]
@@ -272,3 +272,4 @@
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]
 @jump storage="title.ks" target=*start
+[s]

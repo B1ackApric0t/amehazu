@@ -102,7 +102,7 @@
         <img src="data/bgimage/Alast.png" class="cg" id="alast">
         [else][endif]
         [if exp="sf.ST7 == 1"]
-        <img src="data/bgimage/white.jpg" class="cg" id="blast">
+        <img src="data/bgimage/Blast.jpg" class="cg" id="blast">
         [else][endif]
         [if exp="sf.ST8 == 1"]
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
@@ -130,7 +130,7 @@
         <div id="bgm3" class="m_title">あじさい園</div>
         <div id="bgm4" class="m_title">雨妖</div>
         <div id="bgm5" class="m_title">僕の先輩</div>
-        <div id="bgm6" class="m_title">雨にして人を外れ＿ＯＰ</div>
+        <div id="bgm6" class="m_title">雨にして人を外れOPver.</div>
         <div id="bgm7" class="m_title">外の光</div>
         <div id="bgm8" class="m_title">心の中へ</div>
       </div>

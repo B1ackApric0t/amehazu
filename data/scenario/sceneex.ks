@@ -289,3 +289,4 @@
 [iscript]
 tyrano.plugin.kag.ftag.startTag("jump", {storage:"title.ks"});
 [endscript]
+[s]
