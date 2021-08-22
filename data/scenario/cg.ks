@@ -58,7 +58,7 @@
         <img src="data/bgimage/tekubi.jpg" class="cg" id="tekubi">
         <img src="data/bgimage/te.jpg" class="cg" id="senpai">
         <img src="data/bgimage/vsuyo.jpg" class="cg" id="vsuyo">
-        <img src="data/bgimage/Alast.png" class="cg" id="alast">
+        <img src="data/bgimage/Alast.jpg" class="cg" id="alast">
         <img src="data/bgimage/Blast.jpg" class="cg" id="blast">
         <img src="data/bgimage/hug1.jpg" class="cg" id="hug">
       </div>

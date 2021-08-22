@@ -23,6 +23,9 @@ $('#hug').click(function(){
   still = 8;
   $('#cgbig').css({'background-image':'url("data/bgimage/hug1.jpg")','visibility':'visible'});
 });
+$('#alast').click(function(){
+  $('#cgbig').css({'background-image':'url("data/bgimage/Alast.jpg")','visibility':'visible'});
+});
 $('#blast').click(function(){
   $('#cgbig').css({'background-image':'url("data/bgimage/Blast.jpg")','visibility':'visible'});
 });

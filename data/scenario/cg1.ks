@@ -99,7 +99,7 @@
         <img src="data/bgimage/vsuyo.jpg" class="cg" id="vsuyo">
         [else][endif]
         [if exp="sf.ST6 == 1"]
-        <img src="data/bgimage/Alast.png" class="cg" id="alast">
+        <img src="data/bgimage/Alast.jpg" class="cg" id="alast">
         [else][endif]
         [if exp="sf.ST7 == 1"]
         <img src="data/bgimage/Blast.jpg" class="cg" id="blast">

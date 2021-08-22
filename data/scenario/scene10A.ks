@@ -187,7 +187,7 @@
 @clearfix
 [role]
 [haruyahide time=0]
-[bg2 storage="Alast.png" time="0"]
+[bg2 storage="Alast.jpg" time="0"]
 [eval exp="sf.ST6=1"]
 [image layer="2" page="back" storage="smartc.png" width=250 left=515 top=30]
 [wait time=1000]
