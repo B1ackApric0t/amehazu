@@ -412,7 +412,7 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 「はい。本の回収に」[p]
 *119
 #先輩
-[yukino/3]「へえ。そうか、会いたかったな」[p]
+[yukino/3][anim name="yukino" top="+=15" time=500]「へえ。そうか、会いたかったな」[p]
 *120
 #
 先輩は頬杖をついたまま気怠げに言った。[r]疲れは取れていないのだろうか。[p]
@@ -424,7 +424,7 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 「先輩には禁忌じゃないんですか？」[p]
 *123
 #先輩
-[yukino/7]「うん。あんまりそういうの気にならないみたい」[p]
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]「うん。あんまりそういうの気にならないみたい」[p]
 *124
 #
 [bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=1000 wait=false cross=false]
@@ -437,6 +437,7 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 [yukino/6]「ああ……まあね。最近どうにも疲れ気味だ」[p]
 *127
 #
+[anim name="yukino" top="-=15" time=500]
 先輩はしばらくぐったりしていた。しかし不意に姿勢を正す。[p]
 
 *128
@@ -463,7 +464,9 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 *136
 [yukino/11]「私のいない学校で、[r]　君はいったい何をしているんだろうと思っていた」[p]
 *137
-[yukino/12]「自分でも笑ってしまうんだけど、君がひとりでこの部屋にいる様が[r]　上手く想像できなかったよ。失礼な話だよね」[p]
+[yukino/12]「自分でも笑ってしまうんだけど、[r]君がひとりでこの部屋にいる様が上手く想像できなかったよ」[p]
+*137a
+「失礼な話だよね」[p]
 *138
 #春也
 「いや。……僕にも上手く想像できないですね」[p]
@@ -602,19 +605,19 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 「だから心配しないでください。僕は大丈夫ですから」[p]
 *184
 #先輩
-[yukino/11]「……忘れない」[p]
+[yukino/11][anim name="yukino" top="+=10" time=500]「……忘れない」[p]
 *185
 #
 先輩はぽつりと呟いた。そして、困ったように笑って言った。[p]
 *186
 #先輩
-[yukino/12]「そうか。春也くんは強いな」[p]
+[yukino/12][anim name="yukino" top="-=10" time=500]「そうか。春也くんは強いな」[p]
 *187
 #春也
 「強いですか？」[p]
 *188
 #先輩
-[yukino/10]「強いよ。……ああ」[p]
+[yukino/10][kanim name="yukino" keyframe="nod" time="500"]「強いよ。……ああ」[p]
 *189
 #
 [hide]
@@ -634,7 +637,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 「空いてはいます……けど。[r]　今日を乗り越えられればといったところです」[p]
 *195
 #先輩
-[yukino/2]「なんだいそれ。課題を溜め込みでもしてるのかい？」[p]
+[yukino/2][kanim name="yukino" keyframe="left" time="500"]「なんだいそれ。課題を溜め込みでもしてるのかい？」[p]
 *196
 #春也
 「まあ、そんなところです」[p]
@@ -674,7 +677,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 「僕はもう少し残ってます」[p]
 *208
 #先輩
-「わかった。それじゃあまた明日ね」[p]
+[kanim name="yukino" keyframe="nod" time="500"]「わかった。それじゃあまた明日ね」[p]
 *209
 #春也
 「先輩も、今日はゆっくり家で休んでください」[p]
@@ -845,6 +848,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 「それで僕にとってこの部活の中心って先輩なんですよ。[r]　先輩に会いたくて毎日部室来てんですよ僕は……！」[p]
 *266
 #
+[hide]
 心臓がぐっと縮む。[r]僕はいま、とても大切なことを口に出してしまった気がする。[p]
 *267
 それは言葉にしてしまえばもう後戻りできないような、[r]僕のこれまでの在り様を根本から揺るがしてしまうような。[p]
@@ -853,6 +857,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 *269
 雨の音が耳に響く。息のしかたがわからなくなる。[r]先輩の顔が見れなくて、内履きの足首に目を落としていた。[p]
 *270
+[yukino1]
 #先輩
 「わかった」[p]
 *271
@@ -915,7 +920,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 「いつもの先輩の真似ですよ」[p]
 *294
 #先輩
-「失礼だなあ」[p]
+[yukino/2]「失礼だなあ」[p]
 *295
 #
 先輩も既に察しはついているのだろう。[r]雨妖に勘付かれてしまわないよう、日常らしい会話に裏の意味を忍ばせる。[p]
@@ -926,13 +931,13 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 「今夜も雨らしいですね。困りますよ」[p]
 *298
 #先輩
-「じゃあ春也くんは、私のことを知っててそう言うんだね」[p]
+[yukino/7]「じゃあ春也くんは、私のことを知っててそう言うんだね」[p]
 *299
 #春也
 「多少は。知らない人の真似なんかできませんからね」[p]
 *300
 #
-[yukino/10]ふむふむと先輩はうなずいた。それから言った。[p]
+[yukino/10][kanim name="yukino" keyframe="nod" time="500"]ふむふむと先輩はうなずいた。それから言った。[p]
 *301
 #先輩
 [yukino/7]「今日の夜、電話してもいいかな？」[p]

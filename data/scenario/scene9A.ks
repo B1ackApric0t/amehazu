@@ -43,7 +43,7 @@
 「はい。先輩も」[p]
 *8
 #先輩
-[yukino/7]「うん」[p]
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]「うん」[p]
 *9
 #春也
 「よかったです。先輩……」[p]
@@ -66,7 +66,7 @@
 「それで。これからどうしましょうか」[p]
 *15
 #先輩
-「どうしようかな」[p]
+[yukino/8]「どうしようかな」[p]
 *16
 #春也
 「お付き合いしますよ」[p]
@@ -86,7 +86,7 @@
 「それは困りますね」[p]
 *22
 #先輩
-「んー……そうだ」[p]
+[yukino/2]「んー……そうだ」[p]
 #
 [playse storage=rain_kasa.ogg loop=true]
 [hide time=100]
@@ -106,11 +106,11 @@
 *27
 先輩がその姿を妖へと変ずる。[r]軽く僕を抱きかかえて、赤い羽が闇にきらめく。[p]
 
-[mask time=700 effect="fadeInUp"]
+[mask time=1000 effect="fadeInUp"]
 [free_filter]
 [bg2 storage="entrance2.jpg" time="0"][haruyahide time=0][hide time=0]
-[wait time=800]
-[mask_off time=700 effect="fadeOutDown"]
+[wait time=1200]
+[mask_off time=1000 effect="fadeOutDown"]
 
 *28
 #
@@ -118,7 +118,7 @@
 *29
 僕たちの高校。すでに閉じた校門の前だ。[p]
 *30
-僕たちはこれから帰るのだ。長いようで一瞬だった、この旅路から。[p]
+僕たちはこれから帰るのだ。[r]長いようで一瞬だった、この旅路から。[p]
 [yukino1 width=1400 top=30]
 *31
 #先輩
@@ -213,7 +213,7 @@
 「……出来の悪い娘で、本当に申し訳ないとは思うんだけど」[p]
 *58
 #春也
-「……僕なんかが、あまり家のことに口を挟むべきじゃないんでしょうけど。」[p]
+「……僕なんかが、[r]　あまり家のことに口を挟むべきじゃないんでしょうけど。」[p]
 *59
 「そこは出来云々じゃなくて、[r]　やっぱり単に合わなかったってだけじゃないでしょうか。」[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]

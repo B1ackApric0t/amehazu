@@ -34,6 +34,11 @@ $('#g_op').click(function(){
   $('#cgvideo').css('visibility','visible');
   $('#vcg').attr('src','data/video/amehazuOP3.mp4');
 });
+$('#g_ed1').click(function(){
+  audio.pause()
+  $('#cgvideo').css('visibility','visible');
+  $('#vcg').attr('src','data/video/amehazuED_A.mp4');
+});
 $('#g_ed2').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');

@@ -1,13 +1,13 @@
 [title name="雨にして人を外れ"]
 
 [stop_keyconfig]
+[hidemenubutton]
 [loadcss file="./data/others/css/mystyle.css" ]
 [loadcss file="./data/others/css/message.css"]
 [loadcss file="./data/others/css/next2.css"]
 [loadcss file="./data/others/css/next1.css"]
 [plugin name="waapi"]
-[plugin name=bg_rule]
-
+[call storage="novecole.ks"]
 
 [iscript]
 f.preload_yukino = [
@@ -95,15 +95,13 @@ f.preload_bgm = [
 
 @layopt layer="message" visible=false
 
-[hidemenubutton]
-
-;[mask time=1000]
-;[image layer=0 page=fore visible=true storage=logo.png]
-;[mask_off time=1000]
-;[wait time=1000]
-;[mask time=1000]
-;[freeimage layer=0 time=100]
-;[mask_off time=100]
+[mask time=1000]
+[image layer=0 page=fore visible=true storage=logo.png]
+[mask_off time=1000]
+[wait time=1000]
+[mask time=1000]
+[freeimage layer=0 time=100]
+[mask_off time=100]
 
 @jump storage="title.ks"
 [s]

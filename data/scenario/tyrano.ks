@@ -151,11 +151,8 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 
 [macro name="haruya"][chara_show name="haruya" storage="%storage|haruya/haruya1.png" page="%page|fore" top="370" left="-330" time="%time|700" zindex="200" layer="message0"][endmacro]
 [macro name="haruyahide"][chara_hide name="haruya" time="%time|700" layer="message0" wait="%wait|true"][endmacro]
-
-
 [macro name="haruya1"][chara_show name="haruya" storage="%storage|yukino/tatie8.png" page="%page|fore" top="430" left="-330" time="%time|700" zindex="200" layer="message0"][endmacro]
 [macro name="hmod"][chara_mod name="haruya" storage="%storage|haruya/haruya1_1.png" cross="false" wait="true" time=0][endmacro]
-[macro name="haruyahide"][chara_hide name="haruya" time="%time|700" layer="message0" wait="%wait|true"][endmacro]
 
 [macro name="uyo"][chara_show name="uyo" storage="uyo.png" page="%page|fore" top="%top|-150" left="%left" time="%time|700" width="%width|900"][endmacro]
 [macro name="uyohide"][chara_hide name="uyo" time="%time|700"][endmacro]
@@ -171,6 +168,11 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 [macro name="mshow"][anim layer="message0" opacity=255 time="%time|1000"][endmacro]
 
 ;スチル
+[macro name="M3"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still2.png" page=fore visible=true]
+[position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]
+[loadcss file="./data/others/css/next2.css"]
+[anim name="chara_name_area" top="+=150" left="-=120" time="0"][endmacro]
+
 [macro name="M1"][position layer="message0" left=0 top=581 width=1280 height=180 frame="frame_still.png" page=fore visible=true]
 [position layer="message0" page=fore margint="00" marginl="300" marginr="150" marginb="80"]
 [loadcss file="./data/others/css/next2.css"]
@@ -251,8 +253,8 @@ tf.savetext = "<span style='font-size:10px'>"+tf.save_date+"</span><br />"+tf.ti
 
 [keyframe name="left"]
 [frame p="0%" x="0"]
-[frame p="50%" x="10"]
-[frame p="100%" ="0"]
+[frame p="50%" x="20"]
+[frame p="100%" x="0"]
 [endkeyframe]
 
 [return]

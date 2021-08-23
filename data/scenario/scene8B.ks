@@ -106,7 +106,8 @@
 *27
 [bg2 storage="moon2.png" time="1000"wait=true]
 かと思うと夜空にきらきら星が輝き、巨大な満月が地上を照らし始めた。[p]
-*28[bg2 storage="moon.jpg" time="1000"wait=true]
+*28
+[bg2 storage="moon.jpg" time="1000"wait=true]
 空は晴れ上がった。地域一帯の雨雲が一掃されたのだ。[p]
 *29
 #春也

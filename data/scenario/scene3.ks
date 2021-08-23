@@ -241,7 +241,7 @@
 どうにか捻り出した僕の答えに、相手は驚いた顔をする。[r]それから緊張がほどけたように笑った。[p]
 *79
 #？？
-[yukino/2]「うん。よくわかったね。それが正解だ」[p]
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]「うん。よくわかったね。それが正解だ」[p]
 *80
 #
 クイズだったんですかこれ、とは、口に出さず。[p]
@@ -278,7 +278,7 @@
 「……ですね」[p]
 *90
 #？？
-「うん。……君さ、窓」[p]
+[kanim name="yukino" keyframe="nod3" time="500"]「うん。……君さ、窓」[p]
 *91
 #
 その人はにっこり笑って。[p]
@@ -378,7 +378,6 @@
 [kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 *117
 ふっ、と部長さんは笑った。ふふふふ、と赤羽先輩も笑った。[r]独自の文化が醸成されている。[p]
-;[stop_kanim name=yukino][stop_kanim name=bucho]
 *118
 #部長
 「適当に座ってくれる？」[p]

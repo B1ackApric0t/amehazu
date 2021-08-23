@@ -75,18 +75,31 @@
 そしてこの人のために生きているのだろう。[p]
 [trans_out layer="2" time=500 method="fadeOutUp"]
 [wt]
-[mask time=500]
+[mask time=1000]
 [freeimage layer="2" time=0 page=back]
+[rhide][mhide time=0]
+[iscript]
+sf.current_bgm_vol = sf._system_config_bgm_volume
+[endscript]
+[wait time=1000]
+[mask_off time=500]
+[if exp="sf._system_config_bgm_volume>=1"]
+[movie storage="amehazuED_A.mp4" skip=skip volume="&sf.current_bgm_vol"]
+[else]
+[movie storage="amehazuED_A.mp4" skip=false volume=0]
+[endif]
+[mask time=500]
+[eval exp="sf.SM2=1"]
 [bg2 storage="busitucolor.jpg" time="0"]
 [bucho storage="bucho/buchocn1.png" time=0]
 [haruya storage=haruya/haruya_c1.png]
-[M2]
+[M2][mshow time=0]
 @clearfix
 [role2]
 [font color=0x000000]
 [wait time=500]
 [fadeinbgm storage=kaiwa_loop.ogg time=1500]
-[mask_off time=500]
+[mask_off time=1000]
 
 *25
 #部長
@@ -146,6 +159,7 @@
 「それだけ気安い場所だったってことでは？」[p]
 *45
 #
+[kanim name="bucho" keyframe="nod3" time="200" count=2]
 ふふ、と部長は笑った。つられて僕も少し笑った。[p]
 *46
 部長は一瞬目を逸らし、言うか言うまいか迷うようなそぶりを見せたが、[r]結局仕方なさそうに笑って言った。[p]
@@ -183,7 +197,7 @@
 そう言い残して、部長は部屋を去っていった。[p]
 [mask time=500]
 [resetfont]
-[M1]
+[M3]
 @clearfix
 [role]
 [haruyahide time=0]
@@ -242,10 +256,10 @@
 窓から身を乗り出しながら、僕は思う。[p]
 
 *92
-こうしていることが好きだ。窓から外の遠い景色を眺めている時間。[p]
+こうしていることが好きだ。[r]窓から外の遠い景色を眺めている時間。[p]
 
 *93
-そして部室。まさにいま自分がこうしている部室。[p]
+そして部室。[r]まさにいま自分がこうしている部室。[p]
 
 *94
 初めは窮屈にも感じたけれど、いまなら僕は胸を張って言える。[p]
@@ -261,8 +275,8 @@
 [M0]
 @clearfix
 @layopt layer="message0" visible=false
-[eval exp="sf.SM2=1"]
 [eval exp="sf.Aroot=1"]
 [bg2 storage=black.png time=1000]
+[wait time=2000]
 [mask_off tme=1000]
 @jump storage="title.ks" target=*start

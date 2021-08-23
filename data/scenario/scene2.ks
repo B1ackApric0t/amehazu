@@ -31,7 +31,7 @@
 #春也
 「体調、悪いんですか」[p]
 #
-[yukino13 width=1400 top=40]
+[yukino13 width=1400 top=35]
 *4
 #先輩
 「……いや。疲れてるだけ。風邪を引いたとかではないから安心して」[p]
@@ -48,7 +48,7 @@
 
 *8
 #
-[kanim name="yukino" keyframe="up" time="500"]
+[anim name="yukino" top="-=15" time=500]
 先輩は顎を立てて腕の上に乗せ、顔だけで僕と向かい合った。[p]
 
 *9
@@ -71,8 +71,8 @@
 「しません」[p]
 *15
 #
+[anim name="yukino" top="+=15" time=500]
 僕がそう答えると、先輩は再び左の頬を下にして机に伏せる。[p]
-[kanim name="yukino" keyframe="down" time="500"]
 *16
 #先輩
 [yukino/8]「出かけたいな……」[p]
@@ -118,7 +118,7 @@
 「ねえ、春也くん」[p]
 *31
 #
-[kanim name="yukino" keyframe="up" time="800"]
+[anim name="yukino" top="-=15" time=500][wt]
 ゆっくりと体を起こして、先輩が言った。[p]
 *32
 #先輩
@@ -203,7 +203,7 @@
 「土日、一緒に出かけましょう。あじさい、見に」[p]
 *60
 #先輩
-[yukino/2]「ああ！[r]　そうしようよ春也くん、ほら日程について話そうじゃないか」[p]
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]「ああ！[r]　そうしようよ春也くん、ほら日程について話そうじゃないか」[p]
 *61
 #
 [mask time=500]
@@ -220,6 +220,7 @@
 [mask_off time=500]
 *64
 #先輩
+[kanim name="yukino" keyframe="nod3" time="200" count=2]
 「どうしよう春也くん、スケジュールができてしまった。[r]　できてしまったからには遂行しなくちゃいけない」[p]
 *65
 #春也
@@ -344,7 +345,7 @@
 そして最後に、先輩と面識のない僕のクラスメートにまで[r]名前が知れ渡っている、先輩のスター性。[p]
 *102
 一種の天才だ。[p]
-[trans_out layer="2" time=500 method="fadeOutUp"]
+[trans_out layer="2" time=500 method="fadeOutUp"][wt]
 [freeimage layer="2" time=0 page=back]
 [bg2  storage="busiturain.jpg" time=700 wait=false]
 [yukino7]

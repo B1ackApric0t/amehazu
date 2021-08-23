@@ -61,7 +61,6 @@ var __tyrano_key_config = {
     
         "32" : "hidemessage", //Space
         "13" : "next", // Enter
-        "91" : "skip", //Command(Mac)  
         "17" : "skip", //Ctrl (Windows)
         "67":function(){ // c ボタン
             //config呼び出し例 コメント化

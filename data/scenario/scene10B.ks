@@ -96,7 +96,9 @@
 *28
 闇と梅雨の熱気。[p]
 *29
-僕たちは闇の中で見つめ合った。闇が僕たちの体を包んでいた。[r]僕たちの体は闇に溶け、その闇は僕たちの内側にまで連々と続いていた。[p]
+僕たちは闇の中で見つめ合った。[r]闇が僕たちの体を包んでいた。[p]
+*29a
+僕たちの体は闇に溶け、その闇は僕たちの内側にまで連々と続いていた。[p]
 *30
 窓からかすかな月明かりが部屋に染み出していた。[p]
 *31
@@ -149,7 +151,9 @@
 *48
 外では雨がさあさあと柔らかなノイズのように降り続いている。[r]沈黙の音だ。[p]
 *49
-先輩が耳に口を近づけた。[r]頬に触れる髪の感触がくすぐったい。[r]僕たちはしばし顔を寄せ合ったまま、互いの耳元に互いの息遣いを聞いた。[p]
+先輩が耳に口を近づけた。[r]頬に触れる髪の感触がくすぐったい。[p]
+*49a
+僕たちはしばし顔を寄せ合ったまま、[r]互いの耳元に互いの息遣いを聞いた。[p]
 [mask time=300]
 [hide time=0]
 [bg2 storage=black.png time=300]
@@ -184,7 +188,9 @@
 「いいえ。全然」[p]
 *63
 #
-僕たちには肉体があって。[r]だからきっと僕たちは、心や痛みやお互いを感じられるのだけど、[r]だけど僕たちはその肉体のせいで、永遠に誰かとひとつにはなれないのだ。[p]
+僕たちには肉体があって。[p]
+*63a
+だからきっと僕たちは、心や痛みやお互いを感じられるのだけど、[r]だけど僕たちはその肉体のせいで、永遠に誰かとひとつにはなれないのだ。[p]
 *64
 生まれたとき僕たちはひとつの個体になって、個人になって、[r]どこまでもひとりで生きていく……[p]
 *65
@@ -261,12 +267,20 @@
 ――何もかも。[l]君の味も。[p]
 [fadeoutse time=2000]
 [mask time=1500]
+[iscript]
+sf.current_bgm_vol = sf._system_config_bgm_volume
+[endscript]
 [M0]
 @clearfix
 @layopt layer="message0" visible=false
 [bg2 storage=black.png time=1000]
 [mask_off tme=500]
+[if exp="sf._system_config_bgm_volume>=1"]
 [movie storage="amehazuED_B2.mp4" skip=false volume="&sf.current_bgm_vol"]
+[else]
+[movie storage="amehazuED_B2.mp4" skip=false volume=0]
+[endif]
+
 [mask time=500]
 [eval exp="sf.SM3=1"]
 [eval exp="sf.Broot=1"]

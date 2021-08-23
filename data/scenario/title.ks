@@ -18,6 +18,7 @@
 [if exp="sf.SX==undefined"][eval exp="sf.SX=0"][endif]
 [if exp="sf.Aroot==undefined"][eval exp="sf.Aroot=0"][endif]
 [if exp="sf.Broot==undefined"][eval exp="sf.Broot=0"][endif]
+[if exp="sf.clear1==undefined"][eval exp="sf.clear1=0"][endif]
 
 [if exp="sf.ST1==undefined"][eval exp="sf.ST1=0"][endif]
 [if exp="sf.ST2==undefined"][eval exp="sf.ST2=0"][endif]
@@ -31,12 +32,15 @@
 [if exp="sf.SM2==undefined"][eval exp="sf.SM2=0"][endif]
 [if exp="sf.SM3==undefined"][eval exp="sf.SM3=0"][endif]
 
-[if exp="sf.current_bgm_vol==undefined"][eval exp="sf.current_bgm_vol=0"][endif]
+[eval exp="sf.current_bgm_vol=120"]
 
-[iscript]
-sf.current_bgm_vol = sf._system_config_bgm_volume
-[endscript]
-
+[if exp="sf.Aroot==1&&sf.Broot==1&&sf.clear1==0"]
+[image storage=alert.png layer=0 top=250 left=300]
+[l]
+[eval exp="sf.clear1=1"]
+[freeimage layer=0]
+[wait time=1000]
+[endif]
 [playbgm storage="main_loop.ogg"]
 *title
 @clearfix
@@ -47,7 +51,14 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 
 [html]
 <div id="tl">
-<img class="img_title" src="data/bgimage/title.jpg" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
+<div id="glitch" class="loading">
+<div class="glitch">
+	<div class="glitch__img"></div>
+	<div class="glitch__img"></div>
+	<div class="glitch__img"></div>
+	<div class="glitch__img"></div>
+	<div class="glitch__img"></div>
+</div></div>
 <img src="data/fgimage/title_vi.png" style="position:absolute;">
 
 <div class="container">
@@ -102,11 +113,11 @@ $('.jumpHP').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"HP
 
 $('#tl').mousemove(function(e){
   if(e.pageX > 640){
-  $('.img_title').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
+  $('.glitch').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
   } else if(e.pageX < 640){
-  $('.img_title').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
+  $('.glitch').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
   } else{
-  $('.img_title').css({"top":-300 - e.pageY/8});
+  $('.glitch').css({"top":-300 - e.pageY/8});
   }
 });
 
