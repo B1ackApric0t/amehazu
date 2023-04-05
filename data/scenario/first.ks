@@ -1,12 +1,16 @@
+[if exp="sf.trans==undefined"][eval exp="sf.trans=1"][endif]
+
+[if exp="sf.trans==2"]
+[title name="霏霏雨中人衣蜕"]
+[else]
 [title name="雨にして人を外れ"]
+[endif]
 
 [stop_keyconfig]
 [hidemenubutton]
-[loadcss file="./data/others/css/mystyle.css" ]
 [loadcss file="./data/others/css/message.css"]
 [loadcss file="./data/others/css/next2.css"]
 [loadcss file="./data/others/css/next1.css"]
-[plugin name="waapi"]
 [call storage="novecole.ks"]
 
 [iscript]
@@ -103,5 +107,14 @@ f.preload_bgm = [
 [freeimage layer=0 time=100]
 [mask_off time=100]
 
+[if exp="sf.Bclear==1"]
+[eval exp="sf.Bclear=0"]
+[endif]
+
+
+[if exp="sf.trans==1"]
 @jump storage="title.ks"
+[else]
+@jump storage="scenario_ch/title.ks"
+[endif]
 [s]

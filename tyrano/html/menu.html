@@ -7,36 +7,36 @@
 		<div style="margin-top:100px">
 
 			<div class="menu_item menu_save" style="left:130px;top:190px;position:absolute;">
-			<img src="tyrano/images/system/save.png" alt="" class="non">
+			<img src="tyrano/images/system/save.png" alt="" class="non menusave">
 			</div>
 
 			<div class="menu_item menu_load" style="left:130px;top:270px;position:absolute;">
-			<img src="tyrano/images/system/load.png" alt="" class="non">
+			<img src="tyrano/images/system/load.png" alt="" class="non menuload">
 			</div>
 			
 			<div class="menu_item menu_skip" style="left:130px;top:350px;position:absolute;">
-			<img src="tyrano/images/system/skip.png" alt="" class="non">
+			<img src="tyrano/images/system/skip.png" alt="" class="non menuskip">
 			</div>
 			
 			<div class="menu_item menu_auto" style="left:130px;top:430px;position:absolute;">
-			<img src="tyrano/images/system/auto.png" alt="" class="non">
+			<img src="tyrano/images/system/auto.png" alt="" class="non menuauto">
 			</div>
 
             <div class="menu_item menu_config" style="left:330px;top:190px;position:absolute;">
-			<img src="tyrano/images/system/config.png" alt="" class="non">
+			<img src="tyrano/images/system/config.png" alt="" class="non menuconfig">
 			</div>
 			
 			<div class="menu_item menu_log" style="left:330px;top:270px;position:absolute;">
-			<img src="tyrano/images/system/backlog.png" alt="" class="non">
+			<img src="tyrano/images/system/backlog.png" alt="" class="non menulog">
 			</div>
 
 			<div class="menu_item menu_back_title" style="left:330px;top:350px;position:absolute;">
-			<img src="tyrano/images/system/title.png" alt="" class="non">
+			<img src="tyrano/images/system/title.png" alt="" class="non menuback_title">
 			</div>
 			
 			
 			<div class="menuback menu_close menu_item" style="left:330px;top:430px;position:absolute;">
-			<img src="tyrano/images/system/back.png" alt="" class="non">
+			<img src="tyrano/images/system/back.png" alt="" class="non menuclose">
 			</div>
 			
 			
@@ -64,7 +64,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/save_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/save_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -76,7 +80,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/load_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/load_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -88,7 +96,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
- $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/skip_top.png")'});
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/skip_top.png")'});
+}else{
+ $$('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/skip_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -100,7 +112,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/auto_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/auto_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -112,7 +128,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/config_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/config_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -124,7 +144,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/backlog_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/backlog_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -136,7 +160,11 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/title_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/title_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
@@ -148,10 +176,36 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
+if (TYRANO.kag.variable.sf.trans == 2) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/back_top.png")'});
+}else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/back_top.png")'});
+}
 });
 },function(){
   $('#top').css({'transition':'0s','background-image':'url("")'});
   $('.kasa').css('transform','rotate(0)');
 });
+
+
+
+if (TYRANO.kag.variable.sf.trans == 2) {
+  $('.menusave').attr('src','tyrano/images/system/ch/menu/save.png');
+  $('.menuload').attr('src','tyrano/images/system/ch/menu/load.png');
+  $('.menuskip').attr('src','tyrano/images/system/ch/menu/skip.png');
+  $('.menuauto').attr('src','tyrano/images/system/ch/menu/auto.png');
+  $('.menuconfig').attr('src','tyrano/images/system/ch/menu/config.png');
+  $('.menulog').attr('src','tyrano/images/system/ch/menu/backlog.png');
+  $('.menuback_title').attr('src','tyrano/images/system/ch/menu/title.png');
+  $('.menuclose').attr('src','tyrano/images/system/ch/menu/back.png');
+}else{
+  $('.menusave').attr('src','tyrano/images/system/save.png');
+  $('.menuload').attr('src','tyrano/images/system/load.png');
+  $('.menuskip').attr('src','tyrano/images/system/skip.png');
+  $('.menuauto').attr('src','tyrano/images/system/auto.png');
+  $('.menuconfig').attr('src','tyrano/images/system/config.png');
+  $('.menulog').attr('src','tyrano/images/system/backlog.png');
+  $('.menuback_title').attr('src','tyrano/images/system/title.png');
+  $('.menuclose').attr('src','tyrano/images/system/back.png');
+}
 </script>

@@ -39,6 +39,12 @@
 }
 
 @font-face {
+	font-family:"NotoCJK";
+	src:url("../../data/others/RedHatDisplay-Bold.ttf") format("truetype");
+	font-weight:bold;font-style:bold;
+}
+
+@font-face {
 	font-family:"redhat";
 	src:url("../../data/others/RedHatDisplay-Bold.ttf") format("truetype");
 	font-weight:bold;font-style:bold;

@@ -342,8 +342,12 @@ $('#chapterEX').hover(
 </script>
 [endhtml]
 
-[loadjs storage="cg.js"]
+[if exp="sf.pc == true"]
 [loadjs storage="music.js"]
+[else]
+[loadjs storage="music2.js"]
+[endif]
+[loadjs storage="cg.js"]
 [s]
 
 

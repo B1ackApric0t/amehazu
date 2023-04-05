@@ -963,6 +963,7 @@ audio {
   animation-duration: .5s;
 }
 
+
 ;タイトル
 
 #title_start{
@@ -1003,6 +1004,15 @@ audio {
 
 #title_quit .non{
 	z-index: 2;
+}
+
+#title_trans{
+	cursor: pointer;
+	transition:0.3s;
+}
+
+#title_trans:hover{
+  opacity:0.8;
 }
 
 .title_item:before {

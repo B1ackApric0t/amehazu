@@ -3,7 +3,9 @@ window.tyrano_lang = {
     word : {
         
         "go_title":"タイトルに戻りますか？",
+        "go_title_ch":"要返回标题画面吗？",
         "exit_game":"終了しますか？",
+        "exit_game_ch":"要结束游戏吗？",
         "not_saved":" ",
         "tag":"タグ",
         "not_exists":"は存在しません",

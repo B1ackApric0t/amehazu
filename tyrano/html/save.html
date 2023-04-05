@@ -30,11 +30,23 @@
 	
 	</div>
 	
-	<img src="tyrano/images/system/savetop.png" style="left:30px;top:30px;position:absolute;">
-	<img class="img_bg_base" src="tyrano/images/system/save_bg.png" style="z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;">
+	<img src="tyrano/images/system/savetop.png" style="left:30px;top:30px;position:absolute;" class="save_top">
+	<img class="img_bg_base save_bg" src="tyrano/images/system/save_bg.png" style="z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;">
 	<div class="menu_close save_close" style="left:50px;top:640px;position:absolute;cursor:pointer;">
-	  <img src="tyrano/images/system/back_system.png" alt="" class="non">
+	  <img src="tyrano/images/system/back_system.png" alt="" class="non save_back">
 	</div>
 
+
+ <script>
+      if (TYRANO.kag.variable.sf.trans == 2) {
+        $('.save_top').attr('src','tyrano/images/system/ch/savetop.png');
+        $('.save_bg').attr('src','tyrano/images/system/ch/save_bg.png');
+        $('.save_back').attr('src','tyrano/images/system/ch/back_system.png');
+      }else{
+        $('.save_top').attr('src','tyrano/images/system/savetop.png');
+        $('.save_bg').attr('src','tyrano/images/system/save_bg.png');
+        $('.save_back').attr('src','tyrano/images/system/back_system.png');
+      }
+</script>
 </div>
 

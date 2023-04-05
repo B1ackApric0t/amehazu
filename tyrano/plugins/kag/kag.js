@@ -430,6 +430,13 @@ tyrano.plugin.kag = {
       return !1
     })
   },
+  backTitleCh: function () {
+    "appJsInterface" in window ? appJsInterface.finishGame() : "function" == typeof TyranoPlayer ? webkit.messageHandlers.backHandler.postMessage("endgame") : $.confirm($.lang("go_title_ch"), function () {
+      location.href = "./index.html"
+    }, function () {
+      return !1
+    })
+  },
   cutTimeWithSkip: function (t) {
     return 1 == this.kag.stat.is_skip && "true" == this.kag.config.skipEffectIgnore ? 70 : t
   },

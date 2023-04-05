@@ -19,6 +19,8 @@
 [if exp="sf.Aroot==undefined"][eval exp="sf.Aroot=0"][endif]
 [if exp="sf.Broot==undefined"][eval exp="sf.Broot=0"][endif]
 [if exp="sf.clear1==undefined"][eval exp="sf.clear1=0"][endif]
+[if exp="sf.Bclear==undefined"][eval exp="sf.Bclear=0"][endif]
+[if exp="sf._system_config_bgm_volume==undefined"][eval exp="sf._system_config_bgm_volume=20"][endif]
 
 [if exp="sf.ST1==undefined"][eval exp="sf.ST1=0"][endif]
 [if exp="sf.ST2==undefined"][eval exp="sf.ST2=0"][endif]
@@ -32,7 +34,19 @@
 [if exp="sf.SM2==undefined"][eval exp="sf.SM2=0"][endif]
 [if exp="sf.SM3==undefined"][eval exp="sf.SM3=0"][endif]
 
-[eval exp="sf.current_bgm_vol=120"]
+
+[iscript]
+if($.isElectron() || $.isNWJS()){
+    //PC
+    sf.pc=true;
+}
+else{
+    //ブラウザ
+    sf.pc=false;
+}
+[endscript]
+
+[eval exp="sf.current_bgm_vol=20"]
 
 [if exp="sf.Aroot==1&&sf.Broot==1&&sf.clear1==0"]
 [image storage=alert.png layer=0 top=250 left=300]
@@ -52,6 +66,10 @@
 [html]
 <div id="tl">
 <div id="glitch" class="loading">
+
+[if exp="sf.Bclear!=1"]
+<img class="img_title" src="data/bgimage/title.jpg" style="z-index:-1;left:-320px;top:-300px;width:1920px;height:2880px;position:absolute;">
+[else]
 <div class="glitch">
 	<div class="glitch__img"></div>
 	<div class="glitch__img"></div>
@@ -59,6 +77,8 @@
 	<div class="glitch__img"></div>
 	<div class="glitch__img"></div>
 </div></div>
+[endif]
+
 <img src="data/fgimage/title_vi.png" style="position:absolute;">
 
 <div class="container">
@@ -92,7 +112,11 @@
 	<img src="data/fgimage/title_quit.png" alt="" class="non">
 </div>
 
-<img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;cursor:pointer;" class="jumpHP">
+<div id="title_trans" style="left:120px;top:80px;position:absolute;cursor:pointer;">
+	<img src="data/fgimage/language.png" alt="" class="non">
+</div>
+
+<img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;" class="jumpHP">
 <img src="data/fgimage/title_logo.png" style="left:860px;top:440px;position:absolute;">
 </div>
 
@@ -109,8 +133,22 @@ $('#title_load').click(function(){tyrano.plugin.kag.ftag.startTag("showload")});
 $('#title_config').click(function(){tyrano.plugin.kag.ftag.startTag("showconfig")});
 $('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"cg.ks",target:"start"})});
 $('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close")});
-$('.jumpHP').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"HP"})});
 
+
+$("#title_trans").click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"trans.ks",target:"start"})});
+
+
+[if exp="sf.Bclear!=1"]
+$('#tl').mousemove(function(e){
+  if(e.pageX > 640){
+  $('.img_title').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
+  } else if(e.pageX < 640){
+  $('.img_title').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
+  } else{
+  $('.img_title').css({"top":-300 - e.pageY/8});
+  }
+});
+[else]
 $('#tl').mousemove(function(e){
   if(e.pageX > 640){
   $('.glitch').css({"left":-280 - e.pageX/16,"top":-300 - e.pageY/8});
@@ -120,7 +158,7 @@ $('#tl').mousemove(function(e){
   $('.glitch').css({"top":-300 - e.pageY/8});
   }
 });
-
+[endif]
 </script>
 [endhtml]
 
@@ -133,16 +171,10 @@ $('#tl').mousemove(function(e){
 [html]
 <img src="data/bgimage/black.png" class="fadein">
 [endhtml]
-[wait time=1500]
+[wait time=1000]
 
 @jump storage="scene1.ks"
 
-*HP
-[iscript]
-window.open("https://d10rama.com/");
-[endscript]
-@jump target=title
-[cm]
 [s]
 
 
