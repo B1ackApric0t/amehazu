@@ -131,7 +131,7 @@ $('#title_start').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{targe
 $('#title_load').click(function(){tyrano.plugin.kag.ftag.startTag("showload")});
 $('#title_config').click(function(){tyrano.plugin.kag.ftag.startTag("showconfig")});
 $('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"scenario_ch/cg.ks",target:"start"})});
-$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close")});
+$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_ch")});
 $("#title_trans").click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"trans.ks",target:"start"})});
 
 [if exp="sf.Bclear!=1"]

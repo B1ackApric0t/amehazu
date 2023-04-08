@@ -34,6 +34,9 @@
 			<img src="tyrano/images/system/title.png" alt="" class="non menuback_title">
 			</div>
 			
+			<div class="menu_item menu_back_title_ch" style="left:330px;top:350px;position:absolute;">
+			<img src="tyrano/images/system/title.png" alt="" class="non menuback_title">
+			</div>
 			
 			<div class="menuback menu_close menu_item" style="left:330px;top:430px;position:absolute;">
 			<img src="tyrano/images/system/back.png" alt="" class="non menuclose">
@@ -197,6 +200,8 @@ if (TYRANO.kag.variable.sf.trans == 2) {
   $('.menuconfig').attr('src','tyrano/images/system/ch/menu/config.png');
   $('.menulog').attr('src','tyrano/images/system/ch/menu/backlog.png');
   $('.menuback_title').attr('src','tyrano/images/system/ch/menu/title.png');
+  $('.menu_back_title').hide();
+  $('.menu_back_title_ch').show();
   $('.menuclose').attr('src','tyrano/images/system/ch/menu/back.png');
 }else{
   $('.menusave').attr('src','tyrano/images/system/save.png');
@@ -206,6 +211,8 @@ if (TYRANO.kag.variable.sf.trans == 2) {
   $('.menuconfig').attr('src','tyrano/images/system/config.png');
   $('.menulog').attr('src','tyrano/images/system/backlog.png');
   $('.menuback_title').attr('src','tyrano/images/system/title.png');
+  $('.menu_back_title').show();
+  $('.menu_back_title_ch').hide();
   $('.menuclose').attr('src','tyrano/images/system/back.png');
 }
 </script>

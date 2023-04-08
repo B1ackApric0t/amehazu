@@ -2,8 +2,12 @@
 
 [if exp="sf.trans==2"]
 [title name="霏霏雨中人衣蜕"]
+[dialog_config_ok text="是"]
+[dialog_config_ng text="否"]
 [else]
 [title name="雨にして人を外れ"]
+[dialog_config_ok text="はい"]
+[dialog_config_ng text="いいえ"]
 [endif]
 
 [stop_keyconfig]

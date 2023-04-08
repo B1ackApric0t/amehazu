@@ -40,8 +40,8 @@
 
 @font-face {
 	font-family:"NotoCJK";
-	src:url("../../data/others/RedHatDisplay-Bold.ttf") format("truetype");
-	font-weight:bold;font-style:bold;
+	src:url("../../data/others/NotoCJK/NotoSerifCJK-Regular.ttc") format("truetype");
+	font-weight:normal;font-style:normal;
 }
 
 @font-face {
