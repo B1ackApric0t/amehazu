@@ -31,53 +31,53 @@
     
     <div class='content1'>
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
-      <div id="chaptertitle">場面1. 相合傘</div>
-      <div id="summary">ふたりでひとつの傘に入りながら、ともに帰路を歩む春也と先輩。やがて先輩と別れひとりになる春也だったが、その背後には巨大な魚影が忍び寄っていた。</div>
+      <div id="chaptertitle">场景1. 情侣伞</div>
+      <div id="summary">共撑一把雨伞，并肩走在归家路上的春也和学姐。在和学姐分别以后只剩孤身一人的春也身后，一个巨大的鱼影悄然靠近。</div>
       <div class="chapterchoice">
-        <div id="chapter1" class="chap">場面1.相合傘</div>
+        <div id="chapter1" class="chap">场景1. 情侣伞</div>
         [if exp="sf.S2 == 1"]
-        <div id="chapter2" class="chap">場面2.約束</div>
+        <div id="chapter2" class="chap">场景2. 约定</div>
         [else][endif]
         [if exp="sf.S3 == 1"]
-        <div id="chapter3" class="chap">場面3.回想／邂逅</div>
+        <div id="chapter3" class="chap">场景3. 追忆／邂逅</div>
         [else][endif]
         [if exp="sf.S4 == 1"]
-        <div id="chapter4" class="chap">場面4.あじさい園</div>
+        <div id="chapter4" class="chap">场景4. 绣球花园</div>
         [else][endif]
         [if exp="sf.S5 == 1"]
-        <div id="chapter5" class="chap">場面5.予兆</div>
+        <div id="chapter5" class="chap">场景5. 预兆</div>
         [else][endif]
         [if exp="sf.S6 == 1"]
-        <div id="chapter6" class="chap">場面6.雨妖</div>
+        <div id="chapter6" class="chap">场景6. 雨妖</div>
         [else][endif]
         [if exp="sf.S7 == 1"]
-        <div id="chapter7" class="chap">場面7.葛藤</div>
+        <div id="chapter7" class="chap">场景7. 纠葛</div>
         [else][endif]
       </div>
       <div class="chapterA">
         [if exp="sf.S8a == 1"]
-        <div id="chapter8A" class="chap">場面8A.決着</div>
+        <div id="chapter8A" class="chap">场景8A. 了结</div>
         [else][endif]
         [if exp="sf.S9a == 1"]
-        <div id="chapter9A" class="chap">場面9A.別れ</div>
+        <div id="chapter9A" class="chap">场景9A. 诀别</div>
         [else][endif]
         [if exp="sf.S10a == 1"]
-        <div id="chapter10A" class="chap">場面10A.エピローグ</div>
+        <div id="chapter10A" class="chap">场景10A. 终幕</div>
         [else][endif]
       </div>
       <div class="chapterB">
         [if exp="sf.S8b == 1"]
-        <div id="chapter8B" class="chap">場面8B.対面</div>
+        <div id="chapter8B" class="chap">场景8B. 会面</div>
         [else][endif]
         [if exp="sf.S9b == 1"]
-        <div id="chapter9B" class="chap">場面9B.彼岸</div>
+        <div id="chapter9B" class="chap">场景9B. 彼岸</div>
         [else][endif]
         [if exp="sf.S10b == 1"]
-        <div id="chapter10B" class="chap">場面10B.「　」</div>
+        <div id="chapter10B" class="chap">场景10B. 「　」</div>
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-      <div id="chapterEX" class="chap" style="position:absolute;top:200px;left:870px;">EX.背中</div>
+      <div id="chapterEX" class="chap" style="position:absolute;top:200px;left:870px;">EX. 后背</div>
       [else][endif]
     </div>
     
@@ -126,13 +126,13 @@
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
         <div id="bgm1" class="m_title">雨にして人を外れ</div>
-        <div id="bgm2" class="m_title">日常会話</div>
-        <div id="bgm3" class="m_title">あじさい園</div>
+        <div id="bgm2" class="m_title">日常对话</div>
+        <div id="bgm3" class="m_title">绣球花园</div>
         <div id="bgm4" class="m_title">雨妖</div>
-        <div id="bgm5" class="m_title">僕の先輩</div>
+        <div id="bgm5" class="m_title">我的学姐</div>
         <div id="bgm6" class="m_title">雨にして人を外れOPver.</div>
-        <div id="bgm7" class="m_title">外の光</div>
-        <div id="bgm8" class="m_title">心の中へ</div>
+        <div id="bgm7" class="m_title">外界的光芒</div>
+        <div id="bgm8" class="m_title">直入心坎</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
@@ -178,15 +178,15 @@ $('#chapter1').hover(
   function(){
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter1').css('border-left','solid 4px rgba(0,0,0,1)');
-    $('#chaptertitle').text('場面1. 相合傘');
-    $('#summary').text('ふたりでひとつの傘に入りながら、ともに帰路を歩む春也と先輩。やがて先輩と別れひとりになる春也だったが、その背後には巨大な魚影が忍び寄っていた。');
+    $('#chaptertitle').text('场景1. 情侣伞');
+    $('#summary').text('共撑一把雨伞，并肩走在归家路上的春也和学姐。在和学姐分别以后只剩孤身一人的春也身后，一个巨大的鱼影悄然靠近。');
     $('#chapbg').attr('src','data/image/scene1.jpg');
   },function(){
 });
 $('#chapter2').hover(
   function(){
-    $('#chaptertitle').text('場面2. 約束');
-    $('#summary').text('文芸部の部室にて。春也は先輩にあじさい園へと誘われ、一緒に出かけることになる。予定を立てたふたりだったが、春也はそこで先輩に全国連続殺人事件について切り出す。');
+    $('#chaptertitle').text('场景2. 约定');
+    $('#summary').text('文艺部的活动室内。受到学姐的邀请，春也答应与她一同前往绣球花园。在制定出行计划之时，春也向学姐提起了近期发生于全国各地的连续凶杀案。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter2').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S3 == 1"]
@@ -197,8 +197,8 @@ $('#chapter2').hover(
 });
 $('#chapter3').hover(
   function(){
-    $('#chaptertitle').text('場面3. 回想／邂逅');
-    $('#summary').text('春也が高校に入学したばかりの頃。部活動勧誘で湧く校内に居場所を見出しかねた春也は、流れ着いた空き教室で不思議な先輩と出会うのだった。');
+    $('#chaptertitle').text('场景3. 追忆／邂逅');
+    $('#summary').text('正值春也升入高中，刚开学之时。校内因学部招新而人声沸腾，无法在其中找到容身之处的春也在彷徨中最终来到一间空置的教室，然后在这里遇到一位超脱尘世的学姐。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter3').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S4 == 1"]
@@ -209,8 +209,8 @@ $('#chapter3').hover(
 });
 $('#chapter4').hover(
   function(){
-    $('#chaptertitle').text('場面4. あじさい園');
-    $('#summary').text('バスに乗ってあじさい園へとやって来た春也たち。平穏で幸福なひと時を過ごすふたりだったが、そこへ現れた謎の影が先輩を強襲する。');
+    $('#chaptertitle').text('场景4. 绣球花园');
+    $('#summary').text('乘着公交车来到绣球花园的春也和学姐。就在二人享受和平而幸福的一刻之时，突然出现一个神秘的影子向学姐发起了攻击。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter4').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S5 == 1"]
@@ -221,8 +221,8 @@ $('#chapter4').hover(
 });
 $('#chapter5').hover(
   function(){
-    $('#chaptertitle').text('場面5. 予兆');
-    $('#summary').text('あじさい園での事件から一日。先輩は部室に現れなかった。不安を抱えながら帰宅する春也だったが、その耳に何者かが語りかけてくる。');
+    $('#chaptertitle').text('场景5. 预兆');
+    $('#summary').text('在绣球花园发生突发事件后的第二天。学姐并没有于学部活动室现身。就在心怀不安的春也动身放学回家之时，一个不知名的人物在他的耳边细语。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter5').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S6 == 1"]
@@ -233,8 +233,8 @@ $('#chapter5').hover(
 });
 $('#chapter6').hover(
   function(){
-    $('#chaptertitle').text('場面6. 雨妖');
-    $('#summary').text('謎の声の言う通り、予定の時刻に玄関先へ出た春也。その目の前に雨と鮫の怪物『雨妖』が現れ、先輩について信じがたい言葉を語りだす。');
+    $('#chaptertitle').text('场景6. 雨妖');
+    $('#summary').text('按照那个神秘声音所说，春也在约定的时间走出玄关。出现在他面前是绵绵的阴雨和鲨鱼怪物『雨妖』。它向春也说出一些关于学姐的事情，内容光怪陆离，令人难以置信。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter6').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S7 == 1"]
@@ -245,8 +245,8 @@ $('#chapter6').hover(
 });
 $('#chapter7').hover(
   function(){
-    $('#chaptertitle').text('場面7. 葛藤');
-    $('#summary').text('雨妖の話を受けてなお、春也は自分の心を決めかねていた。文芸部の部室でひとり思い悩む春也のもとに、部長と先輩がそれぞれ訪れるのだった。');
+    $('#chaptertitle').text('场景7. 纠葛');
+    $('#summary').text('尽管认同雨妖的说话，但春也还是无法下定决心。就在他单独一人在文艺部的活动室烦恼之际，部长和学姐轮番出现。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter7').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S8a==1 | | sf.S8b==1"]
@@ -257,8 +257,8 @@ $('#chapter7').hover(
 });
 $('#chapter8A').hover(
   function(){
-    $('#chaptertitle').text('場面8A. 決着');
-    $('#summary').text('先輩の様子を見て春也は、雨妖と先輩の間を仲裁しようと決意する。しかし春也の思惑は外れ、雨妖に呑み込まれた挙句、先輩を追い詰めるための材料として使われてしまう。');
+    $('#chaptertitle').text('场景8A. 了结');
+    $('#summary').text('看到学姐的那番态度后，春也决定从中说和，调解雨妖和学姐之间的矛盾。但事不遂人愿，春也被雨妖吞入口中，成为雨妖用作要挟学姐的人质。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9a == 1"]
@@ -269,8 +269,8 @@ $('#chapter8A').hover(
 });
 $('#chapter9A').hover(
   function(){
-    $('#chaptertitle').text('場面9A. 別れ');
-    $('#summary').text('雨妖の攻撃をやり過ごしたふたり。別れの時が迫る中、ふたりは相合傘でいつもの帰り道を辿りながら、ともに時間を過ごすことにした。');
+    $('#chaptertitle').text('场景9A. 诀别');
+    $('#summary').text('两人好不容易抵挡住雨妖攻击。分别近在眼前，二人再次共撑一伞，漫步于平日的归家路上，静静地共度最后的相处时光。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10a == 1"]
@@ -281,8 +281,8 @@ $('#chapter9A').hover(
 });
 $('#chapter10A').hover(
   function(){
-    $('#chaptertitle').text('場面10A. エピローグ');
-    $('#summary').text('先輩が消えて以来、世界からは先輩の存在が失われていった。春也にとってもそれは例外ではない。しかし先輩から貰ったものは、春也の内に確かに息づいているのだった。');
+    $('#chaptertitle').text('场景10A. 终幕');
+    $('#summary').text('随着学姐的消失，学姐曾存在于这个世界的痕迹也随之消失。春也记忆中的学姐也毫不例外地消逝了。但学姐给予的一切，却依然确确实实地存在于春也的心中。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Aroot == 1"]
@@ -293,8 +293,8 @@ $('#chapter10A').hover(
 });
 $('#chapter8B').hover(
   function(){
-    $('#chaptertitle').text('場面8B. 対面');
-    $('#summary').text('雨妖への反抗を誓い合ったふたり。閉塞した状況の中、ふたりは自分たちの思う通りに過ごすことにする。その第一歩として、ふたりは夜間飛行であじさい園へ向かうのだった。');
+    $('#chaptertitle').text('场景8B. 会面');
+    $('#summary').text('两人誓言共同对抗雨妖。在信息闭塞的状况之下，两人决定按照自己的意愿度过这段时间。而第一件要做的事，就是在夜间飞行前往绣球花园。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9b == 1"]
@@ -305,8 +305,8 @@ $('#chapter8B').hover(
 });
 $('#chapter9B').hover(
   function(){
-    $('#chaptertitle').text('場面9B. 彼岸');
-    $('#summary').text('あじさい園へ降り立ったふたりは、月明かりの下で穏やかな時を過ごす。追ってきた雨妖を撃退し、ついに後へ退けなくなったふたりは、最後の場所へと向かうことにする。');
+    $('#chaptertitle').text('场景9B. 彼岸');
+    $('#summary').text('二人降落于绣球花园内，在月光之下度过了宁静的时刻。击退追踪而至的雨妖后，终于被逼入穷途末路的两人决定前往最后的那个地方。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10b == 1"]
@@ -317,8 +317,8 @@ $('#chapter9B').hover(
 });
 $('#chapter10B').hover(
   function(){
-    $('#chaptertitle').text('場面10B. 「　」');
-    $('#summary').text('ふたりがやって来たのは文芸部の部室だった。窓から中に入ったふたりは、最後の時間と最後の言葉を交わすのだった。');
+    $('#chaptertitle').text('场景10B. 「　」');
+    $('#summary').text('两人最终来到的地方是文艺部活动室。从窗户进入室内的两人共度最后的时光，赠予对方最后的话语。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Broot == 1"]
@@ -329,7 +329,7 @@ $('#chapter10B').hover(
 });
 $('#chapterEX').hover(
   function(){
-    $('#chaptertitle').text('EX. 背中');
+    $('#chaptertitle').text('EX. 后背');
     $('#summary').text('');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapterEX').css('border-left','solid 4px rgba(0,0,0,1)');
