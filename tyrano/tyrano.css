@@ -768,6 +768,15 @@ audio {
   transition: .3s;
 }
 
+.m_title_ch{
+  padding-left:5px; 
+  font-size:24px;
+  font-family:NotoCJK;
+  margin-bottom:19px;
+  border-left: 4px solid rgba(0,0,0,0);
+  cursor:pointer;
+  transition: .3s;
+}
 
 #bgm1{
   border-left: 4px solid rgba(0,0,0,1);
@@ -912,6 +921,17 @@ audio {
 	padding-left:5px; 
 	font-size:20px;
 	font-family:applimincho;
+	margin-bottom:17px;
+	border-left: solid rgba(0, 0, 0,0);
+	border-width:4px;
+	cursor:pointer;
+	transition: .3s;
+}
+
+.chap_ch{
+	padding-left:5px; 
+	font-size:20px;
+	font-family:NotoCJK;
 	margin-bottom:17px;
 	border-left: solid rgba(0, 0, 0,0);
 	border-width:4px;

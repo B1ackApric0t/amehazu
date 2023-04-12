@@ -18,12 +18,12 @@
 
 <div class='tabs'>
   <div class='tab-buttons'>
-    <span class='content1' style="margin-left:105px;padding-top:10px;transition: .3s;">章選択</span>
-    <span class='content2' style="padding-top:10px;transition: .3s;">画廊</span>
+    <span class='content1' style="font-family:NotoCJK;font-weight:normal;margin-left:105px;padding-top:10px;transition: .3s;">选择章节</span>
+    <span class='content2' style="font-family:NotoCJK;font-weight:normal;padding-top:10px;transition: .3s;">画廊</span>
     [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-    <span class='content3' style="padding-top:10px;transition:.3s;">音楽</span>
+    <span class='content3' style="font-family:NotoCJK;font-weight:normal;padding-top:10px;transition:.3s;">音乐</span>
     [else]
-    <span style="padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">音楽</span>
+    <span style="font-family:NotoCJK;padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">音乐</span>
     [endif]
     <div id='lamp' class='content1 lamp'></div>
   </div>
@@ -31,53 +31,53 @@
     
     <div class='content1'>
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
-      <div id="chaptertitle">场景1. 情侣伞</div>
-      <div id="summary">共撑一把雨伞，并肩走在归家路上的春也和学姐。在和学姐分别以后只剩孤身一人的春也身后，一个巨大的鱼影悄然靠近。</div>
+      <div id="chaptertitle" style="font-family:NotoCJK;">场景1. 情侣伞</div>
+      <div id="summary" style="font-family:NotoCJK;">共撑一把雨伞，并肩走在归家路上的春也和学姐。在和学姐分别以后只剩孤身一人的春也身后，一个巨大的鱼影悄然靠近。</div>
       <div class="chapterchoice">
-        <div id="chapter1" class="chap">场景1. 情侣伞</div>
+        <div id="chapter1" class="chap_ch">场景1. 情侣伞</div>
         [if exp="sf.S2 == 1"]
-        <div id="chapter2" class="chap">场景2. 约定</div>
+        <div id="chapter2" class="chap_ch">场景2. 约定</div>
         [else][endif]
         [if exp="sf.S3 == 1"]
-        <div id="chapter3" class="chap">场景3. 追忆／邂逅</div>
+        <div id="chapter3" class="chap_ch">场景3. 追忆／邂逅</div>
         [else][endif]
         [if exp="sf.S4 == 1"]
-        <div id="chapter4" class="chap">场景4. 绣球花园</div>
+        <div id="chapter4" class="chap_ch">场景4. 绣球花园</div>
         [else][endif]
         [if exp="sf.S5 == 1"]
-        <div id="chapter5" class="chap">场景5. 预兆</div>
+        <div id="chapter5" class="chap_ch">场景5. 预兆</div>
         [else][endif]
         [if exp="sf.S6 == 1"]
-        <div id="chapter6" class="chap">场景6. 雨妖</div>
+        <div id="chapter6" class="chap_ch">场景6. 雨妖</div>
         [else][endif]
         [if exp="sf.S7 == 1"]
-        <div id="chapter7" class="chap">场景7. 纠葛</div>
+        <div id="chapter7" class="chap_ch">场景7. 纠葛</div>
         [else][endif]
       </div>
       <div class="chapterA">
         [if exp="sf.S8a == 1"]
-        <div id="chapter8A" class="chap">场景8A. 了结</div>
+        <div id="chapter8A" class="chap_ch">场景8A. 了结</div>
         [else][endif]
         [if exp="sf.S9a == 1"]
-        <div id="chapter9A" class="chap">场景9A. 诀别</div>
+        <div id="chapter9A" class="chap_ch">场景9A. 诀别</div>
         [else][endif]
         [if exp="sf.S10a == 1"]
-        <div id="chapter10A" class="chap">场景10A. 终幕</div>
+        <div id="chapter10A" class="chap_ch">场景10A. 终幕</div>
         [else][endif]
       </div>
       <div class="chapterB">
         [if exp="sf.S8b == 1"]
-        <div id="chapter8B" class="chap">场景8B. 会面</div>
+        <div id="chapter8B" class="chap_ch">场景8B. 会面</div>
         [else][endif]
         [if exp="sf.S9b == 1"]
-        <div id="chapter9B" class="chap">场景9B. 彼岸</div>
+        <div id="chapter9B" class="chap_ch">场景9B. 彼岸</div>
         [else][endif]
         [if exp="sf.S10b == 1"]
-        <div id="chapter10B" class="chap">场景10B. 「　」</div>
+        <div id="chapter10B" class="chap_ch">场景10B. 「　」</div>
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-      <div id="chapterEX" class="chap" style="position:absolute;top:200px;left:870px;">EX. 后背</div>
+      <div id="chapterEX" class="chap_ch" style="position:absolute;top:200px;left:870px;">EX. 后背</div>
       [else][endif]
     </div>
     
@@ -125,14 +125,14 @@
     <div class='content3'>
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title">雨にして人を外れ</div>
-        <div id="bgm2" class="m_title">日常对话</div>
-        <div id="bgm3" class="m_title">绣球花园</div>
-        <div id="bgm4" class="m_title">雨妖</div>
-        <div id="bgm5" class="m_title">我的学姐</div>
-        <div id="bgm6" class="m_title">雨にして人を外れOPver.</div>
-        <div id="bgm7" class="m_title">外界的光芒</div>
-        <div id="bgm8" class="m_title">直入心坎</div>
+        <div id="bgm1" class="m_title_ch">雨にして人を外れ</div>
+        <div id="bgm2" class="m_title_ch">日常对话</div>
+        <div id="bgm3" class="m_title_ch">绣球花园</div>
+        <div id="bgm4" class="m_title_ch">雨妖</div>
+        <div id="bgm5" class="m_title_ch">我的学姐</div>
+        <div id="bgm6" class="m_title_ch">雨にして人を外れOPver.</div>
+        <div id="bgm7" class="m_title_ch">外界的光芒</div>
+        <div id="bgm8" class="m_title_ch">直入心坎</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
