@@ -347,7 +347,7 @@ $('#chapterEX').hover(
 [else]
 [loadjs storage="music2.js"]
 [endif]
-[loadjs storage="cg.js"]
+[loadjs storage="cg_ch.js"]
 [s]
 
 
