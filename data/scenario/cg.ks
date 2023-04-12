@@ -355,5 +355,6 @@ $('#chapterEX').hover(
 *backtitle
 [cm]
 [clearfix]
+[font face=NotoCJK]
 @jump storage=title.ks target=*start
 

@@ -964,7 +964,13 @@ audio {
 }
 
 
-;タイトル
+/*ダイアログ*/
+.remodal_title, .remodal-confirm, .remodal-cancel{
+	font-family: NotoCJK;
+}
+
+
+/*タイトル*/
 
 #title_start{
     position: relative;

@@ -169,6 +169,6 @@ $('#tl').mousemove(function(e){
 [endhtml]
 [wait time=1000]
 
-@jump storage="scene1.ks"
+@jump storage="scenario_ch/scene1.ks"
 
 [s]

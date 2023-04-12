@@ -4,10 +4,12 @@
 [title name="霏霏雨中人衣蜕"]
 [dialog_config_ok text="是"]
 [dialog_config_ng text="否"]
+[font face=NotoCJK]
 [else]
 [title name="雨にして人を外れ"]
 [dialog_config_ok text="はい"]
 [dialog_config_ng text="いいえ"]
+[font face=applimincho]
 [endif]
 
 [stop_keyconfig]
@@ -116,9 +118,9 @@ f.preload_bgm = [
 [endif]
 
 
-[if exp="sf.trans==1"]
-@jump storage="title.ks"
-[else]
+[if exp="sf.trans==2]
 @jump storage="scenario_ch/title.ks"
+[else]
+@jump storage="title.ks"
 [endif]
 [s]
