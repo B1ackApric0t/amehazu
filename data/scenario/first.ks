@@ -1,7 +1,7 @@
 [if exp="sf.trans==undefined"][eval exp="sf.trans=1"][endif]
 
 [if exp="sf.trans==2"]
-[title name="霏霏雨中人衣蜕"]
+[title name="雨にして人を外れ"]
 [dialog_config_ok text="是"]
 [dialog_config_ng text="否"]
 [deffont face=NotoCJK]
@@ -118,8 +118,10 @@ f.preload_bgm = [
 [endif]
 
 
-[if exp="sf.trans==2]
+[if exp="sf.trans==2"]
 @jump storage="scenario_ch/title.ks"
+[elsif exp="sf.trans==3"]
+@jump storage="scenario_en/title.ks"
 [else]
 @jump storage="title.ks"
 [endif]

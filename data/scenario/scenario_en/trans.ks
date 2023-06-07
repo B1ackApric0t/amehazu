@@ -17,9 +17,6 @@
 <div id="ch" style="left:750px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/chinese_simplified.png" alt="" class="non">
 </div>
-<div id="en" style="left:1050px;top:400px;position:absolute;cursor:pointer;">
-	<img src="data/fgimage/english.png" alt="" class="non">
-</div>
 
 
 <script>
