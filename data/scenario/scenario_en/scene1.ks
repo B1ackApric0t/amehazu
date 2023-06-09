@@ -87,7 +87,7 @@ Looking at the back wearing the raincoat, she grins.[p]
 “Yeah. And that’s more than enough.”[p]
 *22
 #Haruya
-“More than enough for what? Two months... So, until august. [r] Er, during summer vacation, about the rumors...”[p]
+“More than enough for what? Two months... So, until August. [r]  Er, during summer vacation, about the rumors...”[p]
 *23
 #
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
@@ -95,7 +95,7 @@ Looking at the back wearing the raincoat, she grins.[p]
 “Indeed, what should I do?”[p]
 *24
 #Haruya
-"Will you please do nothing…"[p]
+“Will you please do nothing…”[p]
 *25
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
@@ -112,18 +112,18 @@ My heart jumps as if I have tripped, and my breath becomes a lump in my throat, 
 I turn my face away in reflex. Then, she puts her lips close to my ear.[p]
 *31
 #Senpai
-“You’re embarrassed. Your face is beet red."[p]
+“You’re embarrassed. Your face is beet red.”[p]
 *32
 #Haruya
-“Please don't whisper in my ear. I'll close the umbrella."[p]
+“Please don't whisper in my ear. I'll close the umbrella.”[p]
 *33
 #Senpai
-“That’s fine by me? I was about to go home wet anyway."[p]
+“That’s fine by me? I was about to go home wet anyway.”[p]
 *34
 #
 Today, she didn’t bring her umbrella.[p]
 *35
-When it was time to go home, she walked briskly from the school entrance in the middle of the rain, [r]she turned around and called out to me with a “shall we go?”[p]
+When it was time to go home, she walked briskly from the school entrance in the middle of the rain, she turned around and called out to me with a “shall we go?”[p]
 *36
 A weirdo, an eccentric… Yet beautiful. That’s my senpai.[p]
 *37
@@ -135,10 +135,10 @@ And now here we are.[p]
 “I quite like walking in the rain, though.”[p]
 *40
 #Haruya
-"What would you like about that?"[p]
+"What would you like about that?”[p]
 *41
 #Senpai
-"Even if you cry, nobody will find out."[p]
+"Even if you cry, nobody will find out.”[p]
 *42
 #Haruya
 “Huh...?”[p]
@@ -146,15 +146,15 @@ And now here we are.[p]
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
 *43
 #Senpai
-"Oh?　Was my joke too high level?"[p]
+"Oh? Was my joke too high level?”[p]
 *44
 #Haruya
-"I'm so tired I could cry..."[p]
+“I'm so tired I could cry...”[p]
 *45
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
 #Senpai
-"Should I hold the umbrella now?”[p]
+“Should I hold the umbrella now?”[p]
 *46
 #Haruya
 “No, it’s fine!”[p]
@@ -187,7 +187,7 @@ We look at each other under the umbrella.[p]
 “For letting me under your umbrella, thank you! I’ll be fine from here.”[p]
 *55
 #Haruya
-"Will you walk by yourself?　In this rain?"[p]
+"Will you walk by yourself? In this rain?”[p]
 *56
 #
 [kanim name="yukino" keyframe="nod" time="500"]
@@ -219,13 +219,14 @@ My voice is clogged. Before I realize, my mouth is moving on its own.[p]
 [hide]
 I let out a sigh while looking at her back getting smaller in the distance.[p]
 *66
-See you...[p] ;again... のほうが良さそう
+See you...[p] 
+;again... のほうが良さそう
 *67
 While I was hesitating whether to speak up or not, I missed my timing and the moment flowed away.[p]
 *68
 Whenever something like this happens, I’m left with a bad aftertaste.[p]
 *69
-If she were to catch a cold because of this, I’m sure today’s event would weigh on my conscience forever.[p]
+If she were to catch a cold because of this, I’m sure today’s event would weigh on [r]my conscience forever.[p]
 *70
 My shirt is getting wet on the right shoulder. [r]The moist feeling makes me return to reality.[p]
 *71
