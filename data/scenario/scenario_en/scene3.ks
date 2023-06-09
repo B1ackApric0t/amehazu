@@ -23,33 +23,33 @@
 
 *start
 #
-『これより、部活動見学の時間に移ります。新入生の皆さんは――』[p]
+“From now on, it’s time to go around and look into clubs. To all the new students...”[p]
 *1
-校内放送とともに、クラスの人たちががやがやと廊下へ出ていく。[p]
+Along with the school broadcast, the students leave the classrooms and step into the hallway.[p]
 *2
-校内に声があふれ出す。人の流れ、勧誘の声、……にぎやかだ。[p]
+The school is filled with voices. The flow of people, the voices of those recruiting new members... It's lively.[p]
 *3
-僕もひとまず流れに沿って廊下に抜け出す。[p]
+For the time being, I follow the crowd and escape into the corridor.[p]
 [bg2 storage="corridor.jpg" time="1000" wait=true method="fadeInRight"]
 
 *4
-「陸上やってみない？」[p]
+“Would you like to try track and field?”[p]
 *5
-「演劇部興味ありませんかー？」[p]
+“Are you interested in the drama club?”[p]
 *6
-特に見たい部活はない。[p]
+There’s no club activity in particular that I want to check out.[p]
 *7
-読書は好きだから文芸部ぐらいは覗いてもいいかもしれないが、[r]別に僕は文章を書きたいわけじゃない。[p]
+I like reading, so I might peek at the literature club, although I don't really like writing…[p]
 *8
-かといってこのまままっすぐ帰るのも、なんだか踏ん切りがつかない。[p]
+On the other hand, if I go straight home then I won’t be able to make a decision.[p]
 *9
-新入生を獲得しようという熱気がいたるところに渦巻いていて、[r]それは時々僕にも向けられた。[p]
+There’s a lot of enthusiasm swirling around to get freshmen, and that attention is on me at times too.[p]
 *10
-そのたび僕はいまいち煮え切らない曖昧な返事を返してしまう。[p]
+And each time I give a vague, indecisive answer.[p]
 *11
-もっとさらりと、気軽い感じで断れたらいいのだろうけど。[r]相手にとって僕は人混みの切れ端に過ぎないのだろうけど。[p]
+I wish I could say “no” more casually. After all, to them I'm just one more potential candidate.[p]
 *12
-人の波から逃れるように校内をさまよう。[p]
+I wander around the school hoping to escape from the crowd.[p]
 [fadeoutse time=3000]
 [mask time=500 effect="fadeInRight"]
 [bg2 storage="class.jpg" time="0"]
@@ -57,205 +57,205 @@
 [mask_off time=500 effect="fadeOutLeft"]
 [wait time=500]
 *13
-最終的に僕が流れ着いたのは、[r]本校舎から離れた別棟の、未使用の教室だった。[p]
+In the end, I wander into an unused classroom in a separate building away from the main school building.[p]
 *14
-そこだけは不思議と静謐に満たされていて、[r]勧誘の声も誰かの足音もまったく聞こえない。[p]
+It’s a place strangely filled with tranquility, and neither the voices of invitations nor any footsteps can be heard.[p]
 *15
-誰もいないとはいえ、勝手に教室に入るのは緊張する。[r]僕はおそるおそる中に足を踏み入れた。[p]
+Even though no one is here, I feel nervous about entering a classroom on my own. I cautiously step inside.[p]
 *16
-椅子や机が整然と並べられてひっそりしている。[r]どういうときに使う教室なんだろう？[p]
+Chairs and desks are neatly arranged and quiet. When must this class be used?[p]
 [bg2 storage="window.jpg" time=1000 cross=true wait=true]
 *17
-僕は窓辺に身を寄せた。[p]
+I lean back on the window.[p]
 *18
-街並みが遠くまで見渡せる。空の端が目に見える。[p]
+You can see the cityscape in the distance, and the horizon is visible.[p]
 [haruya]
 *19
-#春也
-「……はあ」[p]
+#Haruya
+“Ahh…”[p]
 *20
 #
-窓に写る自分を眺めて、ため息をつく。[p]
+I look at my reflection in the window and sigh.[p]
 *21
-この人がこれから高校生活を送っていくのか、[r]と僕はまるで他人事みたいな感慨を抱く。[p]
+I have a feeling that the person I see there is going to spend his high school life as if it were someone else's problem.[p]
 *22
-……人混みが嫌ならさっさと帰ってしまえばいい。[p]
+If you don’t like crowds, you should just go home.[p]
 *23
-それなのにどうして僕は、こんな誰もいない教室にまで来て、[r]新歓真っ盛りの学校に留まっているんだろう？[p]
+So then, why have I come to an empty classroom like this and I’m staying inside the school brimming full of newcomers and club invitations?[p]
 *24
-#？？
-「いい景色だ」[p]
+#??
+“The view is nice.”[p]
 *25
 #
 [bg2 storage="class.jpg" time=0 cross=false wait=false]
 [yukino2 time=500]
-突然の声にぶんっと首が振り向いた。[r]いつの間にか隣に女の人が立っていた。[r]白い肌に真っ黒な長髪が印象的な、きれいな人だった。[p]
+I turn my head around at the sudden voice. A girl is standing next to me. A beautiful person with white skin and long black hair.[p]
 *26
-いったいいつの間に？　[r]ドアは閉めておいたはずだ。[p]
+When did it happen? I’m sure the door was closed...[p]
 *27
-#？？
-「いい景色だね」[p]
+#??
+“The view is nice.”[p]
 *28
 #
-その人は穏やかな笑みを僕に向けた。[r]まるで長年連れ添った相手に向けるような微笑みだった。[p]
+She gives me a gentle smile, a smile that looks as though directed at someone who has been with her for many years.[p]
 *29
-#春也
-「あー、あ……そう、ですね」[p]
+#Haruya
+“A-ah... Yes, that's right.”[p]
 *30
 #
-……うまく返せない。[p]
+I have a hard time replying properly.[p]
 *31
-もっとさらりと言えたらいいんだろうけど、それが僕には難しい。[r]言葉を発する前にあれこれ考えてしまう。[r]発した言葉についてもあれこれ考えてしまう。[p]
+I wish I could talk more casually, but it's difficult for me. I think it through before speaking. I also think a lot about the words I choose.[p]
 *32
-#？？
-[yukino/7][kanim name="yukino" keyframe="nod" time="500"]「うん」[p]
+#??
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]“Yes.”[p]
 *33
 #
-しかし相手は、しどろもどろな僕には構いもせずにうなずいた。[p]
+However, the other person nods without caring about my stuttering.[p]
 *34
-#？？
-[yukino/2]「ほんとうにそうだ」[p]
+#??
+[yukino/2]“Very much so.”[p]
 *35
-#春也
-「……」[p]
+#Haruya
+“...”[p]
 *36
 #
 *37
-なんというか、独特な間合いの人だ。[p]
+Somehow, she seems like a unique person.[p]
 *38
-いや、新入生勧誘で大忙しの校舎からわざわざ離れてここにいるあたり、[r]色々と独特な人ではあるのだろうけど。[p]
+She has a peculiar timing. No, I guess she's a peculiar person in many ways, since she's purposefully away from the bustling school building that’s busy recruiting new students.[p]
 *39
-#？？
-[yukino/7]「春はいいね」[p]
+#??
+[yukino/7]“Spring is nice.”[p]
 *40
-#春也
-「そうですか……」[p]
+#Haruya
+“Is that so…”[p]
 *41
-#？？
-「空が明るい」[p]
+#??
+“The sky is bright.”[p]
 *42
-#春也
-「そうですね」[p]
+#Haruya
+“I agree.”[p]
 *43
-#？？
-「冬とは全然違う」[p]
+#??
+“It's completely different from winter.”[p]
 *44
-#春也
-「はい」[p]
+#Haruya
+“Yes.”[p]
 *45
-#？？
-「暖かい」[p]
+#??
+“It’s warm.”[p]
 *46
-#春也
-「暖かいですね」[p]
+#Haruya
+“It's warm indeed.”[p]
 *47
-#？？
-[yukino/2]「春だね」[p]
+#??
+[yukino/2]“It's spring.”[p]
 *48
-#春也
-「……」[p]
+#Haruya
+“...”[p]
 *49
 #
-なんだこの人は？　[r]ひとりで無限に喋り続けるエンジンを搭載しているのか？[p]
+What’s with this person? Is she equipped with an engine that keeps her talking endlessly?[p]
 *50
-#？？
-「春は空気がいい香りだ」[p]
+#??
+“The air smells good in spring.”[p]
 *51
-#春也
-「言われてみれば」[p]
+#Haruya
+“Now that you mention it…”[p]
 *52
-#？？
-「花の香りかな」[p]
+#??
+“Is it the scent of flowers?”[p]
 *53
 #
-……確かに。春の空気には甘い匂いがする。[r]あれはなんの匂いなんだろう？[p]
+For sure. The spring air smells sweet. Where does this scent come from?[p]
 *54
-一度窓を開けて春の空気に触れてみたくなるけれど、[r]ちらりと横を見てためらう。[p]
+I want to open the window and try touching the spring air, but I look sideways and hesitate.[p]
 *55
-ここで窓を開けたら永遠に話が広がっていく気がする。[r]永劫にこの人と話さねばならなくなる気がする。[p]
+I fear that, if I open the window now, the conversation will go on eternally. I feel like I will have to talk to this person forever.[p]
 *56
-そういう、誰かと関わらないといけないのは、僕は苦手だ。[p]
+I'm not good at being involved with others.[p]
 *57
-僕の手にはどうしても余るものだ。[p]
+It’s more than I can handle.[p]
 *58
-#？？
-「この街にも春が来たんだ。新しい春が」[p]
+#??
+“Spring has come to this city. A new spring.”[p]
 *59
 #
-……放っておいても拡散していきそうだ。[r]望むと望まずとに関わらず。[p]
+It seems that she can keep going even if even if you leave her alone. Whether you want it or not.[p]
 *60
-#？？
-「こうやって、街の景色を眺めているとさ」[p]
+#??
+“Looking at the scenery of the city like this.”[p]
 [hide time=500 wait=false]
 [bg2 storage="window.jpg" time="1000" method="fadeInLeft"]
 [yukino2 top=30 width=1400]
 *61
 #
-言いつつ相手は、くるりと背中を窓辺にもたせかけた。[p]
+While saying that, she leans her back against the window.[p]
 *62
-#？？
-「どこも街なんだなぁ、って気分になる。……ならない？」[p]
+#??
+“It makes me feel like everywhere is a city. Right?”[p]
 *63
-#春也
-「……はい？」[p]
+#Haruya
+“Eh...?”[p]
 *64
 #
-待てよ。急にわからない。[p]
+Wait. I suddenly no longer follow.[p]
 *65
-このわからないというのは共感できないという意味ではなくて、[r]何を言いたいのか掴めないということだ。[p]
+I don't understand, but that doesn't mean I don’t share the feeling. It just means that I can't quite grasp what she’s trying to say.[p]
 *66
-#？？
-[yukino/12]「……ごめん。もしかして私、ずっと変なこと言ってる？」[p]
+#??
+[yukino/12]“I'm sorry. Could it be that I've been saying weird things all this time?”[p]
 *67
 #
-僕が答えあぐねていると、相手は困ったように笑った。[p]
+When I’m at a loss for an answer, the other person laughs embarrassedly.[p]
 *68
-#春也
-「いや！」[p]
+#Haruya
+“No!”[p]
 *69
 #
-その表情が寂しくて、思わず声を張ってしまった。[p]
+Her expression was so lonely that I unintentionally raise my voice.[p]
 *70
-#春也
-「えーっと……そうですね……」[p]
+#Haruya
+“Umm... Well, I mean...”[p]
 *71
 #
-なんとか頭をめぐらせて、答えを絞り出す。[p]
+I think hard and finally squeeze out an answer.[p]
 *72
-『街の景色を眺めていると、どこも街なんだなという気分になる』[p]
+“Looking at the scenery of the city makes me feel like everywhere is a city.”[p]
 *73
-……そりゃそうだ、という話にも思えてくる。[r]でもほんとうにそうなんだろうか？[r]そんな深い意味のない話なんだろうか？[p]
+I can easily find a reason to agree with her. If you look at the city, then everything is a city. But is that all? This seemingly meaningless conversation, maybe there’s something deeper in it?[p]
 *74
-#春也
-「この街は……いや……どこに行っても街があるってことですよね。[r]　街は……街っていうのは……人が暮らしている」[p]
+#Haruya
+“This city... Eh, no... There’s a city wherever you go. Because a city... A city... Is where people live.”[p]
 *75
 #
-何を言えばいいかわからないし何を言っているのかもわからない。[r]頭と口が動くのに任せる。こうでもないと間が持たない。[p]
+I don't know what to say so, even though I’m talking, I have no idea of what I'm saying. I let my mouth move while my brain tries to keep up. If I stop now, we’ll be in silence.[p]
 *76
-僕はどうしてこんなことしてるんだ？[p]
+Why am I even doing this...[p]
 *77
-#春也
-「どこにだって人の暮らしてる場所があって、[r]　人の営みが続いてるんだなぁ……ていう感じ、ですかね」[p]
+#Haruya
+“No matter where you are, it’s filled with places where people live, and people's life activities continue... I guess it's this kind of feeling, isn't it?”[p]
 *78
 #
 [yukino/9]
-どうにか捻り出した僕の答えに、相手は驚いた顔をする。[r]それから緊張がほどけたように笑った。[p]
+The girl looks surprised at the answer I managed to work out. Then she laughs, and the tension I could feel from her is lifted.[p]
 *79
-#？？
-[yukino/2][kanim name="yukino" keyframe="nod" time="500"]「うん。よくわかったね。それが正解だ」[p]
+#??
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]“Yeah. You understand! That was the correct answer.”[p]
 *80
 #
-クイズだったんですかこれ、とは、口に出さず。[p]
+Was it a quiz?[p]
 *81
-再び場に静寂が満ちた。ひとまずこの場はやり過ごしたと言うことで、[r]……どうしようか。[p]
+Silence fills the classroom again. At least I managed to overcome the city situation, but what now?[p]
 *82
-僕は再び窓外に目を向けた。[r]この状況だと立ち去るに立ち去れない。[p]
+I look out the window again. I can't exactly leave just like that...[p]
 *83
-沈黙。[p]
+Silence.[p]
 *84
-……気の利いたことでも言えればいいんだろうけど。[r]あいにく僕はそういうのは不得手だ。[p]
+I wish I could say something witty. Unfortunately, I'm no good at that sort of thing.[p]
 *85
-静けさの中、相手もまた窓に向き直った。[r]そしてふと僕の眼前に腕を伸ばした。[r]窓の鍵が下ろされる。[p]
+In the silence, the other person also turns to face the window. She stretches out her arm in front of me and unlocks the window latch.[p]
 [mask color=0xFFFFFF time=500]
 [fkaisou]
 [playse storage=openw.ogg]
@@ -263,29 +263,29 @@
 [bg2 storage=white.jpg time=300]
 [mask_off time=500]
 *86
-そして、窓が開かれた。[p]
+The window is now open.[p]
 *87
-流れ込んできた風が、相手の髪をふわりと膨らませた。[r]風に長髪をなびかせながら、その人は僕に声をかけた。[p]
+The rushing wind ruffles the girl’s hair. With her long hair blowing in the wind, she calls out to me.[p]
 [mask color=0xFFFFFF time=500]
 [kaisou]
 [bg2 storage=class.jpg time=300 cross=true]
 [yukino2 width=1400 top=30 time=0][haruya time=0]
 [mask_off time=500]
 *88
-#？？
-「いい風だ」[p]
+#??
+“The wind is nice.”[p]
 *89
-#春也
-「……ですね」[p]
+#Haruya
+“Right...”[p]
 *90
-#？？
-[kanim name="yukino" keyframe="nod3" time="500"]「うん。……君さ、窓」[p]
+#??
+[kanim name="yukino" keyframe="nod3" time="500"]“Here, the window.”[p]
 *91
 #
-その人はにっこり笑って。[p]
+The person smiles.[p]
 *92
-#？？
-「開けたそうにしてたから」[p]
+#??
+“You looked like you wanted me to open it.”[p]
 #
 [mask time=500]
 [bg2  storage="bg3.png" time=0]
@@ -294,17 +294,17 @@
 [wait time=500]
 [mask_off time=500]
 *93
-――なぜだろう？[p]
+Why?[p]
 *94
-そのときのことが、僕の脳裏に今でもはっきり焼き付いている。[p]
+This moment stays burned in my mind.[p]
 *95
-僕はそのとき、窓を開けてほしかったのか？[p]
+Back then, did I really want senpai to open the window?[p]
 *96
-僕は確かそのとき、自分でも訳の分からない感銘みたいなものに打たれて、[r]何も言えなかった。[p]
+At that time, I was struck by something like an incomprehensible deep emotion, and I couldn't say anything.[p]
 *97
-それからはっと気がついて、また窓に向き直った。[p]
+Startled, I snapped out of my abstraction, and I turned to face the window again.[p]
 *98
-いや。窓というより、新しい風。[p]
+No. Rather than to the window, I turned to the blowing of a new wind.[p]
 *99
 ――[p]
 [mask time=500]
@@ -315,35 +315,35 @@
 [mask_off time=500]
 
 *100
-#？？
-「私は赤羽雪乃。二年生。君は？」[p]
+#??
+“My name is Yukino Akabane. I'm a second-year student. What about you?”[p]
 *101
-#春也
-「…………下地春也、新入生、です」[p]
+#Haruya
+“I’m Haruya Shitaji… A freshman.”[p]
 *102
-#雪乃
-「そうか。ね、春也くん」[p]
+#Yukino
+“I see. Haruya-kun.”[p]
 *103
-#春也
-「はい」[p]
+#Haruya
+“Yes.”[p]
 *104
-#雪乃
-「おいで」[p]
+#Yukino
+“Come with me.”[p]
 #
 [hide]
 *105
-さっきまで名前も知らなかったその人の後ろを、僕はついていった。[p]
+I follow behind the person whose name I didn't even know until a moment ago.[p]
 [bg2 storage="corridor.jpg" time="1500" cross=true wait=true method="fadeInRight"]
 *106
-教室を後にし、本校舎の人混みを抜け、[r]僕たちは小さな教室の前にたどり着いた。[p]
+We leave the classroom, pass through the crowds of the main school building and arrive in front of a small classroom.[p]
 *107
-#春也
-「……あの。もしかしてこれは」[p]
+#Haruya
+“Um…" Is this…?”[p]
 *108
 #
 [yukino2 width=1400 top=30]
-#雪乃
-「今は部活勧誘真っ盛りだよ。[r]　私も文芸部員としての務めを果たさねばならない」[p]
+#Yukino
+“All club activities are in full swing. I also have to fulfill my duties as a literature club member.”[p]
 #
 [mask time=800]
 [hide time=0]
@@ -351,95 +351,95 @@
 [playse storage=door.ogg]
 [mask_off time=800]
 *109
-扉は開かれた。[p]
+She opens the door.[p]
 *110
-文芸部の部室は、[r]元々は物置か何かだったかと思うぐらい狭い部屋だった。[p]
+The literature clubroom is a small room that makes me think it’s a storeroom or something.[p]
 *111
-中央には大きなテーブルが置かれ、[r]部屋の奥には上級生らしい女の人が座っている。[r]茶髪をお下げにした眼鏡の人だった。[p]
+There’s a large table in the center, and a girl who seems to be a senpai is sitting in the back. She has brown hair tied in two braids and wears glasses.[p]
 *112
-#？？
-「お帰り」[p]
+#??
+“Welcome back.”[p]
 *113
 #
 [yukino7]
-#雪乃
-「ただいま戻りました、部長」[p]
+#Yukino
+“I'm back, president.”[p]
 #
 [buchob1]
 *114
-#部長
-「収穫ありのようだね。さすがはバネちゃんだ」[p]
+#Club President
+“It looks like you harvested. As expected of Bane-chan.”[p]
 *115
-#雪乃
-「ご期待に添えられたのなら何よりです」[p]
+#Yukino
+“I'm more than happy to have met your expectations.”[p]
 *116
-#部長
-[bucho/b3]「期待ね。ま、期待は特にしてなかったけどね」[p]
+#Club President
+[bucho/b3]“Hmm, expectations... I didn't have any particular expectations of you, though.”[p]
 #
 [kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 *117
-ふっ、と部長さんは笑った。ふふふふ、と赤羽先輩も笑った。[r]独自の文化が醸成されている。[p]
+"Fu…," the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
 *118
-#部長
-「適当に座ってくれる？」[p]
+#Club President
+“Want to take a seat?”[p]
 *119
-#春也
-「じゃあ、まあ、……失礼します」[p]
+#Haruya
+“Ah… Alright.”[p]
 *120
-#雪乃
-「君の席は私の向かいね」[p]
+#Yukino
+“Your seat is across from mine.”[p]
 *121
-#春也
-「はあ」[p]
+#Haruya
+“Ahh...”[p]
 *122
-#雪乃
-「部室は自由に開けていいから。[r]　鍵は私と顧問の先生が持ってるんだけど、[r]　春也くんが借りるときは職員室で先生に一声かけてくれると速いかな」[p]
+#Yukino
+“You can open the clubroom freely. The club advisor and I have the key, so when you want to borrow it, it’ll be quicker if you speak to the teacher in the staff room.”[p]
 *123
-#春也
-「何でもう入部する前提で話してるんですか……」[p]
+#Haruya
+“Why are you talking on the premise that I will join the club?”[p]
 *124
 #先輩
-「入部しないのかい？」[p]
+“Won’t you?”[p]
 *125
 #
-僕はため息をついた。[r]赤羽先輩の真向かいの席について、それから言った。[p]
+I sigh. From the seat directly across from Akabane-senpai, I say:[p]
 *126
-#春也
-「入ります、と、思いますけど」[p]
+#Haruya
+“I... I think I will join.”[p]
 *127
-#雪乃
-[yukino/2]「嬉しいなあ」[p]
+#Yukino
+[yukino/2]“That makes me happy!”[p]
 *128
 #
-先輩はにっこり笑った。それから窓を見やった。[p]
+She laughs and I smile. Senpai smiles, and then she looks out the window.[p]
 *129
-#雪乃
-「やっぱり春はいいね」[p]
+#Yukino
+“Spring really is nice, after all.”[p]
 *130
 #
-そう言う先輩は楽しそうで、どこか頼もしい横顔をしていた。[p]
+She seems to be having fun and looks like someone reliable.[p]
 *131
-――この人は、僕をどこか遠いところへ連れて行ってくれる。[p]
+This person will take me somewhere far away.[p]
 *132
-そんな気がした。[p]
+That’s what I felt.[p]
 [chara_hide_all time=400 wait=false][haruyahide time=400]
 *134
-僕たちは三人して外の景色を眺める。遠く空が広がっていた。[p]
+The three of us looked at the clear sky and the scenery outside.[p]
 [mask time="1000" color=0xFFFFFF]
 [fkaisou]
 [bg2 storage=black.png time=2000]
 [mask_off time="1000"]
 
 *135
-ああ、そうだ。[p]
+Ah, indeed.[p]
 *136
-明日、僕たちは遠いところへ行くのだ。[p]
+And tomorrow, senpai and I will go someplace far.[p]
 *137
-今も僕は、先輩の後ろについていっている。[r]きっと直接触れることはなくても、それでも僕たちは、遠くへ行くのだ。[p]
+Following in the footsteps of my senpai, even if we never touch each other directly, we’ll still go far.[p]
 *138
-ベッドの中。[r]胸の中で散らばってうずうずしていたものが、まとまって固まっていく。[p]
+In bed. The feelings that had been scattered and itched in my chest are gathering, solidifying.[p]
 *139
-決意にも似た安心感とともに、僕は眠りに落ちていく。[p]
+With a sense of security that resembles determination, I fall asleep.[p]
 
 [mask time="1000" effect="fadeInDown"]
 [bg2 storage="bus.jpg" time="1000"]

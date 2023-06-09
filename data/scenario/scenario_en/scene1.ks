@@ -222,7 +222,7 @@ I let out a sigh while looking at her back getting smaller in the distance.[p]
 See you...[p] 
 ;again... のほうが良さそう
 *67
-While I was hesitating whether to speak up or not, I missed my timing and the moment flowed away.[p]
+While I was hesitating whether to speak up or not, [r]I missed my timing and the moment flowed away.[p]
 *68
 Whenever something like this happens, I’m left with a bad aftertaste.[p]
 *69
@@ -271,4 +271,4 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [role]
 [mask_off time="1000"]
 
-@jump storage="scene2.ks" target=*start
+@jump storage="scenario_en/scene2.ks" target=*start

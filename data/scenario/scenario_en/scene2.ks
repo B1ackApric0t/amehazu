@@ -21,245 +21,245 @@
 *start
 [loadcss file="./data/others/css/next1.css"]
 #
-翌日放課後。文芸部室にて。[p]
+The following day after school, in the literary club room.[p]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=1000 wait=false cross=false]
 *1
-先輩は机に突っ伏して、気だるい瞳で宙空を眺めていた。[r]さらりとした髪が腕にかかって机に流れ、卓上を黒く濡らしている。[p]
+Senpai is lying face down on her desk and stares at the sky with languid eyes. [r]Her silky hair hangs over her arm and flows down the desk, flooding the tabletop in black.[p]
 *2
-そのだるそうな姿に、[r]僕は昨日のことを思い出さずにはいられなかった。[p]
+Seeing that listless appearance, I can't help but remember what happened yesterday.[p]
 [haruya]
 *3
-#春也
-「体調、悪いんですか」[p]
+#Haruya
+“Are you not feeling well?”[p]
 #
 [yukino13 width=1400 top=35]
 *4
-#先輩
-「……いや。疲れてるだけ。風邪を引いたとかではないから安心して」[p]
+#Senpai
+“Nope. I'm just tired. It's not like I caught a cold, so don't worry.”[p]
 *5
 #
-その言葉に少しだけ胸のつかえが取れる。[p]
+Her words ease the lump in my chest.[p]
 
 *6
-#春也
-「珍しいですね。先輩がお疲れだなんて」[p]
+#Haruya
+“It's rare to see you tired.”[p]
 *7
-#先輩
-[yukino/3]「……んー。おかしいな」[p]
+#Senpai
+[yukino/3]“Hmm... Yeah, it’s weird.”[p]
 
 *8
 #
 [anim name="yukino" top="-=15" time=500]
-先輩は顎を立てて腕の上に乗せ、顔だけで僕と向かい合った。[p]
+She puts her chin up on her arm and faces my way.[p]
 
 *9
-#先輩
-[yukino/8]「毎日春也くんの顔見てるんだけどなあ」[p]
+#Senpai
+[yukino/8]“Even though I see Haruya-kun’s face every day.”[p]
 *10
-#春也
-「俺は湿布かなんかですか？」[p]
+#Haruya
+“What am I, an energy drink?”[p]
 *11
-#先輩
-[yukino/2]「湿布といえばそうだね、最近スキンシップしてないね」[p]
+#Senpai
+[yukino/2]“Must be because we haven’t done any skinship lately.”[p]
 *12
-#春也
-「元々してた覚えもないんですが」[p]
+#Haruya
+“I don't remember us ever doing that.”[p]
 *13
-#先輩
-「しようよ」[p]
+#Senpai
+“Then let's start now!”[p]
 *14
-#春也
-「しません」[p]
+#Haruya
+“Let's not.”[p]
 *15
 #
 [anim name="yukino" top="+=15" time=500]
-僕がそう答えると、先輩は再び左の頬を下にして机に伏せる。[p]
+When I say that, she once again puts her left cheek down on the desk.[p]
 *16
-#先輩
-[yukino/8]「出かけたいな……」[p]
+#Senpai
+[yukino/8]“I wanna go out...”[p]
 *17
 #
-ぽつりと先輩が呟いた。[p]
+She mutters quietly.[p]
 *18
-#春也
-「どこにですか？」[p]
+#Haruya
+“Where to?”[p]
 *19
-#先輩
-[yukino/1]「あじさい園、知ってる？」[p]
+#Senpai
+[yukino/1]“Have you heard of the hydrangea garden?”[p]
 *20
 #
-先輩の言うあじさい園のことは、僕も少しだけ知っていた。[p]
+I do know a little about the hydrangea garden she has just mentioned.[p]
 *21
-この近辺からは電車やバスを乗り継いでいかねば訪ねられない、[r]結構な遠方の地だった。[p]
+It’s a rather far place, and from our neighborhood, [r]you can’t get there without changing trains and buses.[p]
 *22
-#春也
-「だいぶ遠出ですね」[p]
+#Haruya
+“It's quite far.”[p]
 *23
-#先輩
-[yukino/7]「うん。でも行きたいなあって……あじさい、好きなんだ」[p]
+#Senpai
+[yukino/7]“Yeah, but I want to go... I like hydrangeas.”[p]
 *24
-#春也
-「そうなんですか？　初めて知りました」[p]
+#Haruya
+“Is that so? It’s the first time I hear of it.”[p]
 *25
-#先輩
-「春也くんは？　花は好き？」[p]
+#Senpai
+“What about you, Haruya-kun? Do you like flowers?”[p]
 *26
-#春也
-「ものによりますけど。桜とか梅とか藤みたいなのは好きです。[r]　あじさいも良いと思います」[p]
+#Haruya
+“It depends on what kind. I like flowers like cherry blossoms, plums, and wisterias.[r]  I think hydrangeas are good too.”[p]
 *27
-#先輩
-「何か基準があるのかな？」[p]
+#Senpai
+“Do you have a type?”[p]
 *28
 #
-先輩がふふ、と笑った。[p]
+She laughs.[p]
 *29
-特に答えを求めている風ではなかったので、[r]僕は迷ったけれど、結局何も言わなかった。[p]
+It doesn’t seem she’s looking for an answer so, after some hesitation, [r]I end up not saying anything.[p]
 *30
-#先輩
-「ねえ、春也くん」[p]
+#Senpai
+“Hey, Haruya-kun.”[p]
 *31
 #
 [anim name="yukino" top="-=15" time=500][wt]
-ゆっくりと体を起こして、先輩が言った。[p]
+She slowly raises her body and says:[p]
 *32
-#先輩
-「行かない？　あじさい、見に」[p]
+#Senpai
+“Don’t you want to go? To see the hydrangeas?”[p]
 *33
-#春也
-「……先輩と？」[p]
+#Haruya
+“With you...?”[p]
 *34
-#先輩
-「今度の休みにさ。ふたりで一緒に」[p]
+#Senpai
+“On our next free day. Together.”[p]
 *35
 #
-先輩とふたりで、遠出して、あじさい園に行く？[p]
+Do I want to go out with senpai and visit the hydrangea garden?[p]
 *36
-#春也
-「えぁっとですね」[p]
+#Haruya
+“Eh, ah, well...?”[p]
 *37
 #
-変な声が出た。[p]
+My voice comes out strange.[p]
 *38
-#春也
-「土日は雨らしいですよ……？」[p]
+#Haruya
+“Isn’t it supposed to rain on both Saturday and Sunday…?”[p]
 *39
 #
-しかも別にどうでもいいことまで口走ってしまった。[r]この際天気など大した問題ではないのだ。[p]
+I blurt out something that doesn't really matter. [r]The weather being good or bad isn’t important.[p]
 *40
-#先輩
-[yukino/2]「いいじゃないか。あじさいには雨が似合うよ」[p]
+#Senpai
+[yukino/2]“Isn't it nice? Hydrangeas look good in the rain.”[p]
 *41
 #
-幸か不幸か、先輩は天気予報を意に介した素振りもない。[p]
+Luckily or unfortunately, she doesn’t seem to care about the weather forecast.[p]
 *42
-これはもう、僕は先輩と出かけることになってしまうのだろうか？[p]
+Does that mean I’ll be going out with senpai?[p]
 *43
-#先輩
-[yukino/3]「……でもそうか。普通雨降りに出かけたりはしないか……」[p]
+#Senpai
+[yukino/3]“But… Yeah, I guess. People don’t usually go out when it rains...”[p]
 
 *44
 #
-そう言って先輩は、背中を丸めて口元を腕に埋めた。[p]
+Saying that, she rounds her back and buries her mouth in her arm.[p]
 *45
-寂しげな様が痛々しくて、僕は言った。[p]
+It’s painful to see her so lonely, and I feel the need to say something.[p]
 
 *46
-#春也
-「いい……と思いますけど」[p]
+#Haruya
+“But I think it’s good...”[p]
 *47
-#先輩
-[yukino/1]「いいと思う……って？」[p]
+#Senpai
+[yukino/1]“You think it's… good?”[p]
 *48
-#春也
-「別に、雨降ってても……」[p]
+#Haruya
+“Yes, that even if it's raining...”[p]
 *49
-#先輩
-[yukino/9]「ほんと！？」[p]
+#Senpai
+[yukino/9]“For real?!”[p]
 *50
 #
-ぱっと顔を輝かせた先輩に、僕は何かがズレているのを直感した。[p]
+Her face suddenly brightens, and I sense something has gone wrong.[p]
 *51
-僕がコメントしたのは、別に雨の日に出かけるのがおかしいとか、[r]そんなことはないという意味だったのだけど。[p]
+With my comment I just meant that I think there’s nothing wrong with going out [r]in the rain, or something like that.[p]
 *52
-先輩は別の文脈で取ってしまったらしかった。[p]
+She, however, seems to have taken it in a different context.[p]
 *53
-#先輩
-[yukino/2]「嬉しいなあ……楽しみだなあ」[p]
+#Senpai
+[yukino/2]“Ahh, I'm happy... I'm looking forward to it!”[p]
 *54
 #
-……先輩のにこにこした顔を見ては、[r]その誤解を訂正する訳にもいかなかった。[p]
+Looking at her smiling face, I can’t bring myself to correct the misunderstanding.[p]
 *55
-#春也
-「先輩」[p]
+#Haruya
+“Senpai.”[p]
 *56
-#先輩
-[yukino/7]「うん？」[p]
+#Senpai
+[yukino/7]“Yes?”[p]
 *57
-#
-だから、こうして正しておきたかった。[p]
 *58
-元はと言えば、とっくに決まっていた答えをさっさと出せなかった[r]僕の責任なのだ。[p]
+#
+It’s my fault for not making my reply clear, so I want to fix it.[p]
+
 *59
-#春也
-「土日、一緒に出かけましょう。あじさい、見に」[p]
+#Haruya
+“Let's go out together on the weekend. To see the hydrangeas.”[p]
 *60
-#先輩
-[yukino/2][kanim name="yukino" keyframe="nod" time="500"]「ああ！[r]　そうしようよ春也くん、ほら日程について話そうじゃないか」[p]
+#Senpai
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]“Yeah! I know! why don’t we organize the trip?”[p]
 *61
 #
 [mask time=500]
 [chara_hide name="yukino" time=0]
 [haruyahide time=300]
 [mask_off time=500]
-――僕たちは観光計画について話し始めた。[p]
+And so, we start talking about our sightseeing plans.[p]
 *62
-日程を詰めていく中で急速に現実味を帯びてくるふたりでの休日に、[r]なんだか僕は頭が熱くなり始めていた。[p]
+As we finalize the schedule, the trip is quickly becoming a reality, and I grow more [r]and more psyched.[p]
 *63
-そのせいで僕は、なにか適当なことばかり言っていたような気がする。[p]
+At some point I stopped thinking, and I probably talked a lot of nonsense.[p]
 [mask time=500]
 [yukino2 width=1400 top=30 time=0][haruya time=300]
 [mask_off time=500]
 *64
-#先輩
+#Senpai
 [kanim name="yukino" keyframe="nod3" time="200" count=2]
-「どうしよう春也くん、スケジュールができてしまった。[r]　できてしまったからには遂行しなくちゃいけない」[p]
+“Can you believe it, Haruya-kun? We have the whole thing planned now!”[p]
 *65
-#春也
-「遂行するために作ったんでしょう」[p]
+#Haruya
+“Well, we did make it with the idea of carrying it out.”[p]
 
 *66
 #
-日程を組み終わる頃には僕も落ち着いてきていた。[p]正午前に駅前で待ち合わせして、昼食を取って、バスに乗る。[r]それから午後を使ってあじさい園を回ったり観光したりする。[p]
+By the end of our planning, I have calmed down. [r]We will meet in front of the station before noon, have lunch, and then get on the bus. [r]We will spend the afternoon visiting the hydrangea garden and sightseeing.[p]
 *67
-完璧だ。[p]
+Perfect.[p]
 *68
-完璧にアレだ。[p]
+This kind of date is perfect.[p]
 
 *69
-#先輩
-「覚悟してもらうよ春也くん、これについては君も共犯なのだからね」[p]
+#Senpai
+“I want you to come prepared, Haruya-kun, because you’re an accomplice now!”[p]
 *70
-#春也
-「……あの」[p]
+#Haruya
+“Actually...”[p]
 *71
 #
-先輩の笑顔を前にしては、切り出しにくい話題だったのだが。[p]
+I want to bring up a certain topic, but it’s difficult to do in front of her smile.[p]
 *72
-#春也
-「ひとつだけ、確かめておきたいんですが」[p]
+#Haruya
+“I just want to make sure of one thing.”[p]
 *73
-#先輩
-[yukino/7]「うん？　何かな？」[p]
+#Senpai
+[yukino/7]“Yes? What is it?”[p]
 *74
 #
-首を傾げた先輩に、僕は脳内の記憶の紐を手繰りながら喋りだす。[p]
+She tilts her head, and I begin to talk as if pulling a string of memories out of my brain.[p]
 [fadeoutbgm time=2000]
 *75
-#春也
-「最近、話題になってるじゃないですか。連続殺人事件……」[p]
+#Haruya
+“It’s about the hot topic of the last days… The serial murder case...”[p]
 *76
 #
-[yukino/1]僕の言葉に、先輩はぴくりと目を見開かせた。[p]
+[yukino/1]Her eyes widen at my words.[p]
 [mask time=500]
 [fadeinbgm storage=fuon_loop.ogg time=2000]
 [hide time=0][haruyahide time=0]
@@ -269,13 +269,13 @@
 [camera time=30000 x=320 y=180 ease_type=linear wait=false layer=base]
 [mask_off time=500]
 *77
-近頃世間を賑わせている、惨殺事件。[p]
+A murder case has recently taken the world by storm.[p]
 *78
-全国各地でまばらに事件が起きており、[r]その屍体は見るも無残に破壊されていて、[r]身体の一部が見つからないなどはザラだという。[p]
+Incidents have occurred nationwide, and the corpses left behind have been [r]horribly disfigured. It’s even said that parts of the bodies are often missing.[p]
 *79
-犯人は未だ捕まっておらず、また範囲が全国に散らばるものだから[r]犯人の足取りも掴めない。[p]
+The culprit hasn’t been caught yet, and since the range of the crimes is all over the [r]country, it’s not possible to trace the culprit's footsteps.[p]
 *80
-昨日は北の果て、今日は本州の南端なんてのは当たり前。[r]その怪事件っぷりに複数犯の可能性も挙げられるぐらいだ。[p]
+Yesterday, a corpse was discovered all the way north, and today a new one has appeared [r]at the far end of the south on the main island. Those mysterious incidents raise the [r]possibility of multiple perpetrators.[p]
 [mask time=500]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=0]
 [free name="kaisou" layer=1]
@@ -284,93 +284,93 @@
 [wait time=200]
 [mask_off time=500]
 *81
-#春也
-「これはあくまで確認なんですけど。[r]　今って絶対安全とは言い切れない状況じゃないですか。[r]　でも、行くってことで、いいんですよね」[p]
+#Haruya
+“I just want to make sure. Right now, we can't say that it's absolutely safe, can we?[r]  But, we’re going anyway.”[p]
 
 *82
 #
-[yukino/8]僕の言葉に先輩は、喉の奥で小さく唸った。[r]それから長く息をついた。[p]
+[yukino/8]At my words, a little groan comes out from the back of her throat. [r]Then, she takes a long breath.[p]
 
 *83
-#先輩
-「これは慢心とか、不用心と言われればそれまでだろうけど……」[p]
+#Senpai
+“If you want to say that we’re being conceited or careless you aren’t wrong, but…”[p]
 *84
-[yukino/1]「何も夜中に出歩くわけではないし、大丈夫じゃないかと、思う。[r]　現に私たちだって、こうして今日も学校に通っているわけなのだし」[p]
+[yukino/1]“I think it’s fine as long as we don't go out at night.[r]  And in the first place, we’re still going to school like usual.”[p]
 *85
-#春也
-「わかりました。ちょっと、確認はしておきたかっただけです」[p]
+#Haruya
+“Alright. I just wanted confirmation.”[p]
 *86
-#先輩
-「もし心配なら、やっぱりやめておこうか？」[p]
+#Senpai
+“If you're worried, do you want to cancel?”[p]
 [fadeoutbgm time=1000]
 *87
-#春也
-「いえ……」[p]
+#Haruya
+“No…”[p]
 *88
 #
-僕は首を振る。[p]
+I shake my head.[p]
 *89
-#春也
-「もうスケジュール……組んじゃいましたし」[p]
+#Haruya
+“We have already planned everything…”[p]
 #
 [fadeinbgm storage=kaiwa_loop.ogg time=1500]
 *90
-#先輩
-[yukino/2]「そうだね。そうだなあ」[p]
+#Senpai
+[yukino/2]“Right. Yes, that’s right.”[p]
 *91
 #
-先輩は笑った。にっこりと笑った。[p]
+She laughs. She laughs, and I smile.[p]
 *92
-ふと僕のスマホがポケットの中で振動した。[p]
+Suddenly, my smartphone vibrates in my pocket.[p]
 [hide wait=false]
 [image layer="2" page="back" storage="smart.png" width=250 left=515 top=30]
 [trans layer="2" time=500 method="fadeInUp"]
 [wait time=500]
 *93
-取り出して開いてみると、クラスでよく話している人から、[r]とある写真が送信されていた。[p]
+When I take it out, I find that a classmate whom I talk to often has sent me a photo.[p]
 *94
-黒板に書かれた落書き。[r]ハートのついた相合傘、その下で肩を並べる名前。[p]
+Drawn on a blackboard, there’s a doodle of a shared umbrella with a heart, and two [r]names lined up under it.[p]
 *95
-下地春也と赤羽雪乃。……僕と先輩。[p]
+Haruya Shitaji and Yukino Akabane.[p]
 *96
-返信する気力も起きず、僕はため息をついた。[p]
+I don’t even have the energy to reply, so I just sigh.[p]
 *97
-いったいどこから正していけばいいんだろう？[p]
+Where on earth should I start correcting the rumor?[p]
 *98
-しかしその画像には感心した点がいくつかあった。[p]
+But there are a few things about the image that strike me.[p]
 *99
-ひとつは噂話の足の速さ。[p]
+One is the speed in which rumors spread.[p]
 *100
-ふたつ目は、男女の名前を記した相合傘というシンボルが、[r]この現代社会にも根強く息をしていたこと。[p]
+The second is that the symbol of a shared umbrella with the names of a man and [r]a woman below is still deeply rooted in our modern society.[p]
 *101
-そして最後に、先輩と面識のない僕のクラスメートにまで[r]名前が知れ渡っている、先輩のスター性。[p]
+And, finally, it’s the star quality of my senpai, whose name is known even to my [r]classmates who don’t know her personally.[p]
 *102
-一種の天才だ。[p]
+She has a kind of genius.[p]
 [trans_out layer="2" time=500 method="fadeOutUp"][wt]
 [freeimage layer="2" time=0 page=back]
 [bg2  storage="busiturain.jpg" time=700 wait=false]
 [yukino7]
 *103
-#先輩
-「どうしたんだい春也くん、ため息なんてついて」[p]
+#Senpai
+“What's wrong, Haruya-kun? Why are you sighing?”[p]
 *104
 #
-席を立って窓辺に寄りかかった先輩が、[r]いつもの薄い笑いを浮かべながら声をかけてきた。[p]
+She had gotten up from her seat and was leaning against the window, and now is [r]calling out to me with her usual faint smile.[p]
 *105
-スマホを閉じて僕は答える。[p]
+I close my phone and answer.[p]
 
 *106
-#春也
-「すごい人と出掛けることになったと思って」[p]
+#Haruya
+“I was thinking that I’ll be hanging out with an amazing person.”[p]
 *107
-#先輩
-[yukino/2]「ため息が出るほど？　照れてしまうな」[p]
+#Senpai
+[yukino/2]“Amazing enough to make you sigh? You’ll make me blush!”[p]
 
 *108
 #
-先輩は笑った。[p]
+She laughs.[p]
 *109
-六月。手狭な部室から覗く空は、今日も雨模様。[p]
+June. Looking at the sky through the window of the cramped clubroom, [r]it looks like it’ll rain again.[p]
 [fadeoutbgm time=1500]
 [mask time="1000"]
 [hide time=0]
