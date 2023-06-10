@@ -38,6 +38,10 @@
 			<img src="tyrano/images/system/title.png" alt="" class="non menuback_title">
 			</div>
 			
+			<div class="menu_item menu_back_title_en" style="left:330px;top:350px;position:absolute;">
+			<img src="tyrano/images/system/title.png" alt="" class="non menuback_title">
+			</div>
+			
 			<div class="menuback menu_close menu_item" style="left:330px;top:430px;position:absolute;">
 			<img src="tyrano/images/system/back.png" alt="" class="non menuclose">
 			</div>
@@ -67,7 +71,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/save_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/save_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/save_top.png")'});
@@ -83,7 +89,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/load_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/load_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/load_top.png")'});
@@ -99,7 +107,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/skip_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/skip_top.png")'});
 }else{
  $$('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/skip_top.png")'});
@@ -115,7 +125,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/auto_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/auto_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/auto_top.png")'});
@@ -131,7 +143,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/config_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/config_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/config_top.png")'});
@@ -147,7 +161,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/backlog_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/backlog_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/backlog_top.png")'});
@@ -158,12 +174,14 @@ if (TYRANO.kag.variable.sf.trans == 2) {
   $('.kasa').css('transform','rotate(0)');
 });
 
-$('.menu_back_title').hover(
+$('.menu_back_title, .menu_back_title_ch, .menu_back_title_en').hover(
 function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/title_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/title_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/title_top.png")'});
@@ -179,7 +197,9 @@ function(){
  $.when(
   $('.kasa').css('transform','rotate(-180deg)')
 ).done(function() {
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+ $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/en/menu/back_top.png")'});
+}else if (TYRANO.kag.variable.sf.trans == 2) {
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/ch/menu/back_top.png")'});
 }else{
  $('#top').css({'transition':'0.5s','background-image':'url("tyrano/images/system/back_top.png")'});
@@ -191,8 +211,19 @@ if (TYRANO.kag.variable.sf.trans == 2) {
 });
 
 
-
-if (TYRANO.kag.variable.sf.trans == 2) {
+if (TYRANO.kag.variable.sf.trans == 3) {
+  $('.menusave').attr('src','tyrano/images/system/en/menu/save.png');
+  $('.menuload').attr('src','tyrano/images/system/en/menu/load.png');
+  $('.menuskip').attr('src','tyrano/images/system/en/menu/skip.png');
+  $('.menuauto').attr('src','tyrano/images/system/en/menu/auto.png');
+  $('.menuconfig').attr('src','tyrano/images/system/en/menu/config.png');
+  $('.menulog').attr('src','tyrano/images/system/en/menu/backlog.png');
+  $('.menuback_title').attr('src','tyrano/images/system/en/menu/title.png');
+  $('.menu_back_title').hide();
+  $('.menu_back_title_ch').hide();
+  $('.menu_back_title_en').show();
+  $('.menuclose').attr('src','tyrano/images/system/en/menu/back.png');
+}else if (TYRANO.kag.variable.sf.trans == 2) {
   $('.menusave').attr('src','tyrano/images/system/ch/menu/save.png');
   $('.menuload').attr('src','tyrano/images/system/ch/menu/load.png');
   $('.menuskip').attr('src','tyrano/images/system/ch/menu/skip.png');
@@ -202,6 +233,7 @@ if (TYRANO.kag.variable.sf.trans == 2) {
   $('.menuback_title').attr('src','tyrano/images/system/ch/menu/title.png');
   $('.menu_back_title').hide();
   $('.menu_back_title_ch').show();
+  $('.menu_back_title_en').hide();
   $('.menuclose').attr('src','tyrano/images/system/ch/menu/back.png');
 }else{
   $('.menusave').attr('src','tyrano/images/system/save.png');
@@ -213,6 +245,7 @@ if (TYRANO.kag.variable.sf.trans == 2) {
   $('.menuback_title').attr('src','tyrano/images/system/title.png');
   $('.menu_back_title').show();
   $('.menu_back_title_ch').hide();
+  $('.menu_back_title_en').hide();
   $('.menuclose').attr('src','tyrano/images/system/back.png');
 }
 </script>

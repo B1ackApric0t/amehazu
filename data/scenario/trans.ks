@@ -14,10 +14,12 @@
 <div id="jp" style="left:400px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/japanese.png" alt="" class="non">
 </div>
-<div id="ch" style="left:750px;top:400px;position:absolute;cursor:pointer;">
+<div id="ch" style="left:575px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/chinese_simplified.png" alt="" class="non">
 </div>
-
+<div id="en" style="left:780px;top:400px;position:absolute;cursor:pointer;">
+	<img src="data/fgimage/english.png" alt="" class="non">
+</div>
 
 <script>
 $('.cg_back').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"backtitle"})});
@@ -50,4 +52,11 @@ $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})
 *backtitle
 [cm]
 [clearfix]
+
+[if exp="sf.trans==3]
+@jump storage="scenario_en/title.ks" target=*start
+[elsif exp="sf.trans==2]
+@jump storage="scenario_ch/title.ks" target=*start
+[else]
 @jump storage=title.ks target=*start
+[endif]
