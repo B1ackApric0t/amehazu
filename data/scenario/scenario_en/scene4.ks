@@ -396,4 +396,4 @@ From the sound of it, even she seems to believe that going to see the hydrangeas
 [wait time=800]
 [mask_off time="1500"]
 
-@jump storage="title.ks" target=*start
+@jump storage="scenario_en/scene5.ks" target=*start

@@ -448,4 +448,4 @@ With a sense of security that resembles determination, I fall asleep.[p]
 [playse storage=bus.ogg buf=1]
 [haruya1 time=0]
 [mask_off time="1000" effect="fadeOutUp"]
-@jump storage="scene4.ks" target=*start
+@jump storage="scene4_en.ks" target=*start
