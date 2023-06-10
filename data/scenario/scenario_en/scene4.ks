@@ -227,9 +227,7 @@ Saying that while laughing, she moves further and further away.[p]
 I don’t get it. I don’t understand, but she seems happy.[p]
 *68
 #Haruya
-“Actually…”[p]
-#Haruya
-“Senpai.”[p]
+“Actually…”[r]“Senpai.”[p]
 *69
 #
 That being said, all her hopping around is dangerous, so I call out to her from afar.[p]
@@ -342,7 +340,7 @@ I can’t say anything. There’s a wall. A wall that strongly rejects me.[p]
 She is rejecting me.[p]
 *103
 #Haruya
-“No... I’m just glad you’re safe.”[p]
+“No...”[r]“I’m just glad you’re safe.”[p]
 [M0]
 [fadeinse storage=rain_kasa.ogg time=1500 loop=true]
 [bg2 name="ajisaibg" storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 cross=true]

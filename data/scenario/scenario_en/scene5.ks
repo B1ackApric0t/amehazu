@@ -100,7 +100,7 @@ The shuddering comes up to my ear.[p]
 #
 I’m shivering. A voice that sounds like it’s coming from the depths of the earth makes my eardrums vibrate.[p]
 *30
-#？？
+#??
 “At the time of the boar I shall await at the door of your dwelling.”[p]
 *31
 #
