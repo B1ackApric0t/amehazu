@@ -70,7 +70,7 @@ What should I do?[p]
 The sudden sound of the door, followed by a voice I hadn’t heard in a while, made me turn around.[p]
 [buchob1]
 *16
-#？？
+#??
 “Hi there.”[p]
 *17
 #
@@ -338,7 +338,9 @@ No one can ever escape their own lives and go into someone else’s.[r][l]
 *94
 Sometimes I wonder if life is like a bug cage.[r][l]
 *95
-Everybody is trapped in insect cages. Unable to go out and into the outside world,[r][l]
+Everybody is trapped in insect cages. [r][l]
+
+Unable to go out and into the outside world,[r][l]
 *96
 I feel that I have no choice but to heap all parts of myself within the cage.[p]
 *97
@@ -384,7 +386,7 @@ A sound takes me by surprise and I turn around. It's the second time today that 
 *109
 There she is.[p]
 *110
-#？？
+#??
 “Hello, Haruya-kun.”[p]
 *111
 #
@@ -586,7 +588,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 
 *scene7A
 [cm]
-[pushlog text="【I will live on.】"]
+[pushlog text=&"String('【I\x20will\x20live\x20on.】')"]
 [loadcss file="./data/others/css/next1.css"]
 #Haruya
 “I'll somehow manage. I don't know if I’ll live a good life, but I'll at least survive.”[p]
@@ -796,7 +798,7 @@ I want it to end well. To achieve that, tonight’s rain is the final hurdle I m
 
 *scene7B
 [cm]
-[pushlog text="【I don’t want that, even if it were to kill me.】"]
+[pushlog text=&"String('【I\x20don’t\x20want\x20that,\x20even\x20if\x20it\x20were\x20to\x20kill\x20me.】')"]
 [loadcss file="./data/others/css/next1.css"]
 [yukino/9]
 #Haruya
