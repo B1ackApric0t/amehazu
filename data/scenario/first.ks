@@ -89,12 +89,22 @@ f.preload_bgm = [
 [preload storage="&f.preload_bucho"]
 [preload storage="&f.preload_bg"]
 ;[preload storage="&f.preload_bgm"]
-
-[chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
-[chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="部長" color=fff ]
-[chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="先輩" color=fff ]
-[chara_new  name="uyo" storage="uyo.png" width=900 jname="雨妖" color=fff ]
-
+[if exp="sf.trans==3]
+    [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="Haruya" color=fff ]
+    [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="Club President" color=fff ]
+    [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="Senpai" color=fff ]
+    [chara_new  name="uyo" storage="uyo.png" width=900 jname="Rain Ayakashi" color=fff ]
+[elsif exp="sf.trans==2]
+    [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
+    [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="部长" color=fff ]
+    [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="学姐" color=fff ]
+    [chara_new  name="uyo" storage="uyo.png" width=900 jname="雨妖" color=fff ]
+[else]
+    [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="春也" color=fff ]
+    [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="部長" color=fff ]
+    [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="先輩" color=fff ]
+    [chara_new  name="uyo" storage="uyo.png" width=900 jname="雨妖" color=fff ]
+[endif]
 @call storage="tyrano.ks"
 
 @layopt layer="message" visible=false

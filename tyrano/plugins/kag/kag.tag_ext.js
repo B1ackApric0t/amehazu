@@ -340,26 +340,55 @@ tyrano.plugin.kag.tag.loadjs = {
       this.kag.stat.jcharas[a.name] && (a.name = this.kag.stat.jcharas[a.name]);
       var t = this.kag.stat.charas[a.name];
       if (t) {
-        if ($("." + this.kag.stat.chara_ptext).html($.escapeHTML(t.jname)), "" != t.color && $("." + this.kag.stat.chara_ptext).css({
-              "color": "white",
-              "font-weight": "bold",
-               "text-shadow": "-1px -1px 4px #000,-1px -1px 4px #000,-1px -1px 4px #000",
-              "letter-spacing": "10px"
-            }), "none" != this.kag.stat.chara_talk_focus && ($("#tyrano_base").find(".tyrano_chara").css({
-            "-webkit-filter": this.kag.stat.apply_filter_str,
-            "-ms-filter": this.kag.stat.apply_filter_str,
-            "-moz-filter": this.kag.stat.apply_filter_str
-          }), $("#tyrano_base").find("." + a.name + ".tyrano_chara").css({
-            "-webkit-filter": "brightness(100%) blur(0px)",
-            "-ms-filter": "brightness(100%) blur(0px)",
-            "-moz-filter": "brightness(100%) blur(0px)"
-          })), "none" != this.kag.stat.chara_talk_anim) {
-          var e = $("#tyrano_base").find("." + a.name + ".tyrano_chara");
-          e.get(0) && (this.animChara(e, this.kag.stat.chara_talk_anim, a.name), "" != a.face && this.kag.ftag.startTag("chara_mod", {
-            name: a.name,
-            face: a.face,
-            time: "0"
-          }))
+        if (this.kag.variable.sf.trans==3){
+          if ($("." + this.kag.stat.chara_ptext).html($.escapeHTML(t.jname)), "" !=
+        	t.color && $("." + this.kag.stat.chara_ptext).css({
+        		"color": "white",
+        		"font-weight": "bold",
+        		"text-shadow": "-1px -1px 4px #000,-1px -1px 4px #000,-1px -1px 4px #000",
+        	}), "none" != this.kag.stat.chara_talk_focus && ($("#tyrano_base").find(
+        		".tyrano_chara").css({
+        		"-webkit-filter": this.kag.stat.apply_filter_str,
+        		"-ms-filter": this.kag.stat.apply_filter_str,
+        		"-moz-filter": this.kag.stat.apply_filter_str
+        	}), $("#tyrano_base").find("." + a.name + ".tyrano_chara").css({
+        		"-webkit-filter": "brightness(100%) blur(0px)",
+        		"-ms-filter": "brightness(100%) blur(0px)",
+        		"-moz-filter": "brightness(100%) blur(0px)"
+        	})), "none" != this.kag.stat.chara_talk_anim) {
+        	var e = $("#tyrano_base").find("." + a.name + ".tyrano_chara");
+        	e.get(0) && (this.animChara(e, this.kag.stat.chara_talk_anim, a.name),
+        		"" != a.face && this.kag.ftag.startTag("chara_mod", {
+        			name: a.name,
+        			face: a.face,
+        			time: "0"
+        		}))
+          }
+        }else{
+          if ($("." + this.kag.stat.chara_ptext).html($.escapeHTML(t.jname)), "" !=
+        	t.color && $("." + this.kag.stat.chara_ptext).css({
+        		"color": "white",
+        		"font-weight": "bold",
+        		"text-shadow": "-1px -1px 4px #000,-1px -1px 4px #000,-1px -1px 4px #000",
+        		"letter-spacing": "10px"
+        	}), "none" != this.kag.stat.chara_talk_focus && ($("#tyrano_base").find(
+        		".tyrano_chara").css({
+        		"-webkit-filter": this.kag.stat.apply_filter_str,
+        		"-ms-filter": this.kag.stat.apply_filter_str,
+        		"-moz-filter": this.kag.stat.apply_filter_str
+        	}), $("#tyrano_base").find("." + a.name + ".tyrano_chara").css({
+        		"-webkit-filter": "brightness(100%) blur(0px)",
+        		"-ms-filter": "brightness(100%) blur(0px)",
+        		"-moz-filter": "brightness(100%) blur(0px)"
+        	})), "none" != this.kag.stat.chara_talk_anim) {
+        	var e = $("#tyrano_base").find("." + a.name + ".tyrano_chara");
+        	e.get(0) && (this.animChara(e, this.kag.stat.chara_talk_anim, a.name),
+        		"" != a.face && this.kag.ftag.startTag("chara_mod", {
+        			name: a.name,
+        			face: a.face,
+        			time: "0"
+        		}))
+          }
         }
       } else $("." + this.kag.stat.chara_ptext).html($.escapeHTML(a.name)), "none" != this.kag.stat.chara_talk_focus && $("#tyrano_base").find(".tyrano_chara").css({
         "-webkit-filter": this.kag.stat.apply_filter_str,
