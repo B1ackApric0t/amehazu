@@ -21,84 +21,84 @@
 [mask_off time="500"]
 
 *start
-#学姐
-「真神奇」[p]
+#Senpai
+“It's strange.”[p]
 *1
-#春也
-[hmod]「请问有什么神奇的？」[p]
+#Haruya
+[hmod]“What is?”[p]
 *2
-#学姐
+#Senpai
 [hmod storage=yukino/tatie1.png]
-「从公交车的窗外看到的景色看起来和平常完全不一样，你有没有这个感觉？[r]　这个城市也一样，你看」[p]
+“Doesn't the scenery you see from the bus window look completely different from usual? [r]Look at this city, too.”[p]
 *3
 #
-窗外流淌的是雨中的街景。[r]学姐带着一副深有感慨的表情透过沾满水滴的车窗看着外面。[p]
+A rainy city flows outside the window. Senpai is looking deeply at the window of the bus dripping with water.[p]
 *4
-#春也
-[hmod]「……我觉得比起学姐刚才说的，[r]　学姐今天穿着校服出门这一点更让我觉得神奇就是了」[p]
+#Haruya
+[hmod]“The fact that you came in uniform is more strange to me than anything else.”[p]
 *5
 #
-这能不叫人吃惊吗。[r]就算是在休息日，学姐每天都会把校服穿在身上。[p]
+It’s amazing that she’s wearing her school uniform even though it’s the weekend.[p]
 *6
-虽然我也曾听说过一些没有由来的流言，[r]说确实有人连休息天也会穿着校服度过。[r]但我从没想到竟然能在身边发现这种人。[p]
+I’ve heard rumors that some people even spend their holidays in uniforms, but I never thought I’d see it up close.[p]
 *7
-#学姐
-[hmod storage=yukino/tatie7.png]「我喜欢穿校服啊」[p]
+#Senpai
+[hmod storage=yukino/tatie7.png]“I like uniforms.”[p]
 *8
-#春也
-[hmod]「你原来喜欢校服啊？」[p]
+#Haruya
+[hmod]“You do?”[p]
 *9
-#学姐
-[hmod storage=yukino/tatie1.png]「没错。校服不是给人一种非日常的感觉嘛？」[p]
+#Senpai
+[hmod storage=yukino/tatie1.png]“Yes! Don't you feel it’s out of the ordinary?”[p]
 *10
-#春也
-[hmod]「嗯？　你说的话我也不是完全不能理解……」[p]
+#Haruya
+[hmod]“Hmm? "I think I kinda understand, but...”[p]
 *11
-「但我们的日常生活几乎都被学校生活所占据，[r]　而在学校的时候就会穿上校服……但好像也不对，一说起日常生活[r]　通常先想起的都是休息日吧……？」[p]
+“We wear uniforms at school, which takes up most of our daily life, so if that isn’t ordinary, then do you consider the weekend to be the actual ‘ordinary’ time?”[p]
 *12
-#学姐
-[hmod storage=yukino/tatie4.png]「春也你看你看，那里有好多人在排队」[p]
+#Senpai
+[hmod storage=yukino/tatie4.png]“Look, Haruya-kun, there are a lot of people lined up over there.”[p]
 *13
-#春也
-[hmod]「……」[p]
+#Haruya
+[hmod]“...”[p]
 *14
 #
-看来学姐的日常生活充满了惊讶和新发现。[p]
+Senpai’s daily life seems to be full of surprises and discoveries.[p]
 *15
-#学姐
-[hmod storage=yukino/tatie7.png]「我啊，真的很喜欢窗户。窗外总能看到各种各样的风景，[r]　世界就在窗外无限延伸。首先看着就不会觉得厌烦」[p]
+#Senpai
+[hmod storage=yukino/tatie7.png]“I like windows. You can see various sceneries flow, and the outside world spreads endlessly. I’ll probably never get tired of looking.”[p]
 *16
-#春也
-[hmod]「哎，你说的我也能理解」[p]
+#Haruya
+[hmod]“Ah, I kind of understand how you feel.”[p]
 *17
-「不过说起厌烦……不管再怎么说什么非日常，[r]　每天穿校服也总有觉得厌烦的时候把？[r]　就是那种带着日常感觉的非日常」[p]
+“Speaking of getting tired of things... No matter how ‘out of the ordinary’ it is, won’t you get bored of wearing the uniform every day? If there isn’t “ordinary” there can’t be ‘unordinary’ either.”[p]
 *18
-#学姐
-[hmod storage=yukino/tatie7.png]「我暂时还没这个感觉呢。那说得更广义一点的话，高中本身就是非日常」[p]
+#Senpai
+[hmod storage=yukino/tatie7.png]“I'm not tired of it so far. In the long run, high school itself is a special event in life.”[p]
 *19
-#春也
-[hmod]「学姐思想很通透呢」[p]
+#Haruya
+[hmod]“You're philosophical.”[p]
 *20
-#学姐
-[hmod storage=yukino/tatie7.png]「现在不也是这样吗？　和其他人到某个地方去这种事」[p]
+#Senpai
+[hmod storage=yukino/tatie7.png]“Doesn’t it apply to today too? Going out somewhere with someone.”[p]
 *21
 #
-看来学姐姑且还是有这种行为是跳脱于日常的自觉。[p]
+From the sound of it, even she seems to believe that going to see the hydrangeas together is unusual.[p]
 *22
-#学姐
-[hmod storage=yukino/tatie8.png]「仔细想想，难得这样出来，我应该穿体操服比较好吧？」[p]
+#Senpai
+[hmod storage=yukino/tatie8.png]“Well, I think it would’ve been better if I had come in gym clothes.”[p]
 *23
-#春也
-[hmod]「你这个想法是打从哪里来的呢……」[p]
+#Haruya
+[hmod]“What do you mean...?”[p]
 *24
-#学姐
-[hmod storage=yukino/tatie12.png]「嗯嗯？　穿体操服更有非日常的感觉吧？」[p]
+#Senpai
+[hmod storage=yukino/tatie12.png]“Hmm? Aren’t gym clothes even more extraordinary?”[p]
 *25
-#春也
-[hmod]「那叫不合常理」[p]
+#Haruya
+[hmod]“You’re nuts.”[p]
 *26
 #
-公交车承载着我们的非日常继续前行。[p]
+バスは行く。僕たちの非日常を乗せて。[p]
 [fadeoutse time=1000]
 [playse storage=bus.ogg buf=1]
 [mask time="700"]
@@ -108,132 +108,132 @@
 [mask_off time="700"]
 *27
 #
-我眼前的那个她，一边跳着轻盈的舞步一边向前走去。[r]红色的雨伞之下，裙摆和黑发在翩翩起舞。[p]
+僕の目の前をその人は、くるくると踊りながら歩いていた。[r]赤い傘の下にスカートの裾と黒髪が舞っていた。[p]
 *28
-环绕在身边的是那或蓝或紫，还夹杂着一些桃红色的绣球花，[r]花丛中欢闹的她纯真得犹如孩童。[p]
+青や紫や桃色のあじさいに囲まれながら、[r]その人は無邪気にはしゃいでいた。[p]
 [yukino2]
 *29
-#学姐
-「人类的眼睛为什么只会长在前面呢！」[p]
+#Senpai
+“どうして人間の目って前にしかついていないんだろう！”[p]
 *30
-「我多想一次性把身边的景象尽收眼底，但这实在太难做到了！」[p]
+“全部一遍に視界に収めたいんだけどっ、中々うまくいかないなあ！”[p]
 *31
 #
-看着她说出这种小孩子气的话，像小孩子一样欢喜的样子，[r]我也不由得笑逐颜开。[p]
+そういって子どものように喜ぶ様に、思わず僕の顔も綻ぶ。[p]
 [haruya]
 *32
-#春也
-「那确实有点，应该说很难实现呢」[p]
+#Haruya
+“それはちょっと、というかだいぶ難しい気もしますけどね”[p]
 *33
 #
-会说出这种话，说明来到这座绣球花园的我也非常地雀跃兴奋。[r]一团团的花束簇拥着我们，我们就像堕入了绣球花的海洋里一般。[p]
+そう言う僕も、このあじさい園には興奮していた。[r]あじさいが海のようにどこまでも茂っているのだ。[p]
 *34
-在今天这场迷蒙烟雨的衬托下，我们仿佛来到一个与世隔绝，[r]不同于人间的世外桃源。[p]
+今日が霧雨なのも相まって、まるでいま僕たちは地上のどことも隔絶された[r]別世界を歩いているみたいだった。[p]
 *35
-#学姐
-「感觉真好，非常好！」[p]
+#Senpai
+“いいね、すごくいい！”[p]
 *36
-[yukino/7]「放眼过去都是盛开的绣球花，这片花海包围着我，[r]　道路向着雾气的深处延伸，然后我的身边还有你的陪伴」[p]
+[yukino/7]“あじさいがどこまでも咲いていて、私を包んでいて、[r]　道は霧の向こうにずっと続いてて、そして君がいる”[p]
 *37
-#春也
-「……我吗？」[p]
+#Haruya
+“……僕ですか？”[p]
 *38
-#学姐
-「对！」[p]
+#Senpai
+“そう！”[p]
 *39
 #
 [hide time=400]
-学姐突然停止了转圈。[r]裙子和头发轻飘飘地飞扬摇曳。[p]
+先輩がぴたっと回転を止めた。[r]スカートと髪の毛がふわりと浮いて、揺れた。[p]
 [yukino10 width=1400 top=30]
 *40
-#学姐
-「虽然我也不能说得很肯定，但今天要是没有你陪着我，[r]　我觉得自己肯定不会兴奋到这个地步」[p]
+#Senpai
+“たぶんだけどね、君がついていなかったら、[r]　私はこんなにはしゃげはしなかったと思う”[p]
 *41
-#春也
-「……是吗？」[p]
+#Haruya
+“……そうですか？”[p]
 *42
 #
-我反而觉得不管在什么时候在哪个地方，[r]学姐给我的感觉都是那么的自由自在。[p]
+むしろ先輩はいつでもどこでもひとりでも自由気ままなイメージがあった。[p]
 *43
-#学姐
-[yukino/8]「嗯……要怎么才能说清楚呢？[r]　就是如果只有我一个人在这里，我想我肯定会觉得害怕。[r]　虽然也就一点而已」[p]
+#Senpai
+[yukino/8]“んー……なんて言うのかな？[r]　もしもひとりでここにいたら、きっと怖くなっていたと思う。[r]　少しだけね”[p]
 *44
-[yukino/10]「这里的景色实在太美丽，太梦话，而且一望无际……[r]　身在其中的时候，我会忍不住想，[r]　我真的可以从这里回到原来的地方去吗」[p]
+[yukino/10]“あまりにきれいで幻想的で、そんな景色がどこまでも続いていて……[r]　そしたら私は、自分は本当に、ここから元の場所に帰れるのかなって、[r]　ふっと思ってしまう”[p]
 *45
-#春也
-「……啊啊……？」[p]
+#Haruya
+“……あー……？”[p]
 *46
 #
-感觉能理解，却又想不通。[p]
+分かるような、分からないような。[p]
 *47
-#学姐
-[yukino/7]「但有你在身边我就能安心。[r]　我清楚地知道，我只要回到你的身边就好」[p]
+#Senpai
+[yukino/7]“だけれど、君がいると私は安心するんだよ。[r]　ここに帰ればいいんだって、はっきり分かる”[p]
 *48
 #
-……总觉得学姐刚才的话实在有点意义非凡。[r]我没有回应，只是默默地等待她的下一句话。[p]
+……なんだか実はとんでもないことを言われている気がする。[r]僕はじっと先輩の言葉を待った。[p]
 *49
-#学姐
-[yukino/8]「所以……嗯……」[p]
+#Senpai
+[yukino/8]“だから……うーん……”[p]
 *50
-[yukino/7]「反正就是只要有你在我就能放胆到远方去」[p]
+[yukino/7]“とにかくさ、君がいると私は遠くまで行けるんだ”[p]
 *51
-#春也
-「……！」[p]
+#Haruya
+“……！”[p]
 *52
-#学姐
-[yukino/12]「你能理解吗？　我想表达的意思……」[p]
+#Senpai
+[yukino/12]“わかるかな？　私の言いたいこと……”[p]
 *53
 #
-……我该怎么办才好呢？[p]
+……どうすればいいんだろう？[p]
 *54
-千思万绪顿时涌上心头，但每当我想将之付诸言语时，[r]总觉得一阵哽咽，不能成言。[p]
+色々な気持ちがこみ上げてくるのだけど、[r]それを言葉にして声に出そうとすると、途端に息が詰まる。[p]
 *55
-脑海里浮现出来的，全都是一些欠缺正确性，[r]掺杂着不合时宜，不一小心还是招致对方的误会，[r]不能充分表达我现在的感觉，甚至不像是平常的我会说出口的话语。[p]
+どんな言葉も正確性を欠いていて、適当ではなくて、[r]誤解を与えてしまいそうで、不充分で、[r]僕が発するには不似合いな言葉に思えてくる。[p]
 *56
-但内心的焦躁却告诉我必须对她的话做出回应。[r]最后脱口而出的是这么一句话。[p]
+でも何かを答えたい、答えなくてはいけないと思って、[r]結局出てきたのはこんな言葉だった。[p]
 *57
-#春也
-「我、想要、去理解」[p]
+#Haruya
+“わ、かりたい、です”[p]
 *58
-#学姐
-[yukino/9]「……想要理解」[p]
+#Senpai
+[yukino/9]“……わかりたい”[p]
 *59
 #
-学姐重复着我的话。[p]
+先輩が僕の言葉を反復した。[p]
 [hide wait=false time=400]
 *60
-……想去理解。这用词实在过于不咸不淡。[r]而且要是细想一下，这不等同于在说自己本来是不理解的吗？[p]
+……わかりたい。あまりいい言葉ではない気がする。[r]というか、要するにわからないと言っているのと同じじゃないか？[p]
 *61
-#学姐
-「呵呵」[p]
+#Senpai
+“ふふ”[p]
 *62
 #
 [yukino10 top=50 left=540 width=500 wait=false]
-学姐笑了。之前一直低下的头在不知不觉间已经抬了起来。[r]她向前一直走去，那轻盈的步伐仿佛在跳舞。[p]
+先輩が笑った。いつの間にかうつむいていた視線を持ち上げると、[r]先輩は跳ねるような足取りで先まで進んでいた。[p]
 *63
-#学姐
-[yukino/2]「那就是说现在不理解啊！」[p]
+#Senpai
+[yukino/2]“わからないなあ！”[p]
 *64
-#春也
-「……什么？」[p]
+#Haruya
+“……はい？”[p]
 *65
-#学姐
-「我的感受！　我不知道该怎么表达！！　啊哈哈……」[p]
+#Senpai
+“いまの気持ち！　なんて言えばいいかわからない！！[r]　あっははっ……”[p]
 *66
 #
 [hide]
-学姐笑着说出这几句话后越走越远。……她还是那个让人捉摸不透的她。[p]
+そう言って笑いながら、先輩はどんどん遠ざかっていく。[r]……相変わらずよくわからない。[p]
 *67
-学姐看起来很幸福，虽然我无法理解这份幸福的来源是什么。[p]
+よくわからないが、幸せそうだ。[p]
 *68
-#春也
-「请问，学姐？」[p]
+#Haruya
+“あの。先輩？”[p]
 *69
 #
-在陌生的环境下，学姐那股欢欣雀跃的劲头实在存在太多不安的要素，[r]我唯有从远处向她呼喊。[p]
+それはそれとして危なっかしいぐらいはしゃぎまわるので、[r]僕は遠くから声をかける。[p]
 *70
-#春也
-「请小心别摔倒了……」[p]
+#Haruya
+“足下には気をつけて……”[p]
 #
 [stopbgm]
 [mask color=0xFFFFFF time=100]
@@ -248,144 +248,144 @@
 *71
 ――？[p]
 *72
-……濛濛细雨中，我看到的是什么。[p]
+……それが何だったのか。[p]
 *73
-我完全搞起不清状况。[p]
+僕にはよくわからなかった。[p]
 *74
-眼前那莫名的东西，我能想到的词语只有一团影子。[p]
+強いて言えば影の塊に見えた。[p]
 *75
-才刚看到有什么东西从地上跳了起来，[r]那团影子紧接着从学姐手上抢过某个物品，然后又消失在地面之上。[p]
+地面から何かが飛び出てきたと思ったら、[r]それは先輩の手から何かを奪ってまた地面に消えた。[p]
 *76
-红色的雨伞落在两旁都是绣球花的路上摇曳。[r]而学姐就躺倒在被雨水渗透的地面上。[p]
+赤い傘があじさいの道に落ちて弾んだ。[r]雨のにじむ土の地面に、先輩の体が倒れ込んだ。[p]
 *77
-#春也
-「学姐……？」[p]
+#Haruya
+“先輩……？”[p]
 [mhide time=100]
 #
 [bg2 storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 method="vanishIn" wait=false]
 [mshow]
 *78
-脑内突然变得一片空白。[r]但我没有一丝迟缓，马上跑到学姐的身边。[p]
+突然のことに頭が真っ白になる。[r]しかしすぐに僕は先輩のもとに駆け寄る。[p]
 [haruya]
 *79
-#春也
-「你还好吗？！」[p]
+#Haruya
+“大丈夫ですか！？”[p]
 *80
 #
-学姐没作声，只是低着头一动不动。[p]
+先輩はじっとうつむいていた。[p]
 *81
-她应该在盯着什么地方看，于是我也顺着她的视线看过去，[r]发现她盯着的，是校服的袖子。[p]
+何を見つめているのかと思ってその視線をたどってみると、[r]そこには先輩の制服の袖があった。[p]
 *82
-#春也
-「咦……学姐……？」[p]
+#Haruya
+“あれ……先輩……？”[p]
 *83
 #
-――不对。[p]
+――違う。[p]
 *84
-#春也
-「手腕……」[p]
+#Haruya
+“手首……”[p]
 *85
 #
-学姐的左手手腕。手腕以下。[p]
+先輩の左腕。その先。[p]
 [haruyahide time=500]
 [M1]
 [bg2 storage="tekubi.jpg" time="1000" cross=true wait=true method="fadeInUp"]
 [eval exp="sf.ST3=1"]
 *86
-除了袖子空无一物。就像一个只装了空气的袋子一般，[r]校服的袖子轻飘飘地，软趴趴地垂了下来。[p]
+そこには袖しかなかった。空っぽの袋を地面に垂らしたみたいに、[r]制服の袖がだらりと伸びていた。[p]
 *87
-学姐瞟了袖子一样，然后身体一撑想要站起来，[r]谁知道一踉跄――不得已只能再次跌倒在地上。[p]
+先輩は袖をちらりと見て、[r]立とうとしてふらついて――再びぺたんと腰を下ろした。[p]
 *88
-我们就像陷入无底沼泽里一般，周围被沉默的泥沼所填满。[p]
+底なし沼みたいな沈黙が場に満ちる。[p]
 [bg2 storage="tekubi2.jpg" time="1000" cross=false wait=false]
 *89
-#学姐
-「……我闯祸了呢」[p]
+#Senpai
+“……しまったなあ”[p]
 *90
 #
-学姐突然开口说道。[r]她已经恢复成平日的态度。[p]
+急に先輩は口を開いた。[r]完全にいつもの調子に戻っていた。[p]
 *91
-那感觉甚至让人觉得装模作样。[p]
+過剰にすら思えるほどに。[p]
 *92
-#学姐
-「我一个不小心跌倒了。果然还是不能闹得太欢」[p]
+#Senpai
+“うっかりして転んでしまった。[r]　はしゃぎすぎるのも考えものだね”[p]
 *93
-#春也
-「诶？　我说，学姐……」[p]
+#Haruya
+“え？　あの。先輩……”[p]
 *94
-#学姐
-「我没事。谢谢，你不用这么担心」[p]
+#Senpai
+“大丈夫だよ。ありがとう、心配してくれて”[p]
 *95
-#春也
-「学姐，你的左手……」[p]
+#Haruya
+“先輩、左手が……”[p]
 *96
-#学姐
-「嗯？」[p]
+#Senpai
+“ん？”[p]
 #
 [bg2 storage="tekubi3.jpg" time="1000" cross=false wait=false]
 *97
-学姐歪着头，然后像变魔术一般从袖子里伸出左手。[p]
+先輩は首をかしげながら、左手を袖の中からぱっと伸ばして見せた。[p]
 *98
-#学姐
-「左手？　我的左手怎么啦？」[p]
+#Senpai
+“左手が？　どうしたのかな？”[p]
 *99
-#春也
-「……」[p]
+#Haruya
+“……”[p]
 *100
 #
-我本来有话想说。我本来有事想问。[r]但我放弃了。我屏住呼吸。[p]
+何かを言おうとした。何かを訊ねようとした。[r]でも僕はやめた。息を胸で殺した。[p]
 *101
-无论说什么都是白费。[r]横在我们之间的墙壁实在过于厚实，坚决地拒绝我的介入。[p]
+何を言っても無駄だ。この壁は強固すぎる。僕を拒んでいる。[p]
 *102
-学姐在拒绝我的进一步深入。[p]
+先輩が僕を拒んでいた。[p]
 *103
-#春也
-「……没什么。你没事就好」[p]
+#Haruya
+“……いえ。無事ならよかったです”[p]
 [M0]
 [fadeinse storage=rain_kasa.ogg time=1500 loop=true]
 [bg2 name="ajisaibg" storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 cross=true]
 [yukino7 top=30 width=1500]
 *104
-#学姐
-「抱歉，让你担心了一场」[p]
+#Senpai
+“すまない、心配かけてしまって”[p]
 *105
 #
 [anim name=ajisaibg top=+180 time=1000]
-学姐站了起来。她捡起地上的雨伞，然后回头向我说道。[p]
+先輩が立ち上がる。[r]転がっていた傘を拾い上げると、僕のほうを振り返って言った。[p]
 *106
-#学姐
-「快，我们继续参观吧，春也。[r]　我啊，还想走得更远」[p]
+#Senpai
+“さ。観光再開といこうか、春也くん。[r]　もっと遠くまで行きたいんだ、私”[p]
 *107
 #
-……一股惊悚感油然而生。[p]
+……不気味だと思った。[p]
 *108
-自从相识以来，学姐是一个怪人，我曾经好几次这么想过。[r]我一直觉得她是一个跳脱于常识这个框架之外的人。[p]
+これまで何回も、先輩のことを変な人だと思った。[r]常識の外側で生きてる人だと思った。[p]
 *109
-但面对她时觉得惊悚，这是第一次。[p]
+でも、不気味だと思ったのはこれが初めてだった。[p]
 *110
-#学姐
-「春也」[p]
+#Senpai
+“春也くん”[p]
 #
 [haruya]
 *111
-#春也
-「……我在」[p]
+#Haruya
+“……はい”[p]
 *112
-#学姐
-[yukino/4]「你不走吗？」[p]
+#Senpai
+[yukino/4]“行かないの？”[p]
 *113
-#春也
-「……现在就走」[p]
+#Haruya
+“……行きます”[p]
 [hide wait=false][haruyahide time=1000]
 *114
 #
-在那以后，学姐依然到处跑，所到之处总会发出欢呼或感叹之声。[r]我们还一起拍了照片。[p]
+その後も先輩はあちこちで歓声をあげた。感嘆の声をあげた。[r]ふたり揃って写真だって撮った。[p]
 *115
-但我已经不知道，我这时该用什么样的眼光来看待她才对。[p]
+でも僕は、そんな先輩をどんなまなざしで見ればいいのか、[r]もうわからなくなっていた。[p]
 *116
-白雾渗入绣球花园的每一个角落。我们俩在雾中的花园漫步。[p]
+白い霧があじさい園全体を覆っていた。[r]その中を僕たちふたりは歩いていく。[p]
 *117
-一个学姐。一个我。[p]
+先輩がひとり。僕がひとり。[p]
 [fadeoutse time=1500]
 [mask time=1500]
 [eval exp="sf.S5=1"]
@@ -396,4 +396,4 @@
 [wait time=800]
 [mask_off time="1500"]
 
-@jump storage="scenario_ch/scene5.ks" target=*start
+@jump storage="title.ks" target=*start

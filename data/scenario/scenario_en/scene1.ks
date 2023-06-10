@@ -17,7 +17,9 @@
 [eval exp="sf.Bclear=0"]
 [eval exp="sf.S1=1"]
 [mask_off time=1000]
-
+[iscript]
+tyrano.plugin.kag.config.defaultPitch = '1';
+[endscript]
 *scene1
 #
 “Sharing an umbrella”[p]
@@ -48,7 +50,7 @@ It’s so awkward.[p]
 “Woah. Haruya...”[p]
 [bg2 storage="tonarimono.jpg" time=0 cross=false wait=false][fadeoutse time=200 buf=1]
 *10
-One of my male classmates passing by glances at me before looking away. [r] He’s riding his bicycle and wearing a raincoat. [r]Under the raincoat, the rainy season school uniform is peeking out.[p]
+One of my male classmates passing by glances at me before looking away. [r]He’s riding his bicycle and wearing a raincoat. [r]Under the raincoat, the rainy season school uniform is peeking out.[p]
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
 *11
 #Senpai
@@ -87,7 +89,7 @@ Looking at the back wearing the raincoat, she grins.[p]
 “Yeah. And that’s more than enough.”[p]
 *22
 #Haruya
-“More than enough for what? Two months... So, until August. [r]  Er, during summer vacation, about the rumors...”[p]
+“More than enough for what? Two months... So, until August. Er, during summer vacation, about the rumors...”[p]
 *23
 #
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
@@ -99,7 +101,7 @@ Looking at the back wearing the raincoat, she grins.[p]
 *25
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
-With a light smile, senpai simply replies that she would behave. [r]My eyes are probably as moist as the humidity of the rainy season.[p]
+With a light smile, senpai simply replies that she would behave. My eyes are probably as moist as the humidity of the rainy season.[p]
 *26
 Her jet-black long hair was is from the rain and gave off a luster.[p]
 *27
@@ -222,11 +224,11 @@ I let out a sigh while looking at her back getting smaller in the distance.[p]
 See you...[p] 
 ;again... のほうが良さそう
 *67
-While I was hesitating whether to speak up or not, [r]I missed my timing and the moment flowed away.[p]
+While I was hesitating whether to speak up or not, I missed my timing and the moment flowed away.[p]
 *68
 Whenever something like this happens, I’m left with a bad aftertaste.[p]
 *69
-If she were to catch a cold because of this, I’m sure today’s event would weigh on [r]my conscience forever.[p]
+If she were to catch a cold because of this, I’m sure today’s event would weigh on my conscience forever.[p]
 *70
 My shirt is getting wet on the right shoulder. [r]The moist feeling makes me return to reality.[p]
 *71

@@ -24,7 +24,7 @@
 The following day after school, in the literary club room.[p]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=1000 wait=false cross=false]
 *1
-Senpai is lying face down on her desk and stares at the sky with languid eyes. [r]Her silky hair hangs over her arm and flows down the desk, flooding the tabletop in black.[p]
+Senpai is lying face down on her desk and stares at the sky with languid eyes. Her silky hair hangs over her arm and flows down the desk, flooding the tabletop in black.[p]
 *2
 Seeing that listless appearance, I can't help but remember what happened yesterday.[p]
 [haruya]
@@ -90,7 +90,7 @@ She mutters quietly.[p]
 #
 I do know a little about the hydrangea garden she has just mentioned.[p]
 *21
-It’s a rather far place, and from our neighborhood, [r]you can’t get there without changing trains and buses.[p]
+It’s a rather far place, and from our neighborhood, you can’t get there without changing trains and buses.[p]
 *22
 #Haruya
 “It's quite far.”[p]
@@ -105,7 +105,7 @@ It’s a rather far place, and from our neighborhood, [r]you can’t get there w
 “What about you, Haruya-kun? Do you like flowers?”[p]
 *26
 #Haruya
-“It depends on what kind. I like flowers like cherry blossoms, plums, and wisterias.[r]  I think hydrangeas are good too.”[p]
+“It depends on what kind. I like flowers like cherry blossoms, plums, and wisterias. I think hydrangeas are good too.”[p]
 *27
 #Senpai
 “Do you have a type?”[p]
@@ -113,7 +113,7 @@ It’s a rather far place, and from our neighborhood, [r]you can’t get there w
 #
 She laughs.[p]
 *29
-It doesn’t seem she’s looking for an answer so, after some hesitation, [r]I end up not saying anything.[p]
+It doesn’t seem she’s looking for an answer so, after some hesitation, I end up not saying anything.[p]
 *30
 #Senpai
 “Hey, Haruya-kun.”[p]
@@ -144,7 +144,7 @@ My voice comes out strange.[p]
 “Isn’t it supposed to rain on both Saturday and Sunday…?”[p]
 *39
 #
-I blurt out something that doesn't really matter. [r]The weather being good or bad isn’t important.[p]
+I blurt out something that doesn't really matter. The weather being good or bad isn’t important.[p]
 *40
 #Senpai
 [yukino/2]“Isn't it nice? Hydrangeas look good in the rain.”[p]
@@ -179,7 +179,7 @@ It’s painful to see her so lonely, and I feel the need to say something.[p]
 #
 Her face suddenly brightens, and I sense something has gone wrong.[p]
 *51
-With my comment I just meant that I think there’s nothing wrong with going out [r]in the rain, or something like that.[p]
+With my comment I just meant that I think there’s nothing wrong with going out in the rain, or something like that.[p]
 *52
 She, however, seems to have taken it in a different context.[p]
 *53
@@ -213,7 +213,7 @@ It’s my fault for not making my reply clear, so I want to fix it.[p]
 [mask_off time=500]
 And so, we start talking about our sightseeing plans.[p]
 *62
-As we finalize the schedule, the trip is quickly becoming a reality, and I grow more [r]and more psyched.[p]
+As we finalize the schedule, the trip is quickly becoming a reality, and I grow more and more psyched.[p]
 *63
 At some point I stopped thinking, and I probably talked a lot of nonsense.[p]
 [mask time=500]
@@ -229,7 +229,7 @@ At some point I stopped thinking, and I probably talked a lot of nonsense.[p]
 
 *66
 #
-By the end of our planning, I have calmed down. [r]We will meet in front of the station before noon, have lunch, and then get on the bus. [r]We will spend the afternoon visiting the hydrangea garden and sightseeing.[p]
+By the end of our planning, I have calmed down. We will meet in front of the station before noon, have lunch, and then get on the bus. We will spend the afternoon visiting the hydrangea garden and sightseeing.[p]
 *67
 Perfect.[p]
 *68
@@ -271,11 +271,11 @@ She tilts her head, and I begin to talk as if pulling a string of memories out o
 *77
 A murder case has recently taken the world by storm.[p]
 *78
-Incidents have occurred nationwide, and the corpses left behind have been [r]horribly disfigured. It’s even said that parts of the bodies are often missing.[p]
+Incidents have occurred nationwide, and the corpses left behind have been horribly disfigured. It’s even said that parts of the bodies are often missing.[p]
 *79
-The culprit hasn’t been caught yet, and since the range of the crimes is all over the [r]country, it’s not possible to trace the culprit's footsteps.[p]
+The culprit hasn’t been caught yet, and since the range of the crimes is all over the country, it’s not possible to trace the culprit's footsteps.[p]
 *80
-Yesterday, a corpse was discovered all the way north, and today a new one has appeared [r]at the far end of the south on the main island. Those mysterious incidents raise the [r]possibility of multiple perpetrators.[p]
+Yesterday, a corpse was discovered all the way north, and today a new one has appeared at the far end of the south on the main island. Those mysterious incidents raise the possibility of multiple perpetrators.[p]
 [mask time=500]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=0]
 [free name="kaisou" layer=1]
@@ -285,17 +285,17 @@ Yesterday, a corpse was discovered all the way north, and today a new one has ap
 [mask_off time=500]
 *81
 #Haruya
-“I just want to make sure. Right now, we can't say that it's absolutely safe, can we?[r]  But, we’re going anyway.”[p]
+“I just want to make sure. Right now, we can't say that it's absolutely safe, can we? But, we’re going anyway.”[p]
 
 *82
 #
-[yukino/8]At my words, a little groan comes out from the back of her throat. [r]Then, she takes a long breath.[p]
+[yukino/8]At my words, a little groan comes out from the back of her throat. Then, she takes a long breath.[p]
 
 *83
 #Senpai
 “If you want to say that we’re being conceited or careless you aren’t wrong, but…”[p]
 *84
-[yukino/1]“I think it’s fine as long as we don't go out at night.[r]  And in the first place, we’re still going to school like usual.”[p]
+[yukino/1]“I think it’s fine as long as we don't go out at night. And in the first place, we’re still going to school like usual.”[p]
 *85
 #Haruya
 “Alright. I just wanted confirmation.”[p]
@@ -329,7 +329,7 @@ Suddenly, my smartphone vibrates in my pocket.[p]
 *93
 When I take it out, I find that a classmate whom I talk to often has sent me a photo.[p]
 *94
-Drawn on a blackboard, there’s a doodle of a shared umbrella with a heart, and two [r]names lined up under it.[p]
+Drawn on a blackboard, there’s a doodle of a shared umbrella with a heart, and two names lined up under it.[p]
 *95
 Haruya Shitaji and Yukino Akabane.[p]
 *96
@@ -341,9 +341,9 @@ But there are a few things about the image that strike me.[p]
 *99
 One is the speed in which rumors spread.[p]
 *100
-The second is that the symbol of a shared umbrella with the names of a man and [r]a woman below is still deeply rooted in our modern society.[p]
+The second is that the symbol of a shared umbrella with the names of a man and a woman below is still deeply rooted in our modern society.[p]
 *101
-And, finally, it’s the star quality of my senpai, whose name is known even to my [r]classmates who don’t know her personally.[p]
+And, finally, it’s the star quality of my senpai, whose name is known even to my classmates who don’t know her personally.[p]
 *102
 She has a kind of genius.[p]
 [trans_out layer="2" time=500 method="fadeOutUp"][wt]
@@ -355,7 +355,7 @@ She has a kind of genius.[p]
 “What's wrong, Haruya-kun? Why are you sighing?”[p]
 *104
 #
-She had gotten up from her seat and was leaning against the window, and now is [r]calling out to me with her usual faint smile.[p]
+She had gotten up from her seat and was leaning against the window, and now is calling out to me with her usual faint smile.[p]
 *105
 I close my phone and answer.[p]
 
@@ -370,7 +370,7 @@ I close my phone and answer.[p]
 #
 She laughs.[p]
 *109
-June. Looking at the sky through the window of the cramped clubroom, [r]it looks like it’ll rain again.[p]
+June. Looking at the sky through the window of the cramped clubroom, it looks like it’ll rain again.[p]
 [fadeoutbgm time=1500]
 [mask time="1000"]
 [hide time=0]
@@ -382,4 +382,4 @@ June. Looking at the sky through the window of the cramped clubroom, [r]it looks
 [image layer="1" storage="vignette.png" name="kaisou"]
 [fadeinse storage=noise.ogg loop=true time=2000]
 [mask_off time="1000"]
-@jump storage="scene3.ks" target=*start
+@jump storage="scenario_en/scene3.ks" target=*start
