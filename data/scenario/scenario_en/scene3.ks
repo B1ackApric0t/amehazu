@@ -27,7 +27,7 @@
 *1
 Along with the school broadcast, the students leave the classrooms and step into the hallway.[p]
 *2
-The school is filled with voices. The flow of people, the voices of those recruiting new members... It's lively.[p]
+The school is filled with voices. The flow of people, the voices of those recruiting new members... It’s lively.[p]
 *3
 For the time being, I follow the crowd and escape into the corridor.[p]
 [bg2 storage="corridor.jpg" time="1000" wait=true method="fadeInRight"]
@@ -39,7 +39,7 @@ For the time being, I follow the crowd and escape into the corridor.[p]
 *6
 There’s no club activity in particular that I want to check out.[p]
 *7
-I like reading, so I might peek at the literature club, although I don't really like writing…[p]
+I like reading, so I might peek at the literature club, although I don’t really like writing…[p]
 *8
 On the other hand, if I go straight home then I won’t be able to make a decision.[p]
 *9
@@ -47,7 +47,7 @@ There’s a lot of enthusiasm swirling around to get freshmen, and that attentio
 *10
 And each time I give a vague, indecisive answer.[p]
 *11
-I wish I could say “no” more casually. After all, to them I'm just one more potential candidate.[p]
+I wish I could say “no” more casually. After all, to them I’m just one more potential candidate.[p]
 *12
 I wander around the school hoping to escape from the crowd.[p]
 [fadeoutse time=3000]
@@ -77,7 +77,7 @@ You can see the cityscape in the distance, and the horizon is visible.[p]
 #
 I look at my reflection in the window and sigh.[p]
 *21
-I have a feeling that the person I see there is going to spend his high school life as if it were someone else's problem.[p]
+I have a feeling that the person I see there is going to spend his high school life as if it were someone else’s problem.[p]
 *22
 If you don’t like crowds, you should just go home.[p]
 *23
@@ -100,12 +100,12 @@ When did it happen? I’m sure the door was closed...[p]
 She gives me a gentle smile, a smile that looks as though directed at someone who has been with her for many years.[p]
 *29
 #Haruya
-“A-ah... Yes, that's right.”[p]
+“A-ah... Yes, that’s right.”[p]
 *30
 #
 I have a hard time replying properly.[p]
 *31
-I wish I could talk more casually, but it's difficult for me. I think it through before speaking. I also think a lot about the words I choose.[p]
+I wish I could talk more casually, but it’s difficult for me. I think it through before speaking. I also think a lot about the words I choose.[p]
 *32
 #??
 [yukino/7][kanim name="yukino" keyframe="nod" time="500"]“Yes.”[p]
@@ -123,7 +123,7 @@ However, the other person nods without caring about my stuttering.[p]
 *37
 Somehow, she seems like a unique person.[p]
 *38
-She has a peculiar timing. No, I guess she's a peculiar person in many ways, since she's purposefully away from the bustling school building that’s busy recruiting new students.[p]
+She has a peculiar timing. No, I guess she’s a peculiar person in many ways, since she’s purposefully away from the bustling school building that’s busy recruiting new students.[p]
 *39
 #??
 [yukino/7]“Spring is nice.”[p]
@@ -138,7 +138,7 @@ She has a peculiar timing. No, I guess she's a peculiar person in many ways, sin
 “I agree.”[p]
 *43
 #??
-“It's completely different from winter.”[p]
+“It’s completely different from winter.”[p]
 *44
 #Haruya
 “Yes.”[p]
@@ -147,10 +147,10 @@ She has a peculiar timing. No, I guess she's a peculiar person in many ways, sin
 “It’s warm.”[p]
 *46
 #Haruya
-“It's warm indeed.”[p]
+“It’s warm indeed.”[p]
 *47
 #??
-[yukino/2]“It's spring.”[p]
+[yukino/2]“It’s spring.”[p]
 *48
 #Haruya
 “...”[p]
@@ -174,7 +174,7 @@ I want to open the window and try touching the spring air, but I look sideways a
 *55
 I fear that, if I open the window now, the conversation will go on eternally. I feel like I will have to talk to this person forever.[p]
 *56
-I'm not good at being involved with others.[p]
+I’m not good at being involved with others.[p]
 *57
 It’s more than I can handle.[p]
 *58
@@ -202,10 +202,10 @@ While saying that, she leans her back against the window.[p]
 #
 Wait. I suddenly no longer follow.[p]
 *65
-I don't understand, but that doesn't mean I don’t share the feeling. It just means that I can't quite grasp what she’s trying to say.[p]
+I don’t understand, but that doesn’t mean I don’t share the feeling. It just means that I can’t quite grasp what she’s trying to say.[p]
 *66
 #??
-[yukino/12]“I'm sorry. Could it be that I've been saying weird things all this time?”[p]
+[yukino/12]“I’m sorry. Could it be that I’ve been saying weird things all this time?”[p]
 *67
 #
 When I’m at a loss for an answer, the other person laughs embarrassedly.[p]
@@ -230,12 +230,12 @@ I can easily find a reason to agree with her. If you look at the city, then ever
 “This city... Eh, no... There’s a city wherever you go. Because a city... A city... Is where people live.”[p]
 *75
 #
-I don't know what to say so, even though I’m talking, I have no idea of what I'm saying. I let my mouth move while my brain tries to keep up. If I stop now, we’ll be in silence.[p]
+I don’t know what to say so, even though I’m talking, I have no idea of what I’m saying. I let my mouth move while my brain tries to keep up. If I stop now, we’ll be in silence.[p]
 *76
 Why am I even doing this...[p]
 *77
 #Haruya
-“No matter where you are, it’s filled with places where people live, and people's life activities continue... I guess it's this kind of feeling, isn't it?”[p]
+“No matter where you are, it’s filled with places where people live, and people’s life activities continue... I guess it’s this kind of feeling, isn’t it?”[p]
 *78
 #
 [yukino/9]
@@ -249,11 +249,11 @@ Was it a quiz?[p]
 *81
 Silence fills the classroom again. At least I managed to overcome the city situation, but what now?[p]
 *82
-I look out the window again. I can't exactly leave just like that...[p]
+I look out the window again. I can’t exactly leave just like that...[p]
 *83
 Silence.[p]
 *84
-I wish I could say something witty. Unfortunately, I'm no good at that sort of thing.[p]
+I wish I could say something witty. Unfortunately, I’m no good at that sort of thing.[p]
 *85
 In the silence, the other person also turns to face the window. She stretches out her arm in front of me and unlocks the window latch.[p]
 [mask color=0xFFFFFF time=500]
@@ -300,7 +300,7 @@ This moment stays burned in my mind.[p]
 *95
 Back then, did I really want senpai to open the window?[p]
 *96
-At that time, I was struck by something like an incomprehensible deep emotion, and I couldn't say anything.[p]
+At that time, I was struck by something like an incomprehensible deep emotion, and I couldn’t say anything.[p]
 *97
 Startled, I snapped out of my abstraction, and I turned to face the window again.[p]
 *98
@@ -316,7 +316,7 @@ No. Rather than to the window, I turned to the blowing of a new wind.[p]
 
 *100
 #??
-“My name is Yukino Akabane. I'm a second-year student. What about you?”[p]
+“My name is Yukino Akabane. I’m a second-year student. What about you?”[p]
 *101
 #Haruya
 “I’m Haruya Shitaji… A freshman.”[p]
@@ -332,7 +332,7 @@ No. Rather than to the window, I turned to the blowing of a new wind.[p]
 #
 [hide]
 *105
-I follow behind the person whose name I didn't even know until a moment ago.[p]
+I follow behind the person whose name I didn’t even know until a moment ago.[p]
 [bg2 storage="corridor.jpg" time="1500" cross=true wait=true method="fadeInRight"]
 *106
 We leave the classroom, pass through the crowds of the main school building and arrive in front of a small classroom.[p]
@@ -363,7 +363,7 @@ There’s a large table in the center, and a girl who seems to be a senpai is si
 #
 [yukino7]
 #Yukino
-“I'm back, president.”[p]
+“I’m back, president.”[p]
 #
 [buchob1]
 *114
@@ -371,14 +371,14 @@ There’s a large table in the center, and a girl who seems to be a senpai is si
 “It looks like you harvested. As expected of Bane-chan.”[p]
 *115
 #Yukino
-“I'm more than happy to have met your expectations.”[p]
+“I’m more than happy to have met your expectations.”[p]
 *116
 #Club President
-[bucho/b3]“Hmm, expectations... I didn't have any particular expectations of you, though.”[p]
+[bucho/b3]“Hmm, expectations... I didn’t have any particular expectations of you, though.”[p]
 #
 [kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 *117
-"Fu…," the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
+“Fu…,” the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
 *118
 #Club President
 “Want to take a seat?”[p]
@@ -398,7 +398,7 @@ There’s a large table in the center, and a girl who seems to be a senpai is si
 #Haruya
 “Why are you talking on the premise that I will join the club?”[p]
 *124
-#先輩
+#Yukino
 “Won’t you?”[p]
 *125
 #
@@ -448,4 +448,4 @@ With a sense of security that resembles determination, I fall asleep.[p]
 [playse storage=bus.ogg buf=1]
 [haruya1 time=0]
 [mask_off time="1000" effect="fadeOutUp"]
-@jump storage="scene4_en.ks" target=*start
+@jump storage="scenario_en/scene4.ks" target=*start

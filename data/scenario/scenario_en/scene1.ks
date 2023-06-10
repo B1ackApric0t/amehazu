@@ -57,7 +57,7 @@ One of my male classmates passing by glances at me before looking away. [r]He’
 “Is he someone you know?”[p]
 *12
 #Haruya
-“He's a classmate. Barely an acquaintance, really.”[p]
+“He’s a classmate. Barely an acquaintance, really.”[p]
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
 *13
 #Senpai
@@ -117,7 +117,7 @@ I turn my face away in reflex. Then, she puts her lips close to my ear.[p]
 “You’re embarrassed. Your face is beet red.”[p]
 *32
 #Haruya
-“Please don't whisper in my ear. I'll close the umbrella.”[p]
+“Please don’t whisper in my ear. I’ll close the umbrella.”[p]
 *33
 #Senpai
 “That’s fine by me? I was about to go home wet anyway.”[p]
@@ -151,7 +151,7 @@ And now here we are.[p]
 "Oh? Was my joke too high level?”[p]
 *44
 #Haruya
-“I'm so tired I could cry...”[p]
+“I’r so tired I could cry...”[p]
 *45
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]

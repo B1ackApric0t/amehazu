@@ -26,7 +26,7 @@ The following day after school, in the literary club room.[p]
 *1
 Senpai is lying face down on her desk and stares at the sky with languid eyes. Her silky hair hangs over her arm and flows down the desk, flooding the tabletop in black.[p]
 *2
-Seeing that listless appearance, I can't help but remember what happened yesterday.[p]
+Seeing that listless appearance, I can’t help but remember what happened yesterday.[p]
 [haruya]
 *3
 #Haruya
@@ -35,14 +35,14 @@ Seeing that listless appearance, I can't help but remember what happened yesterd
 [yukino13 width=1400 top=35]
 *4
 #Senpai
-“Nope. I'm just tired. It's not like I caught a cold, so don't worry.”[p]
+“Nope. I’m just tired. It’s not like I caught a cold, so don’t worry.”[p]
 *5
 #
 Her words ease the lump in my chest.[p]
 
 *6
 #Haruya
-“It's rare to see you tired.”[p]
+“It’s rare to see you tired.”[p]
 *7
 #Senpai
 [yukino/3]“Hmm... Yeah, it’s weird.”[p]
@@ -63,13 +63,13 @@ She puts her chin up on her arm and faces my way.[p]
 [yukino/2]“Must be because we haven’t done any skinship lately.”[p]
 *12
 #Haruya
-“I don't remember us ever doing that.”[p]
+“I don’t remember us ever doing that.”[p]
 *13
 #Senpai
-“Then let's start now!”[p]
+“Then let’s start now!”[p]
 *14
 #Haruya
-“Let's not.”[p]
+“Let’s not.”[p]
 *15
 #
 [anim name="yukino" top="+=15" time=500]
@@ -93,7 +93,7 @@ I do know a little about the hydrangea garden she has just mentioned.[p]
 It’s a rather far place, and from our neighborhood, you can’t get there without changing trains and buses.[p]
 *22
 #Haruya
-“It's quite far.”[p]
+“It’s quite far.”[p]
 *23
 #Senpai
 [yukino/7]“Yeah, but I want to go... I like hydrangeas.”[p]
@@ -144,10 +144,10 @@ My voice comes out strange.[p]
 “Isn’t it supposed to rain on both Saturday and Sunday…?”[p]
 *39
 #
-I blurt out something that doesn't really matter. The weather being good or bad isn’t important.[p]
+I blurt out something that doesn’t really matter. The weather being good or bad isn’t important.[p]
 *40
 #Senpai
-[yukino/2]“Isn't it nice? Hydrangeas look good in the rain.”[p]
+[yukino/2]“Isn’t it nice? Hydrangeas look good in the rain.”[p]
 *41
 #
 Luckily or unfortunately, she doesn’t seem to care about the weather forecast.[p]
@@ -168,10 +168,10 @@ It’s painful to see her so lonely, and I feel the need to say something.[p]
 “But I think it’s good...”[p]
 *47
 #Senpai
-[yukino/1]“You think it's… good?”[p]
+[yukino/1]“You think it’s… good?”[p]
 *48
 #Haruya
-“Yes, that even if it's raining...”[p]
+“Yes, that even if it’s raining...”[p]
 *49
 #Senpai
 [yukino/9]“For real?!”[p]
@@ -184,7 +184,7 @@ With my comment I just meant that I think there’s nothing wrong with going out
 She, however, seems to have taken it in a different context.[p]
 *53
 #Senpai
-[yukino/2]“Ahh, I'm happy... I'm looking forward to it!”[p]
+[yukino/2]“Ahh, I’m happy... I’m looking forward to it!”[p]
 *54
 #
 Looking at her smiling face, I can’t bring myself to correct the misunderstanding.[p]
@@ -201,7 +201,7 @@ It’s my fault for not making my reply clear, so I want to fix it.[p]
 
 *59
 #Haruya
-“Let's go out together on the weekend. To see the hydrangeas.”[p]
+“Let’s go out together on the weekend. To see the hydrangeas.”[p]
 *60
 #Senpai
 [yukino/2][kanim name="yukino" keyframe="nod" time="500"]“Yeah! I know! why don’t we organize the trip?”[p]
@@ -273,7 +273,7 @@ A murder case has recently taken the world by storm.[p]
 *78
 Incidents have occurred nationwide, and the corpses left behind have been horribly disfigured. It’s even said that parts of the bodies are often missing.[p]
 *79
-The culprit hasn’t been caught yet, and since the range of the crimes is all over the country, it’s not possible to trace the culprit's footsteps.[p]
+The culprit hasn’t been caught yet, and since the range of the crimes is all over the country, it’s not possible to trace the culprit’s footsteps.[p]
 *80
 Yesterday, a corpse was discovered all the way north, and today a new one has appeared at the far end of the south on the main island. Those mysterious incidents raise the possibility of multiple perpetrators.[p]
 [mask time=500]
@@ -285,7 +285,7 @@ Yesterday, a corpse was discovered all the way north, and today a new one has ap
 [mask_off time=500]
 *81
 #Haruya
-“I just want to make sure. Right now, we can't say that it's absolutely safe, can we? But, we’re going anyway.”[p]
+“I just want to make sure. Right now, we can’t say that it’s absolutely safe, can we? But, we’re going anyway.”[p]
 
 *82
 #
@@ -295,13 +295,13 @@ Yesterday, a corpse was discovered all the way north, and today a new one has ap
 #Senpai
 “If you want to say that we’re being conceited or careless you aren’t wrong, but…”[p]
 *84
-[yukino/1]“I think it’s fine as long as we don't go out at night. And in the first place, we’re still going to school like usual.”[p]
+[yukino/1]“I think it’s fine as long as we don’t go out at night. And in the first place, we’re still going to school like usual.”[p]
 *85
 #Haruya
 “Alright. I just wanted confirmation.”[p]
 *86
 #Senpai
-“If you're worried, do you want to cancel?”[p]
+“If you’re worried, do you want to cancel?”[p]
 [fadeoutbgm time=1000]
 *87
 #Haruya
@@ -352,7 +352,7 @@ She has a kind of genius.[p]
 [yukino7]
 *103
 #Senpai
-“What's wrong, Haruya-kun? Why are you sighing?”[p]
+“What’s wrong, Haruya-kun? Why are you sighing?”[p]
 *104
 #
 She had gotten up from her seat and was leaning against the window, and now is calling out to me with her usual faint smile.[p]

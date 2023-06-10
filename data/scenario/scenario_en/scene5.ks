@@ -20,26 +20,26 @@
 
 *start
 #
-翌日。放課後。[p]
+The following day after school, in the literary club room.[p]
 *1
-ひとり部室で待ってみたものの、先輩がやってくる気配はない。[p]
+I’m waiting alone in the club room, but there’s no sign of senpai coming.[p]
 *2
-狭い部屋の中に息苦しいほどの静寂が詰まっていて、[r]外に降る雨の音が異様なほど大きく聞こえる。[p]
+The small room is filled with suffocating silence, and the sound of the rain falling outside can be heard strangely loud.[p]
 *3
-部室の窓からは灰色の空が覗いていた。[p]
+A grey sky peeks through the window.[p]
 *4
-先輩が部活に来ないなんて初めての事態だった。[p]
+It’s the first time she hasn’t come to club activity.[p]
 *5
-いや、この文芸部は非常にのんびりした部活で、[r]もはや部活動より放課後の溜まり場と言ったほうが正しいのだが、[r]それだけに先輩のことが気になってしまう。[p]
+The literary club is very laid-back. Rather than a club activity, it’d be more correct to call it an after-school hangout, and that's exactly why I’m worried about her.[p]
 *6
 *7
-……学校には来ているのだろうか？[p]
+I wonder if she has come to school.[p]
 *8
-先輩のことが不安になるものの、どう動けば良いか分からない。[p]
+I’m worried, but I don’t know what to do.[p]
 *9
-体は大丈夫ですかなんて聞くにしても、[r]本人が何もなかったような体で振る舞うので、[r]僕はそれ以上身動きできない。[p]
+Even if I asked if her body is okay, she’d act as if nothing happened, so I wouldn’t be able to say anything else.[p]
 *10
-もどかしさが募って苛立ちに変わってくる。[p]
+Frustration builds up and turns into irritation.[p]
 [mask time=300]
 [fadeoutse time=4000]
 [kaisou]
@@ -47,37 +47,37 @@
 [bg2 storage=tekubi.jpg time=300]
 [mask_off time=300]
 *11
-頭に浮かぶのは先輩のことばかりだ。[r]それから、あの不意に目に入った影のことも。[p]
+All I can think of is senpai, and that shadow that caught my eye.[p]
 *12
-地面から飛び出して、[r]おそらく先輩の手首から先を食いちぎって消えたあの影だ。[p]
+The shadow that jumped out of the ground and probably ripped off her wrist before disappearing into the ground again.[p]
 *13
-あれはなんだったんだろう？　[r]どうして先輩は、あれの存在を無理にでも隠し通そうとするのだろう？　[r]しらばっくれるのだろう？[p]
+Just what was that thing? And why would she try to keep its existence hidden? Should I also act like I saw nothing?[p]
 *14
-僕の頭はそのまま記憶をたどって、全国連続殺人事件を引っ張り出す。[r]今日のニュースで、再び犠牲者は数を一人増やしていた。[p]
+My head rummages through my memories and pulls out the nationwide serial murder case. On the news, the number of casualties has increased by one again.[p]
 *15
-自然、僕の頭の中で二つの事件が結びつく。[p]
+Naturally, I connect the two incidents in my head.[p]
 [bg2 storage=black.png time=1000 cross=true]
 [M0]
 *16
-全国で人を襲っているのは、殺人犯などではなく、あの影なんじゃないか？[p]
+Isn’t the shadow the one attacking people all over the country, and not an ordinary murderer?[p]
 *17
-それなら犯人の足取りがつかめないことや、[r]全国に犯行が分布している理由も説明できる。[p]
+If that were the case, it would explain why it has been so difficult to track down the criminal, as well as why the crimes are spread across the country.[p]
 *18
-説明できるのだが。[p]
+That could explain it.[p]
 *19
-そんなことあり得るのだろうか？　[r]そもそもあの影は何だったのだろう？[r]本当にあの場にいたのだろうか？[p]
+Is that possible? What was that shadow in the first place? Was it really there?[p]
 *20
-あの影が僕の見間違いで、先輩の言っていたことも本当で、[r]本当にただあのタイミングで転んでしまっただけというのは？[p]
+Maybe what senpai said about tripping is true, and the shadow has just been a product of my imagination.[p]
 *21
-……わからない。どんな想像も推測も空を掴むようだ。[p]
+It’s too confusing. Any speculation is like trying to grasp the sky.[p]
 *22
-ただひとつわかっているのは、僕たちがいまなんだか危険で怪しくて[r]不可解な状況にあるということだけだ。[p]
+The only thing I can be sure of is that we’re in a dangerously suspicious and mysterious situation.[p]
 [mask time=300]
 [fkaisou]
 [bg2 storage=black.png time=300]
 [mask_off time=300]
 *23
-このまま考えていてもしょうがないので、僕は部室を発つことにする。[r]いま何時頃かとポケットからスマホを出したが、先輩からの連絡はなかった。[p]
+There’s no point in thinking about it, so I leave the clubroom. I take out my smartphone from my pocket to see the time, but there’s no news from senpai.[p]
 [mhide]
 [bg2 storage="entrance.jpg" time=2000 cross=true wait=true method=fadeInRight]
 [wait time=200]
@@ -85,39 +85,39 @@
 [bg2 storage="michi_rain.jpg" time=2000 cross=true wait=true method=fadeInRight]
 [mshow]
 *24
-曇天のもとを歩んでいると、何かが僕の首筋を這い上がった。[p]
+As I’m walking in the cloudy weather, something crawls up my neck.[p]
 *25
-その感覚に思わず声をあげそうになるが、すんでのところでこらえた。[r]虫か何かだろうか？[p]
+The sensation makes me want to scream, but I barely manage to hold back. Maybe an insect or something?[p]
 *26
-うなじを手で払おうとするがその感覚は抜けない。[r]首筋がどこか濡れている。[p]
+I try to wipe my nape with my hand, but I can’t get rid of that feeling. My neck is wet.[p]
 *27
-すると今度はそのぞわぞわしたものが耳元にまで上ってきた。[p]
+The shuddering comes up to my ear.[p]
 [bg2 storage=black.png time=100]
 *28
-#？？
-「今宵、雨が降る」[p]
+#??
+“Tonight, it will rain.”[p]
 *29
 #
-ぞわりとした。[r]まるで地底から響いてくるような声が、僕の鼓膜を震わせた。[p]
+I’m shivering. A voice that sounds like it’s coming from the depths of the earth makes my eardrums vibrate.[p]
 *30
 #？？
-「亥の刻。汝が住まいの戸口にて待たれたし」[p]
+“At the time of the boar I shall await at the door of your dwelling.”[p]
 *31
 #
 [bg2 storage="michi_rain.jpg" time=500 wait=true]
-耳元で何かがぱちんと弾けた。[r]おそるおそる手をやってみると、指先が濡れている。[p]
+Something pops in my ear. When I cautiously touch my ear, my fingertips are wet.[p]
 *32
-いまのは何だったんだ？[p]
+What has just happened?[p]
 *33
-僕は急に恐ろしくてたまらなくなる。知ってはいけないもの、[r]聞いてはならないものに触れられてしまった気がする。[p]
+Fear like I have never felt before overcomes me. I feel like I’ve been touched by something I shouldn't have knowledge of, by something I should have never heard.[p]
 *34
-どうして立て続けにこんな目に遭うのだろう？　[r]訳が分からない。[p]
+How come I keep meeting things like these? I don’t understand.[p]
 *35
-ただ、ひとつだけ言えることは、[r]何か超常的なものが今この町に出没していて、[r]それは僕と関わりを持とうとしているらしいということだった。[p]
+All I can piece together is that something supernatural is haunting the town, and it seems to be trying to get in touch with me.[p]
 *36
-僕は何かに巻き込まれたらしかった。[r]そして昨日先輩が襲われたことも、その何かの一部に違いなかった。[p]
+I’m caught in something, and the fact that senpai was attacked yesterday must be part of that.[p]
 *37
-呼びつけられた不穏さを胸に抱えながら、[r]僕は重い足取りで帰路を歩むのだった。[p]
+With uneasiness in my heart, I walk back home with heavy steps.[p]
 [fadeoutse time=1500]
 [mask time="1000"]
 [bg2 storage="black.png" time="1500"]

@@ -22,14 +22,14 @@
 
 *start
 #Senpai
-“It's strange.”[p]
+“It’s strange.”[p]
 *1
 #Haruya
 [hmod]“What is?”[p]
 *2
 #Senpai
 [hmod storage=yukino/tatie1.png]
-“Doesn't the scenery you see from the bus window look completely different from usual? [r]Look at this city, too.”[p]
+“Doesn’t the scenery you see from the bus window look completely different from usual? Look at this city, too.”[p]
 *3
 #
 A rainy city flows outside the window. Senpai is looking deeply at the window of the bus dripping with water.[p]
@@ -49,7 +49,7 @@ I’ve heard rumors that some people even spend their holidays in uniforms, but 
 [hmod]“You do?”[p]
 *9
 #Senpai
-[hmod storage=yukino/tatie1.png]“Yes! Don't you feel it’s out of the ordinary?”[p]
+[hmod storage=yukino/tatie1.png]“Yes! Don’t you feel it’s out of the ordinary?”[p]
 *10
 #Haruya
 [hmod]“Hmm? "I think I kinda understand, but...”[p]
@@ -71,13 +71,13 @@ Senpai’s daily life seems to be full of surprises and discoveries.[p]
 #Haruya
 [hmod]“Ah, I kind of understand how you feel.”[p]
 *17
-“Speaking of getting tired of things... No matter how ‘out of the ordinary’ it is, won’t you get bored of wearing the uniform every day? If there isn’t “ordinary” there can’t be ‘unordinary’ either.”[p]
+“Speaking of getting tired of things... No matter how ‘out of the ordinary’ it is, won’t you get bored of wearing the uniform every day? If there isn’t ‘ordinary’ there can’t be ‘unordinary’ either.”[p]
 *18
 #Senpai
-[hmod storage=yukino/tatie7.png]“I'm not tired of it so far. In the long run, high school itself is a special event in life.”[p]
+[hmod storage=yukino/tatie7.png]“I’m not tired of it so far. In the long run, high school itself is a special event in life.”[p]
 *19
 #Haruya
-[hmod]“You're philosophical.”[p]
+[hmod]“you’re philosophical.”[p]
 *20
 #Senpai
 [hmod storage=yukino/tatie7.png]“Doesn’t it apply to today too? Going out somewhere with someone.”[p]
@@ -147,7 +147,7 @@ She suddenly stops spinning. Her skirt and hair float and sway.[p]
 [yukino10 width=1400 top=30]
 *40
 #Senpai
-“If you weren't with me, I wouldn't be as happy.”[p]
+“If you weren’t with me, I wouldn’t be as happy.”[p]
 *41
 #Haruya
 “Is that so...”[p]
@@ -156,9 +156,9 @@ She suddenly stops spinning. Her skirt and hair float and sway.[p]
 If anything, my image of senpai is that of a person capable of being free and cheery anytime, anywhere.[p]
 *43
 #Senpai
-[yukino/8]“Hmm... How to put it? If I had been here alone, I'm sure I would’ve been scared. Just a little bit.”[p]
+[yukino/8]“Hmm... How to put it? If I had been here alone, I’m sure I would’ve been scared. Just a little bit.”[p]
 *44
-[yukino/10]“It's so beautiful and wonderful, and the scenery goes on forever... Then I’d suddenly wonder if I can really go back to where I started from here.”[p]
+[yukino/10]“It’s so beautiful and wonderful, and the scenery goes on forever... Then I’d suddenly wonder if I can really go back to where I started from here.”[p]
 *45
 #Haruya
 “Er...?”[p]
@@ -167,7 +167,7 @@ If anything, my image of senpai is that of a person capable of being free and ch
 I feel like I both understand and don’t.[p]
 *47
 #Senpai
-[yukino/7]“However, I feel relieved when you're here.　I can clearly see that I can go back.”[p]
+[yukino/7]“However, I feel relieved when you’re here.　I can clearly see that I can go back.”[p]
 *48
 #
 I feel like I’ve been told something really outrageous. I wait patiently for her words.[p]
@@ -202,7 +202,7 @@ But I want to answer something, I believe I have to answer, and in the end, the 
 She repeats my words.[p]
 [hide wait=false time=400]
 *60
-“I want to understand...” I don't think it's a very nice thing to say. Or rather, isn't it the same as saying I just don’t get it?[p]
+“I want to understand...” I don’t think it’s a very nice thing to say. Or rather, isn’t it the same as saying I just don’t get it?[p]
 *61
 #Senpai
 “Pffft!”[p]
@@ -212,13 +212,13 @@ She repeats my words.[p]
 She laughs. I had been looking down without realizing, and when I lift my gaze, I see her advancing forward with hopping steps.[p]
 *63
 #Senpai
-[yukino/2]“I don't understand!”[p]
+[yukino/2]“I don’t understand!”[p]
 *64
 #Haruya
 “Yes...?”[p]
 *65
 #Senpai
-“I don’t understand how I feel right now! I don't know what to say!! Hahahaha...”[p]
+“I don’t understand how I feel right now! I don’t know what to say!! Hahahaha...”[p]
 *66
 #
 [hide]
@@ -252,13 +252,13 @@ That being said, all her hopping around is dangerous, so I call out to her from 
 *72
 What just happened...?[p]
 *73
-I don't know.[p]
+I don’t know.[p]
 *74
 If I had to say, it looked like a mass of shadows.[p]
 *75
-Something popped out of the ground, snatched something from senpai's hand and disappeared into the ground again.[p]
+Something popped out of the ground, snatched something from senpaI’s hand and disappeared into the ground again.[p]
 *76
-Her red umbrella fell and bounced on the road full of hydrangeas. Senpai's body collapsed on the rain-soaked dirt ground.[p]
+Her red umbrella fell and bounced on the road full of hydrangeas. SenpaI’s body collapsed on the rain-soaked dirt ground.[p]
 *77
 #Haruya
 “Senpai...?”[p]
@@ -316,7 +316,7 @@ Excessively normal.[p]
 “Huh? But- Senpai...”[p]
 *94
 #Senpai
-“I'm fine. Thank you for your concern.”[p]
+“I’m fine. Thank you for your concern.”[p]
 *95
 #Haruya
 “Senpai, your left hand...”[p]
@@ -329,7 +329,7 @@ Excessively normal.[p]
 She tilts her head and stretches out her left hand from inside the sleeve.[p]
 *98
 #Senpai
-“My left hand? What's wrong with it?”[p]
+“My left hand? What’s wrong with it?”[p]
 *99
 #Haruya
 “...”[p]
@@ -342,21 +342,21 @@ I can’t say anything. There’s a wall. A wall that strongly rejects me.[p]
 She is rejecting me.[p]
 *103
 #Haruya
-“No... I'm just glad you're safe.”[p]
+“No... I’m just glad you’re safe.”[p]
 [M0]
 [fadeinse storage=rain_kasa.ogg time=1500 loop=true]
 [bg2 name="ajisaibg" storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 cross=true]
 [yukino7 top=30 width=1500]
 *104
 #Senpai
-“I'm sorry I worried you.”[p]
+“I’m sorry I worried you.”[p]
 *105
 #
 [anim name=ajisaibg top=+180 time=1000]
 She stands up. Picking up the umbrella that was lying around, she turns to me to say:[p]
 *106
 #Senpai
-“Then! Let's resume sightseeing, Haruya-kun.　I want to go farther.”[p]
+“Then! Let’s resume sightseeing, Haruya-kun.　I want to go farther.”[p]
 *107
 #
 I think it’s creepy.[p]
@@ -374,7 +374,7 @@ But that’s the first time I ever felt uneasy.[p]
 “Yes...”[p]
 *112
 #Senpai
-[yukino/4]“Aren't you coming?”[p]
+[yukino/4]“Aren’t you coming?”[p]
 *113
 #Haruya
 “I’m coming...”[p]
@@ -383,7 +383,7 @@ But that’s the first time I ever felt uneasy.[p]
 #
 Even after all that, she is still happily screaming and letting out sounds of admiration. We even take a picture together.[p]
 *115
-But I don't know how to look at her.[p]
+But I don’t know how to look at her.[p]
 *116
 A white mist covers the entire hydrangea garden. We both walk through it.[p]
 *117
