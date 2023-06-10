@@ -98,7 +98,7 @@ From the sound of it, even she seems to believe that going to see the hydrangeas
 [hmod]“You’re nuts.”[p]
 *26
 #
-バスは行く。僕たちの非日常を乗せて。[p]
+The bus carries our extraordinary life.[p]
 [fadeoutse time=1000]
 [playse storage=bus.ogg buf=1]
 [mask time="700"]
@@ -108,132 +108,134 @@ From the sound of it, even she seems to believe that going to see the hydrangeas
 [mask_off time="700"]
 *27
 #
-僕の目の前をその人は、くるくると踊りながら歩いていた。[r]赤い傘の下にスカートの裾と黒髪が舞っていた。[p]
+She’s walking in front of me, spinning and hopping around. The hem of her skirt and her black hair dancing under the red umbrella.[p]
 *28
-青や紫や桃色のあじさいに囲まれながら、[r]その人は無邪気にはしゃいでいた。[p]
+Surrounded by blue, purple, and pink hydrangeas, she’s innocently playing around.[p]
 [yukino2]
 *29
 #Senpai
-“どうして人間の目って前にしかついていないんだろう！”[p]
+“Why do humans only have eyes in front?”[p]
 *30
-“全部一遍に視界に収めたいんだけどっ、中々うまくいかないなあ！”[p]
+“I want to keep everything in sight, but I just can’t!”[p]
 *31
 #
-そういって子どものように喜ぶ様に、思わず僕の顔も綻ぶ。[p]
+Hearing her say that, happy like a child, an unintentional smile spreads on my face.[p]
 [haruya]
 *32
 #Haruya
-“それはちょっと、というかだいぶ難しい気もしますけどね”[p]
+“That would be a bit... No, quite difficult to achieve.”[p]
 *33
 #
-そう言う僕も、このあじさい園には興奮していた。[r]あじさいが海のようにどこまでも茂っているのだ。[p]
+Having said that, I’m also excited about the hydrangea garden. The hydrangeas grow as far as the sea.[p]
 *34
-今日が霧雨なのも相まって、まるでいま僕たちは地上のどことも隔絶された[r]別世界を歩いているみたいだった。[p]
+Combined with the drizzle, it feels as if we’re walking in another world, isolated from anywhere else on Earth.[p]
 *35
 #Senpai
-“いいね、すごくいい！”[p]
+“Lovely! It’s really fantastic!”[p]
 *36
-[yukino/7]“あじさいがどこまでも咲いていて、私を包んでいて、[r]　道は霧の向こうにずっと続いてて、そして君がいる”[p]
+[yukino/7]“The hydrangeas are blooming everywhere, enveloping me, the road continues beyond the fog, and you are here.”[p]
 *37
 #Haruya
-“……僕ですか？”[p]
+“Me...?”[p]
 *38
 #Senpai
-“そう！”[p]
+“Yes!”[p]
 *39
 #
 [hide time=400]
-先輩がぴたっと回転を止めた。[r]スカートと髪の毛がふわりと浮いて、揺れた。[p]
+She suddenly stops spinning. Her skirt and hair float and sway.[p]
 [yukino10 width=1400 top=30]
 *40
 #Senpai
-“たぶんだけどね、君がついていなかったら、[r]　私はこんなにはしゃげはしなかったと思う”[p]
+“If you weren't with me, I wouldn't be as happy.”[p]
 *41
 #Haruya
-“……そうですか？”[p]
+“Is that so...”[p]
 *42
 #
-むしろ先輩はいつでもどこでもひとりでも自由気ままなイメージがあった。[p]
+If anything, my image of senpai is that of a person capable of being free and cheery anytime, anywhere.[p]
 *43
 #Senpai
-[yukino/8]“んー……なんて言うのかな？[r]　もしもひとりでここにいたら、きっと怖くなっていたと思う。[r]　少しだけね”[p]
+[yukino/8]“Hmm... How to put it? If I had been here alone, I'm sure I would’ve been scared. Just a little bit.”[p]
 *44
-[yukino/10]“あまりにきれいで幻想的で、そんな景色がどこまでも続いていて……[r]　そしたら私は、自分は本当に、ここから元の場所に帰れるのかなって、[r]　ふっと思ってしまう”[p]
+[yukino/10]“It's so beautiful and wonderful, and the scenery goes on forever... Then I’d suddenly wonder if I can really go back to where I started from here.”[p]
 *45
 #Haruya
-“……あー……？”[p]
+“Er...?”[p]
 *46
 #
-分かるような、分からないような。[p]
+I feel like I both understand and don’t.[p]
 *47
 #Senpai
-[yukino/7]“だけれど、君がいると私は安心するんだよ。[r]　ここに帰ればいいんだって、はっきり分かる”[p]
+[yukino/7]“However, I feel relieved when you're here.　I can clearly see that I can go back.”[p]
 *48
 #
-……なんだか実はとんでもないことを言われている気がする。[r]僕はじっと先輩の言葉を待った。[p]
+I feel like I’ve been told something really outrageous. I wait patiently for her words.[p]
 *49
 #Senpai
-[yukino/8]“だから……うーん……”[p]
+[yukino/8]“So... Hmm...”[p]
 *50
-[yukino/7]“とにかくさ、君がいると私は遠くまで行けるんだ”[p]
+[yukino/7]“Anyway, with you I can go far.”[p]
 *51
 #Haruya
-“……！”[p]
+“...!”[p]
 *52
 #Senpai
-[yukino/12]“わかるかな？　私の言いたいこと……”[p]
+[yukino/12]“Do you understand? What I want to say...”[p]
 *53
 #
-……どうすればいいんだろう？[p]
+What should I do...?[p]
 *54
-色々な気持ちがこみ上げてくるのだけど、[r]それを言葉にして声に出そうとすると、途端に息が詰まる。[p]
+All kinds of feelings well up, yet when I try to put them into words to say out loud, I suddenly feel suffocated.[p]
 *55
-どんな言葉も正確性を欠いていて、適当ではなくて、[r]誤解を与えてしまいそうで、不充分で、[r]僕が発するには不似合いな言葉に思えてくる。[p]
+Any word seems imprecise, inappropriate, misleading, inadequate, and unsuitable for me to utter.[p]
 *56
-でも何かを答えたい、答えなくてはいけないと思って、[r]結局出てきたのはこんな言葉だった。[p]
+But I want to answer something, I believe I have to answer, and in the end, the words that come out are just these:[p]
 *57
 #Haruya
-“わ、かりたい、です”[p]
+“I- I want to understand.”[p]
 *58
 #Senpai
-[yukino/9]“……わかりたい”[p]
+[yukino/9]“I want to understand...”[p]
 *59
 #
-先輩が僕の言葉を反復した。[p]
+She repeats my words.[p]
 [hide wait=false time=400]
 *60
-……わかりたい。あまりいい言葉ではない気がする。[r]というか、要するにわからないと言っているのと同じじゃないか？[p]
+“I want to understand...” I don't think it's a very nice thing to say. Or rather, isn't it the same as saying I just don’t get it?[p]
 *61
 #Senpai
-“ふふ”[p]
+“Pffft!”[p]
 *62
 #
 [yukino10 top=50 left=540 width=500 wait=false]
-先輩が笑った。いつの間にかうつむいていた視線を持ち上げると、[r]先輩は跳ねるような足取りで先まで進んでいた。[p]
+She laughs. I had been looking down without realizing, and when I lift my gaze, I see her advancing forward with hopping steps.[p]
 *63
 #Senpai
-[yukino/2]“わからないなあ！”[p]
+[yukino/2]“I don't understand!”[p]
 *64
 #Haruya
-“……はい？”[p]
+“Yes...?”[p]
 *65
 #Senpai
-“いまの気持ち！　なんて言えばいいかわからない！！[r]　あっははっ……”[p]
+“I don’t understand how I feel right now! I don't know what to say!! Hahahaha...”[p]
 *66
 #
 [hide]
-そう言って笑いながら、先輩はどんどん遠ざかっていく。[r]……相変わらずよくわからない。[p]
+Saying that while laughing, she moves further and further away.[p]
 *67
-よくわからないが、幸せそうだ。[p]
+I don’t get it. I don’t understand, but she seems happy.[p]
 *68
 #Haruya
-“あの。先輩？”[p]
+“Actually…”[p]
+#Haruya
+“Senpai.”[p]
 *69
 #
-それはそれとして危なっかしいぐらいはしゃぎまわるので、[r]僕は遠くから声をかける。[p]
+That being said, all her hopping around is dangerous, so I call out to her from afar.[p]
 *70
 #Haruya
-“足下には気をつけて……”[p]
+“Watch your step...”[p]
 #
 [stopbgm]
 [mask color=0xFFFFFF time=100]
@@ -246,146 +248,146 @@ From the sound of it, even she seems to believe that going to see the hydrangeas
 [playse storage=batan.ogg]
 [bg2 storage="black.png" time="1000" cross=true wait=true]
 *71
-――？[p]
+――?[p]
 *72
-……それが何だったのか。[p]
+What just happened...?[p]
 *73
-僕にはよくわからなかった。[p]
+I don't know.[p]
 *74
-強いて言えば影の塊に見えた。[p]
+If I had to say, it looked like a mass of shadows.[p]
 *75
-地面から何かが飛び出てきたと思ったら、[r]それは先輩の手から何かを奪ってまた地面に消えた。[p]
+Something popped out of the ground, snatched something from senpai's hand and disappeared into the ground again.[p]
 *76
-赤い傘があじさいの道に落ちて弾んだ。[r]雨のにじむ土の地面に、先輩の体が倒れ込んだ。[p]
+Her red umbrella fell and bounced on the road full of hydrangeas. Senpai's body collapsed on the rain-soaked dirt ground.[p]
 *77
 #Haruya
-“先輩……？”[p]
+“Senpai...?”[p]
 [mhide time=100]
 #
 [bg2 storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 method="vanishIn" wait=false]
 [mshow]
 *78
-突然のことに頭が真っ白になる。[r]しかしすぐに僕は先輩のもとに駆け寄る。[p]
+For a second, my mind goes blank, but then I run to her.[p]
 [haruya]
 *79
 #Haruya
-“大丈夫ですか！？”[p]
+“Are you alright?!”[p]
 *80
 #
-先輩はじっとうつむいていた。[p]
+She’s looking down.[p]
 *81
-何を見つめているのかと思ってその視線をたどってみると、[r]そこには先輩の制服の袖があった。[p]
+I wonder what she’s staring at, and when I trace her line of sight, I see the sleeve of her uniform.[p]
 *82
 #Haruya
-“あれ……先輩……？”[p]
+“How... Senpai...?”[p]
 *83
 #
-――違う。[p]
+Something is different. Wrong.[p]
 *84
 #Haruya
-“手首……”[p]
+“Your wrist...”[p]
 *85
 #
-先輩の左腕。その先。[p]
+Beyond her left arm.[p]
 [haruyahide time=500]
 [M1]
 [bg2 storage="tekubi.jpg" time="1000" cross=true wait=true method="fadeInUp"]
 [eval exp="sf.ST3=1"]
 *86
-そこには袖しかなかった。空っぽの袋を地面に垂らしたみたいに、[r]制服の袖がだらりと伸びていた。[p]
+There’s only the sleeve left. The torn sleeve of the uniform stretches out like an empty bag and hangs over the ground.[p]
 *87
-先輩は袖をちらりと見て、[r]立とうとしてふらついて――再びぺたんと腰を下ろした。[p]
+She glances at her sleeve, staggers to her feet—and sits down again.[p]
 *88
-底なし沼みたいな沈黙が場に満ちる。[p]
+Silence fills the place like a bottomless swamp.[p]
 [bg2 storage="tekubi2.jpg" time="1000" cross=false wait=false]
 *89
 #Senpai
-“……しまったなあ”[p]
+“... My bad.”[p]
 *90
 #
-急に先輩は口を開いた。[r]完全にいつもの調子に戻っていた。[p]
+She suddenly opens her mouth. She’s completely back to normal.[p]
 *91
-過剰にすら思えるほどに。[p]
+Excessively normal.[p]
 *92
 #Senpai
-“うっかりして転んでしまった。[r]　はしゃぎすぎるのも考えものだね”[p]
+“I accidentally fell.　Being too playful is reckless, huh.”[p]
 *93
 #Haruya
-“え？　あの。先輩……”[p]
+“Huh? But- Senpai...”[p]
 *94
 #Senpai
-“大丈夫だよ。ありがとう、心配してくれて”[p]
+“I'm fine. Thank you for your concern.”[p]
 *95
 #Haruya
-“先輩、左手が……”[p]
+“Senpai, your left hand...”[p]
 *96
 #Senpai
-“ん？”[p]
+“Yeah?”[p]
 #
 [bg2 storage="tekubi3.jpg" time="1000" cross=false wait=false]
 *97
-先輩は首をかしげながら、左手を袖の中からぱっと伸ばして見せた。[p]
+She tilts her head and stretches out her left hand from inside the sleeve.[p]
 *98
 #Senpai
-“左手が？　どうしたのかな？”[p]
+“My left hand? What's wrong with it?”[p]
 *99
 #Haruya
-“……”[p]
+“...”[p]
 *100
 #
-何かを言おうとした。何かを訊ねようとした。[r]でも僕はやめた。息を胸で殺した。[p]
+I try to say something. I’m about to ask something. But I stop myself. I hold my breath within my chest.[p]
 *101
-何を言っても無駄だ。この壁は強固すぎる。僕を拒んでいる。[p]
+I can’t say anything. There’s a wall. A wall that strongly rejects me.[p]
 *102
-先輩が僕を拒んでいた。[p]
+She is rejecting me.[p]
 *103
 #Haruya
-“……いえ。無事ならよかったです”[p]
+“No... I'm just glad you're safe.”[p]
 [M0]
 [fadeinse storage=rain_kasa.ogg time=1500 loop=true]
 [bg2 name="ajisaibg" storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 cross=true]
 [yukino7 top=30 width=1500]
 *104
 #Senpai
-“すまない、心配かけてしまって”[p]
+“I'm sorry I worried you.”[p]
 *105
 #
 [anim name=ajisaibg top=+180 time=1000]
-先輩が立ち上がる。[r]転がっていた傘を拾い上げると、僕のほうを振り返って言った。[p]
+She stands up. Picking up the umbrella that was lying around, she turns to me to say:[p]
 *106
 #Senpai
-“さ。観光再開といこうか、春也くん。[r]　もっと遠くまで行きたいんだ、私”[p]
+“Then! Let's resume sightseeing, Haruya-kun.　I want to go farther.”[p]
 *107
 #
-……不気味だと思った。[p]
+I think it’s creepy.[p]
 *108
-これまで何回も、先輩のことを変な人だと思った。[r]常識の外側で生きてる人だと思った。[p]
+I had thought of her as a strange person many times before. I thought she was someone who lived outside the norm.[p]
 *109
-でも、不気味だと思ったのはこれが初めてだった。[p]
+But that’s the first time I ever felt uneasy.[p]
 *110
 #Senpai
-“春也くん”[p]
+“Haruya-kun.”[p]
 #
 [haruya]
 *111
 #Haruya
-“……はい”[p]
+“Yes...”[p]
 *112
 #Senpai
-[yukino/4]“行かないの？”[p]
+[yukino/4]“Aren't you coming?”[p]
 *113
 #Haruya
-“……行きます”[p]
+“I’m coming...”[p]
 [hide wait=false][haruyahide time=1000]
 *114
 #
-その後も先輩はあちこちで歓声をあげた。感嘆の声をあげた。[r]ふたり揃って写真だって撮った。[p]
+Even after all that, she is still happily screaming and letting out sounds of admiration. We even take a picture together.[p]
 *115
-でも僕は、そんな先輩をどんなまなざしで見ればいいのか、[r]もうわからなくなっていた。[p]
+But I don't know how to look at her.[p]
 *116
-白い霧があじさい園全体を覆っていた。[r]その中を僕たちふたりは歩いていく。[p]
+A white mist covers the entire hydrangea garden. We both walk through it.[p]
 *117
-先輩がひとり。僕がひとり。[p]
+Senpai and I, alone.[p]
 [fadeoutse time=1500]
 [mask time=1500]
 [eval exp="sf.S5=1"]

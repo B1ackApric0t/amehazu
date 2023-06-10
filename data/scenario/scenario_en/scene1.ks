@@ -11,7 +11,7 @@
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 @layopt layer=message0 visible=true
-[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
+[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="EGB"]
 [wait time=1500]
 [stopbgm]
 [eval exp="sf.Bclear=0"]

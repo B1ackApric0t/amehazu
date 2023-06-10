@@ -45,17 +45,21 @@
 }
 
 @font-face {
-	font-family:"EG";
+	font-family:"EGI";
 	src:url("../../data/others/Garamond/EBGaramond-Italic.ttf") format("truetype");
 	font-weight:normal;font-style:italic;
-	
+}
+
+@font-face {
+	font-family:"EGB";
+	src:url("../../data/others/Garamond/EBGaramond-SemiBold.ttf") format("truetype");
+	font-weight:bold;font-style:bold;
+}
+
+@font-face {
 	font-family:"EG";
 	src:url("../../data/others/Garamond/EBGaramond-Regular.ttf") format("truetype");
 	font-weight:normal;font-style:normal;
-	
-	font-family:"EG";
-	src:url("../../data/others/Garamond/EBGaramond-SemiBold.ttf") format("truetype");
-	font-weight:bold;font-style:bold;
 }
 
 @font-face {
