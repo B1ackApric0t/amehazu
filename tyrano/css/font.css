@@ -76,3 +76,22 @@
 	src:url("../../data/others/AppliMincho/AppliMincho.otf") format("opentype");
 	font-weight:bold;font-style:normal;
 }
+
+@font-face {
+	font-family:"Garamond";
+	src:url("../../data/others/Garamond/EBGaramond-Regular.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
+	font-family:"Garamond";
+	src:url("../../data/others/Garamond/EBGaramond-SemiBold.ttf") format("truetype");
+	font-weight:bold;
+	font-style:bold;
+}
+@font-face {
+	font-family:"Garamond";
+	src:url("../../data/others/Garamond/EBGaramond-Italic.ttf") format("truetype");
+	font-weight:normal;
+	font-style:italic;
+}
