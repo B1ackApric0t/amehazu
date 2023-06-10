@@ -273,9 +273,9 @@
 *78
 这些事件零零散散地发生在全国各地。[r]据传闻，受害者的尸体每次都被破坏得惨不忍睹，[r]被发现时多数只能找到尸身的一部分。[p]
 *79
-仍未被逮捕归案。[r]而且事发地点遍布全国，连犯人的踪迹都还理不出头绪。[p]
+犯人至今仍未被逮捕归案。[r]而且事发地点遍布全国，连犯人的踪迹都还理不出头绪。[p]
 *80
-北端出事，[r]今天又在本州的南面发现案情——这种极端的现象已是屡见不鲜。[r]由于案情过于离奇，有人提出观点，认为这些案件或是多人犯案。[p]
+昨天在最北端出事，[r]今天又在本州的南面发现案情——这种极端的现象已是屡见不鲜。[r]由于案情过于离奇，有人提出观点，认为这些案件或是多人犯案。[p]
 [mask time=500]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=0]
 [free name="kaisou" layer=1]
@@ -382,4 +382,4 @@
 [image layer="1" storage="vignette.png" name="kaisou"]
 [fadeinse storage=noise.ogg loop=true time=2000]
 [mask_off time="1000"]
-@jump storage="scenario_ch/scene3.ks" target=*start
+@jump storage="scenario_en/scene3.ks" target=*start
