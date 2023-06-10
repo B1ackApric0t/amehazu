@@ -4,8 +4,10 @@ window.tyrano_lang = {
         
         "go_title":"タイトルに戻りますか？",
         "go_title_ch":"要返回标题画面吗？",
+        "go_title_en":"Return to title?",
         "exit_game":"終了しますか？",
         "exit_game_ch":"要结束游戏吗？",
+        "exit_game_en":"Are you sure you want to quit?",
         "not_saved":" ",
         "tag":"タグ",
         "not_exists":"は存在しません",

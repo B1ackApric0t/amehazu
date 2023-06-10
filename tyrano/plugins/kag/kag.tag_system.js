@@ -59,6 +59,21 @@ tyrano.plugin.kag.tag.eval = {
   close: function () {
     window.close(), void 0 !== navigator.app && navigator.app.exitApp(), "undefined" != typeof require && void 0 !== require("nw.gui") && require("nw.gui").Window.get().close()
   }
+},tyrano.plugin.kag.tag.close_en = {
+  pm: {
+    ask: "true"
+  },
+  start: function (t) {
+    var a = this;
+    "true" == t.ask ? $.confirm($.lang("exit_game_en"), function () {
+      a.close()
+    }, function () {
+      a.kag.ftag.nextOrder()
+    }) : this.close()
+  },
+  close: function () {
+    window.close(), void 0 !== navigator.app && navigator.app.exitApp(), "undefined" != typeof require && void 0 !== require("nw.gui") && require("nw.gui").Window.get().close()
+  }
 }, tyrano.plugin.kag.tag.trace = {
   pm: {
     exp: ""

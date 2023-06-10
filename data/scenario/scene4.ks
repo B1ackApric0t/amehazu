@@ -396,4 +396,4 @@
 [wait time=800]
 [mask_off time="1500"]
 
-@jump storage="scene5.ks" target=*start
+@jump storage="title.ks" target=*start

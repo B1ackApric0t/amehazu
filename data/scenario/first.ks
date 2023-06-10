@@ -1,7 +1,12 @@
-[if exp="sf.trans==undefined"][eval exp="sf.trans=1"][endif]
+[if exp="sf.trans==undefined"][eval exp="sf.trans=2"][endif]
 
-[if exp="sf.trans==2"]
-[title name="霏霏雨中人衣蜕"]
+[if exp="sf.trans==3"]
+[title name="Absent in the Spring Rain"]
+[dialog_config_ok text="Yes"]
+[dialog_config_ng text="No"]
+[deffont face=EG]
+[elsif exp="sf.trans==2"]
+[title name="雨にして人を外れ"]
 [dialog_config_ok text="是"]
 [dialog_config_ng text="否"]
 [deffont face=NotoCJK]
@@ -48,21 +53,14 @@ f.preload_bg = [
 "data/bgimage/ajisairain.jpg",
 "data/bgimage/bus.jpg",
 "data/bgimage/black.png",
-"data/bgimage/bushi_bg.png",
 "data/bgimage/busitu.jpg",
-"data/bgimage/busitucolor.jpg",
 "data/bgimage/busiturain.jpg",
 "data/bgimage/busiturain2.jpg",
 "data/bgimage/class.jpg",
 "data/bgimage/corridor.jpg",
 "data/bgimage/entrance.jpg",
-"data/bgimage/entrance2.jpg",
 "data/bgimage/gallery_bg.jpg",
-"data/bgimage/genkan.jpg",
-"data/bgimage/genkan2.jpg",
 "data/bgimage/haruyaroom.jpg",
-"data/bgimage/moon.jpg",
-"data/bgimage/sky.jpg",
 "data/bgimage/michi_rain.jpg",
 "data/bgimage/title.jpg",
 "data/bgimage/tekubi.jpg",
@@ -78,10 +76,6 @@ f.preload_bg = [
 "data/bgimage/tonarimu.jpg",
 "data/bgimage/shadow.jpg",
 "data/bgimage/shadow2.jpg",
-"data/bgimage/hug1.jpg",
-"data/bgimage/hug2.jpg",
-"data/bgimage/hug3.jpg",
-"data/bgimage/hug4.jpg",
 ];
 f.preload_bgm = [
 "data/bgm/A_end_loop.ogg",
@@ -117,8 +111,9 @@ f.preload_bgm = [
 [eval exp="sf.Bclear=0"]
 [endif]
 
-
-[if exp="sf.trans==2]
+[if exp="sf.trans==3]
+@jump storage="scenario_en/title.ks"
+[elsif exp="sf.trans==2]
 @jump storage="scenario_ch/title.ks"
 [else]
 @jump storage="title.ks"

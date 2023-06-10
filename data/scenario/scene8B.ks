@@ -67,11 +67,11 @@
 #先輩
 「一生に一度の見物だよ。見逃さないように」[p]
 [mask time=500]
+#
 [bg2 storage="sky.jpg" time=300]
 [playse storage=openw.ogg buf=1]
 [mask_off time=1000 effect=fadeOutLeftBig]
 *17
-#
 僕は念のため部屋の電気を消すと、カーテンを開けて窓を開いた。[r]真っ黒な雲が夜の闇と一体になって、その最中に雨音だけが響いている。[p]
 *18
 #先輩
