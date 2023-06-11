@@ -22,120 +22,120 @@
 
 
 *scene8
-#雨妖
-「定刻どおりだな」[p]
+#Rain Ayakashi
+“You’re on time.”[p]
 *1
 #
-ぱらぱらと雨の落ちる中に、重々しい雨妖の声が響く。[r]そのグロテスクな口が動くのを、僕は傘の下から眺めていた。[p]
+Amidst the pattering rain, the solemn voice of the monstrous shark resounds. From under the umbrella, I watch the grotesque mouth move.[p]
 *2
-#雨妖
-「して、返事は決まっているのであろうな？[r]　どうか聞かせてはくれまいか」[p]
+#Rain Ayakashi
+“The answer you have reached, will you please let me know?”[p]
 *3
 #
-はいと返事して僕は、じっとりと湿った夜気を深く吸い込む。[p]
+I nod and take a deep breath in the moist night air.[p]
 *4
-心臓は破裂しそうだし背筋には嫌な冷たさが走っているし、[r]いつ正気を失ってもおかしくはないぐらいだ。[p]
+My heart is about to explode, a sickening chill runs down my spine, and I fear I could lose my mind at any moment.[p]
 *5
-永遠に返答を先延ばしできたらと思いつつも、[r]僕は決意を固めて声を発した。[p]
+Even though I wish I could put off answering forever, I make up my mind and speak out.[p]
 *6
-#春也
-「僕は、雨妖さんの言う作戦に協力する気はありません。[r]　というのは、そもそもそんなことをする必要がないからです」[p]
+#Haruya
+“I have no intention of cooperating with you. Because there’s no need to do that in the first place.”[p]
 *7
-#雨妖
-「……ほう？　その心が儂にはどうも図りかねる。[r]　手間を取らせてすまないが、この鈍物にもわかるよう説明してくれるな？」[p]
+#Rain Ayakashi
+“Oh...? I cannot seem to figure out what you mean. My apologies, but could you explain yourself in a manner that even a dullard such as myself can understand?”[p]
 *8
 #
-慇懃無礼。[p]
+He’s both polite and rude.[p]
 *9
-いかにも相手と対等に接し、あるいは下手に出ているようで、[r]その実は高圧的かつ挑発的。[p]
+At a first glance, you would think he treats others like equals, but in reality, he is overbearing and provoking.[p]
 *10
-初対面から薄々感じていた雨妖への心証だが、[r]その感触は今ここでピークを迎えていた。[p]
+I had a faint impression of his condescending attitude when we first met, but now it reached its peak.[p]
 *11
-きっと雨妖は僕のことを人間風情とでも捉えているのだろう。[p]
+I’m sure the Rain Ayakashi sees me as a foolish human being.[p]
 *12
-肌がびりびり粟立つほどの圧迫感を全身に受けつつ、[r]しかし僕は努めて冷静に話し出す。[p]
+My whole body feels so oppressed my skin tingles, but I try my best to speak calmly.[p]
 *13
-#春也
-「簡単な話です。先輩をおびき出して連れ戻す必要なんてないんです。」[p]
+#Haruya
+“It’s simple. There’s no need to lure senpai out and bring her back.”[p]
 *14
-「なぜなら、これはおそらくですが、[r]　先輩のほうから雨妖さんに接近するはずだからです。」[p]
+“She will probably come to you instead.”[p]
 *15
-「今日、学校で先輩と話しました。先輩は直接的でこそありませんが、[r]　自分もいつか学校を卒業しなければならない、[r]　この場所を去らねばならないと言っていました。」[p]
+“Today, I talked to her at school. Although she didn’t directly tell me, she mentioned graduating from school and leaving this place.”[p]
 *16
-「そして先輩は、[r]　明日で僕たちの世界にけじめをつけようとしているみたいでした。」[p]
+“I believe she’s set the time limit for her return to tomorrow.”[p]
 *17
-「だからどうか、せめて明日まで待ってもらえませんか。」[p]
+“So, could you at least wait until then?”[p]
 *18
-「先輩はきっと来ます。」[p]
+“Senpai will surely come back to your world.”[p]
 *19
-「帰って来いって命令を聞かないから殺すなんてしないでいいんです、[r]　先輩はやっと決心したに違いないんですよ」[p]
+“You don’t have to kill me because she wouldn’t obey the order to come back. She must have finally made up his mind.”[p]
 *20
-「だから一緒に元の場所に帰って、[r]　それで先輩の話を聞いてあげてくれませんか……！」[p]
+“So, why don’t you go back to where you came from and listen to her side of the story!”[p]
 *21
 #
-雨の音が、僕の声に取って代わる。[p]
+The sound of rain replaces my voice.[p]
 [trans_out layer="2" time=1000 method="fadeOutDown"][wt]
 *22
-雨妖はまるで水面から突き出た岩のように、[r]眼球をぴくりとも動かさず僕のことを見つめていたが、[r]やがてぶくぶくと地面の中へ沈んでいった。[p]
+Like a rock protruding from the surface of the water, the Rain Ayakashi stares at me without moving his eyeballs and sinks into the ground for a few seconds.[p]
 [trans layer="2" time=1000 method="fadeInUp"][wt]
 *23
-再び浮上してくると雨妖は、まるで僕の意見に講評を述べるかのように、[r]ゆっくりと喋り始めた。[p]
+When he resurfaces, he begins to speak slowly, as if to comment on my opinion.[p]
 *24
-#雨妖
-「ひとまず。[r]　気になるところは色々とあるが、それはこの際置いておこう」[p]
+#Rain Ayakashi
+“Well. There are various things from your story that bother me, but I shall put them aside for now.”[p]
 *25
 #
-……本当に気に食わない言い方をする。[p]
+I really hate his way of talking...[p]
 *26
-#雨妖
-「しかし其方の言い分には、[r]　さすがに捨て置くわけにもいかない重大な破綻がある」[p]
+#Rain Ayakashi
+“However, there is a serious mistake in your statements that I cannot overlook.”[p]
 *27
-#春也
-「なんですか。どこですか、それは」[p]
+#Haruya
+“A mistake? Where?”[p]
 *28
-#雨妖
-「其方は勘違いしているようだが、儂が此度この世にやって来たのは、[r]　何も赤羽雪乃を連れ帰るためではない。」[p]
+#Rain Ayakashi
+“You seem to have misunderstood, but the reason I have come to this world is not to bring back Yukino Akabane.”[p]
 *29
-「儂は主の命により、赤羽雪乃を殺しに来た。[r]　帰還命令を拒否し続けたから殺すとは言ったが、[r]　それは帰還すれば殺さないということではない」[p]
+“By order of my master, I have come to kill Yukino Akabane. She continuously refused her orders to return, so I said I would kill her for that reason. However, that does not mean I won’t be killing her even if she does return.”[p]
 *30
-#春也
-「なっ……どうして！？　同族なんじゃないんですか！！」[p]
+#Haruya
+“Wha- Why?! Aren’t you two from the same place?!”[p]
 #
 [trans layer="2" time=0][wt][freeimage layer=2 page=back]
 [image layer="2" page="back" storage="uyo.png" width=1300 left=60 top=-380]
 [trans layer="2" time=1000]
 [wt]
 *31
-#雨妖
-「いかにも同族だ！　しかし同族だから殺すのだ！！[r]　彼奴は我ら同胞の面汚しなのだから！！」[p]
+#Rain Ayakashi
+“Sure, she’s of my same kin! But it’s precisely because she’s a disgrace to our entire species that she must be killed!”[p]
 *32
 #
-本性を現した雨妖が歯を剥き出して激昂する。[r]僕は圧倒されてしまい、身動きひとつできなかった。[p]
+Revealing his true nature, the shark monster bares his teeth and becomes furious. I’m so overwhelmed that I can’t move.[p]
 *33
-#雨妖
+#Rain Ayakashi
 *34
-「人の子ごときが御託を並べおって！！[r]　殊勝にも雪乃のために儂を説得しようと思うたか！！[r]　思い上がるな小賢しいッ、やはり貴様は――」[p]
+“How dare a mere child of man speak so insolently! Did you even think of trying to convince me for Yukino’s sake?!”[p]
 *35
 #
 [freeimage layer=2]
-盛大な水しぶきとともに、雨妖の姿が眼前から消え失せる。[r]ふっと我に返り、雨妖の行方を捉えようと辺りを見回したそのとき。[p]
+With a big splash of water, the figure of the Rain Ayakashi disappears before my eyes. That’s when I come to my senses and look around, searching where he has gone.[p]
 *36
 [anim name=genkanbg top=+360 time=1000][wait time=1000]
-頭上にただならない重圧を感じ、僕は思わず傘を下ろして天を仰ぐ。[p]
+Feeling an unbearable pressure overhead, I instinctively put down my umbrella and look up at the sky.[p]
 *37
 [mask time=300 effect=fadeInDownBig]
 [haruyahide time=0]
 [anim name=genkanbg top=0 time=0]
 [bg2 storage="black.png" time="100"]
 [mask_off time=300]
-闇。生暖かい闇。真っ白な歯列の奥に広がる、際限なく深い闇。[p]
+Darkness. A cozy darkness. An endlessly deep darkness spreads behind the pure white teeth.[p]
 *38
-#雨妖
-「――こうすべきだった」[p]
+#Rain Ayakashi
+“I should have done this since the beginning...”[p]
 *39
 #
 [playse storage=zabun.ogg]
-水をぶちまける音が、くぐもって耳に聞こえた。[p]
+I hear the muffled sound of splashing water.[p]
 
 
 [mask time="1000"]
@@ -146,240 +146,240 @@
 
 *40
 #
-闇の中に意識が開ける。雨の音。[p]
+My consciousness returns from the darkness. I can hear the rain.[p]
 *41
-#雨妖
-「下地春也はここにいる」[p]
+#Rain Ayakashi
+“Haruya Shitaji is here.”[p]
 *42
 #
-突如全身を揺るがした雨妖の声に、横わっていた体が跳ね起きる。[p]
+The voice of the Rain Ayakashi shakes my whole body, and I hurriedly stand up with a jump.[p]
 *43
-朦朧とした意識に虚脱感を覚えつつも、僕は周囲を見回す。[p]
+I look around my surroundings even though I feel like collpasing due to my hazy consciousness.[p]
 *44
-辺り一面の闇。雨妖の姿は見えない。[p]
+Darkness all around. I can’t see the shark.[p]
 *45
-#雨妖
-「――ちょうど目覚めたようだな」[p]
+#Rain Ayakashi
+“It looks like you just woke up.”[p]
 *46
 #
 *47
-またも響く重低音に体がしびれる。[p]
+His deep, echoing voice makes my body numb.[p]
 *48
-雨妖の声に全身が包まれているような感覚と、[r]ぶよぶよして揺れ動く地面の生ぬるい感触から、[r]僕は自分が置かれた状況をおぼろげながらも推察できた。[p]
+I can feel his voice enveloping my whole body, as well as the lukewarm feeling of a wobbly and swaying ground. I’m vaguely able to guess my situation.[p]
 [filter layer="base" brightness=60 blur=5]
 [bg2 storage="ajisai_night2.jpg" time=1000 cross=true wait=true]
 *48a
-ここは雨妖の口の中だ。目が暗闇に慣れるとともに、[r]物々しい歯列が視界の上下を縁取っているのに気付く。[p]
+I’m inside the Rain Ayakashi’s mouth. As my eyes adjust to the darkness, I notice a row of majestic teeth layering on the top and bottom of my vision.[p]
 *49
-そしていま、僕が雨妖の口内から相対しているその影は――[p]
+And the shadow I can see from within the his mouth is...[p]
 *50
-#雨妖
-「こいつの命が惜しいのだろう？　ならば貴様の命と交換だ。わかるな？　[r]　赤羽雪乃……いや。『[ruby text="し"]翅[ruby text="よう"]妖：[ruby text="か"]華[ruby text="ばね"]羽[ruby text="しろ"]白[ruby text="ゆき"]逝[ruby text="ひめ"]姫』」[p]
+#Rain Ayakashi
+“This guy’s life is precious to you, isn’t it? Then, I’ll trade it for yours. Do you understand? Yukino Akabane... Or rather, Winged Ayakashi: Kabane Shirayukihime, the Deathly Red-Winged Deity”[p]
 #
 [yukino3][haruya time=700]
 *51
-#春也
-「先輩！！」[p]
+#Haruya
+“Senpai!!”[p]
 *52
-#雨妖
-[yukino/14]「騒ぐな」[p]
+#Rain Ayakashi
+[yukino/14]“Don’t be noisy.”[p]
 *53
 #
 [haruyahide wait=false][quake count=4 time=700 vmax=15]
-僕が思わず身を乗り出して叫ぶと、いきなり足元が急激に傾き出す。[r]雨妖が舌先を持ち上げたのだ。[p]
+When I involuntarily lean forward and shout, my feet begin to tilt. The Rain Ayakashi has lifted the tip of his tongue.[p]
 *54
 #先輩
-[yukino/14]「春也くん！！」[p]
+[yukino/14]“Haruya-kun.”[p]
 *55
-#雨妖
-「動くな白逝！！」[p]
+#Rain Ayakashi
+“Don’t you move, Shirayukihime!!”[p]
 *56
 #
-雨妖の怒声に、一瞬体が浮き上がるかのような錯覚を覚える。[p]
+For a moment, I feel the illusion of my body floating up at the Rain Ayakashi’s angry voice.[p]
 *57
-それでもどうにか喉の奥へと転落しないようこらえていると、[r]やっと舌が元の平坦さを取り戻す。[p]
+I somehow manage to avoid falling into the back of its throat, and the tongue finally regains its original flatness.[p]
 *58
 #先輩
-[yukino/5]「深江。……本当にそんな手段が通ると思っているのか？[r]　私が誰か知っているだろう？」[p]
+[yukino/5]“Hey, Fukae… Do you really think that will work against me? Don’t you know who I am?”[p]
 *59
-#雨妖
-「無論。貴様と真っ向からやり合っても勝ち目は薄い。」[p]
+#Rain Ayakashi
+“Of course, I do. If I fight you head-on, my odds of winning are slim.”[p]
 *60
-「それゆえこのような手を打った次第だ。[r]　どうやら貴様はこいつと随分親睦を深めているようだったのでな」[p]
+“That’s why I decided on this approach. Apparently, you seem to have a deep bond with this guy.”[p]
 *61
 #先輩
-「しかし人質を取ったところで、[r]　私がお前をねじ伏せて彼を奪還するのも容易な話だ。違うか」[p]
+“Even if you take a hostage, it would be easy for me to overwhelm you and recapture him. Isn’t that right?”[p]
 *62
-#雨妖
-「いかにも容易だろうな。[r]　しかしその一瞬でこいつを噛み潰すぐらいはできる。」[p]
+#Rain Ayakashi
+“Surely, it’d be really easy. But I can crush this guy in the instant it takes for you to do so.”[p]
 *63
-「それに儂が死んでも後を引き取ってくれる者はごまんとあるぞ。[r]　儂は尖兵に過ぎんということだ」[p]
+“And even if I die, there are still plenty of others who will take over after me. I’m nothing more than a vanguard.”[p]
 *64
 #
-……いま、僕の命がやり取りされている。[r]それなのにかえって現実感が湧かない。[p]
+My life is being exchanged now… It doesn’t feel real.[p]
 *65
-僕の知らない世界の話も、初めて聞いた先輩の厳しい声音も、[r]全部嘘みたいだ。[p]
+A story about a world that I don’t know about, and senpai’s stern voice that I hear for the first time all. They seem like lies.[p]
 *66
 #先輩
-「死を厭わないのか」[p]
+“Are you willing to die?”[p]
 *67
-#雨妖
-「儂は主からの使命を果たすべくここにおる。[r]　そのためならば儂の生き死になど些末なことだ。」[p]
+#Rain Ayakashi
+“I am here to fulfill my master’s mission. To do so, my life and death are trivial matters.”[p]
 *68
-「むしろ主のため功を奏せずして、[r]　のうのうと長らえることこそ[ruby text="まこと"]真の死である」[p]
+“Rather, surviving despite failing my lord’s mission would be the real death.”[p]
 *69
 #先輩
 ;[kanim name="yukino" keyframe="left" time="500"]
-「……ふん。父上は随分飼っていた魚に懐かれたものだね」[p]
+“Pfft. My father sure is loved by his pet fish.”[p]
 *70
-#雨妖
-「血は争えんものだな。[r]　貴様も随分こいつに慕われているようじゃないか？」[p]
+#Rain Ayakashi
+“One can’t fight against blood. Isn’t that the reason you, too, are quite admired by this guy here?”[p]
 #
 [backlay layer=base]
 [bg storage="ajisai_night2.jpg" time=0]
 [filter blur=0 brightness=100 layer=base page=back]
 [trans layer=base time=1000]
 *71
-雨妖が大口を開いた。[r]それにつれて僕の目に映る景色も広がりを見せる。[p]
+The Rain Ayakashi opens its mouth. Thanks to that, I can see better the scenery outside.[p]
 *72
-雨降る闇の最中。月の白い光がかすかに兆していた。[p]
+In the middle of the rain and darkness, I see hints of the white light of the moon.[p]
 *72a
-辺りにきらきら輝いているのは、[r]草木に散った雨粒が月光を照り返しているものらしい。[p]
+The raindrops scattered on the trees and plants reflect the moonlight.[p]
 *73
-月と雨のしずくが暗がりに花の色を描き出す様は、[r]幻想的と言ってよかった。[p]
+The sight of the moon and raindrops drawing the colors of the flowers in the darkness is a sight to behold.[p]
 *74
-あじさい園。[p]
+It’s the hydrangea garden.[p]
 *75
-花と草木に囲まれた中で、広場のように開けた場所。[r]その中央に見慣れた人影が立っていた。[p]
+An open space surrounded by flowers and plants. In its center, a familiar figure stands.[p]
 [haruya]
 *76
-#春也
-「先輩……なんですよね」[p]
+#Haruya
+“You are... My senpai, right?”[p]
 #
 [haruyahide time=400]
 *77
 #先輩
-[yukino/3]「……春也くん……」[p]
+[yukino/3]“Haruya-kun.”[p]
 *78
 #
-先程までとは打って変わって、その声は酷く弱々しい。[p]
+In a complete change from before, her voice is terribly feeble.[p]
 *79
-#雨妖
-「ちょうどいい」[p]
+#Rain Ayakashi
+“That’s just right.”[p]
 *80
 #
-そこを急所と目してか、雨妖が更なる追い打ちをかけてくる。[p]
+Seeing a weakness in senpai, the Rain Ayakashi decides to attack.[p]
 *81
-#雨妖
-「春也。お前からあやつに聞きたいことはないか？[r]　積もる話もあることだろう。いまなら多少の発言は許そう」[p]
+#Rain Ayakashi
+“Haruya. Is there anything you would like to ask her? I’m sure there’s a lot you want to know. For now, I’ll allow you to say a few words.”[p]
 *82
 #
-……雨妖の許可がなければ発言も許されないのか。[r]というかその権利さえいまのいままで僕にはなかったのか。[p]
+Am I not allowed to speak without his permission? Or rather, until now, it seems I didn’t even have that right.[p]
 *83
-そんな空気は薄々感じてはいたけれど、[r]それにしても雨妖の尊大さは見上げたものだ。[p]
+I can vaguely read his mood. The arrogance of the rain shark is something to be admired.[p]
 *84
-そして同じぐらい狡猾だ。[r]おそらく雨妖が望んでいるのは、僕が先輩を糾弾することだ。[r]そうして先輩を追い詰めようという魂胆なのだろう。[p]
+And so is his shrewdness. What he probably wants is for me to denounce senpai. It must be the motive behind cornering her like that.[p]
 *85
-そういう心算が見え透いている以上、[r]僕は雨妖の思惑に嵌まるわけにはいかない。[r]淡い月光が先輩を照らし、唇を噛んで目を伏せているのが見えた。[p]
+As long as I can see through his calculations, I can’t let myself be caught up in the Rain Ayakashi’s plots. The pale moonlight shines on senpai, and I can see her biting her lip and casting her eyes down.[p]
 *86
-僕は先輩を傷つけるわけにはいかない。[r]だけれど、なんと声をかければいいのか、[r]僕はいまいち見当がつかないでいる――[p]
+I can’t hurt her. However, I don’t really have a clue what to say...[p]
 *87
 #先輩
-[yukino/13]「ごめん、春也くん」[p]
+[yukino/13]“Sorry, Haruya-kun.”[p]
 *88
 #
-先輩が声を発した。思わず面食らう。[r]僕の言葉を待っているのだと思っていた。[p]
+She speaks up first. I am taken aback. I thought she was waiting for me to say something.[p]
 *89
 #先輩
-[yukino/3]「本当は私から切り出すべきだったんだ。[r]　聞きたいことはいろいろあると思う」[p]
+[yukino/3]“I know I should have told you first, and I’m sure there are many things you want to ask me.”[p]
 *90
-「まず雨妖が言っていたのは全部本当。[r]　私は人間じゃないし、人を襲っていたのも事実だ」[p]
+“First of all, what the Rain Ayakashi said is all true. I’m not human, and it’s true that I attacked people.”[p]
 *91
-[yukino/13]「私は自分のことを隠していた。そうして君を騙していたんだ。[r]　ごめん。……合わせる顔がないな」[p]
+[yukino/13]“I’ve been hiding my identity. That’s how I deceived you. I’m sorry... I don’t know how to face you.”[p]
 *92
 #
-先輩は苦々しく言った。[r]自分の罪悪を告白するのは、きっと辛いことだろう。[p]
+She says bitterly. Confessing one’s guilt must be painful.[p]
 *93
-けれど、正直。[p]
+But honestly.[p]
 *94
-思いっきり人の道を外れているのかもしれないけど、[r]そんなことはもうどうでもよかった。[p]
+Yes, maybe she has strayed from the right path, but I don’t really care about that anymore.[p]
 *95
-罪なんて裁く奴が裁けばいい。[r]僕は雨妖の思っているように、断罪者役を務める気はなかった。[p]
+I don’t want to play the role of the executioner, like the Rain Ayakashi hopes I will. The one who can decree a sin is a judge.[p]
 *96
-僕は先輩の後輩なのだ。[p]
+But I am just the kouhai of senpai.[p]
 *97
-そしていま、後輩として伝えるべきことは。[p]
+And now, as her kouhai, what I should say is...[p]
 [haruya]
 [fadeoutse time=500]
 [fadeinbgm storage=A_end_loop.ogg time=2000]
 *98
-#春也
-[yukino/14]「違います！！　騙したのは僕のほうなんです……！」[p]
+#Haruya
+[yukino/14]“No! I was the one who deceived you...!”[p]
 *99
-「本当は先輩と離れたくなんかないですよ！！[r]　僕は強い人間なんかじゃない……！」[p]
+“I really don’t want to be away from you!! I’m not a strong person...!”[p]
 *100
-「先輩だって本当は自信ないんですよね？[r]　帰りたくなんかないんですよね……！？」[p]
+“Senpai, even you aren’t that confident, right? You actually don’t want to go home, right...?!”[p]
 *101
 #
-帰還の決意を固めた先輩の、背中を押したつもりだった。[p]
+She had made up her mind to return, so I intended to give her a little push.[p]
 *102
-だけれどその言葉が、先輩を深い闇の底に突き落としはしなかったか？[p]
+But didn’t these words of mine plunge senpai into the depths of darkness?[p]
 *103
-#春也
-「先輩はどうしてこの世界にやって来たんですか……？　[r]　どうして僕らの高校に入ったんですか？」[p]
+#Haruya
+“Why did you come to this world, senpai...? Why did you enroll in our high school?”[p]
 *104
 #
-[yukino/11]先輩の返事を待たず、僕は畳みかける。[r]一瞬の雨の音を挟んで、先輩は答えた。[p]
+[yukino/11]Without waiting for her reply, I kept pressing for answers. With the momentary sound of rain in between, she starts talking.[p]
 *105
 #先輩
-[yukino/12]「……私も父上に飼われていた。ただ広いだけで何もない、[r]　窓もない虫かごみたいな部屋に閉じ込められて、[r]　誰と会うこともなく過ごしてきた」[p]
+[yukino/12]“I was raised by my father, like some sort of pet. I was confined in a room that was spacious and empty, had no windows and was like a bug cage. I spent my time without meeting anyone.”[p]
 *106
-「そんなだったから私、誰かと関わってみたかったんだよ。[r]　それで方々に無理を通して、ここにやって来た」[p]
+“That’s why I wanted to get involved with someone. So I forced myself to come here.”[p]
 *107
-「だけど難しいね。[r]　誰かと関わりを持つって、それがゴールじゃないもんね」[p]
+“But it was difficult. Just getting to meet people wasn’t my goal, I wanted real bonds.”[p]
 *108
-「私には中々上手くできなかった。[r]　やっぱり私が人間じゃないからなのかな」[p]
+“But I couldn’t do it very well. Maybe it’s because I’m not human after all.”[p]
 *109
-「それでもう期限も近くなって、諦めて素直に帰ろうかと思ったけど。[r]　期間の間際に君と出会って、もう少しここにいたいと思ってしまった」[p]
+“The deadline was approaching, so I thought I’d just give up and just go home. Meeting you just before the deadline made me want to stay here a little longer.”[p]
 *110
-[yukino/13]「私、たくさんの人に迷惑をかけてしまった。[r]　どれだけの人を困らせたり、嫌な思いをさせてしまったか知れない」[p]
+[yukino/13]“I have harmed many people. I lost count on how many people I have troubled and hurt.”[p]
 *111
-「考えると辛くなるんだよ。[r]　あげく君さえも命の危機に陥れてしまっている。[r]　やっぱり私は駄目な奴だ。消えるべきなんだ」[p]
+“My guilt is crushing me. And in the end, even you are in danger of losing your life. I... really... Am no good. It’s only right that I should disappear.”[p]
 *112
-#春也
-[yukino/14]「そんなわけない！！」[p]
+#Haruya
+[yukino/14]“That’s not true!!”[p]
 *113
-「先輩はすごい人なんです」[p]
+“I always thought you were a great person.”[p]
 *113a
-「誰かと関わるって上手くいけば楽しいですけど、[r]　でも上手くいかなかったり傷ついたり失敗しちゃったり、[r]　そうなると逆にすごく苦しいじゃないですか」[p]
+“It’s fun to get involved with people when all goes well, but when things go south, or you make mistakes, it’s really painful, isn’t it?”[p]
 *114
-[yukino/11]「それでも先輩は、誰かと関わろうとしてきたじゃないですか。[r]　それってすごいことなんですよ」[p]
+[yukino/11]“Even when faced with setbacks, you’ve been trying to get involved with people, and that’s amazing.”[r]“I always thought you were a great person.”[p]
 *115
-「それでも誰かに向かって飛び込んでいけることを、[r]　先輩は誇るべきなんです」[p]
+“You kept trying again and again, you should be proud.”[p]
 *116
-「強いのは先輩のほうなんです」[p]
+“The strong person is you, not me.”[p]
 *117
-#雨妖
-「もういい！！　お前は彼奴が憎くないのか！？」[p]
+#Rain Ayakashi
+“Enough! Don’t you hate her!?”[p]
 *118
 #
-雨妖の怒声に鼓膜が破れそうになる。[r]見当が外れたことに苛立っているのだろう。[p]
+My eardrums are about to burst from the anger of the Rain Ayakashi. He must be frustrated that things aren’t going the way he wanted them to.[p]
 *119
-だけれどおかげで言いたかったことは伝えられた。[r]僕に出来るのはここまでだ。[p]
+But thanks to him, I’ve been able to say what I wanted to say. That’s all I can do.[p]
 *120
-先輩は目を閉じて僕の言葉に耳を傾けていた。[r]そしてやがて、言葉の意味を噛みしめるような間の後に、先輩は口を開いた。[p]
+She closes her eyes while listening to my words. And before long, after a pause as if she was trying to grasp the meaning of my words, senpai opens her mouth.[p]
 *121
 #先輩
-[yukino/10]「……ありがとう」[p]
+[yukino/10]“Thank you...”[p]
 *122
 #
-先輩の手が白く発光する。[r]その指先が、先輩の首筋に沿う。[p]
+Her hand glows white. Her fingertips run along the nape of her neck.[p]
 *123
-#春也
-「先輩？」[p]
+#Haruya
+“Senpai...”[p]
 *124
 #先輩
-「君が最後にそう言ってくれたこと、それが私の救いだ」[p]
+“All the things you just said, they are my salvation.”[p]
 #
 [fadeoutbgm time=1000]
 [mask time=500 color="0xFFFFFF"]
@@ -390,17 +390,17 @@
 [wait time=500]
 [mask_off time=500]
 *125
-僕には見えた。[p]
+I can see it.[p]
 *126
-白く輝く指先が、先輩の体に光の筋を刻む。[r]そこから白い光が、堰を切ったようにあふれ出す。[p]
+Shining white fingertips engrave streaks of light on senpai’s body. White light overflows from the cracks as if a dam had been bust open.[p]
 *127
-――そんな未来が、僕の目には確かに見えた。[p]
+That’s the future I can see with my own eyes.[p]
 *128
-待ち望んだ瞬間の到来。先輩が見せた諦念。悲願成就の時。[p]
+The long-awaited moment has arrived. She shows resignation. It’s time to fulfill her wish.[p]
 *129
-そして不意の脱出。[p]
+I manage an unexpected escape from the shark’s mouth.[p]
 *130
-人間風情の僕が雨妖の隙を突けたのは、[r]そういった要因が重なったからだろう。[p]
+The Rain Ayakashi’s momentary lapse of concentration is probably the only reason a mere human like me can escape from him.[p]
 [mask time=500 color="0xFFFFFF"]
 [yukino9 width=1400 top=30 time=0][haruya time=0]
 [bg2 storage="ajisai_night2.jpg" width=1920 height=1080 left=-430 top=-150 time="500" wait=true]
@@ -408,22 +408,22 @@
 [filter layer=base blur=4]
 [mask_off time=500 effect=vanishOut]
 *131
-濡れた草地を抉るように駆けながら、僕は先輩の名前を叫ぶ。[p]
+As I run through the wet grass, I shout senpai’s name.[p]
 *132
-#春也
-「それだけは、駄目なんです！！」[p]
+#Haruya
+“I won’t let you do that!!”[p]
 *133
 #
-……でも、僕も結局人間だ。[r]怪物相手に一瞬出し抜くことはできても、勝利まで持っていけはしない。[p]
+But I’m only human, after all. Even if I can outsmart a monster for a moment, I can’t take victory home.[p]
 *134
-#雨妖
-「貴様ァッ」[p]
+#Rain Ayakashi
+“You bastard...!!”[p]
 *135
 #
-即座に雨妖が追いすがる。[r]だけれど僕は人間として、というかたぶん、後輩としての意地で。[p]
+The Rain Ayakashi immediately chases after me. Just before being eaten by the shark, I manage to say it.[p]
 *136
-#春也
-「生きていてほしいんです……っ」[p]
+#Haruya
+“I want you to live...”[p]
 #
 [playse storage=zabun.ogg]
 [mask time=500 effect="fadeInDown"]
@@ -432,7 +432,7 @@
 [bg2 storage="black.png" time="0"]
 [mask_off time=500]
 *137
-雨妖に喰われる寸前に、それだけは言い残すことが出来た。[p]
+As a human, or rather, as her kouhai, I was able to at least say that much.[p]
 
 [mask time=800]
 [bg2 storage="black.png" time="0"]
@@ -443,31 +443,31 @@
 *138
 #
 *139
-雨妖の体内は真っ黒な水で満たされていた。[r]さながら流れの激しい夜の海を漂流するように、[r]僕は化け鮫の内部を漂っていた。[p]
+The shark’s body is filled with black water. I’m drifting inside the monster shark as if in a violently flowing night sea.[p]
 *140
-酸素が足りない。意識がぼんやりしてくる。[r]溺死か窒息死といったところだろう。[p]
+There isn’t enough oxygen. My consciousness becomes vague. It’s the sensation of drowning or suffocating.[p]
 *141
-僕はうっすらと考える。[p]
+My thoughts become faint.[p]
 *142
-果たして僕の言葉に、どれほどの意味があっただろうか？　[r]ただ生きろと言われたことが、先輩にとってどんな意味を持ちうるのか？[p]
+What’s the meaning of my words? What kind of meaning can it have for senpai to be told to live?[p]
 *143
-わからない。水は激しく渦を巻いている。[p]
+I don’t know. The water is violently swirling.[p]
 *143a
-噛み潰さなかったということは、[r]まだ僕を人質として使う気があるのか……？[p]
+If the shark hasn’t crushed me, does he still want to use me as a hostage...?[p]
 *144
-わからない。何もわからなくなってくる。[r]息苦しさの中で、場違いな浮遊感に意識が染まり始める。[p]
+I don’t know. I don’t understand anything. In the midst of suffocation, my consciousness begins to be dyed with a feeling of floating out of place.[p]
 [fadeoutse time=2000]
 [M1]
 [bg2 storage="te.jpg" time="1000" cross=true wait=true]
 [eval exp="sf.ST4=1"]
 *145
-――闇の中に何かが見えた。それは白い光だった。[p]
+I see something in the darkness. It’s a white light.[p]
 *146
-それは。[p]
+That must be...[p]
 *147
-それは、きっと先輩の手に違いなかった。[r]闇の中ではっきり感じた。[p]
+It must be senpai’s hand. I feel it clearly in the dark.[p]
 *148
-それは視界を下に外れる。[r]そのまま僕の体を抱きかかえ、ぐっと引き上げた。[p]
+It’s out of sight. She grabs my body and pulls me up.[p]
 [mask time=800 color="0xffffff"]
 [stopse]
 [M0]
@@ -477,77 +477,77 @@
 [wait time=500]
 [mask_off time=800]
 *149
-ざばんと空気に体が浮く。[r]そのまま僕たちは空を飛んでいた。[p]
+My body floats in the air. We’re flying in the sky.[p]
 *151
-#春也
-「先輩……先輩、ですか？」[p]
+#Haruya
+“You are… Senpai, right?”[p]
 *152
 #
-息も絶え絶えながら、僕は訊ねた。[r]僕を引き上げたその人の姿に、驚きを隠すことができなかった。[p]
+I ask, gasping for breath. I can’t hide my surprise at the figure of the person who pulled me up.[p]
 *153
-月明かりのように白い長髪。真っ黒な体に緋色の翅。[r]そして表情のない顔。[p]
+Long hair, white like moonlight. A jet-black body with scarlet wings and an expressionless face.[p]
 *154
-美しくも異形の姿。僕らの世界の外側の存在。[p]
+A beautiful and extraordinary figure. An existence unknown to our world.[p]
 *155
 #先輩
-[kanim name="yukino" keyframe="nod" time="500"]「うん。君の先輩だよ、春也くん」[p]
+[kanim name="yukino" keyframe="nod" time="500"]“Yeah. I’m your senpai, Haruya-kun.”[p]
 *156a
 #
-だけれどそう答える声も声音も、間違いなく僕の先輩のものだった。[p]
+The voice that answers me is definitely my senpai’s.[p]
 [hide time=400 wait=false][haruyahide time=400]
 [M1]
 [bg2 storage="vsuyo.jpg" time="800"]
 *156
-#雨妖
-「おのれェッ！！」[p]
+#Rain Ayakashi
+“Curse you, bastards!!”[p]
 *157
 #
-雨妖が怒声をあげて追いすがる。[r]その背の一端からは黒い水が噴き出していて、[r]どうやら穴を空けられたらしかった。[p]
+He shouts angrily and chases after us. Black water is gushing out from one end of his back, and it looks like he has been pierced.[p]
 *157a
-先輩は僕を抱えたまま空中で停止し、雨妖に向かって手を突き出す。[p]
+Senpai stops in the air while holding me and stretches out her hand towards the Rain Ayakashi.[p]
 *158
 #先輩
-「雨妖！！[r]　お前は父上からの命を果たすべく命を懸けていると言っていたな！！」[p]
+“Rain Ayakashi!! You said you’re risking your life to fulfill my father’s orders!!”[p]
 *159
-「ならば私もここに己の身命を賭すとしよう――！」[p]
+“Then, I will bet my life here as well—!”[p]
 *160
 #
 [bg2 storage="vsuyo2.jpg" time="1000" wait=false]
-先輩の指先が白く光り、雨妖との間に壁を描き出す。[p]
+Her fingertips glow white, drawing a wall between us and the Rain Ayakashi.[p]
 *161
-壁に阻まれた雨妖が地面に墜落したのを見届けると、[r]そのまま先輩は指先を胸元に滑らせた。[p]
+Seeing that the shark is effectively blocked by the wall and crashes to the ground, she slides her fingertips onto her chest in a relieved gesture.[p]
 *162
-#春也
-「先輩！？」[p]
+#Haruya
+“Senpai...”[p]
 *163
 #先輩
-「大丈夫。安心して」[p]
+“I’m alright. Don’t worry.”[p]
 *164
 #
-先輩の胸に細く切れ込みが入る。[p]
+There is a thin incision in her chest.[p]
 *164a
-するとまるで先輩の内部が光で満ちていたかのように、[r]まばゆい光芒が胴の切れ目からあふれ出す。[p]
+Then, as if her interior was filled with light, a dazzling beam of light overflows from the cut in her torso.[p]
 *165
 [bg2 storage="vsuyo.jpg" time="1000" wait=false]
-夜空を割らんばかりに迸っていた光だったが、[r]少しずつその力は弱まっていき、[r]やがて瞳を閉ざすかのように消え入った。[p]
+The light bursts out as if to split the night sky, but its power gradually weakens, and eventually it disappears as if it were an eye closing its eyes.[p]
 *166
-#雨妖
-「白逝！！　貴様何を――」[p]
+#Rain Ayakashi
+“Shirayukihime!! What are you―”[p]
 *167
 #先輩
-「私の寿命を天に返した。私はもう長くはこの世に留まれない。[r]　じきに元の世界へ帰るさ」[p]
+“I’ve returned the lifespan I had stolen into the sky. Now I won’t be able to stay in this world for long. I will return to our original world.”[p]
 *168
 #
-その場にいた誰もが、先輩の言葉を呑み込めずにいた。[r]しかし構わず先輩は続ける。[p]
+Neither the Rain Ayakashi nor I seem to follow. However, she continues regardless.[p]
 *169
 #先輩
-「雨妖！　お前の仕事は終わった。[r]　先に帰って私の出迎えの準備をしておいてくれないか？」[p]
+“Rain Ayakashi! Your job here is no more. Can you go home first and prepare for when I come?”[p]
 *170
-#雨妖
-「正気か！？　今更帰還したところで到底許されはせんぞ……！」[p]
+#Rain Ayakashi
+“Are you insane?! Even if you return now, you won’t be spared!”[p]
 *171
 #先輩
-「元々殺すつもりだったんだからそれこそ今更だろう。[r]　安心するんだ、もう人を襲う時間も体力も私には残っていないよ」[p]
+“I was going to kill you from the beginning, so it’s probably too late now. Rest assured. I don’t have the time or the strength left to attack people anymore.”[p]
 #
 [mask time=1000 color="0xffffff"]
 [M0]
@@ -556,42 +556,42 @@
 [fadeinse storage=rain8.ogg loop=true time=2000]
 [mask_off time=1000]
 *172
-そう言って先輩は地上に降り立つ。[r]先程までの戦いが嘘のような静寂だ。[p]
+Saying so, she descends to the ground. It is so silent that the fight from a moment ago seems like a lie.[p]
 *173
-戦闘は終わったのだ。[p]
+The battle is over.[p]
 @layopt layer="2" visible=true
 [image layer="2" storage="uyo.png" width=900 left=190 top=-150 time=700]
 *174
-雨妖はしばし呆然としていたが、やがて歯噛みしてぶつぶつ呟いた。[r]捨て台詞のようだったが上手く聞き取れない。[p]
+The Rain Ayakashi is stunned, but eventually grits his teeth and mutters something. It sounds like a throwaway line, but I couldn’t catch it.[p]
 *175
-しかしやがて雨妖は、僕を睨んでこう言った。[p]
+Before parting, he glares at me and says:[p]
 *176
-#雨妖
-「下地春也」[p]
+#Rain Ayakashi
+“Haruya Shitaji.”[p]
 *177
-#春也
-「はい……？」[p]
+#Haruya
+“Yes...?”[p]
 *178
-#雨妖
-「これは返しておく。[r]　こんな穢らわしいものを持って帰るわけにはいかない」[p]
+#Rain Ayakashi
+“I’m returning this. I can’t take this filthy thing home with me.”[p]
 #
 [playse storage=basa.ogg buf=1]
 *179
-そう言って雨妖が吐き出したのは、僕が差していた傘だった。[r]開いた状態で放り出されて、そのままぼよんと地面に弾んだ。[p]
+Saying that, he spits out the umbrella I was holding when we were at my home. It was thrown open and bounced to the ground.[p]
 [trans_out layer="2" time=1000 method="fadeOutDown"]
 [freeimage layer="2" time=0 page=back]
 *180
-傘一本を置き土産に、雨妖は地面に沈んでいく。[p]
+Leaving the umbrella as a souvenir, he sinks into the ground.[p]
 *181
-静寂。雨の音。いつの間にか先輩は人間の姿に戻っていた。[p]
+Silence. I can hear the rain. Before I know it, senpai has returned to her human form.[p]
 *182
-僕たちはしばらく、ふたり寄り添って呆然としていた。[p]
+For a while, we stand side by side. My mind isn’t working properly.[p]
 *183
-誰もいないあじさい園。[p]
+An empty hydrangea garden.[p]
 *184
-僕は地面を。[p]
+I look down, to the ground.[p]
 *185
-先輩は遠い夜空を見つめていた。[p]
+Senpai has her eyes raised at the distant night sky.[p]
 
 [mask time=1000]
 [eval exp="sf.S9a=1"]

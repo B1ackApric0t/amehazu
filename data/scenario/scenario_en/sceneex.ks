@@ -19,177 +19,177 @@
 [fadeinbgm storage=kaiwa_loop.ogg time=1500]
 [mask_off time=500]
 
-#先輩
-「君は文芸部室で漫画を読む種の人間なんだね」[p]
+#Senpai
+“So you’re the kind of person who reads manga in the literature club, huh?”[p]
 *1
-#春也
-「漫画も読書ですよ」[p]
+#Haruya
+“Reading manga is still reading.”[p]
 *2
 #
-先輩は僕の隣にぴたりと椅子をくっつけ、[r]僕の開いたコミック雑誌を横から覗き込んできていた。[p]
+Senpai had a chair right next to me and was peering into the manga magazine I had opened.[p]
 *3
-なんかいい匂いがするので困る。[p]
+I was troubled because she had a nice smell.[p]
 *4
-#先輩
-[yukino/1]「どうして漫画の主人公って、身体に傷を負ってたりするんだろう」[p]
+#Senpai
+[yukino/1]“I wonder why the main characters in manga often have scars on their bodies.”[p]
 *5
 #
-コマの中のキャラを見つめて、先輩が呟いた。[p]
+She muttered, staring at the character in a panel.[p]
 *6
-#春也
-「そういう印じゃないんですか。特別な力があるっていう」[p]
+#Haruya
+“Isn’t that a mark? It means you have a special power.”[p]
 *7
-#先輩
-[yukino/8]「ふむ」[p]
+#Senpai
+[yukino/8]“Hmm...”[p]
 *8
 #
-先輩は漫画から視線を外し、足と腕とを組んで何やら考えはじめた。[p]
+Senpai took her eyes off the manga, crossed her arms and legs, and began to think about something.[p]
 *9
-たぶんろくでもないことなので僕は先輩をつついておく。[p]
+It’s probably not a good thing, so I poked her.[p]
 *10
-#春也
-「いま何企んでます？」[p]
+#Haruya
+“What are you scheming now?”[p]
 *11
-#先輩
-[yukino/1]「私も君に印をつけたい」[p]
+#Senpai
+[yukino/1]“I want to mark you too.”[p]
 *12
-#春也
-「なに言ってるんですか。マーキングですか」[p]
+#Haruya
+“What are you saying? Marking?”[p]
 *13
-#先輩
-「私は犬じゃないよ。でも犬はとても好きだ」[p]
+#Senpai
+“I’m not a dog. But, I love dogs.”[p]
 *14
-#春也
-「はあ……」[p]
+#Haruya
+“Haah...”[p]
 *15
 #
-脈絡のない会話の後、先輩はまた僕に頭を近づける。[p]
+After a conversation without context, senpai brought her head close to me again.[p]
 *16
-先輩が漫画を覗き込む拍子に、さらさらとした髪が僕の手首にかかった。[p]
+When she peered into the manga, her silky hair hung over my wrist.[p]
 *17
-#先輩
-「……めくらないのかい？」[p]
+#Senpai
+“Aren’t you going to turn the page?”[p]
 *18
 #
-先輩が流し目気味にこちらを見る。[p]
+She looked at me with a sideway glance.[p]
 *19
-#春也
-「今ちょっと考え事してました」[p]
+#Haruya
+“I was just thinking.”[p]
 *20
-#先輩
-[yukino/7]「うん？　私についてかな？」[p]
+#Senpai
+[yukino/7]“Yes? About me?”[p]
 *21
-#春也
-「それもあります」[p]
+#Haruya
+“That too.”[p]
 *22
 #
 [yukino/9]
-ぴく、と先輩が目を開いた。予想外だったらしい。[p]
+Her eyes widened in surprise. I guess my comment was unexpected.[p]
 *23
-#先輩
-[yukino/1]「良ければ聞かせてくれないかな？」[p]
+#Senpai
+[yukino/1]“Can’t you tell me?”[p]
 *24
 #
-僕は少しだけ迷って、結局言うことにした。[p]
+After some hesitation, I decided to nod.[p]
 *25
-#春也
-「傷、あるんですよ。僕の身体にも」[p]
+#Haruya
+“My body, too. It has scars.”[p]
 *26
-#先輩
-[yukino/9]「へえ。それは……理由は聞いてもいいのかな？」[p]
+#Senpai
+[yukino/9]“Huh?”[r]“Oh, that’s… Can I ask why?”[p]
 *27
-#春也
-「はい。でなければ話してないです」[p]
+#Haruya
+“Sure. Otherwise, I wouldn’t be telling you.”[p]
 *28
 #
-[yukino/1]そうか、と先輩は頷いた。[p]
+[yukino/1]She nodded.[p]
 *29
-#春也
-「僕、小さい頃に大きい手術してまして。その跡が背中にあります」[p]
+#Haruya
+“I had a big surgery when I was a child. I have a scar on my back.”[p]
 *30
-#先輩
-「……背中に？」[p]
+#Senpai
+“On your back?”[p]
 *31
 #
-「はい。まあ、言っといてなんですが見せるわけにはいきませんけど」[p]
+“Yes. I can’t show it to you, though.”[p]
 *32
-#先輩
-[yukino/12]「それはね。色っぽくなってしまうから」[p]
+#Senpai
+[yukino/12]“True that. You can’t, because you’d look too sexy.”[p]
 *33
 #
-先輩のそのコメントは果たして適切なのか？　[r]訝しみながら僕は続ける。[p]
+Is that comment appropriate? I continue talking while wondering.[p]
 *34
-#春也
-[yukino/1]「手術の後、しばらく安静にしてなきゃいけない期間があって、[r]　そのときに本に触れてたんですよね。[r]　僕の本好きはそこからです」[p]
+#Haruya
+[yukino/1]“After the surgery, I was convalescent for a while. It was during that time that I picked up reading. My love for books started there.”[p]
 *35
-#先輩
-「ということは、君がこの文芸部に入部する遠因でもあるわけだね」[p]
+#Senpai
+“So this means the scar is your reason for joining this club.”[p]
 *36
-#春也
-「そうとも言えます」[p]
+#Haruya
+“You could say so.”[p]
 *37
 #
-そうだったんだ、と先輩は感慨深そうに呟いた。[p]
+“That’s right”, senpai muttered deeply.[p]
 *38
-#春也
-「このこと、誰にも言ってなかったんですけどね」[p]
+#Haruya
+“It’s the first time I tell anyone about this.”[p]
 *39
-#先輩
-「へえ？　私が初めて？」[p]
+#Senpai
+“Huh? I’m the first?”[p]
 *40
-#春也
-「はい。少なくとも中学以来初めてです」[p]
+#Haruya
+“Yes. At least the first time since middle school.”[p]
 *41
-#先輩
-[yukino/7]「それは……なんというか嬉しいけど。[r]　どうしてそんなことを話してくれたんだい？」[p]
+#Senpai
+[yukino/7]“That’s... Somehow, it makes me happy! But why did you tell me?”[p]
 *42
-#春也
-「……なんででしょうかね？」[p]
+#Haruya
+“Why...?”[p]
 *43
-#先輩
-「おや。君にも考えるより先に言葉を発することはあるのか」[p]
+#Senpai
+“Yep. Because you’re the type to think before talking.”[p]
 *44
-#春也
-「知ってもらいたくなったんですかね」[p]
+#Haruya
+“Maybe I wanted you to know.”[p]
 *45
 #
-僕は努めて他人事のように呟いた。[p]
+I tried my best to mumble as if it was someone else’s problem.[p]
 *46
-でなければ今更に気恥ずかしい。[p]
+If not, I’d be even more embarrassed than I already was.[p]
 *47
-#先輩
-「ふふ……私が犬好きという情報のお返しかい？」[p]
+#Senpai
+“Fufu… Was that payback for the information about me liking dogs?”[p]
 *48
-#春也
-「そうなりますかね。レートが釣り合ってませんけど」[p]
+#Haruya
+“You think? I’d say the price and cost proportion isn’t evenly matched.”[p]
 *49
-#先輩
-「レートかあ。ふんふん。」[p]
+#Senpai
+“Proportion, huh. Fufu...”[p]
 *50
-[yukino/2]「それなら私も、君からの質問をなんでもひとつ受け付けよう。[r]　いかな問いにも赤裸々に答えるよ」[p]
+[yukino/2]“In that case! I’ll accept any question from you. I will answer aaaanything openly.”[p]
 *51
-#春也
-「どんな犬が好きですか？」[p]
+#Haruya
+“Then… What’s you type? O-of dog…”[p]
 *52
 #
-[yukino/12]そこ犬なんだ、と先輩は目を細めた。[p]
+[yukino/12]“The kind of dog over there”, she said, narrowing her eyes.[p]
 *53
-#先輩
-[yukino/2]「私が好きなのはそうだね、[r]　本好きで案外素直じゃなくて、実は水で練って食べる知育菓子とか好きで、[r]　背中に手術痕のある犬かな」[p]
+#Senpai
+[yukino/2]“That’s what I like. A book lover that’s surprisingly not obedient. And that likes lollypops. Dogs with surgical scars on their backs.”[p]
 *54
-#春也
-「僕は犬じゃないですよ」[p]
+#Haruya
+“I’m not a dog.”[p]
 *55
-#先輩
-[yukino/10]「知ってるよ。君は私の後輩。[r]　それに誰とは言ってないよ。犬の話だからね」[p]
+#Senpai
+[yukino/10]“I know. You’re my kouhai. And I didn’t mention names. I was talking about dogs.”[p]
 *56
-#春也
-「……そうでしたね」[p]
+#Haruya
+“Ah, right...”[p]
 *57
 #
-僕は再び雑誌に目を落とす。[p]
+I directed my eyes to the magazine again.[p]
 *58
-漫画のキャラの傷跡に始まったこの話は、[r]僕の背中の傷跡を経て、こうして犬の話に着地したのだった。[p]
+This story, which started with the scars of a fictional character, passed through the scars on my back and ended up with a story about dogs.[p]
 
 [fadeoutbgm time=1200]
 [mask time1000]
@@ -202,83 +202,83 @@
 
 *59
 #
-後ろから腕が回された。先輩だった。[r]不意に後ろから抱きしめられて、僕の心臓はきゅっと張りつめる。[p]
+Senpai’s arms suddenly wrapped around my back. My heart tightened from being hugged from behind.[p]
 *60
-#春也
-「どっ……どうしたんですか？」[p]
+#Haruya
+“W-what is it?”[p]
 #
 [bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 *61
-#先輩
-「君の背の傷を想っている」[p]
+#Senpai
+“I’m thinking of the scar on your back.”[p]
 #
 [bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 *62
-横目に見た先輩は瞳を閉じていた。きれいだと思った。[r]……この人は美しい人なのだ。[p]
+I looked sideways at her, who had her eyes closed. So pretty, I thought.[p]
 *63
-同じぐらいに変人だけど。[p]
+This person is beautiful.[p]
 *64
-#春也
-「そんなに面白かったですか？　僕の話」[p]
+#Haruya
+“My story... Was it that interesting?”[p]
 #
 [bg2 storage="hug1.jpg" time=0 cross=false wait=false]
 *65
-#先輩
-「ああ。君の話だから」[p]
+#Senpai
+“Yeah!”[r]“Oh, but that’s because it’s about you.”[p]
 *66
 #
-先輩が僕にぴったりと寄り添う。[p]
+She snuggled up to me.[p]
 [bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 *67
-#先輩
-「君の背中が、君をこの文芸部室まで運んできてくれたんだね」[p]
+#Senpai
+“Your back brought you to this literature clubroom.”[p]
 *68
-#春也
-「リリカル……ですね？」[p]
+#Haruya
+“It’s almost poetic.”[p]
 *69
-#先輩
-「そんな気分なんだ」[p]
+#Senpai
+“That’s how it feels.”[p]
 #
 [bg2 storage="hug1.jpg" time=0 cross=false wait=false]
 *70
-先輩が僕のそばから離れた。[p]
+She released me from her embrace.[p]
 *71
-それから椅子の背もたれと、緊張でぴんと張った僕の背の間に手を差し挟み、[r]制服の背中に指先を滑らせた。[p]
+She then put her hand between the back of the chair and my back, letting her fingertips slide down the back of my uniform.[p]
 [bg2 storage="hug3.jpg" time=0 cross=false wait=false]
 *72
-不思議なことに、先輩の指の軌跡は、[r]僕の背中の手術痕を正確になぞっていた。[p]
+Strangely enough, the trajectory of her finger accurately traced my surgical scar.[p]
 *73
-再び先輩は僕の背中を抱く。さっきよりもひしと抱かれた。[r]優しい力がこめられていた。[p]
+Then she hugged my back again. She hugged me tighter than before. An embrace filled with loving strength.[p]
 *74
-#先輩
-「たぶん私は、君の背の傷のことをこれから何度も想うのだろうね」[p]
+#Senpai
+“Maybe I’ll think about the scar on your back many times from now on.”[p]
 *75
 #
-僕の身体は指先までもガチガチに固まり、心臓はどくどくと音を打ち始めていた。かつてないほど僕と先輩は近くに寄り添っていた。[p]
+My whole body was stiff, down to my fingertips, and my heart was beating loudly. We were close to each other like never before.[p]
 *76
-そして僕という人間の根幹に関わる背中の傷に、[r]先輩が想いを巡らせていることが、[r]僕の中の何より深い底の部分を震わせていた。[p]
+And the fact that she was thinking about the wound on my back, which is related to my foundation as a human being, made the deepest part of my core shake.[p]
 [bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 *77
-そんな僕をよそにして、先輩は瞳を閉じたまま、[r]遠い記憶を思い出すかのように呟いた。[p]
+Letting go of me, she closed her eyes and muttered as if recalling a distant memory.[p]
 *78
-#先輩
-「もしも人に翼が生えたら、その羽根は背中に伸びているのだろうね――」[p]
+#Senpai
+“If a person had wings, they would probably grow on their backs...”[p]
 *79
 #
-先輩がどうして急にそんなことを言ったのか。僕にはわからない。[p]
+Why did she suddenly say such a thing? I couldn’t know.[p]
 *80
-でも僕は、自分の背の傷が、そんな羽みたいなものだとは、[r]つゆほども考えたことがなかった。[p]
+I had never even thought of imagining the scar as a wing.[p]
 *81
-傷跡は傷跡だった。[p]
+A scar was a scar.[p]
 *82
-それを羽に結びつけたのは、先輩が初めてだった。[p]
+Senpai was the first to liken it to a wing.[p]
 [bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 *83
-ぱさりと雑誌が手から落ちた。[r]自由になった両手が、先輩の腕に触れた。[p]
+The magazine fell out of my hand. Both hands freed, I touched her arm.[p]
 *84
-五月の末。[r]曇りがちの鈍い日光が窓から差し込んでいる。[p]
+End of May. Dull, cloudy sunlight was streaming into the room through the windows.[p]
 *85
-梅雨が来る、と思った。先輩との梅雨が。[p]
+The rainy season is coming, I thought. The rainy season with senpai.[p]
 [fadeoutbgm time=2000]
 [mask time=1500]
 [M0]

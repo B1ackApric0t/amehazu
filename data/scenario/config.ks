@@ -161,6 +161,9 @@ $(function () {
 if (sf.trans == 2) {
   $('.config_bg').attr('src','tyrano/images/system/ch/config_bg_new.png');
   $('.configback').attr('src','tyrano/images/system/ch/back_system.png');
+}else if(sf.trans == 3){
+  $('.config_bg').attr('src','tyrano/images/system/en/config_bg_new.png');
+  $('.configback').attr('src','tyrano/images/system/en/back_system.png');
 }else{
   $('.config_bg').attr('src','data/bgimage/config.png');
   $('.configback').attr('src','tyrano/images/system/back_system.png');
