@@ -761,7 +761,7 @@ With the clubroom behind me, I remember.[p]
 [bg2 storage="busiturain.jpg" time="100"]
 [mask_off time=300]
 *237
-“Is it even possible for you to leave?　You love our literature club.”[p]
+“Is it even possible for you to leave? You love our literature club.”[p]
 *238
 [yukino3]
 “I have to graduate.”[p]

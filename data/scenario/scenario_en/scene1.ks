@@ -17,9 +17,7 @@
 [eval exp="sf.Bclear=0"]
 [eval exp="sf.S1=1"]
 [mask_off time=1000]
-[iscript]
-tyrano.plugin.kag.config.defaultPitch = '1';
-[endscript]
+
 *scene1
 #
 “Sharing an umbrella”[p]

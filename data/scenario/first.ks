@@ -5,6 +5,9 @@
 [dialog_config_ok text="Yes"]
 [dialog_config_ng text="No"]
 [deffont face=EG]
+[iscript]
+tyrano.plugin.kag.config.defaultPitch = '1';
+[endscript]
 [elsif exp="sf.trans==2"]
 [title name="雨霏霏，人非人"]
 [dialog_config_ok text="是"]
