@@ -18,7 +18,7 @@
 					{{if img_data != ""}}
 						<img src="{{:img_data}}">
 				    {{else}}
-						<span class="save_list_thumb_nodata"><img src="tyrano/images/system/kara.png" style="margin-top:12%;margin-left:250%;width:29px;height:29px;"></span>
+						<span class="save_list_thumb_nodata"><img src="tyrano/images/system/kara.png" class="img_emp" style="margin-top:12%;margin-left:250%;width:29px;height:29px;"></span>
 					{{/if}}
 					</span>
 					<span class="save_list_item_area">
@@ -42,10 +42,12 @@
         $('.save_top').attr('src','tyrano/images/system/en/savetop.png');
         $('.save_bg').attr('src','tyrano/images/system/en/save_bg.png');
         $('.save_back').attr('src','tyrano/images/system/en/back_system.png');
+        $('.img_emp').attr({src:'tyrano/images/system/en/kara.png', style:'margin-top:12%;margin-left:235%;width:83px;height:32px;'});
       }else if (TYRANO.kag.variable.sf.trans == 2) {
         $('.save_top').attr('src','tyrano/images/system/ch/savetop.png');
         $('.save_bg').attr('src','tyrano/images/system/ch/save_bg.png');
         $('.save_back').attr('src','tyrano/images/system/ch/back_system.png');
+        $('.img_emp').attr('src','tyrano/images/system/ch/kara.png');
       }else{
         $('.save_top').attr('src','tyrano/images/system/savetop.png');
         $('.save_bg').attr('src','tyrano/images/system/save_bg.png');
