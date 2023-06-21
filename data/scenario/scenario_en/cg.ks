@@ -18,7 +18,7 @@
 
 <div class='tabs' style="left:330px;">
   <div class='tab-buttons'>
-    <span class='content1' style="font-family:EG;font-weight:normal;height:90px;margin-left:105px;margin-top:-55px;padding-top:10px;transition: .3s;">Chapter Selection</span>
+    <span class='content1' style="font-family:EG;font-weight:normal;margin-left:105px;padding-top:10px;transition: .3s;">Chapter</span>
     <span class='content2' style="font-family:EG;font-weight:normal;padding-top:10px;transition: .3s;">Gallery</span>
     [if exp="sf.Aroot == 1 && sf.Broot == 1"]
     <span class='content3' style="font-family:EG;font-weight:normal;padding-top:10px;transition:.3s;">Music</span>
@@ -31,7 +31,7 @@
     
     <div class='content1'>
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
-      <div id="chaptertitle" style="font-family:EG;">Scene 1. Sharing an umbrella</div>
+      <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Scene 1. Sharing an umbrella</div>
       <div id="summary" style="font-family:EG;">Haruya and his senpai walk home together under the same umbrella. Before long, Haruya parts ways with her and seems to be alone. However, behind him a huge shadow of a fish creeps upon him.</div>
       <div class="chapterchoice" style="left:455px;">
         <div id="chapter1" class="chap_en">Scene 1. Sharing an umbrella</div>
