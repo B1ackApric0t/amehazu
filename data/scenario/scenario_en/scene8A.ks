@@ -188,7 +188,7 @@ And the shadow I can see from within the his mouth is...[p]
 [haruyahide wait=false][quake count=4 time=700 vmax=15]
 When I involuntarily lean forward and shout, my feet begin to tilt. The Rain Ayakashi has lifted the tip of his tongue.[p]
 *54
-#先輩
+#Senpai
 [yukino/14]“Haruya-kun.”[p]
 *55
 #Rain Ayakashi
@@ -199,7 +199,7 @@ For a moment, I feel the illusion of my body floating up at the Rain Ayakashi’
 *57
 I somehow manage to avoid falling into the back of its throat, and the tongue finally regains its original flatness.[p]
 *58
-#先輩
+#Senpai
 [yukino/5]“Hey, Fukae… Do you really think that will work against me? Don’t you know who I am?”[p]
 *59
 #Rain Ayakashi
@@ -207,7 +207,7 @@ I somehow manage to avoid falling into the back of its throat, and the tongue fi
 *60
 “That’s why I decided on this approach. Apparently, you seem to have a deep bond with this guy.”[p]
 *61
-#先輩
+#Senpai
 “Even if you take a hostage, it would be easy for me to overwhelm you and recapture him. Isn’t that right?”[p]
 *62
 #Rain Ayakashi
@@ -220,7 +220,7 @@ My life is being exchanged now… It doesn’t feel real.[p]
 *65
 A story about a world that I don’t know about, and senpai’s stern voice that I hear for the first time all. They seem like lies.[p]
 *66
-#先輩
+#Senpai
 “Are you willing to die?”[p]
 *67
 #Rain Ayakashi
@@ -228,7 +228,7 @@ A story about a world that I don’t know about, and senpai’s stern voice that
 *68
 “Rather, surviving despite failing my lord’s mission would be the real death.”[p]
 *69
-#先輩
+#Senpai
 ;[kanim name="yukino" keyframe="left" time="500"]
 “Pfft. My father sure is loved by his pet fish.”[p]
 *70
@@ -258,7 +258,7 @@ An open space surrounded by flowers and plants. In its center, a familiar figure
 #
 [haruyahide time=400]
 *77
-#先輩
+#Senpai
 [yukino/3]“Haruya-kun.”[p]
 *78
 #
@@ -284,13 +284,13 @@ As long as I can see through his calculations, I can’t let myself be caught up
 *86
 I can’t hurt her. However, I don’t really have a clue what to say...[p]
 *87
-#先輩
+#Senpai
 [yukino/13]“Sorry, Haruya-kun.”[p]
 *88
 #
 She speaks up first. I am taken aback. I thought she was waiting for me to say something.[p]
 *89
-#先輩
+#Senpai
 [yukino/3]“I know I should have told you first, and I’m sure there are many things you want to ask me.”[p]
 *90
 “First of all, what the Rain Ayakashi said is all true. I’m not human, and it’s true that I attacked people.”[p]
@@ -331,7 +331,7 @@ But didn’t these words of mine plunge senpai into the depths of darkness?[p]
 #
 [yukino/11]Without waiting for her reply, I kept pressing for answers. With the momentary sound of rain in between, she starts talking.[p]
 *105
-#先輩
+#Senpai
 [yukino/12]“I was raised by my father, like some sort of pet. I was confined in a room that was spacious and empty, had no windows and was like a bug cage. I spent my time without meeting anyone.”[p]
 *106
 “That’s why I wanted to get involved with someone. So I forced myself to come here.”[p]
@@ -369,7 +369,7 @@ But thanks to him, I’ve been able to say what I wanted to say. That’s all I 
 *120
 She closes her eyes while listening to my words. And before long, after a pause as if she was trying to grasp the meaning of my words, senpai opens her mouth.[p]
 *121
-#先輩
+#Senpai
 [yukino/10]“Thank you...”[p]
 *122
 #
@@ -378,7 +378,7 @@ Her hand glows white. Her fingertips run along the nape of her neck.[p]
 #Haruya
 “Senpai...”[p]
 *124
-#先輩
+#Senpai
 “All the things you just said, they are my salvation.”[p]
 #
 [fadeoutbgm time=1000]
@@ -489,7 +489,7 @@ Long hair, white like moonlight. A jet-black body with scarlet wings and an expr
 *154
 A beautiful and extraordinary figure. An existence unknown to our world.[p]
 *155
-#先輩
+#Senpai
 [kanim name="yukino" keyframe="nod" time="500"]“Yeah. I’m your senpai, Haruya-kun.”[p]
 *156a
 #
@@ -506,7 +506,7 @@ He shouts angrily and chases after us. Black water is gushing out from one end o
 *157a
 Senpai stops in the air while holding me and stretches out her hand towards the Rain Ayakashi.[p]
 *158
-#先輩
+#Senpai
 “Rain Ayakashi!! You said you’re risking your life to fulfill my father’s orders!!”[p]
 *159
 “Then, I will bet my life here as well—!”[p]
@@ -520,7 +520,7 @@ Seeing that the shark is effectively blocked by the wall and crashes to the grou
 #Haruya
 “Senpai...”[p]
 *163
-#先輩
+#Senpai
 “I’m alright. Don’t worry.”[p]
 *164
 #
@@ -534,19 +534,19 @@ The light bursts out as if to split the night sky, but its power gradually weake
 #Rain Ayakashi
 “Shirayukihime!! What are you―”[p]
 *167
-#先輩
+#Senpai
 “I’ve returned the lifespan I had stolen into the sky. Now I won’t be able to stay in this world for long. I will return to our original world.”[p]
 *168
 #
 Neither the Rain Ayakashi nor I seem to follow. However, she continues regardless.[p]
 *169
-#先輩
+#Senpai
 “Rain Ayakashi! Your job here is no more. Can you go home first and prepare for when I come?”[p]
 *170
 #Rain Ayakashi
 “Are you insane?! Even if you return now, you won’t be spared!”[p]
 *171
-#先輩
+#Senpai
 “I was going to kill you from the beginning, so it’s probably too late now. Rest assured. I don’t have the time or the strength left to attack people anymore.”[p]
 #
 [mask time=1000 color="0xffffff"]
