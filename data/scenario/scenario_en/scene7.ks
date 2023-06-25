@@ -156,7 +156,7 @@ That’s taboo.[p]
 Eh?[p]
 *43
 #Club President
-Reading the club magazine inside the club room is forbidden. This is a pact among the members of the literary club to maintain our mutual mental well-being. It can save lives.[p]
+Reading the club magazine inside the club room is forbidden. This is a pact among the members of the literature club to maintain our mutual mental well-being. It can save lives.[p]
 *44
 #Haruya
 Your life, for example?[p]

@@ -52,7 +52,7 @@ I’ve heard rumors that some people even spend their holidays in uniforms, but 
 [hmod storage=yukino/tatie1.png]Yes! Don’t you feel it’s out of the ordinary?[p]
 *10
 #Haruya
-[hmod]Hmm? "I think I kinda understand, but...[p]
+[hmod]Hmm? I think I kinda understand, but...[p]
 *11
 We wear uniforms at school, which takes up most of our daily life, so if that isn’t ordinary, then do you consider the weekend to be the actual ‘ordinary’ time?[p]
 *12
@@ -77,7 +77,7 @@ Speaking of getting tired of things... No matter how ‘out of the ordinary’ i
 [hmod storage=yukino/tatie7.png]I’m not tired of it so far. In the long run, high school itself is a special event in life.[p]
 *19
 #Haruya
-[hmod]you’re philosophical.[p]
+[hmod]That’s philosophical.[p]
 *20
 #Senpai
 [hmod storage=yukino/tatie7.png]Doesn’t it apply to today too? Going out somewhere with someone.[p]
@@ -167,7 +167,7 @@ Er...?[p]
 I feel like I both understand and don’t.[p]
 *47
 #Senpai
-[yukino/7]However, I feel relieved when you’re here.　I can clearly see that I can go back.[p]
+[yukino/7]However, I feel relieved when you’re here. I can clearly see that I can go back.[p]
 *48
 #
 I feel like I’ve been told something really outrageous. I wait patiently for her words.[p]
@@ -196,7 +196,7 @@ But I want to answer something, I believe I have to answer, and in the end, the 
 I- I want to understand.[p]
 *58
 #Senpai
-[yukino/9]I want to understand...[p]
+[yukino/9]“I want to understand...”[p]
 *59
 #
 She repeats my words.[p]
@@ -254,9 +254,9 @@ I don’t know.[p]
 *74
 If I had to say, it looked like a mass of shadows.[p]
 *75
-Something popped out of the ground, snatched something from senpaI’s hand and disappeared into the ground again.[p]
+Something popped out of the ground, snatched something from senpai’s hand and disappeared into the ground again.[p]
 *76
-Her red umbrella fell and bounced on the road full of hydrangeas. SenpaI’s body collapsed on the rain-soaked dirt ground.[p]
+Her red umbrella fell and bounced on the road full of hydrangeas. Senpai’s body collapsed on the rain-soaked dirt ground.[p]
 *77
 #Haruya
 Senpai...?[p]
@@ -308,7 +308,7 @@ She suddenly opens her mouth. She’s completely back to normal.[p]
 Excessively normal.[p]
 *92
 #Senpai
-I accidentally fell.　Being too playful is reckless, huh.[p]
+I accidentally fell. Being too playful is reckless, huh.[p]
 *93
 #Haruya
 Huh? But- Senpai...[p]
@@ -354,7 +354,7 @@ I’m sorry I worried you.[p]
 She stands up. Picking up the umbrella that was lying around, she turns to me to say:[p]
 *106
 #Senpai
-Then! Let’s resume sightseeing, Haruya-kun.　I want to go farther.[p]
+Then! Let’s resume sightseeing, Haruya-kun. I want to go farther.[p]
 *107
 #
 I think it’s creepy.[p]
@@ -379,11 +379,11 @@ I’m coming...[p]
 [hide wait=false][haruyahide time=1000]
 *114
 #
-Even after all that, she is still happily screaming and letting out sounds of admiration. We even take a picture together.[p]
+Even after all that, she is still happily yelling and letting out sounds of admiration. We even take a picture together.[p]
 *115
 But I don’t know how to look at her.[p]
 *116
-A white mist covers the entire hydrangea garden. We both walk through it.[p]
+White mist covers the entire hydrangea garden. We both walk through it.[p]
 *117
 Senpai and I, alone.[p]
 [fadeoutse time=1500]

@@ -20,7 +20,7 @@
 
 *start
 #
-The following day after school, in the literary club room.[p]
+The following day after school, in the literature club room.[p]
 *1
 I’m waiting alone in the club room, but there’s no sign of senpai coming.[p]
 *2
@@ -30,7 +30,7 @@ A grey sky peeks through the window.[p]
 *4
 It’s the first time she hasn’t come to club activity.[p]
 *5
-The literary club is very laid-back. Rather than a club activity, it’d be more correct to call it an after-school hangout, and that's exactly why I’m worried about her.[p]
+The literature club is very laid-back. Rather than a club activity, it’d be more correct to call it an after-school hangout, and that's exactly why I’m worried about her.[p]
 *6
 *7
 I wonder if she has come to school.[p]

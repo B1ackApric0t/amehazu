@@ -21,7 +21,7 @@
 *start
 [loadcss file="./data/others/css/next1.css"]
 #
-The following day after school, in the literary club room.[p]
+The following day after school, in the literature club room.[p]
 [bg2  storage="busiturain.jpg"  width=1920 height=1080 left=-430 top=-150 time=1000 wait=false cross=false]
 *1
 Senpai is lying face down on her desk and stares at the sky with languid eyes. Her silky hair hangs over her arm and flows down the desk, flooding the tabletop in black.[p]
@@ -54,7 +54,7 @@ She puts her chin up on her arm and faces my way.[p]
 
 *9
 #Senpai
-[yukino/8]Even though I see Haruya-kun’s face every day.[p]
+[yukino/8]Even though I see your face every day.[p]
 *10
 #Haruya
 What am I, an energy drink?[p]
@@ -102,7 +102,7 @@ It’s quite far.[p]
 Is that so? It’s the first time I hear of it.[p]
 *25
 #Senpai
-What about you, Haruya-kun? Do you like flowers?[p]
+What about you? Do you like flowers?[p]
 *26
 #Haruya
 It depends on what kind. I like flowers like cherry blossoms, plums, and wisterias. I think hydrangeas are good too.[p]
@@ -165,10 +165,10 @@ It’s painful to see her so lonely, and I feel the need to say something.[p]
 
 *46
 #Haruya
-But I think it’s good...[p]
+But I think it’s fine...[p]
 *47
 #Senpai
-[yukino/1]You think it’s… good?[p]
+[yukino/1]You think it’s… fine?[p]
 *48
 #Haruya
 Yes, that even if it’s raining...[p]
@@ -204,7 +204,7 @@ It’s my fault for not making my reply clear, so I want to fix it.[p]
 Let’s go out together on the weekend. To see the hydrangeas.[p]
 *60
 #Senpai
-[yukino/2][kanim name="yukino" keyframe="nod" time="500"]Yeah! I know! why don’t we organize the trip?[p]
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]Yeah! I know! Why don’t we organize the trip?[p]
 *61
 #
 [mask time=500]
@@ -222,7 +222,7 @@ At some point I stopped thinking, and I probably talked a lot of nonsense.[p]
 *64
 #Senpai
 [kanim name="yukino" keyframe="nod3" time="200" count=2]
-Can you believe it, Haruya-kun? We have the whole thing planned now![p]
+Can you believe it? We have the whole thing planned now![p]
 *65
 #Haruya
 Well, we did make it with the idea of carrying it out.[p]
@@ -295,7 +295,7 @@ I just want to make sure. Right now, we can’t say that it’s absolutely safe,
 #Senpai
 If you want to say that we’re being conceited or careless you aren’t wrong, but…[p]
 *84
-[yukino/1]I think it’s fine as long as we don’t go out at night. And in the first place, we’re still going to school like usual.[p]
+[yukino/1]I think it’s fine as long as we don’t go out at night. And in the first place, we’re still attending school like usual.[p]
 *85
 #Haruya
 Alright. I just wanted confirmation.[p]

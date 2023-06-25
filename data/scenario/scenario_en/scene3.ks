@@ -123,7 +123,7 @@ However, the other person nods without caring about my stuttering.[p]
 *37
 Somehow, she seems like a unique person.[p]
 *38
-She has a peculiar timing. No, I guess she’s a peculiar person in many ways, since she’s purposefully away from the bustling school building that’s busy recruiting new students.[p]
+She has a peculiar timing. No, I guess she’s peculiar in many ways, since she’s purposefully away from the bustling school building that’s busy recruiting new students.[p]
 *39
 #??
 [yukino/7]Spring is nice.[p]
@@ -156,7 +156,7 @@ It’s warm indeed.[p]
 ...[p]
 *49
 #
-What’s with this person? Is she equipped with an engine that keeps her talking endlessly?[p]
+What’s with her? Is she equipped with an engine that keeps her talking endlessly?[p]
 *50
 #??
 The air smells good in spring.[p]
@@ -282,7 +282,7 @@ Right...[p]
 [kanim name="yukino" keyframe="nod3" time="500"]Here, the window.[p]
 *91
 #
-The person smiles.[p]
+She smiles.[p]
 *92
 #??
 You looked like you wanted me to open it.[p]

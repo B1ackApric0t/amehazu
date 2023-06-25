@@ -99,9 +99,9 @@ Will you please do nothing…[p]
 *25
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
-With a light smile, senpai simply replies that she would behave. My eyes are probably as moist as the humidity of the rainy season.[p]
+With a light smile, senpai simply replies that she will behave. My eyes are probably as moist as the humidity of the rainy season.[p]
 *26
-Her jet-black long hair was is from the rain and gave off a luster.[p]
+Her jet-black long hair is wet from the rain and gave off a luster.[p]
 *27
 The color of my senpai’s hair is that of a wet crow feather. [r]Her dark eyes, which stand out against with her white skin, are peeking behind her long eyelashes.[p]
 *28
@@ -149,7 +149,7 @@ Huh...?[p]
 "Oh? Was my joke too high level?[p]
 *44
 #Haruya
-I’r so tired I could cry...[p]
+I’m so tired I could cry...[p]
 *45
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
@@ -226,7 +226,7 @@ While I was hesitating whether to speak up or not, I missed my timing and the mo
 *68
 Whenever something like this happens, I’m left with a bad aftertaste.[p]
 *69
-If she were to catch a cold because of this, I’m sure today’s event would weigh on my conscience forever.[p]
+If she were to catch a cold because of this, I’m sure today’s events would weigh on my conscience forever.[p]
 *70
 My shirt is getting wet on the right shoulder. [r]The moist feeling makes me return to reality.[p]
 *71
