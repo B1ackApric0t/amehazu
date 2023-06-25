@@ -72,7 +72,7 @@ You can see the cityscape in the distance, and the horizon is visible.[p]
 [haruya]
 *19
 #Haruya
-“Ahh…”[p]
+Ahh…[p]
 *20
 #
 I look at my reflection in the window and sigh.[p]
@@ -84,7 +84,7 @@ If you don’t like crowds, you should just go home.[p]
 So then, why have I come to an empty classroom like this and I’m staying inside the school brimming full of newcomers and club invitations?[p]
 *24
 #??
-“The view is nice.”[p]
+The view is nice.[p]
 *25
 #
 [bg2 storage="class.jpg" time=0 cross=false wait=false]
@@ -94,13 +94,13 @@ I turn my head around at the sudden voice. A girl is standing next to me. A beau
 When did it happen? I’m sure the door was closed...[p]
 *27
 #??
-“The view is nice.”[p]
+The view is nice.[p]
 *28
 #
 She gives me a gentle smile, a smile that looks as though directed at someone who has been with her for many years.[p]
 *29
 #Haruya
-“A-ah... Yes, that’s right.”[p]
+A-ah... Yes, that’s right.[p]
 *30
 #
 I have a hard time replying properly.[p]
@@ -108,16 +108,16 @@ I have a hard time replying properly.[p]
 I wish I could talk more casually, but it’s difficult for me. I think it through before speaking. I also think a lot about the words I choose.[p]
 *32
 #??
-[yukino/7][kanim name="yukino" keyframe="nod" time="500"]“Yes.”[p]
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]Yes.[p]
 *33
 #
 However, the other person nods without caring about my stuttering.[p]
 *34
 #??
-[yukino/2]“Very much so.”[p]
+[yukino/2]“Very much so.[p]
 *35
 #Haruya
-“...”[p]
+...[p]
 *36
 #
 *37
@@ -126,46 +126,46 @@ Somehow, she seems like a unique person.[p]
 She has a peculiar timing. No, I guess she’s a peculiar person in many ways, since she’s purposefully away from the bustling school building that’s busy recruiting new students.[p]
 *39
 #??
-[yukino/7]“Spring is nice.”[p]
+[yukino/7]Spring is nice.[p]
 *40
 #Haruya
-“Is that so…”[p]
+Is that so…[p]
 *41
 #??
-“The sky is bright.”[p]
+The sky is bright.[p]
 *42
 #Haruya
-“I agree.”[p]
+I agree.[p]
 *43
 #??
-“It’s completely different from winter.”[p]
+It’s completely different from winter.[p]
 *44
 #Haruya
-“Yes.”[p]
+Yes.[p]
 *45
 #??
-“It’s warm.”[p]
+It’s warm.[p]
 *46
 #Haruya
-“It’s warm indeed.”[p]
+It’s warm indeed.[p]
 *47
 #??
-[yukino/2]“It’s spring.”[p]
+[yukino/2]It’s spring.[p]
 *48
 #Haruya
-“...”[p]
+...[p]
 *49
 #
 What’s with this person? Is she equipped with an engine that keeps her talking endlessly?[p]
 *50
 #??
-“The air smells good in spring.”[p]
+The air smells good in spring.[p]
 *51
 #Haruya
-“Now that you mention it…”[p]
+Now that you mention it…[p]
 *52
 #??
-“Is it the scent of flowers?”[p]
+Is it the scent of flowers?[p]
 *53
 #
 For sure. The spring air smells sweet. Where does this scent come from?[p]
@@ -179,13 +179,13 @@ I’m not good at being involved with others.[p]
 It’s more than I can handle.[p]
 *58
 #??
-“Spring has come to this city. A new spring.”[p]
+Spring has come to this city. A new spring.[p]
 *59
 #
 It seems that she can keep going even if even if you leave her alone. Whether you want it or not.[p]
 *60
 #??
-“Looking at the scenery of the city like this.”[p]
+Looking at the scenery of the city like this.[p]
 [hide time=500 wait=false]
 [bg2 storage="window.jpg" time="1000" method="fadeInLeft"]
 [yukino2 top=30 width=1400]
@@ -194,10 +194,10 @@ It seems that she can keep going even if even if you leave her alone. Whether yo
 While saying that, she leans her back against the window.[p]
 *62
 #??
-“It makes me feel like everywhere is a city. Right?”[p]
+It makes me feel like everywhere is a city. Right?[p]
 *63
 #Haruya
-“Eh...?”[p]
+Eh...?[p]
 *64
 #
 Wait. I suddenly no longer follow.[p]
@@ -205,29 +205,29 @@ Wait. I suddenly no longer follow.[p]
 I don’t understand, but that doesn’t mean I don’t share the feeling. It just means that I can’t quite grasp what she’s trying to say.[p]
 *66
 #??
-[yukino/12]“I’m sorry. Could it be that I’ve been saying weird things all this time?”[p]
+[yukino/12]I’m sorry. Could it be that I’ve been saying weird things all this time?[p]
 *67
 #
 When I’m at a loss for an answer, the other person laughs embarrassedly.[p]
 *68
 #Haruya
-“No!”[p]
+No![p]
 *69
 #
 Her expression was so lonely that I unintentionally raise my voice.[p]
 *70
 #Haruya
-“Umm... Well, I mean...”[p]
+Umm... Well, I mean...[p]
 *71
 #
 I think hard and finally squeeze out an answer.[p]
 *72
-“Looking at the scenery of the city makes me feel like everywhere is a city.”[p]
+Looking at the scenery of the city makes me feel like everywhere is a city.[p]
 *73
 I can easily find a reason to agree with her. If you look at the city, then everything is a city. But is that all? This seemingly meaningless conversation, maybe there’s something deeper in it?[p]
 *74
 #Haruya
-“This city... Eh, no... There’s a city wherever you go. Because a city... A city... Is where people live.”[p]
+This city... Eh, no... There’s a city wherever you go. Because a city... A city... Is where people live.[p]
 *75
 #
 I don’t know what to say so, even though I’m talking, I have no idea of what I’m saying. I let my mouth move while my brain tries to keep up. If I stop now, we’ll be in silence.[p]
@@ -235,14 +235,14 @@ I don’t know what to say so, even though I’m talking, I have no idea of what
 Why am I even doing this...[p]
 *77
 #Haruya
-“No matter where you are, it’s filled with places where people live, and people’s life activities continue... I guess it’s this kind of feeling, isn’t it?”[p]
+No matter where you are, it’s filled with places where people live, and people’s life activities continue... I guess it’s this kind of feeling, isn’t it?[p]
 *78
 #
 [yukino/9]
 The girl looks surprised at the answer I managed to work out. Then she laughs, and the tension I could feel from her is lifted.[p]
 *79
 #??
-[yukino/2][kanim name="yukino" keyframe="nod" time="500"]“Yeah. You understand! That was the correct answer.”[p]
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]Yeah. You understand! That was the correct answer.[p]
 *80
 #
 Was it a quiz?[p]
@@ -273,19 +273,19 @@ The rushing wind ruffles the girl’s hair. With her long hair blowing in the wi
 [mask_off time=500]
 *88
 #??
-“The wind is nice.”[p]
+The wind is nice.[p]
 *89
 #Haruya
-“Right...”[p]
+Right...[p]
 *90
 #??
-[kanim name="yukino" keyframe="nod3" time="500"]“Here, the window.”[p]
+[kanim name="yukino" keyframe="nod3" time="500"]Here, the window.[p]
 *91
 #
 The person smiles.[p]
 *92
 #??
-“You looked like you wanted me to open it.”[p]
+You looked like you wanted me to open it.[p]
 #
 [mask time=500]
 [bg2  storage="bg3.png" time=0]
@@ -316,19 +316,19 @@ No. Rather than to the window, I turned to the blowing of a new wind.[p]
 
 *100
 #??
-“My name is Yukino Akabane. I’m a second-year student. What about you?”[p]
+My name is Yukino Akabane. I’m a second-year student. What about you?[p]
 *101
 #Haruya
-“I’m Haruya Shitaji… A freshman.”[p]
+I’m Haruya Shitaji… A freshman.[p]
 *102
 #Yukino
-“I see. Haruya-kun.”[p]
+I see. Haruya-kun.[p]
 *103
 #Haruya
-“Yes.”[p]
+Yes.[p]
 *104
 #Yukino
-“Come with me.”[p]
+Come with me.[p]
 #
 [hide]
 *105
@@ -338,12 +338,12 @@ I follow behind the person whose name I didn’t even know until a moment ago.[p
 We leave the classroom, pass through the crowds of the main school building and arrive in front of a small classroom.[p]
 *107
 #Haruya
-“Um…" Is this…?”[p]
+Um…" Is this…?[p]
 *108
 #
 [yukino2 width=1400 top=30]
 #Yukino
-“All club activities are in full swing. I also have to fulfill my duties as a literature club member.”[p]
+All club activities are in full swing. I also have to fulfill my duties as a literature club member.[p]
 #
 [mask time=800]
 [hide time=0]
@@ -358,63 +358,63 @@ The literature clubroom is a small room that makes me think it’s a storeroom o
 There’s a large table in the center, and a girl who seems to be a senpai is sitting in the back. She has brown hair tied in two braids and wears glasses.[p]
 *112
 #??
-“Welcome back.”[p]
+Welcome back.[p]
 *113
 #
 [yukino7]
 #Yukino
-“I’m back, president.”[p]
+I’m back, president.[p]
 #
 [buchob1]
 *114
 #Club President
-“It looks like you harvested. As expected of Bane-chan.”[p]
+It looks like you harvested. As expected of Bane-chan.[p]
 *115
 #Yukino
-“I’m more than happy to have met your expectations.”[p]
+I’m more than happy to have met your expectations.[p]
 *116
 #Club President
-[bucho/b3]“Hmm, expectations... I didn’t have any particular expectations of you, though.”[p]
+[bucho/b3]Hmm, expectations... I didn’t have any particular expectations of you, though.[p]
 #
 [kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 *117
-“Fu…,” the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
+Fu…,” the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
 *118
 #Club President
-“Want to take a seat?”[p]
+Want to take a seat?[p]
 *119
 #Haruya
-“Ah… Alright.”[p]
+Ah… Alright.[p]
 *120
 #Yukino
-“Your seat is across from mine.”[p]
+Your seat is across from mine.[p]
 *121
 #Haruya
-“Ahh...”[p]
+Ahh...[p]
 *122
 #Yukino
-“You can open the clubroom freely. The club advisor and I have the key, so when you want to borrow it, it’ll be quicker if you speak to the teacher in the staff room.”[p]
+You can open the clubroom freely. The club advisor and I have the key, so when you want to borrow it, it’ll be quicker if you speak to the teacher in the staff room.[p]
 *123
 #Haruya
-“Why are you talking on the premise that I will join the club?”[p]
+Why are you talking on the premise that I will join the club?[p]
 *124
 #Yukino
-“Won’t you?”[p]
+Won’t you?[p]
 *125
 #
 I sigh. From the seat directly across from Akabane-senpai, I say:[p]
 *126
 #Haruya
-“I... I think I will join.”[p]
+I... I think I will join.[p]
 *127
 #Yukino
-[yukino/2]“That makes me happy!”[p]
+[yukino/2]That makes me happy![p]
 *128
 #
 She laughs and I smile. Senpai smiles, and then she looks out the window.[p]
 *129
 #Yukino
-“Spring really is nice, after all.”[p]
+Spring really is nice, after all.[p]
 *130
 #
 She seems to be having fun and looks like someone reliable.[p]

@@ -30,22 +30,22 @@ Seeing that listless appearance, I can’t help but remember what happened yeste
 [haruya]
 *3
 #Haruya
-“Are you not feeling well?”[p]
+Are you not feeling well?[p]
 #
 [yukino13 width=1400 top=35]
 *4
 #Senpai
-“Nope. I’m just tired. It’s not like I caught a cold, so don’t worry.”[p]
+Nope. I’m just tired. It’s not like I caught a cold, so don’t worry.[p]
 *5
 #
 Her words ease the lump in my chest.[p]
 
 *6
 #Haruya
-“It’s rare to see you tired.”[p]
+It’s rare to see you tired.[p]
 *7
 #Senpai
-[yukino/3]“Hmm... Yeah, it’s weird.”[p]
+[yukino/3]Hmm... Yeah, it’s weird.[p]
 
 *8
 #
@@ -54,38 +54,38 @@ She puts her chin up on her arm and faces my way.[p]
 
 *9
 #Senpai
-[yukino/8]“Even though I see Haruya-kun’s face every day.”[p]
+[yukino/8]Even though I see Haruya-kun’s face every day.[p]
 *10
 #Haruya
-“What am I, an energy drink?”[p]
+What am I, an energy drink?[p]
 *11
 #Senpai
-[yukino/2]“Must be because we haven’t done any skinship lately.”[p]
+[yukino/2]Must be because we haven’t done any skinship lately.[p]
 *12
 #Haruya
-“I don’t remember us ever doing that.”[p]
+I don’t remember us ever doing that.[p]
 *13
 #Senpai
-“Then let’s start now!”[p]
+Then let’s start now![p]
 *14
 #Haruya
-“Let’s not.”[p]
+Let’s not.[p]
 *15
 #
 [anim name="yukino" top="+=15" time=500]
 When I say that, she once again puts her left cheek down on the desk.[p]
 *16
 #Senpai
-[yukino/8]“I wanna go out...”[p]
+[yukino/8]I wanna go out...[p]
 *17
 #
 She mutters quietly.[p]
 *18
 #Haruya
-“Where to?”[p]
+Where to?[p]
 *19
 #Senpai
-[yukino/1]“Have you heard of the hydrangea garden?”[p]
+[yukino/1]Have you heard of the hydrangea garden?[p]
 *20
 #
 I do know a little about the hydrangea garden she has just mentioned.[p]
@@ -93,22 +93,22 @@ I do know a little about the hydrangea garden she has just mentioned.[p]
 It’s a rather far place, and from our neighborhood, you can’t get there without changing trains and buses.[p]
 *22
 #Haruya
-“It’s quite far.”[p]
+It’s quite far.[p]
 *23
 #Senpai
-[yukino/7]“Yeah, but I want to go... I like hydrangeas.”[p]
+[yukino/7]Yeah, but I want to go... I like hydrangeas.[p]
 *24
 #Haruya
-“Is that so? It’s the first time I hear of it.”[p]
+Is that so? It’s the first time I hear of it.[p]
 *25
 #Senpai
-“What about you, Haruya-kun? Do you like flowers?”[p]
+What about you, Haruya-kun? Do you like flowers?[p]
 *26
 #Haruya
-“It depends on what kind. I like flowers like cherry blossoms, plums, and wisterias. I think hydrangeas are good too.”[p]
+It depends on what kind. I like flowers like cherry blossoms, plums, and wisterias. I think hydrangeas are good too.[p]
 *27
 #Senpai
-“Do you have a type?”[p]
+Do you have a type?[p]
 *28
 #
 She laughs.[p]
@@ -116,38 +116,38 @@ She laughs.[p]
 It doesn’t seem she’s looking for an answer so, after some hesitation, I end up not saying anything.[p]
 *30
 #Senpai
-“Hey, Haruya-kun.”[p]
+Hey, Haruya-kun.[p]
 *31
 #
 [anim name="yukino" top="-=15" time=500][wt]
 She slowly raises her body and says:[p]
 *32
 #Senpai
-“Don’t you want to go? To see the hydrangeas?”[p]
+Don’t you want to go? To see the hydrangeas?[p]
 *33
 #Haruya
-“With you...?”[p]
+With you...?[p]
 *34
 #Senpai
-“On our next free day. Together.”[p]
+On our next free day. Together.[p]
 *35
 #
 Do I want to go out with senpai and visit the hydrangea garden?[p]
 *36
 #Haruya
-“Eh, ah, well...?”[p]
+Eh, ah, well...?[p]
 *37
 #
 My voice comes out strange.[p]
 *38
 #Haruya
-“Isn’t it supposed to rain on both Saturday and Sunday…?”[p]
+Isn’t it supposed to rain on both Saturday and Sunday…?[p]
 *39
 #
 I blurt out something that doesn’t really matter. The weather being good or bad isn’t important.[p]
 *40
 #Senpai
-[yukino/2]“Isn’t it nice? Hydrangeas look good in the rain.”[p]
+[yukino/2]Isn’t it nice? Hydrangeas look good in the rain.[p]
 *41
 #
 Luckily or unfortunately, she doesn’t seem to care about the weather forecast.[p]
@@ -155,7 +155,7 @@ Luckily or unfortunately, she doesn’t seem to care about the weather forecast.
 Does that mean I’ll be going out with senpai?[p]
 *43
 #Senpai
-[yukino/3]“But… Yeah, I guess. People don’t usually go out when it rains...”[p]
+[yukino/3]But… Yeah, I guess. People don’t usually go out when it rains...[p]
 
 *44
 #
@@ -165,16 +165,16 @@ It’s painful to see her so lonely, and I feel the need to say something.[p]
 
 *46
 #Haruya
-“But I think it’s good...”[p]
+But I think it’s good...[p]
 *47
 #Senpai
-[yukino/1]“You think it’s… good?”[p]
+[yukino/1]You think it’s… good?[p]
 *48
 #Haruya
-“Yes, that even if it’s raining...”[p]
+Yes, that even if it’s raining...[p]
 *49
 #Senpai
-[yukino/9]“For real?!”[p]
+[yukino/9]For real?![p]
 *50
 #
 Her face suddenly brightens, and I sense something has gone wrong.[p]
@@ -184,16 +184,16 @@ With my comment I just meant that I think there’s nothing wrong with going out
 She, however, seems to have taken it in a different context.[p]
 *53
 #Senpai
-[yukino/2]“Ahh, I’m happy... I’m looking forward to it!”[p]
+[yukino/2]Ahh, I’m happy... I’m looking forward to it![p]
 *54
 #
 Looking at her smiling face, I can’t bring myself to correct the misunderstanding.[p]
 *55
 #Haruya
-“Senpai.”[p]
+Senpai.[p]
 *56
 #Senpai
-[yukino/7]“Yes?”[p]
+[yukino/7]Yes?[p]
 *57
 *58
 #
@@ -201,10 +201,10 @@ It’s my fault for not making my reply clear, so I want to fix it.[p]
 
 *59
 #Haruya
-“Let’s go out together on the weekend. To see the hydrangeas.”[p]
+Let’s go out together on the weekend. To see the hydrangeas.[p]
 *60
 #Senpai
-[yukino/2][kanim name="yukino" keyframe="nod" time="500"]“Yeah! I know! why don’t we organize the trip?”[p]
+[yukino/2][kanim name="yukino" keyframe="nod" time="500"]Yeah! I know! why don’t we organize the trip?[p]
 *61
 #
 [mask time=500]
@@ -222,10 +222,10 @@ At some point I stopped thinking, and I probably talked a lot of nonsense.[p]
 *64
 #Senpai
 [kanim name="yukino" keyframe="nod3" time="200" count=2]
-“Can you believe it, Haruya-kun? We have the whole thing planned now!”[p]
+Can you believe it, Haruya-kun? We have the whole thing planned now![p]
 *65
 #Haruya
-“Well, we did make it with the idea of carrying it out.”[p]
+Well, we did make it with the idea of carrying it out.[p]
 
 *66
 #
@@ -237,26 +237,26 @@ This kind of date is perfect.[p]
 
 *69
 #Senpai
-“I want you to come prepared, Haruya-kun, because you’re an accomplice now!”[p]
+I want you to come prepared, Haruya-kun, because you’re an accomplice now![p]
 *70
 #Haruya
-“Actually...”[p]
+Actually...[p]
 *71
 #
 I want to bring up a certain topic, but it’s difficult to do in front of her smile.[p]
 *72
 #Haruya
-“I just want to make sure of one thing.”[p]
+I just want to make sure of one thing.[p]
 *73
 #Senpai
-[yukino/7]“Yes? What is it?”[p]
+[yukino/7]Yes? What is it?[p]
 *74
 #
 She tilts her head, and I begin to talk as if pulling a string of memories out of my brain.[p]
 [fadeoutbgm time=2000]
 *75
 #Haruya
-“It’s about the hot topic of the last days… The serial murder case...”[p]
+It’s about the hot topic of the last days… The serial murder case...[p]
 *76
 #
 [yukino/1]Her eyes widen at my words.[p]
@@ -285,7 +285,7 @@ Yesterday, a corpse was discovered all the way north, and today a new one has ap
 [mask_off time=500]
 *81
 #Haruya
-“I just want to make sure. Right now, we can’t say that it’s absolutely safe, can we? But, we’re going anyway.”[p]
+I just want to make sure. Right now, we can’t say that it’s absolutely safe, can we? But, we’re going anyway.[p]
 
 *82
 #
@@ -293,30 +293,30 @@ Yesterday, a corpse was discovered all the way north, and today a new one has ap
 
 *83
 #Senpai
-“If you want to say that we’re being conceited or careless you aren’t wrong, but…”[p]
+If you want to say that we’re being conceited or careless you aren’t wrong, but…[p]
 *84
-[yukino/1]“I think it’s fine as long as we don’t go out at night. And in the first place, we’re still going to school like usual.”[p]
+[yukino/1]I think it’s fine as long as we don’t go out at night. And in the first place, we’re still going to school like usual.[p]
 *85
 #Haruya
-“Alright. I just wanted confirmation.”[p]
+Alright. I just wanted confirmation.[p]
 *86
 #Senpai
-“If you’re worried, do you want to cancel?”[p]
+If you’re worried, do you want to cancel?[p]
 [fadeoutbgm time=1000]
 *87
 #Haruya
-“No…”[p]
+No…[p]
 *88
 #
 I shake my head.[p]
 *89
 #Haruya
-“We have already planned everything…”[p]
+We have already planned everything…[p]
 #
 [fadeinbgm storage=kaiwa_loop.ogg time=1500]
 *90
 #Senpai
-[yukino/2]“Right. Yes, that’s right.”[p]
+[yukino/2]Right. Yes, that’s right.[p]
 *91
 #
 She laughs. She laughs, and I smile.[p]
@@ -352,7 +352,7 @@ She has a kind of genius.[p]
 [yukino7]
 *103
 #Senpai
-“What’s wrong, Haruya-kun? Why are you sighing?”[p]
+What’s wrong, Haruya-kun? Why are you sighing?[p]
 *104
 #
 She had gotten up from her seat and was leaning against the window, and now is calling out to me with her usual faint smile.[p]
@@ -361,10 +361,10 @@ I close my phone and answer.[p]
 
 *106
 #Haruya
-“I was thinking that I’ll be hanging out with an amazing person.”[p]
+I was thinking that I’ll be hanging out with an amazing person.[p]
 *107
 #Senpai
-[yukino/2]“Amazing enough to make you sigh? You’ll make me blush!”[p]
+[yukino/2]Amazing enough to make you sigh? You’ll make me blush![p]
 
 *108
 #

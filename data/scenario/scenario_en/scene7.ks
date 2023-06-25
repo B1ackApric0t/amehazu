@@ -31,7 +31,7 @@ I attended school as usual, but I couldn’t focus. I managed to somehow make it
 [mask_off time=300]
 *2
 #Rain Ayakashi
-“On the morrow at night, it will rain again. I shall listen to your reply at that time. I would like you to fully consider it until then.”[p]
+On the morrow at night, it will rain again. I shall listen to your reply at that time. I would like you to fully consider it until then.[p]
 *3
 #
 I keep thinking about it, but I can’t come up with an answer.[p]
@@ -63,7 +63,7 @@ What should I do?[p]
 [playse storage=door.ogg buf=1]
 *14
 #??
-“Uh. Shitaji-kun is dead.”[p]
+Uh. Shitaji-kun is dead.[p]
 #
 [bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
 *15
@@ -71,30 +71,30 @@ The sudden sound of the door, followed by a voice I hadn’t heard in a while, m
 [buchob1]
 *16
 #??
-“Hi there.”[p]
+Hi there.[p]
 *17
 #
 [haruya]
 #Haruya
-“Hello, president... It’s been a while.”[p]
+Hello, president... It’s been a while.[p]
 *18
 #Club President
-“Right. How have you been?”[p]
+Right. How have you been?[p]
 *19
 #Haruya
-“I have been... Okay.”[p]
+I have been... Okay.[p]
 *20
 #Club President
-“Your complexion tells me you’re lying.”[p]
+Your complexion tells me you’re lying.[p]
 *21
 #
 The club president. She’s as detached as always.[p]
 *22
 #Haruya
-“Do you have something to do here?”[p]
+Do you have something to do here?[p]
 *23
 #Club President
-“Sure do. I want to borrow some books.”[p]
+Sure do. I want to borrow some books.[p]
 *24
 #
 There’s a bookshelf in the corner of the literature club room.[p]
@@ -102,40 +102,40 @@ There’s a bookshelf in the corner of the literature club room.[p]
 The club magazine is there, and the books brought in by club members are lined up so that anyone can read them freely.[p]
 *26
 #Club President
-“You came solo today?”[p]
+You came solo today?[p]
 *27
 #Haruya
-“Yes. Senpai isn’t here yet.”[p]
+Yes. Senpai isn’t here yet.[p]
 *28
 #Club President
-“How unusual. She’s always the first to arrive. Maybe she’s busy today.”[p]
+How unusual. She’s always the first to arrive. Maybe she’s busy today.[p]
 *29
 #Haruya
-“I wonder... It seems like she didn’t come to school yesterday.”[p]
+I wonder... It seems like she didn’t come to school yesterday.[p]
 *30
 #Club President
-[bucho/b2][kanim name="bucho" keyframe="surp" time="500"]“Oh? Earth-shattering. Even though she’s the very picture of good health. A picture equipped with a perpetual motion engine.”[p]
+[bucho/b2][kanim name="bucho" keyframe="surp" time="500"]Oh? Earth-shattering. Even though she’s the very picture of good health. A picture equipped with a perpetual motion engine.[p]
 *31
 #Haruya
-“Well, senpai is always fine, though.”[p]
+Well, senpai is always fine, though.[p]
 *32
 #Club President
-[bucho/b1][kanim name="bucho" keyframe="down" time="500"]“She’s not fine. She’s beyond admirable, she’s like a monst...”[p]
+[bucho/b1][kanim name="bucho" keyframe="down" time="500"]She’s not fine. She’s beyond admirable, she’s like a monst...[p]
 *33
 #
 The president suddenly stops digging through the bookshelves. She tilts her head and looks up at the ceiling for a second, then she turns to face me and says:[p]
 *34
 #Club President
-[kanim name="bucho" keyframe="up" time="300"]“80% of the time, mindless talk is what digs one’s grave.”[p]
+[kanim name="bucho" keyframe="up" time="300"]80% of the time, mindless talk is what digs one’s grave.[p]
 *35
 #Haruya
-“You really dug itself into a hole.”[p]
+You really dug itself into a hole.[p]
 *36
 #Club President
-“I shot myself in the bed I made, and now must lie on my foot.”[p]
+I shot myself in the bed I made, and now must lie on my foot.[p]
 *37
 #Haruya
-“Wait, that’s not how those idioms go!”[p]
+Wait, that’s not how those idioms go![p]
 *38
 #
 [kanim name="bucho" keyframe="nod" time="500"]
@@ -144,31 +144,31 @@ The president nods. Then she starts rummaging through the bookshelves again.[p]
 I can’t quite figure out what she’s nodding to, but something suddenly bothers me, so I ask her.[p]
 *40
 #Haruya
-“Come to think of it, both you and Yukino-senpai have written for the club magazine before.”[p]
+Come to think of it, both you and Yukino-senpai have written for the club magazine before.[p]
 #
 [buchohide time=100]
 [buchob1 width=1400 top=-80]
 *41
 #Club President
-“That’s taboo.”[p]
+That’s taboo.[p]
 *42
 #Haruya
-“Eh?”[p]
+Eh?[p]
 *43
 #Club President
-“Reading the club magazine inside the club room is forbidden. This is a pact among the members of the literary club to maintain our mutual mental well-being. It can save lives.”[p]
+Reading the club magazine inside the club room is forbidden. This is a pact among the members of the literary club to maintain our mutual mental well-being. It can save lives.[p]
 *44
 #Haruya
-“Your life, for example?”[p]
+Your life, for example?[p]
 *45
 #Club President
-[kanim name="bucho" keyframe="nod" time="500"]“My life, for example.”[p]
+[kanim name="bucho" keyframe="nod" time="500"]My life, for example.[p]
 *46
 #
 I see. So I better not touch it now...[p]
 *47
 #Club President
-“Shitaji-kun, you should also be prepared. The fate of writing in the club magazine is equal for everyone. Such a cruel thing.”[p]
+Shitaji-kun, you should also be prepared. The fate of writing in the club magazine is equal for everyone. Such a cruel thing.[p]
 *48
 #
 I... See..[p]
@@ -178,15 +178,15 @@ I... See..[p]
 After stuffing several books into her bag, she stands up and stretches.[p]
 *50
 #Haruya
-“Are you going home?”[p]
+Are you going home?[p]
 *51
 #Club President
-“Yes. I’m done with what I came here for. Good work today.”[p]
+Yes. I’m done with what I came here for. Good work today.[p]
 #
 [buchohide]
 *52
 #Haruya
-“Ah-”[r]“Um...”[p]
+Ah-][r]Um...[p]
 #
 [bucho]
 *53
@@ -195,37 +195,37 @@ When I stop her, who was already heading toward the door, she turns around.[p]
 I wonder if it would be strange to ask such a question out of the blue, but since I have already called out to her, I can’t withdraw now.[p]
 *55
 #Haruya
-“President, do you know why Yukino-senpai joined the literature club?”[p]
+President, do you know why Yukino-senpai joined the literature club?[p]
 *56
 #Club President
-[kanim name="bucho" keyframe="no" time="750"]“I was never made privy to such information.”[p]
+[kanim name="bucho" keyframe="no" time="750"]I was never made privy to such information.[p]
 *57
 #Haruya
-“Ah-”[r]“Oh, so you don’t know...”[p]
+Ah-][r]Oh, so you don’t know...[p]
 *58
 #
 I’m surprised by her answer. In addition to the particular wording, I’m taken aback because she doesn’t seem to know a lot about senpai.[p]
 *59
 #Club President
-“Did you think I knew?”[p]
+Did you think I knew?[p]
 *60
 #
 She asks as if she read through my mind. I’m unable to read the emotions of the eyes peeking behind the glasses.[p]
 *61
 #Haruya
-“Weren’t you also in this club with Yukino-senpai last year? That’s why I thought you would know.”[p]
+Weren’t you also in this club with Yukino-senpai last year? That’s why I thought you would know.[p]
 *62
 #
 [bucho/6]At my words, she brushes her bangs and sighs. She seems hesitant for a bit, but apparently decides to reply.[p]
 *63
 #Club President
-“I’m not interested in knowing such a thing. Or I pretend I’m not.”[p]
+I’m not interested in knowing such a thing. Or I pretend I’m not.[p]
 *64
 #Haruya
-“Huh?”[p]
+Huh?[p]
 *65
 #Club President
-[bucho/1]“If you’re interested in someone, that means you want to get involved with said person, right? I’m tired of doing that. So, I abandoned that fight. There’s no profit, but also no losses. I don’t want to bet on anything.”[p]
+[bucho/1]If you’re interested in someone, that means you want to get involved with said person, right? I’m tired of doing that. So, I abandoned that fight. There’s no profit, but also no losses. I don’t want to bet on anything.[p]
 *66
 #
 I had no idea she felt that way.[p]
@@ -235,9 +235,9 @@ This girl...[p]
 She seems very similar to me.[p]
 *69
 #Club President
-[bucho/7]“Bane-chan is amazing. It’s like her chips flow out endlessly. Even when she loses, the holes get filled again. Maybe that’s how you eventually become rich.”[p]
+[bucho/7]Bane-chan is amazing. It’s like her chips flow out endlessly. Even when she loses, the holes get filled again. Maybe that’s how you eventually become rich.[p]
 *70
-“That’s what it means being worthy of respect.”[p]
+That’s what it means being worthy of respect.[p]
 *71
 #
 I understand what the director is trying to say.[p]
@@ -250,7 +250,7 @@ But is it really true?[p]
 [mask_off time=300]
 *73
 #Senpai
-“I’m sorry. Could it be that I’ve been saying weird things all this time?”[p]
+I’m sorry. Could it be that I’ve been saying weird things all this time?[p]
 *74
 #
 Is senpai really as invincible as the president says? Even if it’s eventually filled, isn’t a hole still a hole?[p]
@@ -263,10 +263,10 @@ Even if the pain disappears, isn’t a wound still a wound?[p]
 [mask_off time=300]
 *75
 #Club President
-“Well, I’m going. See you.”[p]
+Well, I’m going. See you.[p]
 *76
 #Haruya
-“Yes. Good work today.”[p]
+Yes. Good work today.[p]
 *77
 #
 [buchohide]
@@ -274,24 +274,24 @@ She puts her hand on the door handle, but she suddenly seems to remember somethi
 [bucho]
 *78
 #Club President
-“The club magazine. Why don’t you take a look?”[p]
+The club magazine. Why don’t you take a look?[p]
 *79
-“I think Bane-chan wrote something.”[p]
+I think Bane-chan wrote something.[p]
 *80
 #
 The club magazine. I’m surprised by her unexpected suggestion.[p]
 *81
 #Haruya
-“Isn’t reading the club magazine taboo?”[p]
+Isn’t reading the club magazine taboo?[p]
 *82
 #Club President
-“It’s fine as long as it doesn’t affect me.”[p]
+It’s fine as long as it doesn’t affect me.[p]
 *83
 #Haruya
-“What a tyrant...”[p]
+What a tyrant...[p]
 *84
 #Club President
-“I’m merely acknowledging my freedom and rights. And with this, I’m done here. Bye.”[p]
+I’m merely acknowledging my freedom and rights. And with this, I’m done here. Bye.[p]
 #
 [playse storage=door.ogg buf=1]
 [buchohide]
@@ -387,7 +387,7 @@ A sound takes me by surprise and I turn around. It’s the second time today tha
 There she is.[p]
 *110
 #??
-“Hello, Haruya-kun.”[p]
+Hello, Haruya-kun.[p]
 *111
 #
 [yukino6]
@@ -400,44 +400,44 @@ On my end, I hurriedly put the club magazine back on the shelf. Still, I don’t
 [yukino7 width=1400 top=30]
 *114
 #Senpai
-“Ah!”[r]“Haruya-kun, that’s taboo.”[p]
+Ah!][r]Haruya-kun, that’s taboo.[p]
 #
 [haruya]
 *115
 #Haruya
-“The club president said so too.”[p]
+The club president said so too.[p]
 *116
 #Senpai
-[yukino/9]“The president? Did she come here today?”[p]
+[yukino/9]The president? Did she come here today?[p]
 *117
 #Haruya
 *118
-“Yes. To borrow books.”[p]
+Yes. To borrow books.[p]
 *119
 #Senpai
-[yukino/3][anim name="yukino" top="+=15" time=500]“Aw, really? I’d have liked to see her.”[p]
+[yukino/3][anim name="yukino" top="+=15" time=500]Aw, really? I’d have liked to see her.[p]
 *120
 #
 Senpai says lazily, resting her hand on her chin. I wonder if her tiredness hasn’t gone away.[p]
 *121
 #Senpai
-[yukino/1]“Feel free to read the club magazine.”[p]
+[yukino/1]Feel free to read the club magazine.[p]
 *122
 #Haruya
-“So it isn’t taboo for you?”[p]
+So it isn’t taboo for you?[p]
 *123
 #Senpai
-[yukino/7][kanim name="yukino" keyframe="nod" time="500"]“Nope.”[r]“I don’t really care.”[p]
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]Nope.][r]I don’t really care.[p]
 *124
 #
 [bg2 storage="busiturain.jpg" width=1920 height=1080 left=-430 top=-150 time=1000 wait=false cross=false]
 I have already read what I wanted to read, though, so I don’t take it out again. Instead, I sit on my usual chair.[p]
 *125
 #Haruya
-“Are you not feeling well?”[p]
+Are you not feeling well?[p]
 *126
 #Senpai
-[yukino/6]“Kinda... I’ve been tired lately.”[p]
+[yukino/6]Kinda... I’ve been tired lately.[p]
 *127
 #
 [anim name="yukino" top="-=15" time=500]
@@ -445,58 +445,58 @@ For a second, she looks exhausted. However, she suddenly corrects her sitting po
 
 *128
 #Senpai
-[yukino/1]“Hey, Haruya-kun.”[p]
+[yukino/1]Hey, Haruya-kun.[p]
 *129
 #Haruya
-“Y-Yes.”[p]
+Y-Yes.[p]
 *130
 #
 *131
 She calls out to me and speaks in a serious tone. Instinctively, I sit upright too.[p]
 *132
 #Senpai
-“This is just hypothetical.”[p]
+This is just hypothetical.[p]
 *133
-“If I had to leave here soon, would you be okay?”[p]
+If I had to leave here soon, would you be okay?[p]
 *134
 #Haruya
-“What’s wrong, all of a sudden?”[p]
+What’s wrong, all of a sudden?[p]
 *135
 #Senpai
-[yukino/8]“There’s nothing wrong, but yesterday while I was resting at home, I had this thought.”[p]
+[yukino/8]There’s nothing wrong, but yesterday while I was resting at home, I had this thought.[p]
 *136
-[yukino/11]“I was wondering what you were doing at school without me.”[p]
+[yukino/11]I was wondering what you were doing at school without me.[p]
 *137
-[yukino/12]“I laughed by myself, because I couldn’t imagine you being alone in this room.”[p]
+[yukino/12]I laughed by myself, because I couldn’t imagine you being alone in this room.[p]
 *137a
-“Am I being rude?”[p]
+Am I being rude?[p]
 *138
 #Haruya
-“No. I can’t really imagine it either.”[p]
+No. I can’t really imagine it either.[p]
 *139
 #Senpai
-[yukino/7]“I see. If I’m getting your stamp of approval, then I guess it’s really fine.”[p]
+[yukino/7]I see. If I’m getting your stamp of approval, then I guess it’s really fine.[p]
 *140
 #Haruya
-“Is it even possible for you to leave? You love our literature club.”[p]
+Is it even possible for you to leave? You love our literature club.[p]
 *141
 #Senpai
-“Is that how you see me?”[p]
+Is that how you see me?[p]
 *142
 #Haruya
-“That’s what my intuition tells me.”[p]
+That’s what my intuition tells me.[p]
 *143
 #Senpai
-[yukino/12]“Your intuition is spot on.”[p]
+[yukino/12]Your intuition is spot on.[p]
 *144
-[yukino/11]“But well… I think I could deal with it. I was well and alive before coming here, so I don’t think of it as some inseparable bond or anything.”[p]
+[yukino/11]But well… I think I could deal with it. I was well and alive before coming here, so I don’t think of it as some inseparable bond or anything.[p]
 *145
 #Haruya
-“But I think the way we live keeps changing, and so do our needs.”[p]
+But I think the way we live keeps changing, and so do our needs.[p]
 *146
-“For example, cigarettes and alcohol for adults. They didn’t know the taste of it as children, yet many can’t let go of them when they grow up.”[p]
+For example, cigarettes and alcohol for adults. They didn’t know the taste of it as children, yet many can’t let go of them when they grow up.[p]
 *147
-“Isn’t that the same with our club?”[p]
+Isn’t that the same with our club?[p]
 *148
 #
 [kanim name="yukino" keyframe="down" time="500"]
@@ -508,15 +508,15 @@ Senpai sighs.[p]
 She gets up from her chair and leans against the window. With her back toward me, she continues talking.[p]
 *150
 #Senpai
-“I have to graduate.”[p]
+I have to graduate.[p]
 *151
 #Haruya
-“Isn’t graduation still some time away?”[p]
+Isn’t graduation still some time away?[p]
 *152
 #Senpai
-[yukino/8]“That’s right. Well...”[p]
+[yukino/8]That’s right. Well...[p]
 *153
-[yukino/12]“I’m getting a little sentimental. You see, yesterday I lost my perfect attendance at both club and school. I’m a little down.”[p]
+[yukino/12]I’m getting a little sentimental. You see, yesterday I lost my perfect attendance at both club and school. I’m a little down.[p]
 *154
 #
 She looks back at me with a troubled smile.[p]
@@ -534,26 +534,26 @@ But she’s wrong about that, as I have somehow been involved in it.[p]
 I don’t know everything, but at least I do know what the Rain Ayakashi told me.[p]
 *170
 #Haruya
-“Senpai.”[p]
+Senpai.[p]
 *171
 #Senpai
-[yukino/7]“Yes?”[p]
+[yukino/7]Yes?[p]
 *172
 #
 I have to answer her question.[p]
 *173
 #Haruya
-“If you were to leave soon, would I be okay? That’s what you asked.”[p]
+If you were to leave soon, would I be okay? That’s what you asked.[p]
 *174
 #Senpai
-[yukino/12]“Oh, yes. Can you... Give me a reply?”[p]
+[yukino/12]Oh, yes. Can you... Give me a reply?[p]
 *175
 #
 I can tell. At first glance she looks like usual, but I can tell there’s a hint of anxiety on her face.[p]
 
 *176
 #Haruya
-“If you were gone, senpai, I...”[p]
+If you were gone, senpai, I...[p]
 
 [html]
 <img src="data/bgimage/black.png" style="opacity:0.5;">
@@ -591,36 +591,36 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [pushlog text=&"String('【I\x20will\x20live\x20on.】')"]
 [loadcss file="./data/others/css/next1.css"]
 #Haruya
-“I’ll somehow manage. I don’t know if I’ll live a good life, but I’ll at least survive.”[p]
+I’ll somehow manage. I don’t know if I’ll live a good life, but I’ll at least survive.[p]
 *177
-“While occasionally remembering senpai.”[p]
+While occasionally remembering senpai.[p]
 *178
 #Senpai
 *179
-[yukino/9]“Remembering…?”[p]
+[yukino/9]Remembering…?[p]
 *180
 #Haruya
 *181
-“Yes, not forgetting. Even if you were gone, I’m sure I’d be able to live on thanks to you.”[p]
+Yes, not forgetting. Even if you were gone, I’m sure I’d be able to live on thanks to you.[p]
 *182
-“I will never forget you.”[p]
+I will never forget you.[p]
 *183
-“So don’t worry. I’ll be fine.”[p]
+So don’t worry. I’ll be fine.[p]
 *184
 #Senpai
-[yukino/11][anim name="yukino" top="+=10" time=500]“You won’t forget...”[p]
+[yukino/11][anim name="yukino" top="+=10" time=500]You won’t forget...[p]
 *185
 #
 She mutters quietly. Then she laughs, troubled.[p]
 *186
 #Senpai
-[yukino/12][anim name="yukino" top="-=10" time=500]“I see. Haruya-kun is strong.”[p]
+[yukino/12][anim name="yukino" top="-=10" time=500]I see. Haruya-kun is strong.[p]
 *187
 #Haruya
-“Strong?”[p]
+Strong?[p]
 *188
 #Senpai
-[yukino/10][kanim name="yukino" keyframe="nod" time="500"]“Yes, strong. Ah...”[p]
+[yukino/10][kanim name="yukino" keyframe="nod" time="500"]Yes, strong. Ah...[p]
 *189
 #
 [hide]
@@ -629,7 +629,7 @@ Senpai lowers her face slightly and seems to be thinking about something. Before
 [yukino1]
 *191
 #Senpai
-“Are you free tomorrow after school?”[p]
+Are you free tomorrow after school?[p]
 *192
 #
 I’m at a loss on how to answer.[p]
@@ -637,33 +637,33 @@ I’m at a loss on how to answer.[p]
 I certainly don’t have any plans, but it’s doubtful whether I’ll live to face tomorrow.[p]
 *194
 #Haruya
-“I’m free, but... I’m just hoping I can get through today.”[p]
+I’m free, but... I’m just hoping I can get through today.[p]
 *195
 #Senpai
-[yukino/2][kanim name="yukino" keyframe="left" time="500"]“What’s up with that? Do you have accumulated schoolwork to do?”[p]
+[yukino/2][kanim name="yukino" keyframe="left" time="500"]What’s up with that? Do you have accumulated schoolwork to do?[p]
 *196
 #Haruya
-“Well, something like that.”[p]
+Well, something like that.[p]
 *197
 #
 Senpai doesn’t seem to notice that my responses are vague.[p]
 *198
 #Senpai
-[yukino/7]“Then, Haruya-kun, please finish your homework before tomorrow. I’ve been feeling a little tired lately, so I want to go home now and rest.”[p]
+[yukino/7]Then, Haruya-kun, please finish your homework before tomorrow. I’ve been feeling a little tired lately, so I want to go home now and rest.[p]
 *199
-“After we’re both in perfect condition, why don’t we head out to the station?”[p]
+After we’re both in perfect condition, why don’t we head out to the station?[p]
 *200
 #Haruya
-“Do you want to make memories before graduating? It feels a little hasty.”[p]
+Do you want to make memories before graduating? It feels a little hasty.[p]
 *201
 #Senpai
-“It’s important to seize the day!”[p]
+It’s important to seize the day![p]
 *202
 #Haruya
-“But haste makes waste.”[p]
+But haste makes waste.[p]
 *203
 #Senpai
-“No, I want to hurry. The time I can spend wearing a uniform is short compared to the rest of my life.”[p]
+No, I want to hurry. The time I can spend wearing a uniform is short compared to the rest of my life.[p]
 *204
 #
 [hide]
@@ -671,22 +671,22 @@ She picks up her bag and walks towards the exit.[p]
 [yukino7]
 *205
 #Senpai
-“So I’ll be going home now. What about you?”[p]
+So I’ll be going home now. What about you?[p]
 *206
 #
 After a moment of hesitation, I answer.[p]
 *207
 #Haruya
-“I’ll stay a little longer.”[p]
+I’ll stay a little longer.[p]
 *208
 #Senpai
-[kanim name="yukino" keyframe="nod" time="500"]“Okay. See you tomorrow.”[p]
+[kanim name="yukino" keyframe="nod" time="500"]Okay. See you tomorrow.[p]
 *209
 #Haruya
-“Senpai, I hope you get some rest today.”[p]
+Senpai, I hope you get some rest today.[p]
 *210
 #Senpai
-“Of course! Tomorrow is going to be a big day.”[p]
+Of course! Tomorrow is going to be a big day.[p]
 *211
 #
 [playse storage=door.ogg buf=1]
@@ -761,10 +761,10 @@ With the clubroom behind me, I remember.[p]
 [bg2 storage="busiturain.jpg" time="100"]
 [mask_off time=300]
 *237
-“Is it even possible for you to leave? You love our literature club.”[p]
+Is it even possible for you to leave? You love our literature club.[p]
 *238
 [yukino3]
-“I have to graduate.”[p]
+I have to graduate.[p]
 [mask time=300]
 [fkaisou]
 [hide time=0]
@@ -802,7 +802,7 @@ I want it to end well. To achieve that, tonight’s rain is the final hurdle I m
 [loadcss file="./data/others/css/next1.css"]
 [yukino/9]
 #Haruya
-“Just thinking about it is painful. I don’t like it. I’m sorry for making things difficult, but if you’re going to disappear after graduating anyway, I may as well say it.”[p]
+Just thinking about it is painful. I don’t like it. I’m sorry for making things difficult, but if you’re going to disappear after graduating anyway, I may as well say it.[p]
 *246
 #
 *247
@@ -815,9 +815,9 @@ At least in this situation, I won’t be able to say I couldn’t express my rea
 Even if I’m unskillful, I don’t care. I’ll say it even if clumsily.[p]
 *251
 #Haruya
-“That’s why, I don’t want that.”[p]
+That’s why, I don’t want that.[p]
 *252
-“Even if it were to kill me.”[p]
+Even if it were to kill me.[p]
 *253
 #
 If I don’t speak up now, I know I’ll regret it for the rest of my life.[p]
@@ -829,26 +829,26 @@ There was a stunned silence for a while, whether it was due to a loss for words 
 After a few moments of silence, as if time had stopped, my senior asked me back.[p]
 *257
 #Senpai
-[yukino/1]“... Even if you were to die?”[p]
+[yukino/1]... Even if you were to die?[p]
 *258
 #Haruya
-“... Even if I were to die.”[p]
+... Even if I were to die.[p]
 *259
 #Senpai
-“Do you know what you’re saying? I think those words carry a lot of weight.”[p]
+Do you know what you’re saying? I think those words carry a lot of weight.[p]
 *260
-“To me, this isn’t something you can say just because you got carried away by the moment.”[p]
+To me, this isn’t something you can say just because you got carried away by the moment.[p]
 *261
 #Haruya
-“But I do mean it.”[p]
+But I do mean it.[p]
 *262
-“My life is centered around school. My daily life and my relationships revolve around school.”[p]
+My life is centered around school. My daily life and my relationships revolve around school.[p]
 *263
-“I think everyone is like that during high school.”[p]
+I think everyone is like that during high school.[p]
 *264
-“That’s why club activities are the center of my school life. I come to school every day for club activities and to skip class.”[p]
+That’s why club activities are the center of my school life. I come to school every day for club activities and to skip class.[p]
 *265
-“And for me, the center of the club is senpai. I come to the clubroom every day to see you!”[p]
+And for me, the center of the club is senpai. I come to the clubroom every day to see you![p]
 *266
 #
 [hide]
@@ -862,15 +862,15 @@ The sound of rain echoes in my ears. I have suddenly forgotten how to breathe. I
 *270
 [yukino1]
 #Senpai
-“Got it.”[p]
+Got it.[p]
 *271
 #
 I look up at her voice. She’s looking straight at me. With dark, deep, unfathomable eyes.[p]
 *272
 #Senpai
-“Thanks, Haruya-kun.”[r]“I understand how you feel.”[p]
+Thanks, Haruya-kun.][r]I understand how you feel.[p]
 *273
-“It’s alright if you die, right?”[p]
+It’s alright if you die, right?[p]
 *274
 #
 A note of caution. I nod.[p]
@@ -888,7 +888,7 @@ Will I be able to do that as an adult? Do such things exist in everyone’s life
 So I just nod. I look into her eyes and nod.[p]
 *281
 #Senpai
-[yukino/11]“... Yes,[yukino/10]yes, yes.”[p]
+[yukino/11]... Yes,[yukino/10]yes, yes.[p]
 *282
 #
 At first, she nods mysteriously, but her movements become gradually lighter, as if she had been possessed and the curse has finally been lifted.[yukino/7][p]
@@ -896,17 +896,17 @@ At first, she nods mysteriously, but her movements become gradually lighter, as 
 Her mouth relaxes. After returning to normal, she asks:[p]
 *284
 #Senpai
-“Say... “There’s something that worries me a little.”[p]
+Say... There’s something that worries me a little.[p]
 *285
 #Haruya
-“Eh?”[p]
+Eh?[p]
 *286
 #Senpai
-“Haruya-kun, you said you don’t want me to suddenly disappear. But I never mentioned disappearing.”[p]
+Haruya-kun, you said you don’t want me to suddenly disappear. But I never mentioned disappearing.[p]
 *287
-“I’m just saying that I have to graduate someday, too.”[p]
+I’m just saying that I have to graduate someday, too.[p]
 *288
-“Are you misunderstanding something? Or did you think I was implying I’m transferring to another school?”[p]
+Are you misunderstanding something? Or did you think I was implying I’m transferring to another school?[p]
 *289
 #
 A smile appears on her lips.[p]
@@ -914,16 +914,16 @@ A smile appears on her lips.[p]
 I don’t know what she’s thinking, but I can tell she’s trying to find out how much I know.[p]
 *291
 #Haruya
-“I thought you would disappear because it’s raining.”[p]
+I thought you would disappear because it’s raining.[p]
 *292
 #Senpai
-“What’s up with that? That makes no sense, are you malfunctioning or something?”[p]
+What’s up with that? That makes no sense, are you malfunctioning or something?[p]
 *293
 #Haruya
-“Come on now, I’m just imitating your usual behavior.”[p]
+Come on now, I’m just imitating your usual behavior.[p]
 *294
 #Senpai
-[yukino/2]“How rude!”[p]
+[yukino/2]How rude![p]
 *295
 #
 She must have already figured it out. In order not to be caught by the Rain Ayakashi, we must slip hidden meanings into our everyday conversation.[p]
@@ -931,25 +931,25 @@ She must have already figured it out. In order not to be caught by the Rain Ayak
 A code, or a metaphor. It very much feels like a literature club thing to do.[p]
 *297
 #Haruya
-“It looks like it’s going to rain tonight. What a problem...”[p]
+It looks like it’s going to rain tonight. What a problem...[p]
 *298
 #Senpai
-[yukino/7]“You only say that because you know me well. ”[p]
+[yukino/7]You only say that because you know me well. [p]
 *299
 #Haruya
-“Well, a little. You can’t imitate someone you don’t know.”[p]
+Well, a little. You can’t imitate someone you don’t know.[p]
 *300
 #
 [yukino/10][kanim name="yukino" keyframe="nod" time="500"]She nods and huffs.[p]
 *301
 #Senpai
-[yukino/7]“Can I call you tonight?”[p]
+[yukino/7]Can I call you tonight?[p]
 *302
 #Haruya
-“Sure.”[p]
+Sure.[p]
 *303
 #Senpai
-“Let’s talk about the future.”[p]
+Let’s talk about the future.[p]
 *304
 #
 [hide]
@@ -957,19 +957,19 @@ She looks at the rain through the window. I don’t know what will happen from n
 [yukino7]
 *305
 #Senpai
-“Haruya-kun.”[p]
+Haruya-kun.[p]
 *306
 #Haruya
-“Yes.”[p]
+Yes.[p]
 *307
 #Senpai
-“Do you like the rain?”[p]
+Do you like the rain?[p]
 *308
 #Haruya
-“I hate this rain.”[p]
+I hate this rain.[p]
 *309
 #Senpai
-“I thought so.”[p]
+I thought so.[p]
 *340
 #
 Dark rain clouds fill the sky far into the distance.[p]

@@ -20,10 +20,10 @@
 [mask_off time=500]
 
 #Senpai
-“So you’re the kind of person who reads manga in the literature club, huh?”[p]
+So you’re the kind of person who reads manga in the literature club, huh?[p]
 *1
 #Haruya
-“Reading manga is still reading.”[p]
+Reading manga is still reading.[p]
 *2
 #
 Senpai had a chair right next to me and was peering into the manga magazine I had opened.[p]
@@ -31,16 +31,16 @@ Senpai had a chair right next to me and was peering into the manga magazine I ha
 I was troubled because she had a nice smell.[p]
 *4
 #Senpai
-[yukino/1]“I wonder why the main characters in manga often have scars on their bodies.”[p]
+[yukino/1]I wonder why the main characters in manga often have scars on their bodies.[p]
 *5
 #
 She muttered, staring at the character in a panel.[p]
 *6
 #Haruya
-“Isn’t that a mark? It means you have a special power.”[p]
+Isn’t that a mark? It means you have a special power.[p]
 *7
 #Senpai
-[yukino/8]“Hmm...”[p]
+[yukino/8]Hmm...[p]
 *8
 #
 Senpai took her eyes off the manga, crossed her arms and legs, and began to think about something.[p]
@@ -48,19 +48,19 @@ Senpai took her eyes off the manga, crossed her arms and legs, and began to thin
 It’s probably not a good thing, so I poked her.[p]
 *10
 #Haruya
-“What are you scheming now?”[p]
+What are you scheming now?[p]
 *11
 #Senpai
-[yukino/1]“I want to mark you too.”[p]
+[yukino/1]I want to mark you too.[p]
 *12
 #Haruya
-“What are you saying? Marking?”[p]
+What are you saying? Marking?[p]
 *13
 #Senpai
-“I’m not a dog. But, I love dogs.”[p]
+I’m not a dog. But, I love dogs.[p]
 *14
 #Haruya
-“Haah...”[p]
+Haah...[p]
 *15
 #
 After a conversation without context, senpai brought her head close to me again.[p]
@@ -68,89 +68,89 @@ After a conversation without context, senpai brought her head close to me again.
 When she peered into the manga, her silky hair hung over my wrist.[p]
 *17
 #Senpai
-“Aren’t you going to turn the page?”[p]
+Aren’t you going to turn the page?[p]
 *18
 #
 She looked at me with a sideway glance.[p]
 *19
 #Haruya
-“I was just thinking.”[p]
+I was just thinking.[p]
 *20
 #Senpai
-[yukino/7]“Yes? About me?”[p]
+[yukino/7]Yes? About me?[p]
 *21
 #Haruya
-“That too.”[p]
+That too.[p]
 *22
 #
 [yukino/9]
 Her eyes widened in surprise. I guess my comment was unexpected.[p]
 *23
 #Senpai
-[yukino/1]“Can’t you tell me?”[p]
+[yukino/1]Can’t you tell me?[p]
 *24
 #
 After some hesitation, I decided to nod.[p]
 *25
 #Haruya
-“My body, too. It has scars.”[p]
+My body, too. It has scars.[p]
 *26
 #Senpai
-[yukino/9]“Huh?”[r]“Oh, that’s… Can I ask why?”[p]
+[yukino/9]Huh?[r]Oh, that’s… Can I ask why?[p]
 *27
 #Haruya
-“Sure. Otherwise, I wouldn’t be telling you.”[p]
+Sure. Otherwise, I wouldn’t be telling you.[p]
 *28
 #
 [yukino/1]She nodded.[p]
 *29
 #Haruya
-“I had a big surgery when I was a child. I have a scar on my back.”[p]
+I had a big surgery when I was a child. I have a scar on my back.[p]
 *30
 #Senpai
-“On your back?”[p]
+On your back?[p]
 *31
 #
-“Yes. I can’t show it to you, though.”[p]
+Yes. I can’t show it to you, though.[p]
 *32
 #Senpai
-[yukino/12]“True that. You can’t, because you’d look too sexy.”[p]
+[yukino/12]True that. You can’t, because you’d look too sexy.[p]
 *33
 #
 Is that comment appropriate? I continue talking while wondering.[p]
 *34
 #Haruya
-[yukino/1]“After the surgery, I was convalescent for a while. It was during that time that I picked up reading. My love for books started there.”[p]
+[yukino/1]After the surgery, I was convalescent for a while. It was during that time that I picked up reading. My love for books started there.[p]
 *35
 #Senpai
-“So this means the scar is your reason for joining this club.”[p]
+So this means the scar is your reason for joining this club.[p]
 *36
 #Haruya
-“You could say so.”[p]
+You could say so.[p]
 *37
 #
 “That’s right”, senpai muttered deeply.[p]
 *38
 #Haruya
-“It’s the first time I tell anyone about this.”[p]
+It’s the first time I tell anyone about this.[p]
 *39
 #Senpai
-“Huh? I’m the first?”[p]
+Huh? I’m the first?[p]
 *40
 #Haruya
-“Yes. At least the first time since middle school.”[p]
+Yes. At least the first time since middle school.[p]
 *41
 #Senpai
-[yukino/7]“That’s... Somehow, it makes me happy! But why did you tell me?”[p]
+[yukino/7]That’s... Somehow, it makes me happy! But why did you tell me?[p]
 *42
 #Haruya
-“Why...?”[p]
+Why...?[p]
 *43
 #Senpai
-“Yep. Because you’re the type to think before talking.”[p]
+Yep. Because you’re the type to think before talking.[p]
 *44
 #Haruya
-“Maybe I wanted you to know.”[p]
+Maybe I wanted you to know.[p]
 *45
 #
 I tried my best to mumble as if it was someone else’s problem.[p]
@@ -158,33 +158,33 @@ I tried my best to mumble as if it was someone else’s problem.[p]
 If not, I’d be even more embarrassed than I already was.[p]
 *47
 #Senpai
-“Fufu… Was that payback for the information about me liking dogs?”[p]
+Fufu… Was that payback for the information about me liking dogs?[p]
 *48
 #Haruya
-“You think? I’d say the price and cost proportion isn’t evenly matched.”[p]
+You think? I’d say the price and cost proportion isn’t evenly matched.[p]
 *49
 #Senpai
-“Proportion, huh. Fufu...”[p]
+Proportion, huh. Fufu...[p]
 *50
-[yukino/2]“In that case! I’ll accept any question from you. I will answer aaaanything openly.”[p]
+[yukino/2]In that case! I’ll accept any question from you. I will answer aaaanything openly.[p]
 *51
 #Haruya
-“Then… What’s you type? O-of dog…”[p]
+Then… What’s you type? O-of dog…[p]
 *52
 #
 [yukino/12]“The kind of dog over there”, she said, narrowing her eyes.[p]
 *53
 #Senpai
-[yukino/2]“That’s what I like. A book lover that’s surprisingly not obedient. And that likes lollypops. Dogs with surgical scars on their backs.”[p]
+[yukino/2]That’s what I like. A book lover that’s surprisingly not obedient. And that likes lollypops. Dogs with surgical scars on their backs.[p]
 *54
 #Haruya
-“I’m not a dog.”[p]
+I’m not a dog.[p]
 *55
 #Senpai
-[yukino/10]“I know. You’re my kouhai. And I didn’t mention names. I was talking about dogs.”[p]
+[yukino/10]I know. You’re my kouhai. And I didn’t mention names. I was talking about dogs.[p]
 *56
 #Haruya
-“Ah, right...”[p]
+Ah, right...[p]
 *57
 #
 I directed my eyes to the magazine again.[p]
@@ -205,12 +205,12 @@ This story, which started with the scars of a fictional character, passed throug
 Senpai’s arms suddenly wrapped around my back. My heart tightened from being hugged from behind.[p]
 *60
 #Haruya
-“W-what is it?”[p]
+W-what is it?[p]
 #
 [bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 *61
 #Senpai
-“I’m thinking of the scar on your back.”[p]
+I’m thinking of the scar on your back.[p]
 #
 [bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 *62
@@ -219,25 +219,25 @@ I looked sideways at her, who had her eyes closed. So pretty, I thought.[p]
 This person is beautiful.[p]
 *64
 #Haruya
-“My story... Was it that interesting?”[p]
+My story... Was it that interesting?[p]
 #
 [bg2 storage="hug1.jpg" time=0 cross=false wait=false]
 *65
 #Senpai
-“Yeah!”[r]“Oh, but that’s because it’s about you.”[p]
+Yeah![r]Oh, but that’s because it’s about you.[p]
 *66
 #
 She snuggled up to me.[p]
 [bg2 storage="hug2.jpg" time=0 cross=false wait=false]
 *67
 #Senpai
-“Your back brought you to this literature clubroom.”[p]
+Your back brought you to this literature clubroom.[p]
 *68
 #Haruya
-“It’s almost poetic.”[p]
+It’s almost poetic.[p]
 *69
 #Senpai
-“That’s how it feels.”[p]
+That’s how it feels.[p]
 #
 [bg2 storage="hug1.jpg" time=0 cross=false wait=false]
 *70
@@ -251,7 +251,7 @@ Strangely enough, the trajectory of her finger accurately traced my surgical sca
 Then she hugged my back again. She hugged me tighter than before. An embrace filled with loving strength.[p]
 *74
 #Senpai
-“Maybe I’ll think about the scar on your back many times from now on.”[p]
+Maybe I’ll think about the scar on your back many times from now on.[p]
 *75
 #
 My whole body was stiff, down to my fingertips, and my heart was beating loudly. We were close to each other like never before.[p]
@@ -262,7 +262,7 @@ And the fact that she was thinking about the wound on my back, which is related 
 Letting go of me, she closed her eyes and muttered as if recalling a distant memory.[p]
 *78
 #Senpai
-“If a person had wings, they would probably grow on their backs...”[p]
+If a person had wings, they would probably grow on their backs...[p]
 *79
 #
 Why did she suddenly say such a thing? I couldn’t know.[p]

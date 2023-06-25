@@ -95,13 +95,13 @@ The shuddering comes up to my ear.[p]
 [bg2 storage=black.png time=100]
 *28
 #??
-“Tonight, it will rain.”[p]
+Tonight, it will rain.[p]
 *29
 #
 I’m shivering. A voice that sounds like it’s coming from the depths of the earth makes my eardrums vibrate.[p]
 *30
 #??
-“At the time of the boar I shall await at the door of your dwelling.”[p]
+At the time of the boar I shall await at the door of your dwelling.[p]
 *31
 #
 [bg2 storage="michi_rain.jpg" time=500 wait=true]
