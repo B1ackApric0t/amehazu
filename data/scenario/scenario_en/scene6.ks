@@ -29,7 +29,7 @@ It’s pouring, just as the voice whispered in the daytime.[p]
 At the time of the boar I shall await at the door of your dwelling.[p]
 *3
 #
-The time of the boar. When I looked it up, it was from 22:00 to midnight. The time is close.[p]
+The time of the boar. When I looked it up, it was from 10 p.m. to midnight. The time is close.[p]
 *4
 I sit at the front door, waiting for the time to come. I have turned off the lights in my room, and my parents are already in bed. The house is pitch black.[p]
 *5
@@ -39,7 +39,7 @@ My hands and feet are cold because of the tension, and the back of my throat is 
 *7
 It’s raining, so I grab an umbrella. Holding something in my hand makes me feel a little better.[p]
 *8
-22:00[p]
+10 p.m.[p]
 *9
 #Haruya
 I don’t like it...[p]
@@ -55,7 +55,7 @@ Cold, rainy air rushes in through the crack of the open door. Both the entrance 
 *13
 I open my umbrella, take a step outside, and slowly close the door.[p]
 *14
-It’s my first time going outside at this hour, especially when it’s raining. The streetlights near my house reflect its light onto the wet pavement.[p]
+It’s my first time going outside at this hour, especially when it’s raining. The streetlights near my house pour their light, which reflects onto the wet pavement.[p]
 *15
 I have the uncomfortable feeling of standing in the wrong place at the wrong time.[p]
 *16
@@ -77,7 +77,7 @@ It’s like an optical illusion.[p]
 *23
 Things I always took for granted are being shaken.[p]
 *24
-I become uneasy. A fish—It’s a shark.[p]
+I become uneasy. A fish—it’s a shark.[p]
 [image layer="2" page="back" storage="uyo.png" width=900 left=190 top=-150 name=uyo]
 [trans layer="2" time=1000 method="fadeInUp"]
 [wt]
@@ -121,7 +121,7 @@ He has given me his name, but I couldn’t quite catch the rest on the first try
 How shall I address you?[p]
 *40
 #Haruya
-What is...”[r]...My name?[p]
+What is...[r]My name?[p]
 *41
 #Rain Ayakashi
 [kanim name="uyo" keyframe="nod" time="750"]Correct.[p]
@@ -133,7 +133,7 @@ Haruya Shitaji...[p]
 Haruya Shitaji. Shitaji-dono.[p]
 *44
 #Haruya
-Y-Yes.[p]
+Y-yes.[p]
 *45
 #Rain Ayakashi
 I visit you on this night for nothing else but to request your help.[p]
@@ -197,7 +197,7 @@ But you seem to get along very well.[p]
 I don’t know. Maybe so.[p]
 *66
 #Rain Ayakashi
-Hmm...?”[r]Such an ambiguous way of declaring so... Is it because of Yukino Akabane’s behavior that you are making your words vague?[p]
+Hmm...?[r]Such an ambiguous way of declaring so... Is it because of Yukino Akabane’s behavior that you are making your words vague?[p]
 *67
 #Haruya
 I can’t say for sure that’s not the case.[p]
@@ -238,7 +238,7 @@ Huh...?[p]
 #Rain Ayakashi
 Neither she nor I live in this world. We are foreigners who came here from another world.[p]
 *80
-We are ‘Ayakashi’. We are neither humans nor birds or beasts. Neither flowers nor fish.[p]
+We are “ayakashi”. We are neither humans nor birds or beasts. Neither flowers nor fish.[p]
 *81
 #
 The monster says indifferently, as if reading a script.[p]
@@ -252,7 +252,7 @@ Of course, you, as a human, would find it hard to believe. However, the fact tha
 It’s just as the Rain Ayakashi says. [r]He has hit the nail on the head, but I can’t easily accept it.[p]
 *85
 #Rain Ayakashi
-In other words, the reason why Yukino Akabane wants to close the distance with you isn’t it because she wants to observe in more detail the strange human beings she mingles with?[p]
+In other words, the reason why Yukino Akabane wants to close the distance with you, isn’t it because she wants to observe in more detail the strange human beings she mingles with?[p]
 *86
 And perhaps, that kind of attitude is seen as eccentric by other humans and, therefore, they are wary of her.[p]
 *87
@@ -304,7 +304,7 @@ What about... No, you can’t be saying that she…[p]
 The rain demon nods without saying anything. Like that, I can’t continue the second sentence.[p]
 *99
 #Haruya
-No, I mean, why would she ever do such a thing?”[r]Senpai.[p]
+No, I mean, why would she ever do such a thing?[p]
 *100
 #Rain Ayakashi
 Listen. For us to live in your world, we need life energy. To us, it’s like the air that fills your lungs when you dive into the water.[p]
@@ -343,7 +343,7 @@ It’s a pity I can’t demonstrate it to you... I should have shown you how I c
 [mask_off time=300]
 *111
 #
-That time! Was that something the rain monster did so I would see?[p]
+That time! Was that something he did so I would see?[p]
 [mask time=300]
 [M0]
 [fkaisou]
@@ -401,7 +401,7 @@ But that’s...![p]
 The rain is stopping.[p]
 *125
 #
-The Rain Ayakashi looked up at the sky and muttered.[p]
+The Rain Ayakashi looks up at the sky and mutters.[p]
 *126
 #Rain Ayakashi
 I must go.[p]

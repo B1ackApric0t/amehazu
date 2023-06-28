@@ -101,7 +101,7 @@ Will you please do nothing…[p]
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
 With a light smile, senpai simply replies that she will behave. My eyes are probably as moist as the humidity of the rainy season.[p]
 *26
-Her jet-black long hair is wet from the rain and gave off a luster.[p]
+Her jet-black long hair is wet from the rain and gives off a luster.[p]
 *27
 The color of my senpai’s hair is that of a wet crow feather. [r]Her dark eyes, which stand out against with her white skin, are peeking behind her long eyelashes.[p]
 *28

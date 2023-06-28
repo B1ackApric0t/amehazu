@@ -152,7 +152,7 @@ I blurt out something that doesn’t really matter. The weather being good or ba
 #
 Luckily or unfortunately, she doesn’t seem to care about the weather forecast.[p]
 *42
-Does that mean I’ll be going out with senpai?[p]
+Does that mean I’ll be hanging out with her?[p]
 *43
 #Senpai
 [yukino/3]But… Yeah, I guess. People don’t usually go out when it rains...[p]
@@ -168,7 +168,7 @@ It’s painful to see her so lonely, and I feel the need to say something.[p]
 But I think it’s fine...[p]
 *47
 #Senpai
-[yukino/1]You think it’s… fine?[p]
+[yukino/1]You think it’s... Fine?[p]
 *48
 #Haruya
 Yes, that even if it’s raining...[p]
@@ -293,7 +293,7 @@ I just want to make sure. Right now, we can’t say that it’s absolutely safe,
 
 *83
 #Senpai
-If you want to say that we’re being conceited or careless you aren’t wrong, but…[p]
+If you want to say that we’re being conceited or careless you aren’t wrong, but...[p]
 *84
 [yukino/1]I think it’s fine as long as we don’t go out at night. And in the first place, we’re still attending school like usual.[p]
 *85
