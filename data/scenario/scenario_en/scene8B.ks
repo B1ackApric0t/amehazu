@@ -20,215 +20,215 @@
 
 *scene8
 #
-雨。闇。時刻は夜九時。雨妖の定めた刻限の、ちょうど一時間前。[p]
+Rain. Darkness. The time is 10 p.m. Exactly one hour before the time set by the Rain Ayakashi.[p]
 [bg2 storage="haruyaroom.jpg" time=1000 cross=true wait=true]
 *1
-僕はスマートフォンを握りしめたまま、机に肘を突いて悶々としていた。[p]
+With my smartphone in my hand, I lean my elbows against the desk, and I fret over the situation.[p]
 *2
-やたら緊張している。電話を待っているだけなのに。[p]
+I can’t think clearly. I’m very nervous, waiting for her call.[p]
 *3
-なにも手につかない。[p]
+I can't do anything.[p]
 *4
-外の様子が気になったけれど、[r]そうすると雨妖になにか気付かれてしまいそうでできなかった。[p]
+I’m worried about her, but I can’t go check because the Rain Ayakashi would surely notice something.[p]
 *5
-先輩はなにをするつもりなのか？[p]
+What are you planning, senpai?[p]
 [playse storage=phone.ogg loop=true buf=1]
 *6
-――着信。体が跳ね上がる。[p]
+An incoming call. My body jumps up.[p]
 [stopse buf=1]
 *7
-#春也
-「も。もしもし？」[p]
+#Haruya
+H-hello?[p]
 *8
-#先輩
-「春也くん？　私。元気してる？」[p]
+#Senpai
+Haruya-kun? It’s me. How’re you holding up?[p]
 *9
-#春也
-「元気ですけど。……というか放課後部室で会ったじゃないですか」[p]
+#Haruya
+I mean, didn't we meet in the clubroom just a few hours ago?[p]
 *10
-#先輩
-「人は変わるものだもの」[p]
+#Senpai
+Well, people change.[p]
 *11
-#春也
-「この短時間でですか」[p]
+#Haruya
+In such a short time?[p]
 *12
-#先輩
-「そうとも。人の心は秋の空と言うだろう？」[p]
+#Senpai
+That's right. People's hearts are freckle, right?[p]
 *13
 #
-どこから訂正すればいいかわからなかったので、僕は沈黙する。[r]すると先輩が言葉を続けた。[p]
+Not knowing how to start correcting her, I remain silent. Then she continues.[p]
 *14
-#先輩
-「いまからその証拠をお目にかけよう。[r]　……春也くん、空を見てくれるかい？」[p]
+#Senpai
+From now on, I'll show you the proof. Haruya-kun, can you look at the sky?[p]
 *15
-#春也
-「空ですか？」[p]
+#Haruya
+The sky?[p]
 *16
-#先輩
-「一生に一度の見物だよ。見逃さないように」[p]
+#Senpai
+It'll be a once-in-a-lifetime sight. Don't miss it.[p]
 [mask time=500]
 #
 [bg2 storage="sky.jpg" time=300]
 [playse storage=openw.ogg buf=1]
 [mask_off time=1000 effect=fadeOutLeftBig]
 *17
-僕は念のため部屋の電気を消すと、カーテンを開けて窓を開いた。[r]真っ黒な雲が夜の闇と一体になって、その最中に雨音だけが響いている。[p]
+I turn off the lights in the room just in case, and open the curtains and the window. Pitch-black clouds merge with the darkness of the night, and only the sound of rain echoes in the midst of it.[p]
 *18
-#先輩
-「準備はいい？」[p]
+#Senpai
+Are you ready?[p]
 *19
-#春也
-「いいですよ。なにが始まるんですか？」[p]
+#Haruya
+Yes, but what's going on?[p]
 *20
-#先輩
-「すべての終わりさ。私はいま禁忌を犯す」[p]
+#Senpai
+It's the end of everything. I'm breaking all the taboos now.[p]
 *21
-#春也
-「え……？」[p]
+#Haruya
+Huh?[p]
 *22
 #
 [bg2 storage="sky1.png" time=1000]
-僕の困惑をよそに通話は途切れる。[r]呆然と空を眺めていたら、空の中心がまばゆく光り始めた。[p]
+Despite my confusion, the call is cut off. As I’m staring blankly at the sky, the center of the sky begins to shine brightly.[p]
 *23
-なにが起こっている？　あれは先輩がやっているのか？[p]
+what's going on? Is she doing that?[p]
 *24
 ;[bg2 storage="sky2.png" time=1000]
-その光は少しずつ膨張していく。[p]
+The light expands, little by little.[p]
 *24a
-[bg2 storage="sky3.png" time=1000]そして夜空の月ぐらいの大きさになったかと思うと、[r]一気に凝縮して光は点となった。[p]
+[bg2 storage="sky3.png" time=1000]Just when I think it’s about the size of the moon in the night sky, the light condenses at once and the light becomes a mere dot.[p]
 *25
-なおも空の動静を見守っていた。するとその瞬間だった。[p]
+I’m still watching the movements of the sky. Then, the moment begins.[p]
 [fadeoutse time=700]
 [mask time=700 color=0xffffff]
 [bg2 storage="white.jpg" time="400"wait=true]
 [mask_off time=700]
 *26
-空の一点から全天に向けて、[r]まばゆい光が輪のように広がり駆け抜けていく。[r]まるで星の爆発だった。[p]
+From a point in the sky, a dazzling light spreads like a ring and runs through the whole sky. It’s as if a star were exploding.[p]
 *27
 [bg2 storage="moon2.png" time="1000"wait=true]
-かと思うと夜空にきらきら星が輝き、巨大な満月が地上を照らし始めた。[p]
+At that moment, the night sky stars to twinkle with glimmering stars, and a huge full moon illuminates the earth.[p]
 *28
 [bg2 storage="moon.jpg" time="1000"wait=true]
-空は晴れ上がった。地域一帯の雨雲が一掃されたのだ。[p]
+The sky clears. The rain clouds in the area are cleared.[p]
 *29
-#春也
-「……先輩……？」[p]
+#Haruya
+...Senpai...?[p]
 *30
 #
 [playse storage=phone.ogg loop=true ]
-再び着信。受話すると同時に僕は声を張り上げた。[p]
+An incoming call. I raised my voice as soon as I pick up.[p]
 [stopse]
 *31
-#春也
-「あれ先輩がやったんですか！？」[p]
+#Haruya
+Did you do that?![p]
 *32
-#先輩
-「いかにも。中々綺麗だっただろう？」[p]
+#Senpai
+Indeed! It was quite beautiful, wasn't it?[p]
 *33
 #
-のんきに答える先輩に、僕は驚きを通り越して呆れてしまいそうになる。[p]
+She replies carefreely, while I’m overwhelmed by surprise, almost stunned.[p]
 *34
-#先輩
-「これで雨妖も追ってこれない。しばらくはふたりでゆっくりできるね」[p]
+#Senpai
+With this, even the Rain Ayakashi can't chase after you. We can relax for a while.[p]
 *35
-#春也
-「こんなことして大丈夫なんですか？」[p]
+#Haruya
+Is it okay for you to do this?[p]
 *36
-#先輩
-「大丈夫じゃない。でも別にどうでもいい。[r]　そこら辺は君と同じ気持ちだよ」[p]
+#Senpai
+It's not. But I don't care. I feel the same way as you do.[p]
 *37
 #
-僕と同じ気持ち。[p]
+She feels the same...[p]
 *38
-だけれど僕と先輩では、あまりに持っている力が違うようだった。[p]
+However, she and I seem to have different kind of strengths.[p]
 *39
-#先輩
-「さ。それじゃ次は待ち合わせといこうか。私が君を迎えに行くよ」[p]
+#Senpai
+Then! Shall we meet? I'm coming to pick you up. Let’s see...[p]
 *40
-「そうだな……君の部屋って、確か窓はあったよね？」[p]
+Your room had a window, didn't it?[p]
 *41
 #
 [bg2 storage="black.png" time=1000 cross=true]
-先輩はやはりなんでもない調子で続ける。[p]
+She keeps going, as if nothing happened.[p]
 *42
-そうか。僕たちが選んだ道は、こういうことなのか。[p]
+I see. Is this the path that we have chosen?[p]
 [filter layer="base" brightness=25]
 [bg2 storage="haruyaroom.jpg" time=1000]
-深呼吸。一度気持ちを落ち着かせたい。[p]
+I take a deep breath. I need a moment to calm myself down.[p]
 *43
-#先輩
-「あ。深呼吸してる」[p]
+#Senpai
+Ah, you’re taking deep breaths.[p]
 *44
-#春也
-「……なんですか。駄目ですか」[p]
+#Haruya
+What, can’t I?[p]
 *45
-#先輩
-「いや全然」[p]
+#Senpai
+No, no, go ahead.[p]
 *46
-「そうだ。私も深呼吸していい？」[p]
+Oh, I know! Can I take a deep breath too?[p]
 *47
-#春也
-「なんで僕に聞くんですか」[p]
+#Haruya
+Why are you asking me?[p]
 *48
-#先輩
-「真似されたら怒る人っていない？」[p]
+#Senpai
+There are people who get angry when imitated, right?[p]
 *49
-#春也
-「僕はそういうのじゃないので。どうぞご自由に」[p]
+#Haruya
+I'm not like that. Please do as you wish.[p]
 *50
 #
-スピーカーの向こうに深い息の音が聞こえた。[r]僕のほうも軽く話してだいぶ心が落ち着いた。[r]先輩なりに気遣ってくれたのかもしれない。[p]
+I hear a deep breath through the speaker. Making small talk calmed my heart a little. Maybe, as my senpai, she was taking care of me.[p]
 *51
-#先輩
-「それで。春也くん家に窓はあるかな？」[p]
+#Senpai
+So, do you have any windows at your house?[p]
 *52
-#春也
-「ありますよ。普通に」[p]
+#Haruya
+We do, like one would expect of an ordinary house.[p]
 *53
-#先輩
-「ふふ……そうか」[p]
+#Senpai
+Fufu... Is that so?[p]
 *54
-「やっぱり窓って、普通の部屋にはあるものなんだね」[p]
+Windows are something to be found in ordinary rooms, after all![p]
 *55
-#春也
-「……」[p]
+#Haruya
+...[p]
 *56
-#先輩
-「ごめん、話を戻そう」[p]
+#Senpai
+Sorry, let's get back to the topic.[p]
 *57
-「私が君の家まで行って、君の部屋の窓を叩く。[r]　それから私は玄関の前で待つから、君のタイミングで会いに来てほしい」[p]
+I’ll head to your house and knock on your room window. Then, I will wait in front of the entrance, so please come see me when you’re ready.[p]
 *58
-#春也
-「わかりました」[p]
+#Haruya
+Got it.[p]
 *59
-#先輩
-「カーテン、閉めててね。心の準備とか、あるからさ」[p]
+#Senpai
+Please close the curtains. I need to mentally prepare.[p]
 *60
-#春也
-「いいですね。[r]　お互い一歩ずつ歩み寄るっていうか、どっちにも準備時間があって」[p]
+#Haruya
+I like it. It’s like we’re coming closer one step at a time, giving each other time.[p]
 *61
-#先輩
-「名案だろう？」[p]
+#Senpai
+Isn't that a great idea?[p]
 *62
 #
-先輩が息を吸う音がした。[r]それからほのかに震えた声で言った。[p]
+I can hear her take a breath. Then, she says in a faintly trembling voice:[p]
 *63
-#先輩
-「びっくりしないでね。ほんとの姿で、行くからね」[p]
+#Senpai
+I'll come in my true form. Don't be surprised.[p]
 *64
 #
-なぜかその言葉に、心臓が高く打った。[r]僕もまた息を深く吸い込んで、先輩に答えた。[p]
+For some reason, those words make my heart beat fast. I also take a deep breath and reply.[p]
 *65
-#春也
-「はい。待ってます」[p]
+#Haruya
+Yes. I'll be waiting.[p]
 *66
-#先輩
-「じゃあ、本当にすぐ、行くから」[p]
+#Senpai
+Then, I'll be here right away.[p]
 *67
 #
-電話が切れる。[r]僕は窓辺に立って、改めてカーテンを閉め直した。[p]
+I hang up. I stand by the window and draw the curtains again.[p]
 *68
-ふと隙間から覗いた窓の向こうに、夜が遠く広がっていた。[r]どこまでも遠く広がっていた。[p]
+Through the gap, I can peep the night spreading far beyond the window. It spreads far and wide.[p]
 
 [mask time=500]
 [free_filter]
@@ -238,31 +238,31 @@
 [playse storage=knock.ogg loop=false buf=1]
 *69
 #
-こんこんと、窓を叩く音がした。先輩の合図。[p]
+Like we had agreed, I soon hear knocking on the window. I open the curtains, but there’s no one outside.[p]
 *70
-一応カーテンを開いてみるが、窓の外には誰もいない。[r]ただ宵の闇が広がっているばかりだ。[p]
+Only the darkness of the evening.[p]
 *71
-僕は深呼吸する。[r]緊張と高揚が高まって、みぞおちの辺りが弾けそうだ。[p]
+I take a deep breath. Feelings of tension and exhilaration build up, and the area around the pit of my stomach seems close to bursting.[p]
 *72
-これはそうだ、前に先輩と一緒に出かけた日、[r]待ち合わせ場所へ向かっているときと同じ気持ちだ。[p]
+This is the same feeling as when I was heading to the meeting place on the day we went to the hydrangea garden.[p]
 *73
-僕は部屋の扉を開けて、やっぱり鏡の前に立って、持ち物はどうすべきか、[r]財布はこの場合必要だろうか？[p]
+I open the door of the room and stand in front of the mirror, wondering what to do with my belongings.[p]
 *74
-……バタバタしている。[r]結局僕は何も持たずに部屋を出た。[r]それが一番、きれいな気がする。[p]
+Do I need a wallet in this case? I’m rushing and end up leaving the room with nothing. I think it's the most appropriate.[p]
 [mask time=500]
 [bg2 storage="black.png" time="0"]
 [wait time=500]
 [mask_off time=500]
 *75
-暗い廊下を静かに抜けて、階段を慎重に降りてゆく。[r]玄関に立って僕は、今一度深呼吸する。[p]
+I quietly pass through the dark corridor and carefully descend the stairs. Standing in front of the entrance door, I take a deep breath.[p]
 *76
-足りなかったのでしゃがみ込んで頭を抱えて呟いた。[p]
+That wasn’t enough, so I squat down, holding my head in my hands, and I mutter.[p]
 *77
-先輩、先輩……[p]
+Senpai, senpai...[p]
 *78
-準備は出来た。意は決した。[p]
+I'm ready. I have made up my mind.[p]
 *79
-自分でも驚くほど震える手先で、僕は玄関の戸を開く。[p]
+I open the front door with a trembling hand, to my surprise.[p]
 [mask time=1000]
 [bg2 storage="genkan1.jpg" time="0"]
 [playse storage=doorp.ogg]
@@ -271,248 +271,248 @@
 [wait time=2000]
 [mask_off time=1000]
 *80
-#春也
-「……先輩……？」[p]
+#Haruya
+...Senpai...?[p]
 *81
 #
-そこに立っていたのは異形のもの。[r]決して人ではありえないが、しかし怪物と称するには美麗すぎる。[p]
+There’s something unhuman standing there. Yes, they could never be human, but they were too beautiful to be called monsters.[p]
 *82
-この世界に類似するものなんてひとつもなさそうな、[r]唯一無二の存在だった。[p]
+It was a one-of-a-kind existence that seemed to have nothing similar to the beings of this world.[p]
 *83
-#春也
-「先輩……ですよね」[p]
+#Haruya
+Senpai... That’s you, right?[p]
 *84
-#先輩
-「うん。私だよ、春也くん。はじめまして。[r]　赤羽雪乃改め、[ruby text="し"]翅[ruby text="よう"]妖：[ruby text="か"]華[ruby text="ばね"]羽[ruby text="しら"]白[ruby text="ゆき"]逝[ruby text="ひめ"]姫。これが私の姿と名前」[p]
+#Senpai
+Yes, it's me. Nice to meet you. Yukino Akabane has changed into the Winged Ayakashi: Kabane Shirayukihime, the Deathly Red-Winged Deity. These are my real appearance and name.[p]
 *85
 #
-白い長髪が夜風になびいて、さながら白銀の川の流れだった。[r]すらりとして真っ黒な胴体の背後に、蝶のような赤い翅が広がっている。[r]そして何より目を引いたのは、顔のあるべき所に顔のないその姿だった。[p]
+Her long white hair flutters in the night breeze, just like the flow of a silvery river. Red butterfly-like wings spread out behind her slender, jet-black body. And most of all, what catches my eye most is that she is a figure who doesn’t have a face.[p]
 *86
-僕がしばらく先輩の姿をじっと見つめていると、[r]先輩が困ったように笑った。[p]
+When I stare at her for a while, she smiles as if embarrassed.[p]
 *87
-僕もうっかり見過ぎていると気付いて慌てて視線を逸らした。[r]少々のぎこちなさ。[p]
+I realize that I have been watching too much, so I hurriedly averted my gaze. It’s a little awkward.[p]
 [fadeinbgm storage=A_end_loop.ogg time=1500]
 *88
-#先輩
-「きっと、本当は来るべきじゃなかった」[p]
+#Senpai
+Surely, I shouldn't have come.[p]
 *89
 #
-先輩が静かに切り出した。[p]
+She says quietly.[p]
 *90
-#春也
-「……会うの、本当は嫌だったんです？」[p]
+#Haruya
+Do you hate having met me?[p]
 *91
-#先輩
-「そういうのじゃない。でも本当なら君に会うべきじゃなかったし、[r]　こんな姿だって見せるべきじゃなかった」[p]
+#Senpai
+That’s not it, but… It’s true that I shouldn't have met you, nor should I have shown you this form.[p]
 *92
-#春也
-「でも今、会って見せてますよね」[p]
+#Haruya
+But now we have met and you’re showing it to me.[p]
 *93
-#先輩
-「それが問題だ」[p]
+#Senpai
+And that is a problem.[p]
 *94
 #
-はぁ、と先輩は息をついた。やれやれ、といった雰囲気だった。[r]それから空を見上げて呟いた。[p]
+“Yeah…”, she sighs. The atmosphere is like “what’s done is done”. Then she looks up at the sky and murmurs.[p]
 [hide time=400 wait=false][haruyahide time=400][bg2 storage=moon.jpg time=1000 cross=true method=fadeInUp]
 *95
-#先輩
-「月がまぶしいせいだ」[p]
+#Senpai
+It's because the moon is so bright.[p]
 *96
 #
-先輩の手が伸びて、僕の右頬を包み込む。[p]
+Her hand reaches out and wraps around my right cheek.[p]
 *97
-#先輩
-「月は人を狂わせるというね」[p]
+#Senpai
+They say the moon drives people crazy.[p]
 *98
-#春也
-「ルナティックってやつですか」[p]
+#Haruya
+Like lunacy?[p]
 *99
-#先輩
-「そうそう。たぶん、少なからず狂っている。私も春也くんも」[p]
+#Senpai
+Yeah. We’re probably a little crazy, both you and I.[p]
 *100
-#春也
-「おかしくもなります。[r]　それだけのことを聞かされたんですよ、僕は」[p]
+#Haruya
+Is it that surprising? I was told something crazy, so now I’m crazy.[p]
 *101
-#先輩
-「それでも私と会おうとした」[p]
+#Senpai
+And even then, you still wanted to see me.[p]
 *102
-#春也
-「会いたくなりました。余計に」[p]
+#Haruya
+I wanted to see you even more.[p]
 *103
-#先輩
-「変なの」[p]
+#Senpai
+What a weirdo.[p]
 *104
-#春也
-「変な人に言われたくありません」[p]
+#Haruya
+I don't want weird people calling me that.[p]
 *105
-#先輩
-「人じゃないよ、私」[p]
+#Senpai
+I'm not human.[p]
 *106
-#春也
-「変な生き物に言われたくありません」[p]
+#Haruya
+I don't want weird creatures calling me that.[p]
 *107
 #
-ため息をついて僕は、先輩の手に手を重ねた。[p]
+With a sigh, I put my hand on senpai’s hand.[p]
 *108
-#春也
-「人じゃなかった……」[p]
+#Haruya
+You aren’t human...[p]
 *109
 #
-独り言にも似た言葉が口から漏れた。[p]
+Words that sound like soliloquy leak out of my mouth.[p]
 *110
-#春也
-「人じゃなかったんですね、先輩」[p]
+#Haruya
+You aren’t human, senpai.[p]
 *111
-#先輩
-「なんだと思ってた？」[p]
+#Senpai
+What did you think?[p]
 *112
-#春也
-「なんですかその質問。[r]　別になんとも……普通に人間だと思ってましたよ。[r]　普通の人だとは思ってませんでしたけど」[p]
+#Haruya
+What’s with this question? Nothing special... I thought you were a normal human being, but I didn't think you were a normal person.[p]
 *113
-#先輩
-「普通の反対って何だっけ。異常？」[p]
+#Senpai
+What's the opposite of normal? Abnormal?[p]
 *114
-#春也
-「特別」[p]
+#Haruya
+Special.[p]
 #
 [bg2 storage="genkan1.jpg" time="1000" cross=true method=fadeInDown]
 [yukinoA time=400 wait=false][haruya time=400]
 *115
-反射的だった。[r]自分で自分の発した言葉に驚いて、ひやりとした。[p]
+I reply by reflex. Surprised at myself, I break into cold sweat.[p]
 *116
-いつもなら間違いなく取り消すけれど、[r]だけれど今はそのいつもではないのだ。[p]
+Normally I would quickly take it back, that’s not the case now.[p]
 *117
-僕は先輩に重ねた手を、そっと胸元に持ってきた。[r]そして両手で包み込み、僕は先輩の、顔のない顔を見上げて、改めて言った。[p]
+I gently take her hand that’s resting on my cheek to my chest, and I put my other hand on top of hers. I looked up at the senpai’s faceless face, and say again:[p]
 *118
-#春也
-「特別……ですよ。僕にとって先輩は先輩です。[r]　人であろうがなかろうがそれは変わりませんし譲れません」[p]
+#Haruya
+You’re special... For me, senpai is senpai. Whether or not you're a human being, that changes nothing for me and I can’t help it.[p]
 *119
 #
-先輩の顔に表情はない。しばらく見つめ合っていたけれど、[r]やがて先輩の手ははらりと僕の手から抜けて、僕の背に回った。[p]
+There is no expression on her face. We stare at each other for a while, but eventually her hand slips out of mine and puts it around my back.[p]
 *120
-#先輩
-「怖くない？」[p]
+#Senpai
+Aren’t you scared?[p]
 *121
-#春也
-「怖い……って先輩がですか」[p]
+#Haruya
+Scared of... You?[p]
 *122
-#先輩
-「うん」[p]
+#Senpai
+Yes.[p]
 *123
-#春也
-「別に全然……まぁ先輩ですからね」[p]
+#Haruya
+Not at all... Well, not beyond you being an upperclassman.[p]
 *124
-#先輩
-「はあぁ……」[p]
+#Senpai
+Ah...[p]
 *125
 #
-先輩が長く息をついて、固く僕を抱きしめた。[p]
+She takes a long breath and hugs me tightly.[p]
 *126
-#先輩
-「怖かった……」[p]
+#Senpai
+I was scared...[p]
 *127
 #
-か細い声が耳元に聞こえた。[p]
+A faint voice.[p]
 *128
-#春也
-「ええ？　先輩がですか」[p]
+#Haruya
+Eh? You were?[p]
 *129
-#先輩
-「そうだよ……この姿見せて……拒絶されたらどうしようかと……」[p]
+#Senpai
+That's right... Because, if I showed myself to you like this... What should I do if you reject me...[p]
 *130
-#春也
-「杞憂ですよ。きれいだと思います」[p]
+#Haruya
+That's a baseless worry. I think you’re beautiful.[p]
 *131
-#先輩
-「きれい？　きれいって言った？」[p]
+#Senpai
+Beautiful? Did you say beautiful?[p]
 *132
-#春也
-「言いました。……いや！[r]　これは人に対してのきれいというよりはですね、花とか蝶とかに対する……」[p]
+#Haruya
+Yes… I mean, no! It’s not “beautiful” as in, for people, it’s like the beauty of flowers and butterflies…[p]
 *133
-#先輩
-「わかってる。でもそんなに照れなくていいじゃないか。[r]　せっかく月夜の逢瀬なんだ」[p]
+#Senpai
+I get it. But you don't have to be so embarrassed. It's a moonlit night's rendezvous.[p]
 *134
-#春也
-「それについても事情がですね……」[p]
+#Haruya
+There's something about that too...[p]
 *135
-#先輩
-「知ってるさ。後でゆっくり話そう。……でも私も私だ。[r]　呼ばれて嬉しくて、来てしまった」[p]
+#Senpai
+I know. Let's talk calmly later... But, I’m only me. I came because I was happy to be called.[p]
 *136
-#春也
-「嬉しかった？」[p]
+#Haruya
+You were happy?[p]
 *137
 #
-肩の荷を下ろしたかのように、先輩が気の抜けた息をついた。[r]そして再び満月の空を見上げて言った。[p]
+She lets out a sigh as if a weight has been lifted from her shoulders. Then she look up at the full moon in the sky again and say:[p]
 *138
-#先輩
-「夜は人を大胆にする」[p]
+#Senpai
+Night makes people bold.[p]
 *139
-#春也
-「間違いないです」[p]
+#Haruya
+No doubt about it.[p]
 *140
-#先輩
-「明日になったら恥ずかしくて、もう顔合わせられないかもね？」[p]
+#Senpai
+When tomorrow comes, I might be too embarrassed to see you again.[p]
 *141
-#春也
-「明日、あるんですか？」[p]
+#Haruya
+But will there be a tomorrow?[p]
 *142
 #
-先輩は何も言わなかった。僕も何も言わなかった。[p]
+She says nothing, and I don’t say anything either.[p]
 *143
-その沈黙が愛おしかった。[p]
+I love this silence.[p]
 *144
-#先輩
-「行こう、春也くん」[p]
+#Senpai
+Let’s go, Haruya-kun.[p]
 *145
-#春也
-「どこにですか？」[p]
+#Haruya
+Where to?[p]
 *146
-#先輩
-「あじさい園。前はゆっくりできなかったからね。いい？」[p]
+#Senpai
+The hydrangea garden! I couldn’t take it easy before. What do you say?[p]
 *147
-#春也
-「いいですね。どうやって行きましょうか？」[p]
+#Haruya
+Okay, but how do we get there?[p]
 *148
-#先輩
-「この翅で」[p]
+#Senpai
+With my wings.[p]
 *149
 #
 [haruyahide]
-先輩が僕を抱き上げる。僕は先輩に身を任せる。[r]ふわりと体が宙に浮いて、じきに目線が民家の屋根を越した。[p]
+She picks me up and I leave myself to her. My body gently floats in the air, and soon my eyes go beyond the roof of the houses.[p]
 [hide time=400]
 [bg2 storage="nightcity.jpg" time="1000" method=fadeInUp]
 *150
-#先輩
-「下見ないで。きっと怖いよ」[p]
+#Senpai
+Don't look down. I'm sure you'll be scared.[p]
 *151
-#春也
-「分かりました。それなら……先輩を見てていいですか」[p]
+#Haruya
+Understood. Then... Can I look at you?[p]
 *152
 #
 [quake count=1 time=500 vmax=20]
-ぐらつく。[p]
+Wobble.[p]
 *153
-#春也
-「ちょっあっ先輩！？」[p]
+#Haruya
+Hey- senpai?![p]
 *154
 #
 [bg2 storage="moon.jpg" time="500"]
 *155
-地上と空が一回転する。[r]家々の灯りがぐるりと尾を引き、目に映る夜空に走った。[p]
+The ground and sky rotate. The lights of the houses trail in circles, I see the night sky in front of me.[p]
 [bg2 storage="nightcity.jpg" time="500"]
 *156
-体勢を立て直して先輩は言う。[p]
+Then senpai says after regaining her balance:[p]
 *157
-#先輩
-「私語を禁ずる」[p]
+#Senpai
+Talking is forbidden.[p]
 *158
-#春也
-「夜行バスか何かですか？」[p]
+#Haruya
+Is this a night bus or something?[p]
 *159
 #
-結局ぽつぽつ話しながら、僕らは夜の飛行を続けた。[r]満月を戴きながら、夜空の雲を縫って。[p]
+After that, we continue the night flight while chatting. We weave through the clouds in the night sky while basking in the full moon.[p]
 *160
-きっと僕らは遠目に見れば、ひとつの点となってこの空を駆けていた。[p]
+Surely, if someone looked at us from a distance, we would have become a single dot running through the sky.[p]
 [fadeoutbgm time=1800]
 [mask time=1500]
 [eval exp="sf.S9b=1"]
