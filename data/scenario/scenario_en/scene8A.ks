@@ -496,12 +496,14 @@ A beautiful and extraordinary figure. An existence unknown to our world.[p]
 The voice that answers me is definitely my senpai’s.[p]
 [hide time=400 wait=false][haruyahide time=400]
 [M1]
+[anim name="chara_name_area" left="-=135" time="0"]
 [bg2 storage="vsuyo.jpg" time="800"]
 *156
 #Rain Ayakashi
 Curse you, bastards!![p]
 *157
 #
+[anim name="chara_name_area" left="+=135" time="0"]
 He shouts angrily and chases after us. Black water is gushing out from one end of his back, and it looks like he has been pierced.[p]
 *157a
 Senpai stops in the air while holding me and stretches out her hand towards the Rain Ayakashi.[p]
@@ -531,9 +533,12 @@ Then, as if her interior was filled with light, a dazzling beam of light overflo
 [bg2 storage="vsuyo.jpg" time="1000" wait=false]
 The light bursts out as if to split the night sky, but its power gradually weakens, and eventually it disappears as if it were an eye closing its eyes.[p]
 *166
+[anim name="chara_name_area" left="-=135" time="0"]
 #Rain Ayakashi
 Shirayukihime!! What are you―[p]
 *167
+#
+[anim name="chara_name_area" left="+=135" time="0"]
 #Senpai
 I’ve returned the lifespan I had stolen into the sky. Now I won’t be able to stay in this world for long. I will return to our original world.[p]
 *168
@@ -543,9 +548,13 @@ Neither the Rain Ayakashi nor I seem to follow. However, she continues regardles
 #Senpai
 Rain Ayakashi! Your job here is no more. Can you go home first and prepare for when I come?[p]
 *170
+#
+[anim name="chara_name_area" left="-=135" time="0"]
 #Rain Ayakashi
 Are you insane?! Even if you return now, you won’t be spared![p]
 *171
+#
+[anim name="chara_name_area" left="+=135" time="0"]
 #Senpai
 I was going to kill you from the beginning, so it’s probably too late now. Rest assured. I don’t have the time or the strength left to attack people anymore.[p]
 #
