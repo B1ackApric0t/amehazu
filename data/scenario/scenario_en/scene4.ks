@@ -54,7 +54,7 @@ I’ve heard rumors that some people even spend their holidays in uniforms, but 
 #Haruya
 [hmod]Hmm? I think I kinda understand, but...[p]
 *11
-We wear uniforms at school, which takes up most of our daily life, so if that isn’t ordinary, then do you consider the weekend to be the actual ‘ordinary’ time?[p]
+We wear uniforms at school, which takes up most of our daily life, so if that isn’t ordinary, then do you consider the weekend to be the actual “ordinary” time?[p]
 *12
 #Senpai
 [hmod storage=yukino/tatie4.png]Look, Haruya-kun, there are a lot of people lined up over there.[p]
@@ -71,7 +71,7 @@ Senpai’s daily life seems to be full of surprises and discoveries.[p]
 #Haruya
 [hmod]Ah, I kind of understand how you feel.[p]
 *17
-Speaking of getting tired of things... No matter how ‘out of the ordinary’ it is, won’t you get bored of wearing the uniform every day? If there isn’t ‘ordinary’ there can’t be ‘unordinary’ either.[p]
+Speaking of getting tired of things... No matter how “out of the ordinary” it is, won’t you get bored of wearing the uniform every day? If there isn’t “ordinary” there can’t be “unordinary” either.[p]
 *18
 #Senpai
 [hmod storage=yukino/tatie7.png]I’m not tired of it so far. In the long run, high school itself is a special event in life.[p]
@@ -193,7 +193,7 @@ Any word seems imprecise, inappropriate, misleading, inadequate, and unsuitable 
 But I want to answer something, I believe I have to answer, and in the end, the words that come out are just these:[p]
 *57
 #Haruya
-I- I want to understand.[p]
+I-I want to understand.[p]
 *58
 #Senpai
 [yukino/9]“I want to understand...”[p]
@@ -311,7 +311,7 @@ Excessively normal.[p]
 I accidentally fell. Being too playful is reckless, huh.[p]
 *93
 #Haruya
-Huh? But- Senpai...[p]
+Huh? But- senpai...[p]
 *94
 #Senpai
 I’m fine. Thank you for your concern.[p]

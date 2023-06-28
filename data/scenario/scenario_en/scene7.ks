@@ -67,7 +67,7 @@ Uh. Shitaji-kun is dead.[p]
 #
 [bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
 *15
-The sudden sound of the door, followed by a voice I hadn’t heard in a while, made me turn around.[p]
+The sudden sound of the door, followed by a voice I haven’t heard in a while, makes me turn around.[p]
 [buchob1]
 *16
 #??
@@ -105,7 +105,7 @@ The club magazine is there, and the books brought in by club members are lined u
 You came solo today?[p]
 *27
 #Haruya
-Yes. Senpai isn’t here yet.[p]
+Yes. Yukino-senpai isn’t here yet.[p]
 *28
 #Club President
 How unusual. She’s always the first to arrive. Maybe she’s busy today.[p]
@@ -213,7 +213,7 @@ Did you think I knew?[p]
 She asks as if she read through my mind. I’m unable to read the emotions of the eyes peeking behind the glasses.[p]
 *61
 #Haruya
-Weren’t you also in this club with Yukino-senpai last year? That’s why I thought you would know.[p]
+Weren’t you also in this club with her last year? That’s why I thought you would know.[p]
 *62
 #
 [bucho/6]At my words, she brushes her bangs and sighs. She seems hesitant for a bit, but apparently decides to reply.[p]
@@ -240,7 +240,7 @@ She seems very similar to me.[p]
 That’s what it means being worthy of respect.[p]
 *71
 #
-I understand what the director is trying to say.[p]
+I understand what the president is trying to say.[p]
 *72
 But is it really true?[p]
 [mask time=300]
@@ -296,7 +296,7 @@ I’m merely acknowledging my freedom and rights. And with this, I’m done here
 [playse storage=door.ogg buf=1]
 [buchohide]
 *85
-And with that, she leaves.[p]
+After saying so, she leaves.[p]
 *86
 I’m left alone.[p]
 [mask time="500"]
@@ -448,7 +448,7 @@ For a second, she looks exhausted. However, she suddenly corrects her sitting po
 [yukino/1]Hey, Haruya-kun.[p]
 *129
 #Haruya
-Y-Yes.[p]
+Y-yes.[p]
 *130
 #
 *131
@@ -489,7 +489,7 @@ That’s what my intuition tells me.[p]
 #Senpai
 [yukino/12]Your intuition is spot on.[p]
 *144
-[yukino/11]But well… I think I could deal with it. I was well and alive before coming here, so I don’t think of it as some inseparable bond or anything.[p]
+[yukino/11]But, well… I think I could deal with it. I was well and alive before coming here, so I don’t think of it as some inseparable bond or anything.[p]
 *145
 #Haruya
 But I think the way we live keeps changing, and so do our needs.[p]
@@ -500,7 +500,7 @@ Isn’t that the same with our club?[p]
 *148
 #
 [kanim name="yukino" keyframe="down" time="500"]
-Senpai sighs.[p]
+She sighs.[p]
 [bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
 [hide time=100]
 [yukino11]
@@ -523,7 +523,7 @@ She looks back at me with a troubled smile.[p]
 *155
 ――She said my intuition is good.[p]
 *156
-If so, then surely this is a roundabout way of saying goodbye. It’s just my guess but she must have realized the situation she’s in after being attacked by the Rain Ayakashi.[p]
+If so, then surely this is a roundabout way of saying goodbye. This is just my guess, but she must have realized the situation she’s in after being attacked by the Rain Ayakashi.[p]
 *157
 Then, after thinking it through for a day, she has shown up to club again after coming to a decision.[p]
 *158
@@ -593,7 +593,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 #Haruya
 I’ll somehow manage. I don’t know if I’ll live a good life, but I’ll at least survive.[p]
 *177
-While occasionally remembering senpai.[p]
+While occasionally remembering you.[p]
 *178
 #Senpai
 *179
@@ -646,7 +646,7 @@ I’m free, but... I’m just hoping I can get through today.[p]
 Well, something like that.[p]
 *197
 #
-Senpai doesn’t seem to notice that my responses are vague.[p]
+She doesn’t seem to notice that my responses are vague.[p]
 *198
 #Senpai
 [yukino/7]Then, Haruya-kun, please finish your homework before tomorrow. I’ve been feeling a little tired lately, so I want to go home now and rest.[p]
@@ -701,13 +701,13 @@ In this school life I haven’t fully adapted to yet, this clubroom is, without 
 *215
 And senpai is my main conversation partner.[p]
 *216
-The reason why I go out of my way to visit this clubroom every day is the expectation that she will be there.[p]
+The reason why I go out of my way to visit this clubroom every day is the expectation that she will be here.[p]
 *217
 If I lose someone who means this much to me, will I really be able to bear it?[p]
 *218
 I’m not sure. But I believe I had no choice but to answer that I can do it.[p]
 *219
-Otherwise, she won’t be able to graduate. Senpai probably has no choice but to go back to where she came from.[p]
+Otherwise, she won’t be able to graduate. She probably has no choice but to go back to where she came from.[p]
 *220
 And when the time comes, I must not be the reason she can’t take that step. That’s why, I must hide my feelings.[p]
 *221
@@ -736,7 +736,7 @@ I have a bad habit of looking back on conversations. I pick up my bag.[p]
 [bg2 storage="busiturain.jpg" time=100]
 [mask_off time=300]
 *229
-This is just my guess, but after school tomorrow, senpai will go out with me for the last time, and then she will return to her original world.[p]
+This is just my guess, but after school tomorrow, she will go out with me for the last time, and then she will return to her original world.[p]
 *230
 Tonight, that’s what I will tell the Rain Ayakashi. He came to bring her back, and now he can save the trouble of setting traps. They can reconcile.[p]
 *231

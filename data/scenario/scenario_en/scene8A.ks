@@ -85,7 +85,7 @@ When he resurfaces, he begins to speak slowly, as if to comment on my opinion.[p
 Well. There are various things from your story that bother me, but I shall put them aside for now.[p]
 *25
 #
-I really hate his way of talking...[p]
+I really hate his way of speaking...[p]
 *26
 #Rain Ayakashi
 However, there is a serious mistake in your statements that I cannot overlook.[p]
@@ -99,7 +99,7 @@ You seem to have misunderstood, but the reason I have come to this world is not 
 By order of my master, I have come to kill Yukino Akabane. She continuously refused her orders to return, so I said I would kill her for that reason. However, that does not mean I won’t be killing her even if she does return.[p]
 *30
 #Haruya
-Wha- Why?! Aren’t you two from the same place?![p]
+Wha- why?! Aren’t you two from the same place?![p]
 #
 [trans layer="2" time=0][wt][freeimage layer=2 page=back]
 [image layer="2" page="back" storage="uyo.png" width=1300 left=60 top=-380]
@@ -265,7 +265,7 @@ You are... My senpai, right?[p]
 In a complete change from before, her voice is terribly feeble.[p]
 *79
 #Rain Ayakashi
-That’s just right.[p]
+This seems to be the right moment for questions.[p]
 *80
 #
 Seeing a weakness in senpai, the Rain Ayakashi decides to attack.[p]
@@ -274,11 +274,11 @@ Seeing a weakness in senpai, the Rain Ayakashi decides to attack.[p]
 Haruya. Is there anything you would like to ask her? I’m sure there’s a lot you want to know. For now, I’ll allow you to say a few words.[p]
 *82
 #
-Am I not allowed to speak without his permission? Or rather, until now, it seems I didn’t even have that right.[p]
+Am I not allowed to speak without his permission? Until now, it seems I didn’t even have that right.[p]
 *83
 I can vaguely read his mood. The arrogance of the rain shark is something to be admired.[p]
 *84
-And so is his shrewdness. What he probably wants is for me to denounce senpai. It must be the motive behind cornering her like that.[p]
+And so is his shrewdness. What he probably wants is for me to denounce her. It must be the motive behind cornering her like that.[p]
 *85
 As long as I can see through his calculations, I can’t let myself be caught up in the Rain Ayakashi’s plots. The pale moonlight shines on senpai, and I can see her biting her lip and casting her eyes down.[p]
 *86
@@ -355,7 +355,7 @@ It’s fun to get involved with people when all goes well, but when things go so
 *114
 [yukino/11]Even when faced with setbacks, you’ve been trying to get involved with people, and that’s amazing.[r]I always thought you were a great person.[p]
 *115
-You kept trying again and again, you should be proud.[p]
+You kept trying again and again, you should be proud![p]
 *116
 The strong person is you, not me.[p]
 *117
@@ -367,7 +367,7 @@ My eardrums are about to burst from the anger of the Rain Ayakashi. He must be f
 *119
 But thanks to him, I’ve been able to say what I wanted to say. That’s all I can do.[p]
 *120
-She closes her eyes while listening to my words. And before long, after a pause as if she was trying to grasp the meaning of my words, senpai opens her mouth.[p]
+She closes her eyes while listening to my words. And before long, after a pause as if she was trying to grasp the meaning of my words, she opens her mouth.[p]
 *121
 #Senpai
 [yukino/10]Thank you...[p]
@@ -562,7 +562,7 @@ The battle is over.[p]
 @layopt layer="2" visible=true
 [image layer="2" storage="uyo.png" width=900 left=190 top=-150 time=700]
 *174
-The Rain Ayakashi is stunned, but eventually grits his teeth and mutters something. It sounds like a throwaway line, but I couldn’t catch it.[p]
+The Rain Ayakashi is stunned, but eventually grits his teeth and mutters something. It sounds like a throwaway line, but I can’t catch it.[p]
 *175
 Before parting, he glares at me and says:[p]
 *176

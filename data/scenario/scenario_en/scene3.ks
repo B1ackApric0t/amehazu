@@ -378,13 +378,13 @@ I’m more than happy to have met your expectations.[p]
 #
 [kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 *117
-Fu…,” the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
+“Fu...”, the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
 *118
 #Club President
 Want to take a seat?[p]
 *119
 #Haruya
-Ah… Alright.[p]
+Ah... Alright.[p]
 *120
 #Yukino
 Your seat is across from mine.[p]
