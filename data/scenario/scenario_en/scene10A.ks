@@ -19,61 +19,61 @@
 
 *scene10
 #
-あれ以来、例の殺人事件の被害はぱったりと止んだ。[p]
+Since then, the damage caused by the murder case has come to a sudden stop.[p]
 *1
-警察の調査によれば、被害者はみな犯罪歴があったり素行不良だったり、[r]あるいは殺害された日に誰かとトラブルを起こしていたりしていたらしい。[p]
+According to police investigations, the victims all had criminal records, had bad behavior, or were in trouble with someone on the day they were killed.[p]
 *2
-それで警察は当面、[r]私刑目的の殺人も視野に入れて捜査しているとのことだ。[p]
+For the time being, the police are investigating the murders under the assumption they were work of someone acting like a vigilante.[p]
 *3
-これについて僕は何かを言うつもりはない。[r]犯人については妥当な評価だろう。[p]
+I’m not going to say anything about this. It’s a fair assessment of the perpetrator.[p]
 *4
-先輩の痕跡を残すものはすべて消えた。[r]初めから何もなかったかのように消えた。[p]
+Everything that left a trace of the senior has disappeared. It disappeared as if she had never existed.[p]
 *5
-あの後部室に戻ってみても先輩はいなかった。[r]先輩の席は空っぽだった。[p]
+I go to the club room, senpai is not there. Her seat is empty.[p]
 *6
-そもそもの前提や認識さえ書き換えられていて、[r]先輩のことを覚えている者は誰もいなかった。[p]
+Even the assumptions and perceptions about senpai have been rewritten, and nobody remembers her.[p]
 *7
-あの日あじさい園で撮った先輩の写真も、[r]僕のスマートフォンからは消えていた。[p]
+The photo of her I took at the hydrangea garden that day has disappeared from my smartphone.[p]
 [bg2 storage ="bg3.png" time=1000]
 *8
-先輩の面影を留めるのは、今や記憶というひどく曖昧なものだけだ。[p]
+Memories are the only thing that retains any vestiges of my senpai.[p]
 *9
-本当に何もかも、先輩の痕跡を残すものは失われた。[p]
+Everything and anything that left her traces has been lost.[p]
 *10
-そして僕の記憶さえも、少しずつ雨に洗い流されていくように、[r]淡く、薄く、おぼろになっていった。[p]
+And even my memories were gradually washed away by the rain, becoming faint, thin, and vague.[p]
 *11
-忘れないよう先輩の名を紙に書き留めても、翌日には白紙に戻っている。[r]書き留めた記憶さえも失われる。[p]
+Even if I write down her name on a piece of paper so that I won’t forget it, the next day it will be blank. Even written memories are lost.[p]
 *12
-先輩の一番近くで過ごしていたのは僕なのだ。[r]僕につじつま合わせの影響が出ないなんてありえなかった。[p]
+I’m the one who spent most of my time with senpai. There’s no way I wouldn’t be affected by the law of coherence.[p]
 *13
-それでも僕は抗おうとしていた。[p]
+However, I was still trying to resist.[p]
 *14
-だけれど僕はそのうち、何に抗っているのかわからなくなってしまった。[r]抗っていたことさえも忘れてしまった。[p]
+But then I lost track of what I was fighting against. I forgot that I was even fighting.[p]
 [bg2 storage ="black.png" time=1000 wait=false]
 *15
-そして世界は元通りになった。[p]
+And the world went back to normal.[p]
 
 *16
-ただひとつの例外を除いて。[p]
+With one exception.[p]
 [image layer="2" page="back" storage="smart.png" width=250 left=515 top=30]
 [trans_in layer="2" time=500 method="fadeInUp"]
 [wt]
 *17
-いつからか僕のスマートフォンには、覚えのない写真が入り込んでいた。[p]
+At some point, I had photos on my smartphone that I didn’t remember taking.[p]
 *18
-一見チープなイタズラに見えるが、[r]どうして自分がこんな画像を保存しているのかわからない。[r]それに相手の名前だって覚えがない。[p]
+At first glance, it looks like a cheap prank, but I don’t know why I would be saving such an image. I don’t even remember the other person’s name.[p]
 *19
-だけれどその名前を見ていると、懐かしい気持ちになる。[r]声に出すと泣きそうにさえなる。なぜだろう？[p]
+But seeing that name makes me feel nostalgic. It even makes me cry when I say it out loud. Why...?[p]
 *20
-きっとこの人は、僕にとって大切な人だったのだろう。[p]
+This person must have been very important to me.[p]
 *21
-いや。[p]
+No.[p]
 *22
-今でも、僕にとって誰よりも大切な人なのだろう。[p]
+Even now, she’s the most important person to me.[p]
 *23
-きっと僕は少なからず、この人のおかげで生きているのだ。[p]
+I’m sure I’m alive thanks to this person.[p]
 *24
-そしてこの人のために生きているのだろう。[p]
+And I’m living for her.[p]
 [trans_out layer="2" time=500 method="fadeOutUp"]
 [wt]
 [mask time=1000]
@@ -85,11 +85,11 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [wait time=1000]
 [mask_off time=500]
 [if exp="sf._system_config_bgm_volume>=1&&sf.SM2!=1"]
-[movie storage="amehazuED_A.webm" skip=false volume="&sf.current_bgm_vol"]
+[movie storage="amehazuED_Aen.webm" skip=false volume="&sf.current_bgm_vol"]
 [elsif exp="sf._system_config_bgm_volume>=1&&sf.SM2==1"]
-[movie storage="amehazuED_A.webm" skip=true volume="&sf.current_bgm_vol"]
+[movie storage="amehazuED_Aen.webm" skip=true volume="&sf.current_bgm_vol"]
 [else]
-[movie storage="amehazuED_A.webm" skip=true volume=0]
+[movie storage="amehazuED_Aen.webm" skip=true volume=0]
 [endif]
 [mask time=500]
 [eval exp="sf.SM2=1"]
@@ -105,99 +105,99 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [mask_off time=1000]
 
 *25
-#部長
+#Club President
 *26
-「ということで。部誌への作品提出、よろしくね」[p]
+With that said. Please submit your work to the club magazine.[p]
 *27
-#春也
+#Haruya
 *28
-「わかりました」[p]
+Alright.[p]
 *29
 #
-夏休みを眼前に控え、[r]僕と部長は今年度の部誌について打ち合わせをしていた。[p]
+With summer vacation just around the corner, the president and I are having a meeting about this last year’s club magazine.[p]
 *30
-#部長
-「じゃ、そういうことで」[p]
+#Club President
+Well then, that’s it.[p]
 [buchohide]
 *31
-#春也
-「部長」[p]
+#Haruya
+President.[p]
 *32
 #
-部室を去ろうとする部長の背中を、僕は思わず呼び止めた。[p]
+I involuntarily call out to the president when she was about to leave the club room.[p]
 [bucho storage="bucho/buchocn1.png"]
 *33
-#部長
-「はい？」[p]
+#Club President
+Yes?[p]
 *34
 #
-なんだか改めてこんなことを言うのはこっぱずかしい気もしたけれど、[r]すでに引き留めてしまった以上、言わないわけにもいかなかった。[p]
+I feel embarrassed to say something like this again, but since I have already stopped her, I have little choice but to go ahead with it.[p]
 *35
-#春也
-「……部長、今年で最後の部誌ですね」[p]
+#Haruya
+President, this is the last club magazine of the year.[p]
 *36
-#部長
-「そうだね」[p]
+#Club President
+That’s right.[p]
 *37
-#春也
-「なんか。寂しくなりますね」[p]
+#Haruya
+It’s just... I’m going to miss you in the club.[p]
 *38
 #
-[bc/2]部長が目をぱちくりさせた。[p]
+[bc/2]The president blinks.[p]
 *39
-しばし僕たちは妙な空気の中で見合っていたけれど、[r]やがてふっと笑って部長は言った。[p]
+We look at each other in a strange atmosphere for a while, but then she bursts into laughter and says:[p]
 *40
-#部長
-[bc/4]「寂しいなんて。私、ろくすっぽ顔出してなかったのに」[p]
+#Club President
+[bc/4]You’ll be lonely, you say! Even though I barely showed my face.[p]
 *41
-#春也
-「まったく来なかったわけでもないじゃないですか」[p]
+#Haruya
+But it’s not like you didn’t come at all, either...[p]
 *42
-「それに、一応はふたりで春からこの部を支えてきたんですから」[p]
+Besides, the two of us have been supporting this club since spring.[p]
 *43
-#部長
-「そんな大層なものかな。この部にコストを賭けた覚えはないけど」[p]
+#Club President
+Is it such a big deal? I don’t remember spending any energy here.[p]
 *44
-#春也
-「それだけ気安い場所だったってことでは？」[p]
+#Haruya
+Doesn’t that mean it was a comfortable place?[p]
 *45
 #
 [kanim name="bucho" keyframe="nod3" time="200" count=2]
-ふふ、と部長は笑った。つられて僕も少し笑った。[p]
+“Fufu,” the president laughs. I laugh a little too.[p]
 *46
-部長は一瞬目を逸らし、言うか言うまいか迷うようなそぶりを見せたが、[r]結局仕方なさそうに笑って言った。[p]
+She averts her eyes for a moment and looks hesitant, but in the end, she can’t hold back and ends up laughing.[p]
 *47
-#部長
-「しょうがないよ。卒業しなきゃいけないんだから」[p]
+#Club President
+It can’t be helped. I have to graduate.[p]
 *48
-「来年は君ひとりだね」[p]
+You will be alone next year.[p]
 *49
-#春也
-「誰も入部しなければ」[p]
+#Haruya
+Only if nobody else joins.[p]
 *50
-#部長
-[bc/1]「……まあ、なんというか」[p]
+#Club President
+[bc/1]How to say it...[p]
 *51
-「期待はしてないけど、応援はしてもいい」[p]
+I wouldn’t have high hopes, but I’m rooting for you.[p]
 *52
-#春也
-「期待してないんですか」[p]
+#Haruya
+You don’t think it can happen?[p]
 *53
-#部長
-[bc/4]「癖なんだよ。人が習慣から脱することは容易ではない」[p]
+#Club President
+[bc/4]Being negative is a bad habit of mine. And it’s not easy for people to get out of their habits.[p]
 #
 [buchohide]
 *54
-部長は困ったように笑った。[r]そして部室のドアを開き、最後にこちらを振り向いた。[p]
+She laughs embarrassedly. She then opens the door of the clubroom and turns around one last time.[p]
 [bucho storage=bucho/buchocn5.png]
 *55
-#部長
-「でもまぁ……ありがとね。じゃ」[p]
+#Club President
+But, well... Thank you. Take care.[p]
 #
 [fadeoutbgm time=2000]
 [buchohide]
 *56
-そう言い残して、部長は部屋を去っていった。[p]
+After saying that, she leaves the room.[p]
 [mask time=500]
 [resetfont]
 [M3]
@@ -212,68 +212,68 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 
 *57
 #
-ひとりになった部室で、僕は窓を開いた。[r]七月の風と光が部室に入り込んでくる。[p]
+In the room where I’m alone, I open the window. The breeze and light of July enter the clubroom.[p]
 *58
-外の世界は陽の光を浴びて輝かしく、飛び込んでくる色は目に鮮やかだ。[p]
+The outside world is bright and bathed in sunlight, and the colors that fly in are vivid to the eye.[p]
 *59
-この部室の窓から覗く景色は、時と季節の移ろいとともに、[r]少しずつ変化していくのだろう。[p]
+The scenery seen from the window of this club room will change little by little with the change of time and seasons.[p]
 
 *60
-そのときだった。僕がふと思いついたのは。[p]
+And that’s the moment I suddenly come up with it.[p]
 
 *61
-そうだ。[p]
+Yes, that’s it.[p]
 
 *62
-部誌は窓について書こう。[r]窓がテーマの小説でもエッセイでも、とにかくなんでもいい。[p]
+Let’s write about windows in the club magazine. Anything is fine, whether it’s a novel or an essay about windows.[p]
 
 *63
-窓について書くんだ。[p]
+So I write about windows.[p]
 [fadeinbgm storage=A_end_loop.ogg time=1500]
 [trans_in layer="2" time=500 method="fadeInUp"]
 [wait time=500]
 
 *64
-記憶に残ってはいないけれど、心に残っていることがある。[p]
+I don’t remember what, but there’s one thing that’s stuck to my mind.[p]
 [trans_out layer="2" time=500 method="fadeOutUp"]
 [wt]
 
 *65
-いつか誰かが、僕の開けたかった窓を開いてくれた。[p]
+Of a day when someone opened the window I wanted to open.[p]
 
 *66
-どんな状況でどんな場面なのかは想像がつかない。[r]なんでもない日常の所作みたいにも思える。[p]
+I can’t imagine what it would be like in that situation. It seems like an ordinary daily gesture.[p]
 *67
-けれどそんなことがあったというのは、不思議と胸に焼き付いている。[p]
+However, the fact that such a thing happened is strangely burned into my heart.[p]
 
 *68
-だから、つまり。[p]
+So, this is it.[p]
 
 *69
-そんなことがあったというのを、僕はこの世界のどこかに残しておくべきだ。[r]そんな気がするのだ。[p]
+I should leave notice somewhere in this world that such a thing happened. That’s what I feel.[p]
 
 *90
-決して忘れてしまわないように。[p]
+I’ll never forget.[p]
 
 *91
-窓から身を乗り出しながら、僕は思う。[p]
+I think that, as I lean out the window.[p]
 
 *92
-こうしていることが好きだ。[r]窓から外の遠い景色を眺めている時間。[p]
+I like being like this. I take my time to look at the distant scenery outside the window.[p]
 
 *93
-そして部室。[r]まさにいま自分がこうしている部室。[p]
+And the clubroom. This exact room I’m in right now.[p]
 
 *94
-初めは窮屈にも感じたけれど、いまなら僕は胸を張って言える。[p]
+At first, it felt cramped, but now I can say it with confidence:[p]
 
 *95
-この部室が好きだ。[p]
+I like this room.[p]
 
 *96
-狭いけれど大きな窓がついていて、[r]僕の大切なものや時間がいっぱい詰まっている。[p]
+It’s small, but it has a big window, and it’s full of my precious things and time.[p]
 *97
-この部屋のことが、僕は好きだ。[p]
+Yes, I like this room.[p]
 [mask time=1500]
 [M0]
 @clearfix
