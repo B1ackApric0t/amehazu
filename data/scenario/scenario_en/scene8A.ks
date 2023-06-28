@@ -23,13 +23,13 @@
 
 *scene8
 #Rain Ayakashi
-You’re on time.[p]
+“You’re on time.”[p]
 *1
 #
 Amidst the pattering rain, the solemn voice of the monstrous shark resounds. From under the umbrella, I watch the grotesque mouth move.[p]
 *2
 #Rain Ayakashi
-The answer you have reached, will you please let me know?[p]
+“The answer you have reached, will you please let me know?”[p]
 *3
 #
 I nod and take a deep breath in the moist night air.[p]
@@ -39,10 +39,10 @@ My heart is about to explode, a sickening chill runs down my spine, and I fear I
 Even though I wish I could put off answering forever, I make up my mind and speak out.[p]
 *6
 #Haruya
-I have no intention of cooperating with you. Because there’s no need to do that in the first place.[p]
+“I have no intention of cooperating with you. Because there’s no need to do that in the first place.”[p]
 *7
 #Rain Ayakashi
-Oh...? I cannot seem to figure out what you mean. My apologies, but could you explain yourself in a manner that even a dullard such as myself can understand?[p]
+“Oh...? I cannot seem to figure out what you mean. My apologies, but could you explain yourself in a manner that even a dullard such as myself can understand?”[p]
 *8
 #
 He’s both polite and rude.[p]
@@ -56,21 +56,21 @@ I’m sure the Rain Ayakashi sees me as a foolish human being.[p]
 My whole body feels so oppressed my skin tingles, but I try my best to speak calmly.[p]
 *13
 #Haruya
-It’s simple. There’s no need to lure senpai out and bring her back.[p]
+“It’s simple. There’s no need to lure senpai out and bring her back.”[p]
 *14
-She will probably come to you instead.[p]
+“She will probably come to you instead.”[p]
 *15
-Today, I talked to her at school. Although she didn’t directly tell me, she mentioned graduating from school and leaving this place.[p]
+“Today, I talked to her at school. Although she didn’t directly tell me, she mentioned graduating from school and leaving this place.”[p]
 *16
-I believe she’s set the time limit for her return to tomorrow.[p]
+“I believe she’s set the time limit for her return to tomorrow.”[p]
 *17
-So, could you at least wait until then?[p]
+“So, could you at least wait until then?”[p]
 *18
-Senpai will surely come back to your world.[p]
+“Senpai will surely come back to your world.”[p]
 *19
-You don’t have to kill me because she wouldn’t obey the order to come back. She must have finally made up his mind.[p]
+“You don’t have to kill me because she wouldn’t obey the order to come back. She must have finally made up his mind.”[p]
 *20
-So, why don’t you go back to where you came from and listen to her side of the story![p]
+“So, why don’t you go back to where you came from and listen to her side of the story!”[p]
 *21
 #
 The sound of rain replaces my voice.[p]
@@ -82,24 +82,24 @@ Like a rock protruding from the surface of the water, the Rain Ayakashi stares a
 When he resurfaces, he begins to speak slowly, as if to comment on my opinion.[p]
 *24
 #Rain Ayakashi
-Well. There are various things from your story that bother me, but I shall put them aside for now.[p]
+“Well. There are various things from your story that bother me, but I shall put them aside for now.”[p]
 *25
 #
 I really hate his way of talking...[p]
 *26
 #Rain Ayakashi
-However, there is a serious mistake in your statements that I cannot overlook.[p]
+“However, there is a serious mistake in your statements that I cannot overlook.”[p]
 *27
 #Haruya
-A mistake? Where?[p]
+“A mistake? Where?”[p]
 *28
 #Rain Ayakashi
-You seem to have misunderstood, but the reason I have come to this world is not to bring back Yukino Akabane.[p]
+“You seem to have misunderstood, but the reason I have come to this world is not to bring back Yukino Akabane.”[p]
 *29
-By order of my master, I have come to kill Yukino Akabane. She continuously refused her orders to return, so I said I would kill her for that reason. However, that does not mean I won’t be killing her even if she does return.[p]
+“By order of my master, I have come to kill Yukino Akabane. She continuously refused her orders to return, so I said I would kill her for that reason. However, that does not mean I won’t be killing her even if she does return.”[p]
 *30
 #Haruya
-Wha- Why?! Aren’t you two from the same place?![p]
+“Wha- Why?! Aren’t you two from the same place?!”[p]
 #
 [trans layer="2" time=0][wt][freeimage layer=2 page=back]
 [image layer="2" page="back" storage="uyo.png" width=1300 left=60 top=-380]
@@ -107,14 +107,14 @@ Wha- Why?! Aren’t you two from the same place?![p]
 [wt]
 *31
 #Rain Ayakashi
-Sure, she’s of my same kin! But it’s precisely because she’s a disgrace to our entire species that she must be killed![p]
+“Sure, she’s of my same kin! But it’s precisely because she’s a disgrace to our entire species that she must be killed!”[p]
 *32
 #
 Revealing his true nature, the shark monster bares his teeth and becomes furious. I’m so overwhelmed that I can’t move.[p]
 *33
 #Rain Ayakashi
 *34
-How dare a mere child of man speak so insolently! Did you even think of trying to convince me for Yukino’s sake?![p]
+“How dare a mere child of man speak so insolently! Did you even think of trying to convince me for Yukino’s sake?!”[p]
 *35
 #
 [freeimage layer=2]
@@ -131,7 +131,7 @@ Feeling an unbearable pressure overhead, I instinctively put down my umbrella an
 Darkness. A cozy darkness. An endlessly deep darkness spreads behind the pure white teeth.[p]
 *38
 #Rain Ayakashi
-I should have done this since the beginning...[p]
+“I should have done this since the beginning...”[p]
 *39
 #
 [playse storage=zabun.ogg]
@@ -149,7 +149,7 @@ I hear the muffled sound of splashing water.[p]
 My consciousness returns from the darkness. I can hear the rain.[p]
 *41
 #Rain Ayakashi
-Haruya Shitaji is here.[p]
+“Haruya Shitaji is here.”[p]
 *42
 #
 The voice of the Rain Ayakashi shakes my whole body, and I hurriedly stand up with a jump.[p]
@@ -159,7 +159,7 @@ I look around my surroundings even though I feel like collpasing due to my hazy 
 Darkness all around. I can’t see the shark.[p]
 *45
 #Rain Ayakashi
-It looks like you just woke up.[p]
+“It looks like you just woke up.”[p]
 *46
 #
 *47
@@ -174,25 +174,25 @@ I’m inside the Rain Ayakashi’s mouth. As my eyes adjust to the darkness, I n
 And the shadow I can see from within the his mouth is...[p]
 *50
 #Rain Ayakashi
-This guy’s life is precious to you, isn’t it? Then, I’ll trade it for yours. Do you understand? Yukino Akabane... Or rather, Winged Ayakashi: Kabane Shirayukihime, the Deathly Red-Winged Deity[p]
+“This guy’s life is precious to you, isn’t it? Then, I’ll trade it for yours. Do you understand? Yukino Akabane... Or rather, Winged Ayakashi: Kabane Shirayukihime, the Deathly Red-Winged Deity”[p]
 #
 [yukino3][haruya time=700]
 *51
 #Haruya
-Senpai!![p]
+“Senpai!!”[p]
 *52
 #Rain Ayakashi
-[yukino/14]Don’t be noisy.[p]
+[yukino/14]“Don’t be noisy.”[p]
 *53
 #
 [haruyahide wait=false][quake count=4 time=700 vmax=15]
 When I involuntarily lean forward and shout, my feet begin to tilt. The Rain Ayakashi has lifted the tip of his tongue.[p]
 *54
 #Senpai
-[yukino/14]Haruya-kun.[p]
+[yukino/14]“Haruya-kun.”[p]
 *55
 #Rain Ayakashi
-Don’t you move, Shirayukihime!![p]
+“Don’t you move, Shirayukihime!!”[p]
 *56
 #
 For a moment, I feel the illusion of my body floating up at the Rain Ayakashi’s angry voice.[p]
@@ -200,20 +200,20 @@ For a moment, I feel the illusion of my body floating up at the Rain Ayakashi’
 I somehow manage to avoid falling into the back of its throat, and the tongue finally regains its original flatness.[p]
 *58
 #Senpai
-[yukino/5]Hey, Fukae… Do you really think that will work against me? Don’t you know who I am?[p]
+[yukino/5]“Hey, Fukae… Do you really think that will work against me? Don’t you know who I am?”[p]
 *59
 #Rain Ayakashi
-Of course, I do. If I fight you head-on, my odds of winning are slim.[p]
+“Of course, I do. If I fight you head-on, my odds of winning are slim.”[p]
 *60
-That’s why I decided on this approach. Apparently, you seem to have a deep bond with this guy.[p]
+“That’s why I decided on this approach. Apparently, you seem to have a deep bond with this guy.”[p]
 *61
 #Senpai
-Even if you take a hostage, it would be easy for me to overwhelm you and recapture him. Isn’t that right?[p]
+“Even if you take a hostage, it would be easy for me to overwhelm you and recapture him. Isn’t that right?”[p]
 *62
 #Rain Ayakashi
-Surely, it’d be really easy. But I can crush this guy in the instant it takes for you to do so.[p]
+“Surely, it’d be really easy. But I can crush this guy in the instant it takes for you to do so.”[p]
 *63
-And even if I die, there are still plenty of others who will take over after me. I’m nothing more than a vanguard.[p]
+“And even if I die, there are still plenty of others who will take over after me. I’m nothing more than a vanguard.”[p]
 *64
 #
 My life is being exchanged now… It doesn’t feel real.[p]
@@ -221,19 +221,19 @@ My life is being exchanged now… It doesn’t feel real.[p]
 A story about a world that I don’t know about, and senpai’s stern voice that I hear for the first time all. They seem like lies.[p]
 *66
 #Senpai
-Are you willing to die?[p]
+“Are you willing to die?”[p]
 *67
 #Rain Ayakashi
-I am here to fulfill my master’s mission. To do so, my life and death are trivial matters.[p]
+“I am here to fulfill my master’s mission. To do so, my life and death are trivial matters.”[p]
 *68
-Rather, surviving despite failing my lord’s mission would be the real death.[p]
+“Rather, surviving despite failing my lord’s mission would be the real death.”[p]
 *69
 #Senpai
 ;[kanim name="yukino" keyframe="left" time="500"]
-Pfft. My father sure is loved by his pet fish.[p]
+“Pfft. My father sure is loved by his pet fish.”[p]
 *70
 #Rain Ayakashi
-One can’t fight against blood. Isn’t that the reason you, too, are quite admired by this guy here?[p]
+“One can’t fight against blood. Isn’t that the reason you, too, are quite admired by this guy here?”[p]
 #
 [backlay layer=base]
 [bg storage="ajisai_night2.jpg" time=0]
@@ -254,24 +254,24 @@ An open space surrounded by flowers and plants. In its center, a familiar figure
 [haruya]
 *76
 #Haruya
-You are... My senpai, right?[p]
+“You are... My senpai, right?”[p]
 #
 [haruyahide time=400]
 *77
 #Senpai
-[yukino/3]Haruya-kun.[p]
+[yukino/3]“Haruya-kun.”[p]
 *78
 #
 In a complete change from before, her voice is terribly feeble.[p]
 *79
 #Rain Ayakashi
-That’s just right.[p]
+“That’s just right.”[p]
 *80
 #
 Seeing a weakness in senpai, the Rain Ayakashi decides to attack.[p]
 *81
 #Rain Ayakashi
-Haruya. Is there anything you would like to ask her? I’m sure there’s a lot you want to know. For now, I’ll allow you to say a few words.[p]
+“Haruya. Is there anything you would like to ask her? I’m sure there’s a lot you want to know. For now, I’ll allow you to say a few words.”[p]
 *82
 #
 Am I not allowed to speak without his permission? Or rather, until now, it seems I didn’t even have that right.[p]
@@ -285,17 +285,17 @@ As long as I can see through his calculations, I can’t let myself be caught up
 I can’t hurt her. However, I don’t really have a clue what to say...[p]
 *87
 #Senpai
-[yukino/13]Sorry, Haruya-kun.[p]
+[yukino/13]“Sorry, Haruya-kun.”[p]
 *88
 #
 She speaks up first. I am taken aback. I thought she was waiting for me to say something.[p]
 *89
 #Senpai
-[yukino/3]I know I should have told you first, and I’m sure there are many things you want to ask me.[p]
+[yukino/3]“I know I should have told you first, and I’m sure there are many things you want to ask me.”[p]
 *90
-First of all, what the Rain Ayakashi said is all true. I’m not human, and it’s true that I attacked people.[p]
+“First of all, what the Rain Ayakashi said is all true. I’m not human, and it’s true that I attacked people.”[p]
 *91
-[yukino/13]I’ve been hiding my identity. That’s how I deceived you. I’m sorry... I don’t know how to face you.[p]
+[yukino/13]“I’ve been hiding my identity. That’s how I deceived you. I’m sorry... I don’t know how to face you.”[p]
 *92
 #
 She says bitterly. Confessing one’s guilt must be painful.[p]
@@ -314,11 +314,11 @@ And now, as her kouhai, what I should say is...[p]
 [fadeinbgm storage=A_end_loop.ogg time=2000]
 *98
 #Haruya
-[yukino/14]No! I was the one who deceived you...![p]
+[yukino/14]“No! I was the one who deceived you...!”[p]
 *99
-I really don’t want to be away from you!! I’m not a strong person...![p]
+“I really don’t want to be away from you!! I’m not a strong person...!”[p]
 *100
-Senpai, even you aren’t that confident, right? You actually don’t want to go home, right...?![p]
+“Senpai, even you aren’t that confident, right? You actually don’t want to go home, right...?!”[p]
 *101
 #
 She had made up her mind to return, so I intended to give her a little push.[p]
@@ -326,41 +326,41 @@ She had made up her mind to return, so I intended to give her a little push.[p]
 But didn’t these words of mine plunge senpai into the depths of darkness?[p]
 *103
 #Haruya
-Why did you come to this world, senpai...? Why did you enroll in our high school?[p]
+“Why did you come to this world, senpai...? Why did you enroll in our high school?”[p]
 *104
 #
 [yukino/11]Without waiting for her reply, I kept pressing for answers. With the momentary sound of rain in between, she starts talking.[p]
 *105
 #Senpai
-[yukino/12]I was raised by my father, like some sort of pet. I was confined in a room that was spacious and empty, had no windows and was like a bug cage. I spent my time without meeting anyone.[p]
+[yukino/12]“I was raised by my father, like some sort of pet. I was confined in a room that was spacious and empty, had no windows and was like a bug cage. I spent my time without meeting anyone.”[p]
 *106
-That’s why I wanted to get involved with someone. So I forced myself to come here.[p]
+“That’s why I wanted to get involved with someone. So I forced myself to come here.”[p]
 *107
-But it was difficult. Just getting to meet people wasn’t my goal, I wanted real bonds.[p]
+“But it was difficult. Just getting to meet people wasn’t my goal, I wanted real bonds.”[p]
 *108
-But I couldn’t do it very well. Maybe it’s because I’m not human after all.[p]
+“But I couldn’t do it very well. Maybe it’s because I’m not human after all.”[p]
 *109
-The deadline was approaching, so I thought I’d just give up and just go home. Meeting you just before the deadline made me want to stay here a little longer.[p]
+“The deadline was approaching, so I thought I’d just give up and just go home. Meeting you just before the deadline made me want to stay here a little longer.”[p]
 *110
-[yukino/13]I have harmed many people. I lost count on how many people I have troubled and hurt.[p]
+[yukino/13]“I have harmed many people. I lost count on how many people I have troubled and hurt.”[p]
 *111
-My guilt is crushing me. And in the end, even you are in danger of losing your life. I... really... Am no good. It’s only right that I should disappear.[p]
+“My guilt is crushing me. And in the end, even you are in danger of losing your life. I... really... Am no good. It’s only right that I should disappear.”[p]
 *112
 #Haruya
-[yukino/14]That’s not true!![p]
+[yukino/14]“That’s not true!!”[p]
 *113
-I always thought you were a great person.[p]
+“I always thought you were a great person.”[p]
 *113a
-It’s fun to get involved with people when all goes well, but when things go south, or you make mistakes, it’s really painful, isn’t it?[p]
+“It’s fun to get involved with people when all goes well, but when things go south, or you make mistakes, it’s really painful, isn’t it?”[p]
 *114
-[yukino/11]Even when faced with setbacks, you’ve been trying to get involved with people, and that’s amazing.[r]I always thought you were a great person.[p]
+[yukino/11]“Even when faced with setbacks, you’ve been trying to get involved with people, and that’s amazing.”[r]“I always thought you were a great person.”[p]
 *115
-You kept trying again and again, you should be proud.[p]
+“You kept trying again and again, you should be proud.”[p]
 *116
-The strong person is you, not me.[p]
+“The strong person is you, not me.”[p]
 *117
 #Rain Ayakashi
-Enough! Don’t you hate her!?[p]
+“Enough! Don’t you hate her!?”[p]
 *118
 #
 My eardrums are about to burst from the anger of the Rain Ayakashi. He must be frustrated that things aren’t going the way he wanted them to.[p]
@@ -370,16 +370,16 @@ But thanks to him, I’ve been able to say what I wanted to say. That’s all I 
 She closes her eyes while listening to my words. And before long, after a pause as if she was trying to grasp the meaning of my words, senpai opens her mouth.[p]
 *121
 #Senpai
-[yukino/10]Thank you...[p]
+[yukino/10]“Thank you...”[p]
 *122
 #
 Her hand glows white. Her fingertips run along the nape of her neck.[p]
 *123
 #Haruya
-Senpai...[p]
+“Senpai...”[p]
 *124
 #Senpai
-All the things you just said, they are my salvation.[p]
+“All the things you just said, they are my salvation.”[p]
 #
 [fadeoutbgm time=1000]
 [mask time=500 color="0xFFFFFF"]
@@ -411,19 +411,19 @@ The Rain Ayakashi’s momentary lapse of concentration is probably the only reas
 As I run through the wet grass, I shout senpai’s name.[p]
 *132
 #Haruya
-I won’t let you do that!![p]
+“I won’t let you do that!!”[p]
 *133
 #
 But I’m only human, after all. Even if I can outsmart a monster for a moment, I can’t take victory home.[p]
 *134
 #Rain Ayakashi
-You bastard...!![p]
+“You bastard...!!”[p]
 *135
 #
 The Rain Ayakashi immediately chases after me. Just before being eaten by the shark, I manage to say it.[p]
 *136
 #Haruya
-I want you to live...[p]
+“I want you to live...”[p]
 #
 [playse storage=zabun.ogg]
 [mask time=500 effect="fadeInDown"]
@@ -480,7 +480,7 @@ It’s out of sight. She grabs my body and pulls me up.[p]
 My body floats in the air. We’re flying in the sky.[p]
 *151
 #Haruya
-You are… Senpai, right?[p]
+“You are… Senpai, right?”[p]
 *152
 #
 I ask, gasping for breath. I can’t hide my surprise at the figure of the person who pulled me up.[p]
@@ -490,26 +490,28 @@ Long hair, white like moonlight. A jet-black body with scarlet wings and an expr
 A beautiful and extraordinary figure. An existence unknown to our world.[p]
 *155
 #Senpai
-[kanim name="yukino" keyframe="nod" time="500"]Yeah. I’m your senpai, Haruya-kun.[p]
+[kanim name="yukino" keyframe="nod" time="500"]“Yeah. I’m your senpai, Haruya-kun.”[p]
 *156a
 #
 The voice that answers me is definitely my senpai’s.[p]
 [hide time=400 wait=false][haruyahide time=400]
 [M1]
+[anim name="chara_name_area" left="-=135" time="0"]
 [bg2 storage="vsuyo.jpg" time="800"]
 *156
 #Rain Ayakashi
-Curse you, bastards!![p]
+“Curse you, bastards!!”[p]
 *157
 #
+[anim name="chara_name_area" left="+=135" time="0"]
 He shouts angrily and chases after us. Black water is gushing out from one end of his back, and it looks like he has been pierced.[p]
 *157a
 Senpai stops in the air while holding me and stretches out her hand towards the Rain Ayakashi.[p]
 *158
 #Senpai
-Rain Ayakashi!! You said you’re risking your life to fulfill my father’s orders!![p]
+“Rain Ayakashi!! You said you’re risking your life to fulfill my father’s orders!!”[p]
 *159
-Then, I will bet my life here as well—![p]
+“Then, I will bet my life here as well—!”[p]
 *160
 #
 [bg2 storage="vsuyo2.jpg" time="1000" wait=false]
@@ -518,10 +520,10 @@ Her fingertips glow white, drawing a wall between us and the Rain Ayakashi.[p]
 Seeing that the shark is effectively blocked by the wall and crashes to the ground, she slides her fingertips onto her chest in a relieved gesture.[p]
 *162
 #Haruya
-Senpai...[p]
+“Senpai...”[p]
 *163
 #Senpai
-I’m alright. Don’t worry.[p]
+“I’m alright. Don’t worry.”[p]
 *164
 #
 There is a thin incision in her chest.[p]
@@ -531,23 +533,30 @@ Then, as if her interior was filled with light, a dazzling beam of light overflo
 [bg2 storage="vsuyo.jpg" time="1000" wait=false]
 The light bursts out as if to split the night sky, but its power gradually weakens, and eventually it disappears as if it were an eye closing its eyes.[p]
 *166
+[anim name="chara_name_area" left="-=135" time="0"]
 #Rain Ayakashi
-Shirayukihime!! What are you―[p]
+“Shirayukihime!! What are you―”[p]
 *167
+#
+[anim name="chara_name_area" left="+=135" time="0"]
 #Senpai
-I’ve returned the lifespan I had stolen into the sky. Now I won’t be able to stay in this world for long. I will return to our original world.[p]
+“I’ve returned the lifespan I had stolen into the sky. Now I won’t be able to stay in this world for long. I will return to our original world.”[p]
 *168
 #
 Neither the Rain Ayakashi nor I seem to follow. However, she continues regardless.[p]
 *169
 #Senpai
-Rain Ayakashi! Your job here is no more. Can you go home first and prepare for when I come?[p]
+“Rain Ayakashi! Your job here is no more. Can you go home first and prepare for when I come?”[p]
 *170
+#
+[anim name="chara_name_area" left="-=135" time="0"]
 #Rain Ayakashi
-Are you insane?! Even if you return now, you won’t be spared![p]
+“Are you insane?! Even if you return now, you won’t be spared!”[p]
 *171
+#
+[anim name="chara_name_area" left="+=135" time="0"]
 #Senpai
-I was going to kill you from the beginning, so it’s probably too late now. Rest assured. I don’t have the time or the strength left to attack people anymore.[p]
+“I was going to kill you from the beginning, so it’s probably too late now. Rest assured. I don’t have the time or the strength left to attack people anymore.”[p]
 #
 [mask time=1000 color="0xffffff"]
 [M0]
@@ -567,13 +576,13 @@ The Rain Ayakashi is stunned, but eventually grits his teeth and mutters somethi
 Before parting, he glares at me and says:[p]
 *176
 #Rain Ayakashi
-Haruya Shitaji.[p]
+“Haruya Shitaji.”[p]
 *177
 #Haruya
-Yes...?[p]
+“Yes...?”[p]
 *178
 #Rain Ayakashi
-I’m returning this. I can’t take this filthy thing home with me.[p]
+“I’m returning this. I can’t take this filthy thing home with me.”[p]
 #
 [playse storage=basa.ogg buf=1]
 *179
