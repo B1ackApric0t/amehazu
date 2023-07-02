@@ -323,7 +323,7 @@ She laughs. She laughs, and I smile.[p]
 *92
 Suddenly, my smartphone vibrates in my pocket.[p]
 [hide wait=false]
-[image layer="2" page="back" storage="smart.png" width=250 left=515 top=30]
+[image layer="2" page="back" storage="smart_en.png" width=250 left=515 top=30]
 [trans layer="2" time=500 method="fadeInUp"]
 [wait time=500]
 *93

@@ -286,7 +286,9 @@ Senpai... That’s you, right?[p]
 Yes, it’s me. Nice to meet you. Yukino Akabane has changed into the Winged Ayakashi: Kabane Shirayukihime, the Deathly Red-Winged Deity. These are my real appearance and name.[p]
 *85
 #
-Her long white hair flutters in the night breeze, just like the flow of a silvery river. Red butterfly-like wings spread out behind her slender, jet-black body. And most of all, what catches my eye most is that she is a figure who doesn’t have a face.[p]
+Her long white hair flutters in the night breeze, just like the flow of a silvery river. Red butterfly-like wings spread out behind her slender, jet-black body.[p]
+*85A
+And most of all, what catches my eye most is that she is a figure who doesn’t have a face.[p]
 *86
 When I stare at her for a while, she smiles as if embarrassed.[p]
 *87

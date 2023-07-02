@@ -55,7 +55,7 @@ And the world went back to normal.[p]
 
 *16
 With one exception.[p]
-[image layer="2" page="back" storage="smart.png" width=250 left=515 top=30]
+[image layer="2" page="back" storage="smart_en.png" width=250 left=515 top=30]
 [trans_in layer="2" time=500 method="fadeInUp"]
 [wt]
 *17
@@ -206,7 +206,7 @@ After saying that, she leaves the room.[p]
 [haruyahide time=0]
 [bg2 storage="Alast.jpg" time="0"]
 [eval exp="sf.ST6=1"]
-[image layer="2" page="back" storage="smartc.png" width=250 left=515 top=30]
+[image layer="2" page="back" storage="smartc_en.png" width=250 left=515 top=30]
 [wait time=1000]
 [mask_off time=500]
 
