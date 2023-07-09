@@ -20,92 +20,92 @@
 
 *scene9
 #
-沈黙の中、僕たちは雨に降られていた。[p]
+We’re drenched in rain, both silent.[p]
 *1
-しばらくして先輩のほうを振り向こうとしたとき、[r]先輩に優しく抱きしめられた。[p]
+When I turn around to look at her, she gently hugs me.[p]
 *2
-僕は驚いて、迷いながらも、抱き返した。[p]
+Surprised and confused, I hug her back.[p]
 *3
-お互いびしょびしょに濡れていて、[r]それだけに先輩の暖かさが肌に伝わってくる。[p]
+Both of us are soaking wet, and that's why her warmth is transmitted to my skin.[p]
 [yukino1 width=1400 top=30]
 *4
-#先輩
-「春也くん」[p]
+#Senpai
+Haruya-kun.[p]
 #
 [haruya]
 *5
-#春也
-「はい」[p]
+#Haruya
+Yes.[p]
 *6
-#先輩
-[yukino/13]「よかった……」[p]
+#Senpai
+[yukino/13]I’m so glad.[p]
 *7
-#春也
-「はい。先輩も」[p]
+#Haruya
+Yes. Me too.[p]
 *8
-#先輩
-[yukino/7][kanim name="yukino" keyframe="nod" time="500"]「うん」[p]
+#Senpai
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]Yes.[p]
 *9
-#春也
-「よかったです。先輩……」[p]
+#Haruya
+I'm glad. Senpai...[p]
 #
 [hide time=100]
 [yukino7 width=1000 top=50 wait=false]
 *10
-僕たちはもうしばらくそうしていた。[r]それから体を離して、互いの姿を眺めた。[p]
+We've been doing that for a while now. Then we separate and look at each other.[p]
 *11
-#先輩
-「びしょぬれだ」[p]
+#Senpai
+We’re soaking wet...[p]
 *12
-#春也
-「お揃いですよ」[p]
+#Haruya
+We match.[p]
 *13
 #
-僕は雨妖の吐き出した傘を拾いながら、先輩に訊ねた。[p]
+I ask her while I pick up the umbrella the Rain Ayakashi spat out.[p]
 *14
-#春也
-「それで。これからどうしましょうか」[p]
+#Haruya
+So, what do we do now?[p]
 *15
-#先輩
-[yukino/8]「どうしようかな」[p]
+#Senpai
+[yukino/8]Yes, what should I do...[p]
 *16
-#春也
-「お付き合いしますよ」[p]
+#Haruya
+Whatever you decide, I’ll be with you.[p]
 *17
-#先輩
-[yukino/2]「当たり前。君は私の後輩なのだから」[p]
+#Senpai
+[yukino/2]Of course. Because you’re my kouhai.[p]
 *18
 #
-――そうだ。これでいいんだ。[p]
+Thi is right. That's exactly it.[p]
 *19
-これが僕たちの距離感なんだ。[p]
+This amount of distance is just right for our relationship.[p]
 *20
-#先輩
-[yukino/8]「ひとまずあじさい園は出ないと、[r]　春也くんが帰れなくなってしまうからな」[p]
+#Senpai
+[yukino/8]For now, you won’t be able to go home unless we leave the hydrangea garden.[p]
 *21
-#春也
-「それは困りますね」[p]
+#Haruya
+And that would be a problem.[p]
 *22
-#先輩
-[yukino/2]「んー……そうだ」[p]
+#Senpai
+[yukino/2]Hmm... Oh, I know![p]
 #
 [playse storage=rain_kasa.ogg loop=true]
 [hide time=100]
 [yukino7 width=1400 top=30 wait=false]
 *23
-僕が掲げた傘の下に、びしょぬれの先輩が入ってくる。[r]そして言った。[p]
+My drenched senpai comes under the umbrella I’m holding up, and she says:[p]
 *24
-#先輩
-[yukino/2]「一緒に帰ろう。相合傘でさ」[p]
+#Senpai
+[yukino/2]Let's go home together. Under a shared umbrella.[p]
 *25
-#春也
-「そうですね。そうしましょう」[p]
+#Haruya
+Yes, let's do that.[p]
 *26
 #
-ずぶぬれの僕が答えた。[p]
+Also soaking wet, I answer.[p]
 [hide time=200][yukinoA time=1000]
 *27
-先輩がその姿を妖へと変ずる。[r]軽く僕を抱きかかえて、赤い羽が闇にきらめく。[p]
+She changes her appearance into her ayakashi form. Lightly hugging me, her red wings glitter in the dark.[p]
 
 [mask time=1000 effect="fadeInUp"]
 [free_filter]
@@ -115,44 +115,44 @@
 
 *28
 #
-赤い羽が闇にさらりと溶けた。[r]先輩の羽で飛び立った僕たちは、しばらくの夜間飛行を経てここに降りた。[p]
+Red wings melt into the darkness. We take off to the sky and, after a short night flight, we land.[p]
 *29
-僕たちの高校。すでに閉じた校門の前だ。[p]
+We’re at our high school, in front of the already closed school gate.[p]
 *30
-僕たちはこれから帰るのだ。[r]長いようで一瞬だった、この旅路から。[p]
+We're about to return from this journey that seemed long even though it was fleeting.[p]
 [yukino1 width=1400 top=30]
 *31
-#先輩
-「……」[p]
+#Senpai
+...[p]
 *32
 #
-先輩は校門から夜の校舎を眺めていた。[r]僕はその横で、じっと先輩の顔を見つめていた。[p]
+Through the dark, senpai looks at the school building from the school gate. I sit next to her, staring at her face.[p]
 *33
-卒業するんだ、と僕は思った。[p]
+She’s graduating, I realize.[p]
 *34
-#先輩
-[yukino/7]「……ごめん。待たせてしまったね。行こうか」[p]
+#Senpai
+[yukino/7]... Sorry. I made you wait. Let's go.[p]
 #
 [haruya]
 *35
-#春也
-「もういいんですか？」[p]
+#Haruya
+Are you ready?[p]
 *36
-#先輩
-[yukino/10][kanim name="yukino" keyframe="nod" time="500"]「うん」[p]
+#Senpai
+[yukino/10][kanim name="yukino" keyframe="nod" time="500"]Yes.[p]
 *37
 #
-先輩がうなずいた。[p]
+She nods.[p]
 *38
-#先輩
-[yukino/7]「行こう。行かなきゃ」[p]
+#Senpai
+[yukino/7]We must get going.[p]
 #
 [haruyahide time=1000]
 [hide]
 *39
-僕たちは校舎に背を向ける。[r]僕が少し早く、先輩は少し遅れて。[p]
+We turn our backs to the school building; I turn a little fast, while senpai turns a little slow, still lingering.[p]
 *40
-そして僕たちは、最後の帰路につき始めた。[p]
+And so, we start our final trip back home.[p]
 
 [mask time=700 effect="fadeInLeft"]
 [fadeoutse time=1000]
@@ -163,248 +163,246 @@
 [mask_off time=700 effect="fadeOutRight"]
 
 *41
-#春也
-「どうでした？　高校生活」[p]
+#Haruya
+How was it? High school life.[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *42
-#先輩
-「んー。色々悔いは残るけど、[r]　こうして振り返ってみると悪くなかったなあと思う」[p]
+#Senpai
+Hmm... I have a lot of regrets, but looking back, I think it wasn't bad.[p]
 *43
-#春也
-「好きな行事とかありました？」[p]
+#Haruya
+Do you have a favorite event?[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *44
-#先輩
-「そうだな。やっぱり文化祭とか体育祭はいいね。[r]　賑やかで、その場にいるだけでだいぶ面白い」[p]
+#Senpai
+I do! Cultural and sports festivals are really good! It's lively, and just being there is a lot of fun.[p]
 *45
-#春也
-「先輩って運動できるんですか？」[p]
+#Haruya
+Can you do sports?[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *46
-#先輩
-「できる……んじゃないかなあ。普通の人間とは感覚も体の出来も違う」[p]
+#Senpai
+I wonder if I can? Both my body and my senses are different from yours.[p]
 *47
-#春也
-「ああ……なんか。ずるいですね？」[p]
+#Haruya
+Oh... This is kind of unfair.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *48
-#先輩
-「だいぶ期限の短い体だもの、それくらいは許してほしいね。[r]　春也くんは？」[p]
+#Senpai
+My body is a pretty short-lived one, so forgive me for that. [r]What about you?[p]
 *49
-#春也
-「僕はあまり。インドアな人間ですから」[p]
+#Haruya
+Not really. I'm an indoor person.[p]
 *50
-#先輩
-「私もインドアな妖だったけどね」[p]
+#Senpai
+I was also an indoor ayakashi.[p]
 *51
-#春也
-「先輩って、元の世界でどんな風に暮らしてたんですか？」[p]
+#Haruya
+Senpai, how is life in your original world?[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *52
-#先輩
-「あまりいいものじゃないよ。[r]　虫かごに入れられてるみたいなものさ。」[p]
+#Senpai
+Life there isn’t very good. It’s like being put inside a bug cage.[p]
 *53
-「限られた空間で、定められた手順を踏んで一日を暮らしていく」[p]
+We live in a confined space and every day we follow a fixed procedure.[p]
 *54
-「その運行の滞りないことが、[r]　私の家にとって何より価値あることだったんだ。」[p]
+The most valuable thing for my family is to ensure that the routine isn’t interrupted.[p]
 *56
-「別にその是非を論じたってしょうがないけど、[r]　私にはどうしても合わなかった。」[p]
+It’d be pointless to argue about the pros and cons of that, it’s just that it simply doesn’t suit me.[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *57
-「……出来の悪い娘で、本当に申し訳ないとは思うんだけど」[p]
+... I really am sorry for being such a lacking daughter.[p]
 *58
-#春也
-「……僕なんかが、[r]　あまり家のことに口を挟むべきじゃないんでしょうけど。」[p]
+#Haruya
+I don’t think I have the right to meddle with your family matters, but...[p]
 *59
-「そこは出来云々じゃなくて、[r]　やっぱり単に合わなかったってだけじゃないでしょうか。」[p]
+It's not that you’re lacking, it’s just not fitting for you.[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *60
-「それで先輩は僕たちのところに来たんですし、そういう好奇心旺盛だったり[r]　革新的なところがいいって人もいるはずじゃないですか」[p]
+That's why you came here, and there must be others who like this kind of curiosity and courage as well.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *61
-#先輩
-「君が言うと説得力が違うね」[p]
+#Senpai
+Your words aren’t too convincing.[p]
 *62
-#春也
-「調子乗らないでください」[p]
+#Haruya
+Don't get carried away.[p]
 *63
-#先輩
-「ダメかい？」[p]
+#Senpai
+Can’t I?[p]
 *64
-#春也
-「いいですけど。だから……先輩の世界にも、そういう先輩を評価したり、[r]　受け入れてくれる人がきっといるんじゃないでしょうか。」[p]
+#Haruya
+Actually, I don't really mind... As I was saying, I'm sure there are people in your world who can appreciate and accept you.[p]
 *65
-「……僕はその世界のこと知らないので、[r]　的外れなことを言ってたら申し訳ないんですが」[p]
+Although I don't know much about that world, so I'm sorry if I said something off the mark...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *66
-#先輩
-「…………ううん。ありがとう。」[p]
+#Senpai
+... No, I won’t. Thank you...[p]
 *67
-「……もしかしたら私、自分の世界のことすらよく知らずに、[r]　ここに来てしまったのかもしれないな。」[p]
+Perhaps I came here without knowing much about my own world.[p]
 *68
-「……生きたいなあ。もっと良い生き方をしてみたい。」[p]
+I want to find a better way to live. ... What about you?[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *69
-「……春也くんは？　[r]　私と別れた後、春也くんはどんな風に暮らしていくんだい？」[p]
+What kind of life will you live after I leave?[p]
 *70
-#春也
-「さあ……あんまり想像つかないです。」[p]
+#Haruya
+That... Well, I can't imagine.[p]
 *71
-「先輩がいなくなっても部室行くのかとか。[r]　あと暇な時間増えそうだなぁとか。」[p]
+Will I still participate in the club even if you’re gone? I think I’ll be bored.[p]
 *72
-「正直まだ実感が湧いてないんですよ。[r]　先輩のことだし、また明日もひょっこり部室に顔出すような気がして」[p]
+Honestly, it doesn’t feel real. To me, it’s like tomorrow you will still show up at the clubroom like usual.[p]
 *73
-#先輩
-「ううん。」[p]
+#Senpai
+But I won’t be coming back.[p]
 *74
-「来ないよ。私は来ない」[p]
+I won’t...[p]
 *75
-#春也
-「……ですよね」[p]
+#Haruya
+Right...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *76
-#先輩
-「だから……」[p]
-*77
-「私はいまが一番大事……」[p]
+#Senpai
+And that's why the present is the most important thing for me.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *78
-「ね、春也くん」[p]
+Hey, Haruya-kun.[p]
 *79
-#春也
-「はい」[p]
+#Haruya
+Yes?[p]
 *80
-#先輩
-「名前、呼んでほしいな」[p]
+#Senpai
+I want you to call me by my name.[p]
 *81
-#春也
-「えっと。かばね……さんでしたっけ？」[p]
+#Haruya
+Er. It was... Kabane...?[p]
 *82
-#先輩
-「ふふっ……そっちじゃない」[p]
+#Senpai
+Fufu... No, not that one.[p]
 *83
-#春也
-「えーっと。えー………」[p]
+#Haruya
+U-um...[p]
 *84
-「……雪乃さん」[p]
+Yukino-san.[p]
 *85
-#先輩
-「わ……おお……」[p]
+#Senpai
+Oh, wow.[p]
 *86
-#春也
-「なんですか。なんですかそのリアクションは」[p]
+#Haruya
+What’s with that reaction...[p]
 *87
-#先輩
-「なんでもないよ。なんでもないのにさ、すごいなあと。ふふ……」[p]
+#Senpai
+Nothing, nothing! It’s just… It’s such an amazing feeling... Fufu...[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *88
-「はぁ。もっと早くから名前呼びしてもらったらよかった」[p]
+I wish you would have called me by name sooner. It's embarrassing though, so maybe not.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *89
-「あーでもこれなんか恥ずかしいからダメだな。[r]　というかまず春也くんがもたないねこれは。」[p]
+Or rather, Haruya-kun, you don’t have what it takes. I'm your senpai, so I can tell.[p]
 *90
-「私は春也くんの先輩だからわかるけど君はこれには一時間と耐えられないね。[r]　やっぱり私が向こうに帰るその直前だからなんとかもってるやつだ。」[p]
+You wouldn’t be able to keep it up for even an hour. You can only hold back the embarrassment now because I’m about to leave.[p]
 *91
-「ああなんか饒舌になってしまうなあ、[r]　人間のとき名前で呼ばれると饒舌になってしまうのかな私は」[p]
+Oh, but I’m always very talkative, could it be I’ll become even more talkative when called by name?[p]
 *92
-#春也
-「雪乃さん」[p]
+#Haruya
+Yukino-san.[p]
 *93
-#先輩
-「はいはい」[p]
+#Senpai
+Yes, yes?[p]
 *94
-#春也
-「行かないでくださいよ……」[p]
+#Haruya
+Please don't leave...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *95
-#先輩
-「…………」[p]
+#Senpai
+...[p]
 *96
-#春也
-「…………」[p]
+#Haruya
+...[p]
 *97
-「すみません。わがまま言って。忘れてください」[p]
+I'm sorry. I'm being selfish. Please forget it.[p]
 *98
-#先輩
-「……ううん。全然。」[p]
+#Senpai
+... No, I won’t. I will never forget you said that.[p]
 *99
-「一生忘れない。一生」[p]
+For the rest of my life.[p]
 *100
-#春也
-「……はい。一生」[p]
+#Haruya
+... Yes. For a lifetime.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *101
-#先輩
-「ねえ、春也くん。最後にひとつ言わせて」[p]
+#Senpai
+Hey, Haruya-kun. Let me say one last thing.[p]
 *102
-#春也
-「なんですか？」[p]
+#Haruya
+What is it?[p]
 *103
-#先輩
-「もしかしたら君は、自分が言葉を発することに、[r]　少しだけ臆病なのかもしれない」[p]
+#Senpai
+Perhaps you’re a little timid when it comes to speaking out.[p]
 *104
-「だけれど知っていてほしいんだ。[r]　君の言葉が誰かの救いになりうるということ」[p]
+However, I want you to know that your words can be of help to someone.[p]
 *105
-「どうかそのことだけは忘れないでいてほしい」[p]
+I hope you won’t forget about that.[p]
 *106
-#春也
-「…………」[p]
+#Haruya
+...[p]
 *107
-「ありがとうございます。忘れません。一生」[p]
+Thank you... I will never forget, for the rest of my life.[p]
 *108
-#先輩
-「一生……か」[p]
+#Senpai
+For the rest of your life, huh...[p]
 *109
-「うん。よかった」[p]
+Yeah, I’m glad.[p]
 *110
-#春也
-「……」[p]
+#Haruya
+...[p]
 *111
-#先輩
-「……」[p]
+#Senpai
+...[p]
 *112
-#春也
-「先輩」[p]
+#Haruya
+Senpai.[p]
 *113
-#先輩
-「なに？」[p]
+#Senpai
+... What?[p]
 *114
-#春也
-「また会えますかね」[p]
+#Haruya
+Can we meet again?[p]
 *115
-#先輩
-「会いたいよ。でもそれ以上はなにも言えない」[p]
+#Senpai
+I want to, but I can't say more than that.[p]
 *116
-#春也
-「……そうですか」[p]
+#Haruya
+Is that so...[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *117
-#先輩
-「でもまぁ、そうだね。」[p]
+#Senpai
+But... Well, yes.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *118
-「雨の日。雨の日だね。また来るとしたら」[p]
+Perhaps I’ll come again on a rainy day.[p]
 *119
-#春也
-「雨の日？[r]　再会とか、喜ばしい事って晴れの日なイメージありますけど」[p]
+#Haruya
+On rainy day? I was under the impression that happy things like reunions happen on sunny days.[p]
 *120
-#先輩
-「晴れも良いけどね。[r]　でも、雨の日に別れて、雨の日にまた出会って……今日の続きだよ」[p]
+#Senpai
+It's fine if it's sunny, but we’re parting ways on a rainy day, so we should meet again on a rainy day too, as the continuation of today.[p]
 *121
-#春也
-「ああ……いいですね。また続いていくんですね」[p]
+#Haruya
+Oh... That's nice. We’ll meet again.[p]
 *122
-#先輩
-「遠くまでね。ずっと。」[p]
+#Senpai
+Meet again... Maybe one day, far into the future. Our relationship will continue forever though, and that is for sure.[p]
 *123
-「でもそうだなあ、そしたら傘は忘れないようにしなきゃなあ」[p]
+Hmm... Then I should remember to bring an umbrella.[p]
 *124
-#春也
-「…………」[p]
+#Haruya
+...[p]
 *125
-「別に。忘れてきても大丈夫ですよ」[p]
+No need. It’s okay if you forget your umbrella again.[p]
 *126
-「僕が絶対傘を持って、迎えに行きますから……」[p]
+Because I'll definitely bring one to pick you up...[p]
 #
 [fadeoutbgm time=1500]
 [fadeinse storage=rain_kasa.ogg loop=true time=800]
@@ -416,19 +414,19 @@
 
 
 *127
-降りしきる雨の音に、僕は隣を振り向いた。[p]
+I turn around at the sound of the pouring rain.[p]
 *128
-――いない。誰もいない。いままでそこにいたはずの人。[p]
+-Absent. The person who should have been here. She isn’t any longer.[p]
 *129
-傘を持つ手の力が抜ける。[r]僕はしばらくそのまま、冷たい雨に打たれていた。[p]
+The hand who was holding the umbrella is gone. For a while, the cold rain hits me.[p]
 *130
-先輩はいつか、雨に濡れて歩くのも好きだと言っていた。[p]
+Senpai once said that she likes walking in the rain.[p]
 *131
-今ならその気持ちも、ちょっとはわかる。[p]
+I can understand that feeling a little bit now.[p]
 *132
-あのひとのことがわかる。[p]
+I also finally understand her a little.[p]
 *133
-少しではあるけれど。[p]
+Just a little bit.[p]
 [mask time=500]
 [M1]
 [filter brightness=30 layer=base]
@@ -436,11 +434,11 @@
 [camera time=18000 y=120 ease_type=linear wait=false]
 [mask_off time=500]
 *134
-やがて僕は雨とともに、ひとりの帰路を歩み始める。[p]
+Before long, along with the rain, I begin to walk home alone.[p]
 *135
-雨に濡れつつ空を見上げた。どこまでも遠い夜。[p]
+I look up at the sky while getting wet in the rain. The night is far away.[p]
 *136
-手が届きそうなほど遠い夜。[p]
+The night is so far away that I feel like I can almost touch it.[p]
 [wait time=700]
 [mask time="1500"]
 [fadeoutse time=2500]
