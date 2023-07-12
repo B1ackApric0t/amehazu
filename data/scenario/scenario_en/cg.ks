@@ -148,8 +148,8 @@
     </div>
     
   </div>
-  <div id="cgbig"></div>
-  <div id="cgvideo"><video src="" autoplay id="vcg"></video></div>
+  <div id="cgbig" style="left:-330px;"></div>
+  <div id="cgvideo" style="left:-330px;"><video src="" autoplay id="vcg"></video></div>
 </div>
 </div>
 
