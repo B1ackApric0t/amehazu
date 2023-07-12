@@ -416,7 +416,7 @@ Because I'll definitely bring one to pick you up...[p]
 *127
 I turn around at the sound of the pouring rain.[p]
 *128
--Absent. The person who should have been here. She isn’t any longer.[p]
+―Absent. The person who should have been here. She isn’t any longer.[p]
 *129
 The hand who was holding the umbrella is gone. For a while, the cold rain hits me.[p]
 *130

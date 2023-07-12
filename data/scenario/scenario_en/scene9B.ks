@@ -287,15 +287,15 @@ Raindrops fall suddenly. When I look up, the rain clouds that should have cleare
 Then, what’s coming now is...[p]
 [quake count=5 time=500 hmax=20 wait=false]
 *90
-#雨妖
+#Rain Ayakashi
 You bastards!![p]
 *91
 #
 [playse storage=zabun.ogg]
-I hear a crackle behind me. The deafening voice of the shark slams down from above onto the ground. The hydrangea sway in the roar of the earth.[r]その地響きにあじさいがそよいだ。[p]
+I hear a crackle behind me. The deafening voice of the shark slams down from above onto the ground. The hydrangea sway in the roar of the earth.[p]
 *92
 #Haruya
--!![p]
+―!![p]
 *93
 #
 When I turn around, I’m held in senpai’s chest.[p]
