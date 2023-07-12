@@ -20,295 +20,295 @@
 
 *scene9
 #
-僕たちは夜のあじさい園に降り立った。[p]
+We land at the nightly hydrangea garden.[p]
 *1
-夕方まで降っていた雨にあじさいは濡れ、[r]その水滴に白い月の光が反射していた。[p]
-#先輩
+The flowers are wet from the rain that fell until the evening, and the white moonlight is reflected on the water droplets.[p]
+#Senpai
 [yukino2 top=30 width=1500]
 *2
-「さ、歩こう。見て回ろう」[p]
+Come on, let’s walk and look around.[p]
 *3
 #
-先輩は再びいつもの姿に戻り、僕を振り向いて言った。[p]
+Senpai changes into her human form again and turns towards me.[p]
 *4
-#先輩
-「色々。話しながら」[p]
+#Senpai
+Let’s chat while we walk.[p]
 *5
 #
-僕たちは並んで歩き始めた。[p]
+And so, we start our final trip back home.[p]
 *6
-雨上がりのように、晴れやかで透明な気持ちで。[p]
+We start walking side by side, with a sunny and transparent feeling like the one after rain.[p]
 
 *7
-#先輩
-「私、人間じゃないんだよ」[p]
+#Senpai
+I’m not human.[p]
 *8
 #
-隣で歩いていた先輩が、不意にそう言った。[p]
+Walking next to me, she says suddenly.[p]
 *9
-#春也
-「まぁ、正直雨妖さんにそう言われたとき、納得したところもあります」[p]
+#Haruya
+Well, to be honest, when the Rain Ayakashi said that to me, I was convinced pretty quickly.[p]
 *10
-#先輩
-[yukino/8]「んん？　それってどうなのかなあ」[p]
+#Senpai
+[yukino/8]Hmm? I wonder what that means.[p]
 *11
 #
-先輩は笑い混じりに言った。[p]
+She says with a smile.[p]
 *12
-#先輩
-「今まで人間として暮らしてた人にさ、[r]　人間じゃなくて納得したってねえ」[p]
+#Senpai
+You’re saying that to someone who has been living like a human until now.[p]
 *13
-#春也
-「逆にしっくり来ましたけどね、先輩の場合。」[p]
+#Haruya
+On the contrary, it worked well in your case.[p]
 *14
-「それで、なんで人間のフリしてたんですか？　[r]　人のフリしてまでここで生活してたんですか」[p]
+Then why were you pretending to be a human? Did you live here posing as someone else?[p]
 *15
 #
 [anim name="yukino" top="+=15" time=500]
-んー、と先輩は考えるそぶりを見せた。それから答えてくれた。[p]
+“Hmm”, senpai has a thoughtful look. Then she answers me.[p]
 *16
-#先輩
-「外の世界にも出てみたかった、それに人にも興味があった」[p]
+#Senpai
+I wanted to go out into the world, and I was also interested in people.[p]
 *17
-#春也
-「それには、なにか理由とかは」[p]
+#Haruya
+Is there any reason for that?[p]
 *18
-#先輩
-[yukino/12][anim name="yukino" top="-=15" time=500]「私ね、これでもお嬢様なんだよ」[p]
+#Senpai
+[yukino/12][anim name="yukino" top="-=15" time=500]I’m a well-to-do young lady, after all.[p]
 *19
-#春也
-「え。……あー」[p]
+#Haruya
+Ah, eh...[p]
 *20
-#先輩
+#Senpai
 [kanim name="yukino" keyframe="left" time="500"]
-「なんだいその反応は」[p]
+What’s that reaction?[p]
 *21
-#春也
-「納得してます」[p]
+#Haruya
+It’s convincing.[p]
 *22
-#先輩
-[yukino/7]「しっくりは？」[p]
+#Senpai
+[yukino/7]Does it fit?[p]
 *23
-#春也
-「きてます」[p]
+#Haruya
+It does indeed.[p]
 *24
-#先輩
-「今日はなんでもしっくりきそうだね」[p]
+#Senpai
+To you, everything seems to fit today.[p]
 *25
-#春也
-「でもやっぱり腑に落ちますよ。[r]　常識はずれというか、常人じゃ思いつかないことばっかしてましたし。[r]　むしろそう聞いて安心しました」[p]
+#Haruya
+But that helps me understand. You had no common sense, or rather, you did things that ordinary people wouldn’t even think of. So, I was rather relieved to hear that.[p]
 *26
-#先輩
-「そんなに破天荒だったかな、私」[p]
+#Senpai
+I wonder if I was really that unconventional.[p]
 *27
-#春也
-「自分では上手くやってると思ってました？」[p]
+#Haruya
+Did you think you were pulling off well the whole human thing?[p]
 *28
-#先輩
-[yukino/8]「うーん？　初めは思ってたんだけどなあ」[p]
+#Senpai
+[yukino/8]Hmm? I thought so at first.[p]
 *29
-#春也
-「自分でもしっくり来てないじゃないですか」[p]
+#Haruya
+But now that attitude doesn’t feel right anymore, does it?[p]
 *30
-#先輩
-[yukino/7][kanim name="yukino" keyframe="nod3" time="250" count=2]「ふふ……そうそう。[r]　入学した頃は意気揚々としてたんだけど、段々人が寄り付かなくなってね」[p]
+#Senpai
+[yukino/7][kanim name="yukino" keyframe="nod3" time="250" count=2]Fufu... That’s right. I was in high spirits when I entered school, but people gradually stopped approaching me.[p]
 *31
-#春也
-「まあ人は選びそうですからね、先輩のあの感じ」[p]
+#Haruya
+Well, people choose who they want to be friends with...[p]
 *32
-#先輩
-[yukino/8]「この場合どっちだろう？」[p]
+#Senpai
+[yukino/8]Which one would it be in our case?[p]
 *33
-#春也
-「どっち？　というのは？」[p]
+#Haruya
+Which one? What do you mean?[p]
 *34
-#先輩
-[yukino/1]「人を選ぶというけれど。私が春也くんを選んだのか？[r]　春也くんが私を選んだのか？」[p]
+#Senpai
+[yukino/1]You say people choose others. Did I choose you? Or did you choose me?[p]
 *35
-#春也
-「僕としてはこっちが選んだとしか答えようない気もしますが」[p]
+#Haruya
+I feel like I can only answer that I chose.[p]
 *36
-#先輩
-[yukino/2]「おや？　嬉しいことを言ってくれるね」[p]
+#Senpai
+[yukino/2]Oh? You just said something nice, didn’t you?[p]
 *37
-#春也
-「だってそうですから」[p]
+#Haruya
+It’s the truth.[p]
 *38
-「部活勧誘の日。[r]　先輩と初めて会ったとき、僕はこの人についていきたいって思ったんですよ。[r]　きっとこの人は僕を遠いところに連れていってくれるって」[p]
+Back during the club members recruitment day, when I met you for the first time, I wanted to follow you. I was sure you’d take me to a faraway place.[p]
 *39
-#先輩
-[yukino/7]「その見込みは当たってた？」[p]
+#Senpai
+[yukino/7]And was that prediction correct?[p]
 *40
-#春也
-「いまこうしてることが答えですよ」[p]
+#Haruya
+Me being here now is the answer.[p]
 *41
-#先輩
-[yukino/10]「そうだね。……」[p]
+#Senpai
+[yukino/10]That’s right.[p]
 *42
-[yukino/11]「……いくつもの犠牲の上に、私はいまこうしている……」[p]
+[yukino/11]I, too, am here now after many sacrifices...[p]
 *43
 #
-平生の賑やかさを取り戻し始めていた僕たちの間に、沈黙が降りた。[p]
+Silence descends between us, who were beginning to regain their normal liveliness.[p]
 *44
-#春也
-「あれ、本当なんですね」[p]
+#Haruya
+That is the truth.[p]
 *45
-#先輩
-[yukino/3][kanim name="yukino" keyframe="nod" time="500"]「うん。……本来なら私はいま、どこにいてもならない存在なんだ」[p]
+#Senpai
+[yukino/3][kanim name="yukino" keyframe="nod" time="500"]Yeah... I’m an existence that shouldn’t be anywhere by now.[p]
 *46
-#春也
-「…………何も言えないというか。[r]　僕は人のこと断罪できるような立場にないので……」[p]
+#Haruya
+... I can’t say anything. I’m not able to condemn you...[p]
 *47
-「でも正直なところ、それでも先輩のこと、嫌いにはなれないし、[r]　憎めないんですよね。別にそうしようって気持ちはないんですけど。[r]　だから……」[p]
+To be honest, I still can’t dislike you, I can’t hate you no matter what you have done. I don’t want to. It may sound like I’m saying something out of line...[p]
 *48
-「すごく人の道に外れたことを言うようですけど……僕は今、[r]　最後に先輩と会えて嬉しいんですよ」[p]
+But I’m happy I can meet with you one last time.[p]
 *49
-#先輩
-[yukino/9]「最後？」[p]
+#Senpai
+[yukino/9]One last time?[p]
 *50
-#春也
-「はい。最後のつもりで来てます」[p]
+#Haruya
+Yes. I came here to do that.[p]
 *51
-「雨妖と対面してみて思ったんですが……たぶんあれよりすごいの、[r]　いっぱいいるんですよね」[p]
+When I met the Rain Ayakashi, I thought... Maybe there are ayakashi even more dreadful out there, and maybe there are lots of them.[p]
 *52
-#先輩
-[yukino/12]「そうだね。あれよりすごいの、いっぱいいるよ」[p]
+#Senpai
+[yukino/12]That’s right. There are many more powerful ayakashi, stronger than him.[p]
 *53
-#春也
-「ですよね。[r]　ゆくゆくはそれが全部、先輩を捕まえに来るかもしれないんですよね」[p]
+#Haruya
+I see... And all of them may come to get you.[p]
 *54
-#先輩
-「きっとね」[p]
+#Senpai
+Surely.[p]
 *55
-#春也
-「やっぱり最後なのかなって」[p]
+#Haruya
+So today might be our last time.[p]
 *56
-#先輩
-[yukino/10][kanim name="yukino" keyframe="nod" time="700"]「そうだね。うん。正しいよ。正解だ」[p]
+#Senpai
+[yukino/10][kanim name="yukino" keyframe="nod" time="700"]Yes, that’s all correct.[p]
 *57
-#春也
-「だから、今日会って、それで別れたらそれっきりか、」[p]
+#Haruya
+So, if we met today and said our farewells, that would be it...[p]
 *58
-「……あるいはもう、ずっと一緒にいることになるかと」[p]
+But, maybe, we can be together forever...[p]
 *59
-#先輩
-[yukino/12]「…………逃避行と行こうか？」[p]
+#Senpai
+[yukino/12]... Are you saying we should escape?[p]
 *60
-#春也
-「半分、そのつもりで」[p]
+#Haruya
+That’s sort of what I was thinking...[p]
 *61
-#先輩
-[yukino/10]「いいね。いいかもしれない。でも……」[p]
+#Senpai
+[yukino/10]I like the sound of it. That might be nice, but...[p]
 *62
 #
-そこで先輩は、ああ、と声を上げた。[r]振り向くと先輩は、空の月を見上げていた。[p]
+Then she raises her voice. When I turn around, she’s looking up at the moon in the sky.[p]
 [hide wait=false time=400][haruyahide time=400]
 [bg2 storage=moon.jpg wait=true time=1000 method=fadeInUp]
 *63
-#先輩
-「月が、きれいだ」[p]
+#Senpai
+The moon is beautiful.[p]
 *64
 #
-先輩の言うとおり、真っ暗な空に浮かんだ月が、[r]暗い夜の雲を照らしながら光を注いでいた。[r]それは空に空いた丸い穴のようにも見えた。[p]
+Just as she says, the moon floating in the pitch-black sky is pouring light while illuminating the clouds of the dark night. It looks like a round hole in the sky.[p]
 *65
-向こうにはどこか別の世界が広がっていて、[r]そこに満ちる光がこの地上に漏れ出ている。そういう穴。[p]
+There’s another world out there, and its light is leaking out onto the Earth. That’s the kind of hole the moon is.[p]
 *66
-#先輩
-「月の光って、どうしてこんなに寂しいんだろう」[p]
+#Senpai
+Why does the moonlight look so lonely?[p]
 *67
-#春也
-「たぶん、寂しいのは僕たちなんですよ」[p]
+#Haruya
+Maybe we’re the ones who are lonely.[p]
 *68
-#先輩
-「月明かりではなく？」[p]
+#Senpai
+Not the moonlight?[p]
 *69
-#春也
-「僕たちが」[p]
+#Haruya
+We’re all lonely...[p]
 *70
-「僕たちは、本当はみんな寂しくて……でも普段はそれに気づかずに、[r]　あるいは誰にも隠しながら生活していて」[p]
+But we usually don’t realize it or hide it from anyone as we live our lives.[p]
 *71
-「でも夜には月がそれを照らすんですよ。[r]　僕たちの中の寂しさを」[p]
+But at night the moon shines on it. On the loneliness inside us.[p]
 *72
-#先輩
-「春也くんは、寂しいって思ったこと、ある？」[p]
+#Senpai
+Haruya-kun, have you ever felt lonely?[p]
 *73
-#春也
-「最近はそんなにですけど。[r]　でもやっぱり夜には、そういう気分になることもあります」[p]
+#Haruya
+Recently, not so much. But I still get that feeling at night.[p]
 *74
-#先輩
-「そうか」[p]
+#Senpai
+I see.[p]
 *75
-#春也
-「先輩は」[p]
+#Haruya
+And you?[p]
 *76
-#先輩
-「寂しい」[p]
+#Senpai
+I do feel lonely.[p]
 #
 [bg2 storage ="ajisai_night.jpg" width=1600 left=-160 height=900 time=1000 method=fadeInDown]
 [haruya time=400][yukino11 top=30 width=1500 time=400]
 *77
-即答して、先輩は目を伏せた。[p]
+After answering immediately, she lowers her eyes.[p]
 *78
-#先輩
-[yukino/13]「寂しくていまにも体が崩れてしまいそうだ」[p]
+#Senpai
+[yukino/13]I’m lonely and I feel as though my body is going to collapse at any moment.[p]
 *79
-#春也
-「……僕に何かできることがあれば」[p]
+#Haruya
+If there’s anything I can do...[p]
 *80
 #
 [hide]
-先輩の腕が伸びてきた。[r]それは正面から僕の背に回り込み、抱え込むように抱きついた。[p]
+She outstretches her arms, wraps them around my back from the front and hugs me.[p]
 *81
-#先輩
-[yukino11 width=1400 top=30]「春也くんが欲しい」[p]
+#Senpai
+[yukino11 width=1400 top=30]I want to have you.[p]
 *82
-#春也
-「じゃ、先輩と交換しましょう」[p]
+#Haruya
+Then, I’ll exchange Haruya for senpai.[p]
 *83
-#先輩
-[yukino/7]「言うね」[p]
+#Senpai
+[yukino/7]You’ve said it now. No takebacks![p]
 *84
 #
-先輩はくすくす笑った。[p]
+She chuckles.[p]
 *85
-#先輩
-「ねえ春也くん。聞こえるかい」[p]
+#Senpai
+Hey, Haruya-kun. Can you hear?[p]
 *86
-#春也
-「何がですか」[p]
+#Haruya
+Hear what?[p]
 *87
-#先輩
-「そろそろ一雨来るみたいだ」[p]
+#Senpai
+It looks like it’s going to rain soon.[p]
 *88
 #
 [fadeoutbgm time=2500]
-不意にぱらりと雨粒が落ちた。[r]頭上を仰ぐと、先程払ったはずの雨雲が再び夜空を覆い始めていた。[p]
+Raindrops fall suddenly. When I look up, the rain clouds that should have cleared earlier are beginning to cover the night sky again.[p]
 *89
-ということは、今来ているのは。[p]
+Then, what’s coming now is...[p]
 [quake count=5 time=500 hmax=20 wait=false]
 *90
 #雨妖
-「貴様らァァッ！！」[p]
+You bastards!![p]
 *91
 #
 [playse storage=zabun.ogg]
-背後でざぱんと音がした。[r]耳をつんざく雨妖の声が上空から地面に叩きつけられる。[r]その地響きにあじさいがそよいだ。[p]
+I hear a crackle behind me. The deafening voice of the shark slams down from above onto the ground. The hydrangea sway in the roar of the earth.[r]その地響きにあじさいがそよいだ。[p]
 *92
-#春也
-「――！！」[p]
+#Haruya
+-!![p]
 *93
 #
-振り向こうとしたところを先輩の胸に抱え込まれる。[p]
+When I turn around, I’m held in senpai’s chest.[p]
 [mask time=300]
 [hide time=0][haruyahide time=0]
 [bg2 storage=black.png time=300]
 [mask_off time=300]
 *94
-#先輩
-「さけ」[p]
+#Senpai
+B☐☐☐☐.[p]
 *95
 #
-先輩が呟いた。さけとだけ一言呟いた。[p]
+She mutters something. Only one word, but I can’t understand it well.[p]
 [mask color=0xFFFFFF time=100]
 [mask_off time=10]
 [wait time=20]
@@ -316,81 +316,81 @@
 [mask_off]
 [wait time=500]
 *96
-断末魔。絞り上げるような苦痛の声。[r]相手が相手なのに嫌でも血の気が引いた。[p]
+The agony of death. A screaming voice in pain. Even though it comes from our enemy, his screams freeze my blood.[p]
 *97
-叫びの声が消え入るまでの音量やうねりやトーンの変遷が、[r]死の輪郭をありありと浮かび上がらせてくるようだった。[p]
+The changes in the volume and tone of his voice, until the screams faded away, seem to make the contours of death stand out vividly.[p]
 [playse storage=zabun.ogg]
 *98
-それから大量の水を地面にぶちまけるかのような音。[p]
+Then, a sound as if a large amount of water is being thrown on the ground.[p]
 *99
-#先輩
-「そうだ」[p]
+#Senpai
+It’s over.[p]
 *100
 #
-先輩が思い出したようにぽつりと漏らした。[p]
+Then she added, as if remembering.[p]
 *101
-#先輩
-「私、彼岸花も好きだった……」[p]
+#Senpai
+Looks like a red spider lily...[p]
 *102
-#春也
-「……」[p]
+#Haruya
+...[p]
 *103
 #
-さっき先輩が口にしたのは、『咲け』だったのか『裂け』だったのか。[p]
+Did she say “bloom”? Or maybe “break” or “burst”?[p]
 *104
-しかしいまとなってはどうでもいいことなのだろう。[p]
+The exact word doesn’t matter anymore.[p]
 [mask time=500]
 [yukino12 time=0 top=30 width=1500][haruya time=0]
 [bg2 storage ="ajisai_night2.jpg" width=1600 left=-160 height=900 time=500]
 [fadeinse storage=rain_kasa.ogg time=1000]
 [mask_off tme=500]
 *105
-#春也
-「彼岸花、心残りなんですか。最後に見たかったとか」[p]
+#Haruya
+A red spider lily... Do you have any more regrets? Do you want to see one for the last time?[p]
 *106
-#先輩
-[kanim name="yukino" keyframe="no" time="400"]「ううん。大丈夫。そんなこと言ってても仕方ないしね」[p]
+#Senpai
+[kanim name="yukino" keyframe="no" time="400"]Nope, it’s okay. Ignore what I said.[p]
 *107
-「それよりさっきの話の続きをしよう」[p]
+Rather, let’s continue what we were talking about earlier.[p]
 #
 [hide time=100][yukino12]
 *108
-体を離して先輩は言った。[p]
+She says, letting go of my body.[p]
 *109
-#春也
-「逃避行の話ですか？」[p]
+#Haruya
+Are you talking about escaping?[p]
 *110
-#先輩
-[yukino/7][kanim name="yukino" keyframe="nod" time="500"]「そうそう。逃避行とは言うけどね、私は逃げるつもりはない」[p]
+#Senpai
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]Yeah. Yeah, I’m calling it an escape, but I have no intention of running away.[p]
 *111
-#春也
-「向こうに従うんですか？　それとも戦うとか」[p]
+#Haruya
+Do you want to obey the orders? Or you want to fight?[p]
 *112
-#先輩
-「従うにしてもね。今深江のことを盛大にやってしまったからなぁ」[p]
+#Senpai
+It doesn’t matter even if I were to obey now. I’ve harmed Fukae way too much to be forgiven.[p]
 *113
 #
-深江というのは雨妖のことだ。[r]先輩は同胞を手にかけたことになる。[p]
+By Fukae, she refers to the Rain Ayakashi. She has laid a hand on her compatriot.[p]
 *114
-#先輩
+#Senpai
 [kanim name="yukino" keyframe="no" time="500"]
-「逃げる逃げないじゃなくて、そもそも逃げられないんだよ」[p]
+It’s not that we won’t run away, it’s that we can’t run away in the first place.[p]
 *114a
-「私たちはまず捕まるし、抵抗したとて勝ち目もない。[r]　そして捕まれば殺される」[p]
+We’ll be caught, and even if we resist, we have no chance of winning. And when we’re caught, we’ll be killed.[p]
 *115
-「どうしようもないんだよ」[p]
+These are all our options.[p]
 *116
-#春也
-「手詰まりですか」[p]
+#Haruya
+Are we at a dead end?[p]
 *117
-#先輩
-「お手上げなのさ」[p]
+#Senpai
+I... Don’t know what to do.[p]
 *118
-#春也
-「……じゃあどうしましょうか。僕は先輩に着いていきますよ」[p]
+#Haruya
+Then what should I do? I’ll follow you.[p]
 *119
-#先輩
-[kanim name="yukino" keyframe="nod" time="700"]「ありがとう。それじゃ、そうだね」[p]
+#Senpai
+[kanim name="yukino" keyframe="nod" time="700"]Thank you... Let’s see...[p]
 #
 [fadeoutse time=900]
 [mask time=300]
@@ -398,12 +398,12 @@
 [bg2 storage=black.png time=100]
 [mask_off time=300]
 *120
-先輩の姿が異形に転じてゆく。[r]そして再び僕を抱えて、空へ飛び立った。[p]
+She changes her appearance, into her ayakashi form. Then she picks me up again and take to the sky.[p]
 [mhide time=100]
 [bg2 storage ="moon.jpg" time=1000 cross=true wait=true method="vanishIn"]
 [mshow time=400][wait time=500]
 *121
-月が眼前に迫る。その向こうが覗けそうなほどに。[p]
+The moon looms over us. It’s so close that you can see the other side.[p]
 [mask time=1000]
 [bg2 storage ="entrance2.jpg" time=2000 wait=true]
 [fadeinse storage=rain5.ogg time=2000 loop=true]
