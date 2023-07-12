@@ -19,252 +19,252 @@
 
 *scene10
 #
-僕たちは学校に降り立つ。[r]平生目にしている風景が、夜のとばりの内側では全く異質なものに見える。[p]
+We arrive at our school. The scenery that I normally see looks completely different within the darkness of the night.[p]
 *1
-部室の窓へ近づくと、先輩はその表面を指先で撫でた。[r]それから窓を引いた。するとするりと開いた。[r]一連の動作は儀式のように自然で流暢だった。[p]
+When we approach the window of the clubroom, senpai strokes its surface with her fingertips. Then, I pull the window and it opens smoothly. The series of movements are natural and fluent, like a ritual.[p]
 *2
-#春也
-「戸締まり、意味ないですね」[p]
+#Haruya
+Even a locked door is ineffective before you.[p]
 *3
-#先輩
-「貝の殻を開くようなものさ」[p]
+#Senpai
+It’s like opening the shell of a clam.[p]
 *4
 #
-その表現が僕の胸中で尾を引いた。[p]
+That expression gets stuck in my mind.[p]
 *5
-殻をこじ開けられた貝と、それから先輩のしてきたことが脳裏に浮かんだ。[r]例の連続殺人事件に、完全密室での犯行はあっただろうか？[p]
+Through the clams having their shells open, the things she has done come to mind. Was there ever a crime done in a completely closed room in the nationwide murder case?[p]
 *6
-#先輩
-「暗いから。気をつけて」[p]
+#Senpai
+Careful, it’s dark.[p]
 *7
 #
-僕たちは特にそうと決めたわけでもなく、[r]自然な流れで部室の中へ入り始めた。[p]
+We enter the clubroom spontaneously, without having decided to do so beforehand.[p]
 [fadeoutse time=2500]
 [bg2 storage ="busiturain2.jpg" time=1000 cross=true wait=true method="bounceInUp"]
 *8
-僕は窓の縁を両手につかむと、窓枠に足をかけて乗り越えた。[r]土足の足の裏がフローリングの床に着く。[p]
+I grab the edge of the window with both hands and put my foot on the window frame to climb over. The soles of my shoes touch the wooden floor.[p]
 *9
-それから脇によけて振り返り、[r]先輩がふわりと蝶のように舞い込んでくるのを見届けた。[p]
+After that, I step aside and turn around to see her fluttering in like a butterfly.[p]
 *10
-先輩が入ってきたことで、室内に外の空気が吹き込み、[r]中にこもっていた闇がその輪郭を揺るがせた。[p]
+When she enters the room, the outside air blows in, and the darkness inside blends with it.[p]
 *11
-今や窓から侵入するだけでも、僕たちにはこれほどの差が生まれる。[p]
+Even breaking in through a window now makes such a difference.[p]
 *12
-#春也
-「電気、点けますか」[p]
+#Haruya
+Should we turn on the light?[p]
 *13
 #
-窓を閉めつつ僕は訊ねた。[p]
+I ask, closing the window.[p]
 *14
-#先輩
-「いや、いいよ。灯りが漏れてると面倒だから」[p]
+#Senpai
+It’s better if we don’t. It’ll be troublesome if the light can be seen from the outside.[p]
 *15
 #
-窓の鍵を下ろしながら先輩は答えた。[r]……僕たちの動作はみな歯車のように噛み合っていた。[p]
+She replies, while lowering the key to close window.[p]
 *16
-きっと僕が一言喋れば、[r]すぐに先輩がその続きを声に出してさえくれそうな[r]……そんな一体感が僕たちを包んでいた。[p]
+Our movements blend together seamlessly, like gears on a machine. I’m sure that if I were to start a sentence, she would immediately be able to say the rest of it...[p]
 *17
-闇の中で僕たちは相対する。[r]先輩の姿は真っ暗な部室の中で、妖しい光を発していた。[p]
+This is the sort of sense of unity that envelops us. We face each other in the dark. In the pitch-black clubroom, senpai’s figure is emitting a mysterious light.[p]
 *18
-#先輩
-「不思議だね」[p]
+#Senpai
+It’s strange.[p]
 *19
-#春也
-「なにがですか」[p]
+#Haruya
+What is?[p]
 *20
-#先輩
-「私たち、いま夜の学校に忍び込んでるんだよね。[r]　少しはわくわくしてもよさそうなのに、[r]　むしろ自分でも不思議なくらい落ち着いている」[p]
+#Senpai
+Well, we’re sneaking into school at night right now. I think it’d be normal to get a little excited, but I’m strangely calm.[p]
 *21
-#春也
-「なにを今更ってことじゃないですか？」[p]
+#Haruya
+What are you talking about now?[p]
 *22
-「雨を晴らして空を飛んで化け鮫を殺して。[r]　その後で夜の校舎に忍び込んだところで……って感じですけど」[p]
+First, you made the rain clear, we flew into the sky, you killed the shark. Only after all that did we sneak into the school at night.[p]
 *23
-#先輩
-「なるほどね……結構な大冒険をしてきたんだね」[p]
+#Senpai
+True... This has been quite the big adventure.[p]
 *24
-#春也
-「まあ、[r]　こうやって部室にふたりでいるのに慣れすぎてるからかもしれませんけど」[p]
+#Haruya
+Well, maybe we don’t feel it that much because we’re too used to being together in the clubroom like this.[p]
 *25
-#先輩
-「そうかもしれない」[p]
+#Senpai
+Might be that.[p]
 *26
-「ああ……この部屋は私たちの時間であふれているんだね。[r]　そしていまこの瞬間へと繋がっている」[p]
+Ah... This room, overflowing with our time spent together, is now connected to this moment as well.[p]
 *27
 #
-この部屋に満ちるもの。[p]
-*28
-闇と梅雨の熱気。[p]
+The clubroom is filled with darkness and the heat of the rainy season.[p]
 *29
-僕たちは闇の中で見つめ合った。[r]闇が僕たちの体を包んでいた。[p]
+We stare at each other in the dark.[p]
 *29a
-僕たちの体は闇に溶け、その闇は僕たちの内側にまで連々と続いていた。[p]
+The darkness envelops us. Our bodies melt into the darkness, and the darkness stretches into us.[p]
 *30
-窓からかすかな月明かりが部屋に染み出していた。[p]
+A faint ray of moonlight seeps into the room through the window.[p]
 *31
-先輩の手により引きずり出されながら、[r]少しずつ冷たい雨雲に埋もれていき、[r]いずれは消える月の光だった。[p]
+As she grabs my hand, the light of the moon slowly disappears buried by the cold rain clouds.[p]
 [yukinoA]
 *32
-先輩が一歩踏み出す。僕は動かない。[p]
+She takes a step forward. I don’t move.[p]
 *33
-すると先輩は僕の体を、正面から壁に向かってすいと押し始めた。[r]僕も逆らわず壁に向かって後退する。[p]
+From the front, she then pushes my body towards the wall. I retreat towards the wall without resisting.[p]
 [hide time=100][yukinoA width=1600 top=-20]
 *34
-先輩の力の向きに従っている内に、僕は壁に背をもたせかけた状態で、[r]先輩に上から覆い被さられていた。[p]
+While following the direction of her strength, I end up leaning against the wall, covered from above by senpai.[p]
 *35
-#先輩
-「体がもたないんだ」[p]
+#Senpai
+This body doesn’t have enough strength to hold on anymore.[p]
 *36
 #
-先輩は僕の耳もとに口を近づけ、囁いた。[r]肉薄した空気の震えが僕の脳を撫でる。くすぐったい。[p]
+She brings her mouth close to my ear and whispers. The trembling of the thin air is like a caress. It’s ticklish.[p]
 *37
-#先輩
-「ね。……わかるだろう？」[p]
+#Senpai
+Do you understand...?[p]
 *38
-#春也
-「もたないから食べるんですか？」[p]
+#Haruya
+So, you want to eat to make it last longer?[p]
 *39
-#先輩
-「馬鹿」[p]
+#Senpai
+You fool.[p]
 *40
 #
-先輩がくすっと笑う。[p]
+She chuckles.[p]
 *41
-#先輩
-「わかるだろ？」[p]
+#Senpai
+Do you understand?[p]
 *42
-#春也
-「わかりますよ」[p]
+#Haruya
+I do.[p]
 *43
-#先輩
-「もう、いいよね」[p]
+#Senpai
+Now it’s enough...[p]
 *44
 #
-僕は何も言わなかった。答える必要がなかった。[p]
+I say nothing. I don’t have to answer.[p]
 *45
-……言葉は誰かと通じるためにあるけれど、仲が深まれば深まるほど、[r]むしろ言葉はいらなくなる……そういう境地がある。[p]
+Words exist to communicate with others, but when your relationship with someone is deep, you need less words. This is our case too.[p]
 *46
-臨界。特異点。――僕らの文芸部室。[p]
+A critical place. A singularity. ―― Our literature clubroom.[p]
 *47
-わずかに空気が乱れた。[r]先輩の体温を含んだ吐息が首筋を流れて伝っていく。[r]たぶん言葉になり損なった吐息だった。[p]
+The air is slightly disturbed. Her warm breath flows down my neck. It’s probably an unspoken sigh.[p]
 [fadeinse storage=rain5r.ogg time=2000]
 *48
-外では雨がさあさあと柔らかなノイズのように降り続いている。[r]沈黙の音だ。[p]
+Outside, the rain continues to fall like a soft noise. It’s the sound of silence.[p]
 *49
-先輩が耳に口を近づけた。[r]頬に触れる髪の感触がくすぐったい。[p]
+She brings her mouth close to my ear. The touch of my hair on my cheek is ticklish.[p]
 *49a
-僕たちはしばし顔を寄せ合ったまま、[r]互いの耳元に互いの息遣いを聞いた。[p]
+We keep our faces together for a while, listening to each other’s breathing.[p]
 [mask time=300]
 [hide time=0]
 [bg2 storage=black.png time=300]
 [mask_off time=300]
 *50
-いま、月が雲に呑まれた。[r]月の光が失われ、狭い部屋があふれんばかりの暗闇に閉ざされる。[p]
+Now the moon is swallowed by clouds. The moonlight is gone, and the narrow room is overflowing with darkness.[p]
 *51
-固いものが耳に触れた。[r]耳の上端、軟骨でできたその内側。[p]
+Something hard touches the upper edge of my ear, the inside of which is made of cartilage.[p]
 *52
-闇の中で鋭敏になった触覚が、いま耳元へ全神経を研ぎ澄ます。[p]
+My tactile sense, that has become sharp in the darkness, now sharpens further all the nerves of the ear.[p]
 *53
-耳の裏にもうひとつ、固い感触を感じる。[r]じきに圧力が薄い耳に加わり、はらりとほどけていくのを感じた。[p]
+I can feel a solid touch behind my ear. Soon, the pressure loosens up.[p]
 *54
-体の端が崩れて、そのまま気化していくみたいだ。[r]その感覚に僕は思う。[p]
+The seams of my body might just collapse and vaporize. That’s how I feel.[p]
 *55
-誰も気付きはしないだけで、[r]本当は体なんて重くて仕方がないのかもしれない。[p]
+Usually we don’t notice, but our bodies are truly heavy and there’s nothing we can do about that.[p]
 *56
-体があれば地上どこへだって行ける。[r]工夫すれば空も飛べるし海の深くだって潜れる。[p]
+If you have a body, you can go anywhere on earth. With some ingenuity, you can fly in the sky and dive deep in the sea.[p]
 *57
-でも体がなければもっと遠くへ行ける。[p]
+But without a body, you can go even farther.[p]
 *58
-……そんなことを考えていたけれど、ふと僕の体の上に重みが加わった。[p]
+As I was thinking all that, a weight was suddenly added to my body.[p]
 *59
-それには体温があって、やっぱり息をしていた。[p]
+It has body heat and is breathing.[p]
 *60
-体は重くて正解なんだな、と僕は思った。[p]
+“The body is indeed heavy, and rightfully so”, I think.[p]
 *61
-#先輩
-「痛い？」[p]
+#Senpai
+Is it painful?[p]
 *62
-#春也
-「いいえ。全然」[p]
+#Haruya
+No. Not at all.[p]
 *63
 #
-僕たちには肉体があって。[p]
+We all have a body.[p]
 *63a
-だからきっと僕たちは、心や痛みやお互いを感じられるのだけど、[r]だけど僕たちはその肉体のせいで、永遠に誰かとひとつにはなれないのだ。[p]
+I’m sure that’s why we can feel each other’s hearts and pain.[p]
+*63c
+But, because of that very body, we can never be one with someone.
 *64
-生まれたとき僕たちはひとつの個体になって、個人になって、[r]どこまでもひとりで生きていく……[p]
+When we are born, we become a single individual, and we live alone forever...[p]
 *65
-この生温かく湿った暗闇の中で、そういった仕切りや壁は溶解していく。[r]ちょうど影と影が溶け合うように、僕たちの境界は曖昧になっていく。[p]
+In this lukewarm, damp darkness, those walls dissolve. Just like shadows blending together, our boundaries become ambiguous.[p]
 *66
-どこからどこまでが僕で、先輩で、この部屋に満ちる闇なのか？[p]
+Where does it end for me, senpai, and the darkness that fills this room?[p]
 *67
-体がふわふわしてくる。まるで温かな水の中にいるみたいだ。[p]
+My body is floating. It’s like being in warm water.[p]
 *68
-頭に血が上っているのか、意識が朦朧としているのか[r]……それとも魂みたいなものが抜け出ようとしているのか？[p]
+Is my blood rushing to my head, is my consciousness hazy... Or is maybe my soul trying to escape?[p]
 *69
-……なんでもいい。[r]とりあえず僕は僕だし、僕はここにいる。[p]
+... Anything is fine. For now, I am me and I am here.[p]
 *70
-いまのところは。[p]
+For now.[p]
 *71
-#春也
-「先輩。いま、そこにいますか」[p]
+#Haruya
+Senpai. Are you here?[p]
 *72
 #
-上半身をもたげた先輩に、僕は訊ねた。[r]触れてみたくて先輩に腕をのばした。[r]その手は先輩の頬に触れた。[p]
+When I ask, she raises her upper body. With a desire to touch her, I stretch out my arm toward her. My hand touches her cheek.[p]
 *73
-#先輩
-「いるよ」[p]
+#Senpai
+I am.[p]
 *74
 #
-耳になじんだ声がした。[r]先輩は僕の手をとって握ると、どこかに押し当てた。[p]
+She says with her familiar voice. Senpai takes my hand and shakes it, redirecting it somewhere.[p]
 *75
-拍動していた。温かい血の巡りが手のひらに伝わってくる。[p]
+It’s pulsating. Warm blood circulates through her palm.[p]
 *76
-#春也
-「いつまでここにいますか」[p]
+#Haruya
+How long will you be here?[p]
 *77
-#先輩
-「いつまでだっているさ。春也くんは？」[p]
+#Senpai
+I’ll be here forever. What about you?[p]
 *78
-#春也
-「いますよ。最後まで」[p]
+#Haruya
+I’ll stay here. Until the end.[p]
 *79
 #
-また先輩が顔を寄せた。[r]先輩の背に腕を回しながら、僕はその耳元に囁いた。[p]
+She approaches me again. I whisper in her ear as I wrap my arms around her back.[p]
 *80
-#春也
-「先輩」[p]
+#Haruya
+Senpai.[p]
 *81
-#先輩
-「！　……なに？」[p]
+#Senpai
+! ... What?[p]
 *82
 #
 [M1]
 [bg2 storage=Blast.jpg time=1000]
 [eval exp="sf.ST7=1"]
-#春也
-「好きです」[p]
+#Haruya
+I like you.[p]
 *83
 #
-……！[p]
+...![p]
 
 *84
-…………[p]
+........[p]
 
 *85
-うん。ありがとう。[l]
+Thank you.[l]
 *86
-すごく嬉しい。嬉しいなぁ……[p]
+I’m very happy. I’m so, so happy...[p]
 
 *87
-…………[p]
+........[p]
 
 *88
-私も。[l]
+Me too. [l]
 *89
-好きだよ。[p]
+I love you.[p]
 *90
-――何もかも。[l]君の味も。[p]
+―― I love everything.[l] Your taste too.[p]
 [fadeoutse time=2000]
 [mask time=1500]
 [iscript]
@@ -276,11 +276,11 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [bg2 storage=black.png time=1000]
 [mask_off time=500]
 [if exp="sf._system_config_bgm_volume>=1&&sf.SM3!=1"]
-[movie storage="amehazuED_B2.webm" skip=false volume="&sf.current_bgm_vol"]
+[movie storage="amehazuED_B2en.webm" skip=false volume="&sf.current_bgm_vol"]
 [elsif exp="sf._system_config_bgm_volume>=1&&sf.SM3==1"]
-[movie storage="amehazuED_B2.webm" skip=true volume="&sf.current_bgm_vol"]
+[movie storage="amehazuED_B2en.webm" skip=true volume="&sf.current_bgm_vol"]
 [else]
-[movie storage="amehazuED_B2.webm" skip=true volume=0]
+[movie storage="amehazuED_B2en.webm" skip=true volume=0]
 [endif]
 
 [mask time=500]
