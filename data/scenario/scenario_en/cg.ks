@@ -125,12 +125,12 @@
     <div class='content3'>
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title_en">Absent in the Spring Rain</div>
+        <div id="bgm1" class="m_title_en">Absent in the Rain</div>
         <div id="bgm2" class="m_title_en">Daily conversation</div>
         <div id="bgm3" class="m_title_en">Hydrangea garden</div>
         <div id="bgm4" class="m_title_en">Rain Monster</div>
         <div id="bgm5" class="m_title_en">My senpai</div>
-        <div id="bgm6" class="m_title_en">Absent in the Spring Rain Opver.</div>
+        <div id="bgm6" class="m_title_en">Absent in the Rain OPver.</div>
         <div id="bgm7" class="m_title_en">The light outside</div>
         <div id="bgm8" class="m_title_en">Into the heart</div>
       </div>
