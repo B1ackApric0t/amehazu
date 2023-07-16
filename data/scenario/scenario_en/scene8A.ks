@@ -288,7 +288,7 @@ I can’t hurt her. However, I don’t really have a clue what to say...[p]
 [yukino/13]Sorry, Haruya-kun.[p]
 *88
 #
-She speaks up first. I'm taken aback. I thought she was waiting for me to say something.[p]
+She speaks up first. I’m taken aback. I thought she was waiting for me to say something.[p]
 *89
 #Senpai
 [yukino/3]I know I should have told you first, and I’m sure there are many things you want to ask me.[p]
@@ -586,7 +586,7 @@ I’m returning this. I can’t take this filthy thing home with me.[p]
 #
 [playse storage=basa.ogg buf=1]
 *179
-Saying that, he spits out the umbrella I was holding when we were at my home. It's thrown open, and bounces on the ground.[p]
+Saying that, he spits out the umbrella I was holding when we were at my home. It’s thrown open, and bounces on the ground.[p]
 [trans_out layer="2" time=1000 method="fadeOutDown"]
 [freeimage layer="2" time=0 page=back]
 *180

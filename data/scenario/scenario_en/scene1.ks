@@ -220,7 +220,6 @@ Yes... See you tomorrow.[p]
 I let out a sigh while looking at her back getting smaller in the distance.[p]
 *66
 See you...[p] 
-;again... のほうが良さそう
 *67
 While I was hesitating whether to speak up or not, I missed my timing and the moment flowed away.[p]
 *68

@@ -26,7 +26,7 @@ When I turn around to look at her, she gently hugs me.[p]
 *2
 Surprised and confused, I hug her back.[p]
 *3
-Both of us are soaking wet, and that's why her warmth is transmitted to my skin.[p]
+Both of us are soaking wet, and that’s why her warmth is transmitted to my skin.[p]
 [yukino1 width=1400 top=30]
 *4
 #Senpai
@@ -47,12 +47,12 @@ Yes. Me too.[p]
 [yukino/7][kanim name="yukino" keyframe="nod" time="500"]Yes.[p]
 *9
 #Haruya
-I'm glad. Senpai...[p]
+I’m glad. Senpai...[p]
 #
 [hide time=100]
 [yukino7 width=1000 top=50 wait=false]
 *10
-We've been doing that for a while now. Then we separate and look at each other.[p]
+We’ve been doing that for a while now. Then we separate and look at each other.[p]
 *11
 #Senpai
 We’re soaking wet...[p]
@@ -76,7 +76,7 @@ Whatever you decide, I’ll be with you.[p]
 [yukino/2]Of course. Because you’re my kouhai.[p]
 *18
 #
-This is right. That's exactly it.[p]
+This is right. That’s exactly it.[p]
 *19
 This amount of distance is just right for our relationship.[p]
 *20
@@ -96,13 +96,13 @@ And that would be a problem.[p]
 My drenched senpai comes under the umbrella I’m holding up, and she says:[p]
 *24
 #Senpai
-[yukino/2]Let's go home together. Under a shared umbrella.[p]
+[yukino/2]Let’s go home together. Under a shared umbrella.[p]
 *25
 #Haruya
-Yes, let's do that.[p]
+Yes, let’s do that.[p]
 *26
 #
-Also soaking wet, that's my reply.[p]
+Also soaking wet, that’s my reply.[p]
 [hide time=200][yukinoA time=1000]
 *27
 She changes her appearance into her ayakashi form. Lightly hugging me, her red wings glitter in the dark.[p]
@@ -119,7 +119,7 @@ Red wings melt into the darkness. We take off to the sky and, after a short nigh
 *29
 We’re at our high school, in front of the already closed school gate.[p]
 *30
-We're about to return from this journey that seemed long even though it was fleeting.[p]
+We’re about to return from this journey that seemed long even though it was fleeting.[p]
 [yukino1 width=1400 top=30]
 *31
 #Senpai
@@ -131,7 +131,7 @@ Through the dark, she looks at the school building from the school gate. I sit n
 She’s graduating, I realize.[p]
 *34
 #Senpai
-[yukino/7]... Sorry. I made you wait. Let's go.[p]
+[yukino/7]... Sorry. I made you wait. Let’s go.[p]
 #
 [haruya]
 *35
@@ -168,14 +168,14 @@ How was it? High school life.[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *42
 #Senpai
-Hmm... I have a lot of regrets, but looking back, I think it wasn't bad.[p]
+Hmm... I have a lot of regrets, but looking back, I think it wasn’t bad.[p]
 *43
 #Haruya
 Do you have a favorite event?[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *44
 #Senpai
-I do! Cultural and sports festivals are really good! They're lively, and just being there is a lot of fun.[p]
+I do! Cultural and sports festivals are really good! They’re lively, and just being there is a lot of fun.[p]
 *45
 #Haruya
 Can you do sports?[p]
@@ -192,7 +192,7 @@ Oh... This is kind of unfair.[p]
 My body is a pretty short-lived one, so forgive me for that. [r]What about you?[p]
 *49
 #Haruya
-Not really. I'm an indoor person.[p]
+Not really. I’m an indoor person.[p]
 *50
 #Senpai
 I was also an indoor ayakashi.[p]
@@ -216,25 +216,25 @@ It’d be pointless to argue about the pros and cons of that, it simply doesn’
 #Haruya
 I don’t think I have the right to meddle with your family matters, but...[p]
 *59
-It's not that you’re lacking, it’s just not fitting for you.[p]
+It’s not that you’re lacking, it’s just not fitting for you.[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *60
-That's why you came here, and there must be others who like this kind of curiosity and courage as well.[p]
+That’s why you came here, and there must be others who like this kind of curiosity and courage as well.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *61
 #Senpai
 Your words aren’t too convincing.[p]
 *62
 #Haruya
-Don't get carried away.[p]
+Don’t get carried away.[p]
 *63
 #Senpai
 Can’t I?[p]
 *64
 #Haruya
-Actually, I don't really mind... As I was saying, I'm sure there are people in your world who can appreciate and accept you.[p]
+Actually, I don’t really mind... As I was saying, I’m sure there are people in your world who can appreciate and accept you.[p]
 *65
-Although I don't know much about that world, so I'm sorry if I said something off the mark...[p]
+Although I don’t know much about that world, so I’m sorry if I said something off the mark...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *66
 #Senpai
@@ -248,7 +248,7 @@ I want to find a better way to live... What about you?[p]
 What kind of life will you live after I leave?[p]
 *70
 #Haruya
-That... Well, I can't imagine.[p]
+That... Well, I can’t imagine.[p]
 *71
 Will I still participate in the club even if you’re gone? I think I’ll be bored.[p]
 *72
@@ -264,7 +264,7 @@ Right...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *76
 #Senpai
-And that's why the present is the most important to me.[p]
+And that’s why the present is the most important to me.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *78
 Hey, Haruya-kun.[p]
@@ -296,10 +296,10 @@ What’s with that reaction...[p]
 Nothing, nothing! It’s just… It’s such an amazing feeling... Fufu...[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *88
-I wish you would have called me by name sooner. It's embarrassing though, so maybe not.[p]
+I wish you would have called me by name sooner. It’s embarrassing though, so maybe not.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *89
-Or rather, Haruya-kun, you don’t have what it takes. I'm your senpai, so I can tell.[p]
+Or rather, Haruya-kun, you don’t have what it takes. I’m your senpai, so I can tell.[p]
 *90
 You wouldn’t be able to keep it up for even an hour. You can only hold back the embarrassment now because I’m about to leave.[p]
 *91
@@ -312,7 +312,7 @@ Yukino-san.[p]
 Yes, yes?[p]
 *94
 #Haruya
-Please don't leave...[p]
+Please don’t leave...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *95
 #Senpai
@@ -321,7 +321,7 @@ Please don't leave...[p]
 #Haruya
 ...[p]
 *97
-I'm sorry. I'm being selfish. Please forget it.[p]
+I’m sorry. I’m being selfish. Please forget it.[p]
 *98
 #Senpai
 ...No, I won’t. I will never forget you said that.[p]
@@ -371,7 +371,7 @@ Senpai.[p]
 Can we meet again?[p]
 *115
 #Senpai
-I want to, but I can't say more than that.[p]
+I want to, but I can’t say more than that.[p]
 *116
 #Haruya
 Is that so...[p]
@@ -387,10 +387,10 @@ Perhaps I’ll come again on a rainy day.[p]
 On rainy day? I was under the impression that happy things like reunions happen on sunny days.[p]
 *120
 #Senpai
-It's fine if it's sunny, but we’re parting ways on a rainy day, so we should meet again on a rainy day too, as the continuation of today.[p]
+It’s fine if it’s sunny, but we’re parting ways on a rainy day, so we should meet again on a rainy day too, as the continuation of today.[p]
 *121
 #Haruya
-Oh... That's nice. We’ll meet again.[p]
+Oh... That’s nice. We’ll meet again.[p]
 *122
 #Senpai
 Meet again... Maybe one day, far into the future. Our relationship will continue forever though, and that is for sure.[p]
@@ -402,7 +402,7 @@ Hmm... Then I should remember to bring an umbrella.[p]
 *125
 No need. It’s okay if you forget your umbrella again.[p]
 *126
-Because I'll definitely bring one to pick you up...[p]
+Because I’ll definitely bring one to pick you up...[p]
 #
 [fadeoutbgm time=1500]
 [fadeinse storage=rain_kasa.ogg loop=true time=800]

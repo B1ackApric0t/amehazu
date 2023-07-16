@@ -275,9 +275,9 @@ I open the front door with a trembling hand, to my surprise.[p]
 ...Senpai...?[p]
 *81
 #
-There’s something unhuman standing there. Yes, it could never be human, but it's too beautiful to be called a monster.[p]
+There’s something unhuman standing there. Yes, it could never be human, but it’s too beautiful to be called a monster.[p]
 *82
-It's a one-of-a-kind existence that seems to have nothing similar to the beings of this world.[p]
+It’s a one-of-a-kind existence that seems to have nothing similar to the beings of this world.[p]
 *83
 #Haruya
 Senpai... That’s you, right?[p]
@@ -288,7 +288,7 @@ Yes, it’s me. Nice to meet you. Yukino Akabane has changed into the Winged Aya
 #
 Her long white hair flutters in the night breeze, just like the flow of a silvery river. Red butterfly-like wings spread out behind her slender, jet-black body.[p]
 *85A
-And most of all, what catches my eye most is that she's a figure without a face.[p]
+And most of all, what catches my eye most is that she’s a figure without a face.[p]
 *86
 When I stare at her for a while, she smiles as if embarrassed.[p]
 *87
@@ -382,7 +382,7 @@ Special.[p]
 *115
 I reply by reflex. Surprised at myself, I break into cold sweat.[p]
 *116
-Although I'd usually take it back right away, that’s not the case now.[p]
+Although I’d usually take it back right away, that’s not the case now.[p]
 *117
 I gently take her hand that’s resting on my cheek to my chest, and I put my other hand on top of hers. I looked up at the senpai’s faceless face, and say again:[p]
 *118
@@ -435,7 +435,7 @@ Yes… I mean, no! It’s not “beautiful” as in, for people, it’s like the
 I get it. But you don’t have to be so embarrassed. It’s a moonlit night’s rendezvous.[p]
 *134
 #Haruya
-We don't have time for that now...[p]
+We don’t have time for that now...[p]
 *135
 #Senpai
 I know. Let’s talk calmly later... But, I’m only me. I came because I was happy to be called.[p]

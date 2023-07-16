@@ -30,7 +30,7 @@ A grey sky peeks through the window.[p]
 *4
 It’s the first time she hasn’t come to club activity.[p]
 *5
-The literature club is very laid-back. Rather than a club activity, it’d be more correct to call it an after-school hangout, and that's exactly why I’m worried about her.[p]
+The literature club is very laid-back. Rather than a club activity, it’d be more correct to call it an after-school hangout, and that’s exactly why I’m worried about her.[p]
 *6
 *7
 I wonder if she has come to school.[p]
@@ -109,7 +109,7 @@ Something pops in my ear. When I cautiously touch my ear, my fingertips are wet.
 *32
 What has just happened?[p]
 *33
-Fear like never before overcomes me. I feel like I’ve been touched by something I shouldn't have knowledge of, by something I should have never heard.[p]
+Fear like never before overcomes me. I feel like I’ve been touched by something I shouldn’t have knowledge of, by something I should have never heard.[p]
 *34
 How come I keep meeting things like these? I don’t understand.[p]
 *35

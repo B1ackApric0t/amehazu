@@ -124,7 +124,7 @@ Well then, that’s it.[p]
 President.[p]
 *32
 #
-I involuntarily call out to the president when she's about to leave the club room.[p]
+I involuntarily call out to the president when she’s about to leave the club room.[p]
 [bucho storage="bucho/buchocn1.png"]
 *33
 #Club President

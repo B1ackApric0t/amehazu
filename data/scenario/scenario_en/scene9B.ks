@@ -59,7 +59,7 @@ She replies with a smile.[p]
 You’re saying that to someone who has been living like a human until now, you know.[p]
 *13
 #Haruya
-It didn't really work out well, though.[p]
+It didn’t really work out well, though.[p]
 *14
 Then, why were you pretending to be a human? Did you live here posing as someone else?[p]
 *15

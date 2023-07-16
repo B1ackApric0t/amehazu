@@ -32,7 +32,7 @@ It’s strange.[p]
 Doesn’t the scenery you see from the bus window look completely different from usual? Look at this city, too.[p]
 *3
 #
-A rainy city flows outside the window. She's looking deeply at the window dripping with water of the bus.[p]
+A rainy city flows outside the window. She’s looking deeply at the window dripping with water of the bus.[p]
 *4
 #Haruya
 [hmod]The fact that you came in uniform is more strange to me than anything else.[p]
@@ -164,10 +164,10 @@ If anything, my image of senpai is that of a person capable of being free and ch
 Er...?[p]
 *46
 #
-It's like I both understand and don’t.[p]
+It’s like I both understand and don’t.[p]
 *47
 #Senpai
-[yukino/7]However, I'm relieved when you’re here. I can clearly see that I can go back.[p]
+[yukino/7]However, I’m relieved when you’re here. I can clearly see that I can go back.[p]
 *48
 #
 I feel like I’ve been told something really outrageous. I wait patiently for her words.[p]
