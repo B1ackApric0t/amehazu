@@ -21,17 +21,17 @@
 #
 Since then, the damage caused by the murder case has come to a sudden stop.[p]
 *1
-According to police investigations, the victims all had criminal records, had bad behavior, or were in trouble with someone on the day they were killed.[p]
+According to the police investigation, the victims all had criminal records, had bad behavior, or were in trouble with someone on the day they were killed.[p]
 *2
 For the time being, the police are investigating the murders under the assumption they were work of someone acting like a vigilante.[p]
 *3
 I’m not going to say anything about this. It’s a fair assessment of the perpetrator.[p]
 *4
-Everything that left a trace of the senior has disappeared. It disappeared as if she had never existed.[p]
+Everything that left a trace of her has disappeared. It disappeared as if she had never existed.[p]
 *5
-I go to the club room, senpai is not there. Her seat is empty.[p]
+I go to the clubroom, she is not there. Her seat is empty.[p]
 *6
-Even the assumptions and perceptions about senpai have been rewritten, and nobody remembers her.[p]
+Even the assumptions and perceptions about her have been rewritten, and nobody remembers her.[p]
 *7
 The photo of her I took at the hydrangea garden that day has disappeared from my smartphone.[p]
 [bg2 storage ="bg3.png" time=1000]
@@ -40,7 +40,7 @@ Memories are the only thing that retains any vestiges of my senpai.[p]
 *9
 Everything and anything that left her traces has been lost.[p]
 *10
-And even my memories were gradually washed away by the rain, becoming faint, thin, and vague.[p]
+And even my memories are gradually washed away by the rain, becoming faint, thin, and vague.[p]
 *11
 Even if I write down her name on a piece of paper so that I won’t forget it, the next day it will be blank. Even written memories are lost.[p]
 *12
@@ -107,14 +107,14 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 *25
 #Club President
 *26
-With that said. Please submit your work to the club magazine.[p]
+With that said, please submit your work to the club magazine.[p]
 *27
 #Haruya
 *28
 Alright.[p]
 *29
 #
-With summer vacation just around the corner, the president and I are having a meeting about this last year’s club magazine.[p]
+With summer vacation just around the corner, the president and I are having a meeting about this year’s last club magazine.[p]
 *30
 #Club President
 Well then, that’s it.[p]
@@ -124,7 +124,7 @@ Well then, that’s it.[p]
 President.[p]
 *32
 #
-I involuntarily call out to the president when she was about to leave the club room.[p]
+I involuntarily call out to the president when she's about to leave the club room.[p]
 [bucho storage="bucho/buchocn1.png"]
 *33
 #Club President
@@ -163,7 +163,7 @@ Doesn’t that mean it was a comfortable place?[p]
 *45
 #
 [kanim name="bucho" keyframe="nod3" time="200" count=2]
-“Fufu,” the president laughs. I laugh a little too.[p]
+“Fufu”, she laughs. I laugh a little too.[p]
 *46
 She averts her eyes for a moment and looks hesitant, but in the end, she can’t hold back and ends up laughing.[p]
 *47
@@ -216,7 +216,7 @@ In the room where I’m alone, I open the window. The breeze and light of July e
 *58
 The outside world is bright and bathed in sunlight, and the colors that fly in are vivid to the eye.[p]
 *59
-The scenery seen from the window of this club room will change little by little with the change of time and seasons.[p]
+The scenery seen from the window of this club room will change little by little with the passing of time and seasons.[p]
 
 *60
 And that’s the moment I suddenly come up with it.[p]
@@ -259,7 +259,7 @@ I’ll never forget.[p]
 I think that, as I lean out the window.[p]
 
 *92
-I like being like this. I take my time to look at the distant scenery outside the window.[p]
+I like being like this. I take my time to look at the distant scenery outside.[p]
 
 *93
 And the clubroom. This exact room I’m in right now.[p]

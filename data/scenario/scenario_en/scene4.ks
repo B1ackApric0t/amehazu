@@ -32,7 +32,7 @@ It’s strange.[p]
 Doesn’t the scenery you see from the bus window look completely different from usual? Look at this city, too.[p]
 *3
 #
-A rainy city flows outside the window. Senpai is looking deeply at the window of the bus dripping with water.[p]
+A rainy city flows outside the window. She's looking deeply at the window dripping with water of the bus.[p]
 *4
 #Haruya
 [hmod]The fact that you came in uniform is more strange to me than anything else.[p]
@@ -54,7 +54,7 @@ I’ve heard rumors that some people even spend their holidays in uniforms, but 
 #Haruya
 [hmod]Hmm? I think I kinda understand, but...[p]
 *11
-We wear uniforms at school, which takes up most of our daily life, so if that isn’t ordinary, then do you consider the weekend to be the actual “ordinary” time?[p]
+We wear uniforms at school, which takes up most of our daily life, so if that isn’t ordinary, then do you consider the weekend to be the actual "ordinary" time?[p]
 *12
 #Senpai
 [hmod storage=yukino/tatie4.png]Look, Haruya-kun, there are a lot of people lined up over there.[p]
@@ -71,7 +71,7 @@ Senpai’s daily life seems to be full of surprises and discoveries.[p]
 #Haruya
 [hmod]Ah, I kind of understand how you feel.[p]
 *17
-Speaking of getting tired of things... No matter how “out of the ordinary” it is, won’t you get bored of wearing the uniform every day? If there isn’t “ordinary” there can’t be “unordinary” either.[p]
+Speaking of getting tired of things... No matter how "out of the ordinary" it is, won’t you get bored of wearing the uniform every day? If there isn’t "ordinary" there can’t be "unordinary" either.[p]
 *18
 #Senpai
 [hmod storage=yukino/tatie7.png]I’m not tired of it so far. In the long run, high school itself is a special event in life.[p]
@@ -108,7 +108,7 @@ The bus carries our extraordinary life.[p]
 [mask_off time="700"]
 *27
 #
-She’s walking in front of me, spinning and hopping around. The hem of her skirt and her black hair dancing under the red umbrella.[p]
+She’s walking in front of me, spinning and hopping. The hem of her skirt and her black hair dancing under the red umbrella.[p]
 *28
 Surrounded by blue, purple, and pink hydrangeas, she’s innocently playing around.[p]
 [yukino2]
@@ -158,16 +158,16 @@ If anything, my image of senpai is that of a person capable of being free and ch
 #Senpai
 [yukino/8]Hmm... How to put it? If I had been here alone, I’m sure I would’ve been scared. Just a little bit.[p]
 *44
-[yukino/10]It’s so beautiful and wonderful, and the scenery goes on forever... Then I’d suddenly wonder if I can really go back to where I started from here.[p]
+[yukino/10]It’s so beautiful and wonderful, and the scenery goes on forever... Then I’d suddenly wonder if I can really go back to where I started.[p]
 *45
 #Haruya
 Er...?[p]
 *46
 #
-I feel like I both understand and don’t.[p]
+It's like I both understand and don’t.[p]
 *47
 #Senpai
-[yukino/7]However, I feel relieved when you’re here. I can clearly see that I can go back.[p]
+[yukino/7]However, I'm relieved when you’re here. I can clearly see that I can go back.[p]
 *48
 #
 I feel like I’ve been told something really outrageous. I wait patiently for her words.[p]
@@ -193,7 +193,7 @@ Any word seems imprecise, inappropriate, misleading, inadequate, and unsuitable 
 But I want to answer something, I believe I have to answer, and in the end, the words that come out are just these:[p]
 *57
 #Haruya
-I-I want to understand.[p]
+I- I want to understand.[p]
 *58
 #Senpai
 [yukino/9]“I want to understand...”[p]
@@ -218,7 +218,7 @@ She laughs. I had been looking down without realizing, and when I lift my gaze, 
 Yes...?[p]
 *65
 #Senpai
-I don’t understand how I feel right now! I don’t know what to say!! Hahahaha...[p]
+I don’t understand how I feel right now! I don’t know what to say! Hahahaha...[p]
 *66
 #
 [hide]
@@ -227,13 +227,13 @@ Saying that while laughing, she moves further and further away.[p]
 I don’t get it. I don’t understand, but she seems happy.[p]
 *68
 #Haruya
-Actually…[r]Senpai.[p]
+Actually…[r] Senpai![p]
 *69
 #
 That being said, all her hopping around is dangerous, so I call out to her from afar.[p]
 *70
 #Haruya
-Watch your step...[p]
+Watch your step-[p]
 #
 [stopbgm]
 [mask color=0xFFFFFF time=100]
@@ -248,7 +248,7 @@ Watch your step...[p]
 *71
 ――?[p]
 *72
-What just happened...?[p]
+What did just happen...?[p]
 *73
 I don’t know.[p]
 *74
@@ -256,7 +256,7 @@ If I had to say, it looked like a mass of shadows.[p]
 *75
 Something popped out of the ground, snatched something from senpai’s hand and disappeared into the ground again.[p]
 *76
-Her red umbrella fell and bounced on the road full of hydrangeas. Senpai’s body collapsed on the rain-soaked dirt ground.[p]
+Her red umbrella fell and bounced on the road full of hydrangeas and her body collapsed on the rain-soaked dirt ground.[p]
 *77
 #Haruya
 Senpai...?[p]
@@ -300,7 +300,7 @@ Silence fills the place like a bottomless swamp.[p]
 [bg2 storage="tekubi2.jpg" time="1000" cross=false wait=false]
 *89
 #Senpai
-... My bad.[p]
+...My bad.[p]
 *90
 #
 She suddenly opens her mouth. She’s completely back to normal.[p]
@@ -311,7 +311,7 @@ Excessively normal.[p]
 I accidentally fell. Being too playful is reckless, huh.[p]
 *93
 #Haruya
-Huh? But- senpai...[p]
+Huh? But- Senpai...[p]
 *94
 #Senpai
 I’m fine. Thank you for your concern.[p]

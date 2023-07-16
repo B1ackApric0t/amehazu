@@ -55,7 +55,7 @@ Cold, rainy air rushes in through the crack of the open door. Both the entrance 
 *13
 I open my umbrella, take a step outside, and slowly close the door.[p]
 *14
-It’s my first time going outside at this hour, especially when it’s raining. The streetlights near my house pour their light, which reflects onto the wet pavement.[p]
+It’s my first time going out at this hour, especially when it’s raining. The streetlights near my house shine their light onto the wet pavement.[p]
 *15
 I have the uncomfortable feeling of standing in the wrong place at the wrong time.[p]
 *16
@@ -63,7 +63,7 @@ I wonder if senpai would pass by my house. I’d probably feel a little better t
 *17
 Usually that would be impossible but, since we’re talking about her, it might truly happen.[p]
 *18
-Besides, I feel like this kind of atmosphere strangely suits her.[p]
+Besides, I think like this kind of atmosphere strangely suits her.[p]
 [bg2 storage="genkan2.jpg" width=1920 height=1080 left=-320 top=-360 time=1000 wait=false cross=false]
 *19
 I’m staring at the pitch-black sky while thinking about such things, and when I look down, a wave runs through my body.[p]
@@ -77,7 +77,7 @@ It’s like an optical illusion.[p]
 *23
 Things I always took for granted are being shaken.[p]
 *24
-I become uneasy. A fish—it’s a shark.[p]
+I become uneasy. A fish—It’s a shark.[p]
 [image layer="2" page="back" storage="uyo.png" width=900 left=190 top=-150 name=uyo]
 [trans layer="2" time=1000 method="fadeInUp"]
 [wt]
@@ -92,7 +92,7 @@ They look like teeth that could easily bite iron.[p]
 *29
 Rows of teeth put closely together; one single front tooth is as big as my spread-out hand.[p]
 *30
-Monster. Monster.[p]
+Monster. Monster![p]
 *31
 My whole body is frozen. I feel simple, pure fear. As I perceive my life in danger, my body refuses to move, weak and pallid as if my blood had been drained.[p]
 *32
@@ -121,7 +121,7 @@ He has given me his name, but I couldn’t quite catch the rest on the first try
 How shall I address you?[p]
 *40
 #Haruya
-What is...[r]My name?[p]
+What is...[r]...my name?[p]
 *41
 #Rain Ayakashi
 [kanim name="uyo" keyframe="nod" time="750"]Correct.[p]
@@ -230,7 +230,7 @@ The air is tense.[p]
 [fadeoutbgm time=2000]
 *77
 #Rain Ayakashi
-Firstly: Yukino Akabane is no human.[p]
+Firstly: Yukino Akabane is not human.[p]
 *78
 #Haruya
 Huh...?[p]
@@ -238,7 +238,7 @@ Huh...?[p]
 #Rain Ayakashi
 Neither she nor I live in this world. We are foreigners who came here from another world.[p]
 *80
-We are “ayakashi”. We are neither humans nor birds or beasts. Neither flowers nor fish.[p]
+We are ‘ayakashi’. We are neither humans nor birds or beasts. Neither flowers nor fish.[p]
 *81
 #
 The monster says indifferently, as if reading a script.[p]
@@ -252,14 +252,14 @@ Of course, you, as a human, would find it hard to believe. However, the fact tha
 It’s just as the Rain Ayakashi says. [r]He has hit the nail on the head, but I can’t easily accept it.[p]
 *85
 #Rain Ayakashi
-In other words, the reason why Yukino Akabane wants to close the distance with you, isn’t it because she wants to observe in more detail the strange human beings she mingles with?[p]
+In other words, the reason why Yukino Akabane wants to close the distance with you isn’t it because she wants to observe in more detail the strange human beings she mingles with?[p]
 *86
 And perhaps, that kind of attitude is seen as eccentric by other humans and, therefore, they are wary of her.[p]
 *87
 #
 The monster’s speculation about senpai’s position is mostly correct.[p]
 *88
-And, according to the rain monster, the fact that she isn’t human may have cast a shadow over the relationship between me and her.[p]
+And, according to the Rain Ayakashi, the fact that she isn’t human may have cast a shadow over the relationship between me and her.[p]
 *89
 #Haruya
 Honestly… Even if you tell me all that, I don’t understand. I really don’t. What’s going on?[p]
@@ -286,7 +286,7 @@ It would seem that a murder case has recently been making headlines in this coun
 [mask_off tim=300]
 *95
 #
-I certainly remember. The serial murder case... [r]Before I went out to the hydrangea garden with senpai, we talked about that incident.[p]
+I certainly remember. The serial murder case... [r]Before we went out to the hydrangea garden, we talked about that incident.[p]
 [mask time=300]
 [free name="kaisou" layer=1]
 @layopt layer="2" visible=true
@@ -301,10 +301,10 @@ What about... No, you can’t be saying that she…[p]
 [kanim name="uyo" keyframe="nod" time="750"]Correct.[p]
 *98
 #
-The rain demon nods without saying anything. Like that, I can’t continue the second sentence.[p]
+The Rain Ayakashi nods without saying anything. Like that, I can’t continue the second sentence.[p]
 *99
 #Haruya
-No, I mean, why would she ever do such a thing?[p]
+No, I mean, why would she ever do such a thing?[r]Why would she...[p]
 *100
 #Rain Ayakashi
 Listen. For us to live in your world, we need life energy. To us, it’s like the air that fills your lungs when you dive into the water.[p]
@@ -320,12 +320,12 @@ Surface for air before diving again...?[p]
 [kanim name="uyo" keyframe="nod" time="750"]Correct. She attacks and eats humans to use them as energy to live here. Is her tyranny not too extreme?[p]
 *105
 #
-Is senpai really attacking people and devouring them to death?[p]
+Is she really attacking people and devouring them to death?[p]
 *106
 No. No! That’s impossible.[p]
 *107
 #Rain Ayakashi
-Right now, Yukino Akabane is harming the world out of resentment.”[r]I absolutely cannot forgive such an extreme display of wickedness and violence.[p]
+Right now, Yukino Akabane is harming the world out of resentment.[r]I absolutely cannot forgive such an extreme display of wickedness and violence.[p]
 *108
 Therefore, we are trying to subjugate her in order to maintain the peace and order in both worlds.[p]
 *109
@@ -401,7 +401,7 @@ But that’s...![p]
 The rain is stopping.[p]
 *125
 #
-The Rain Ayakashi looks up at the sky and mutters.[p]
+The Rain Ayakashi looks up at the sky and muttered.[p]
 *126
 #Rain Ayakashi
 I must go.[p]

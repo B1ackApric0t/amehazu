@@ -29,7 +29,7 @@ The flowers are wet from the rain that fell until the evening, and the white moo
 Come on, let’s walk and look around.[p]
 *3
 #
-Senpai changes into her human form again and turns towards me.[p]
+She changes into her human form again and turns towards me.[p]
 *4
 #Senpai
 Let’s chat while we walk.[p]
@@ -53,15 +53,15 @@ Well, to be honest, when the Rain Ayakashi said that to me, I was convinced pret
 [yukino/8]Hmm? I wonder what that means.[p]
 *11
 #
-She says with a smile.[p]
+She replies with a smile.[p]
 *12
 #Senpai
-You’re saying that to someone who has been living like a human until now.[p]
+You’re saying that to someone who has been living like a human until now, you know.[p]
 *13
 #Haruya
-On the contrary, it worked well in your case.[p]
+It didn't really work out well, though.[p]
 *14
-Then why were you pretending to be a human? Did you live here posing as someone else?[p]
+Then, why were you pretending to be a human? Did you live here posing as someone else?[p]
 *15
 #
 [anim name="yukino" top="+=15" time=500]
@@ -93,7 +93,7 @@ It’s convincing.[p]
 It does indeed.[p]
 *24
 #Senpai
-To you, everything seems to fit today.[p]
+You seem to find everything fitting today.[p]
 *25
 #Haruya
 But that helps me understand. You had no common sense, or rather, you did things that ordinary people wouldn’t even think of. So, I was rather relieved to hear that.[p]
@@ -157,7 +157,7 @@ That is the truth.[p]
 [yukino/3][kanim name="yukino" keyframe="nod" time="500"]Yeah... I’m an existence that shouldn’t be anywhere by now.[p]
 *46
 #Haruya
-... I can’t say anything. I’m not able to condemn you...[p]
+...I can’t say anything. I’m not able to condemn you...[p]
 *47
 To be honest, I still can’t dislike you, I can’t hate you no matter what you have done. I don’t want to. It may sound like I’m saying something out of line...[p]
 *48
@@ -192,7 +192,7 @@ So, if we met today and said our farewells, that would be it...[p]
 But, maybe, we can be together forever...[p]
 *59
 #Senpai
-[yukino/12]... Are you saying we should escape?[p]
+[yukino/12]...Are you suggesting we should escape?[p]
 *60
 #Haruya
 That’s sort of what I was thinking...[p]
@@ -225,7 +225,7 @@ Not the moonlight?[p]
 #Haruya
 We’re all lonely...[p]
 *70
-But we usually don’t realize it or hide it from anyone as we live our lives.[p]
+But we usually don’t realize, or hide it from anyone as we live our lives.[p]
 *71
 But at night the moon shines on it. On the loneliness inside us.[p]
 *72
@@ -327,7 +327,7 @@ Then, a sound as if a large amount of water is being thrown on the ground.[p]
 It’s over.[p]
 *100
 #
-Then she added, as if remembering.[p]
+Then she adds, as if remembering.[p]
 *101
 #Senpai
 Looks like a red spider lily...[p]
@@ -384,7 +384,7 @@ These are all our options.[p]
 Are we at a dead end?[p]
 *117
 #Senpai
-I... Don’t know what to do.[p]
+I... don’t know what to do.[p]
 *118
 #Haruya
 Then what should I do? I’ll follow you.[p]
@@ -398,7 +398,7 @@ Then what should I do? I’ll follow you.[p]
 [bg2 storage=black.png time=100]
 [mask_off time=300]
 *120
-She changes her appearance, into her ayakashi form. Then she picks me up again and take to the sky.[p]
+She changes her appearance, into her ayakashi form. Then she picks me up again and we take to the sky.[p]
 [mhide time=100]
 [bg2 storage ="moon.jpg" time=1000 cross=true wait=true method="vanishIn"]
 [mshow time=400][wait time=500]

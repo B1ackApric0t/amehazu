@@ -48,7 +48,7 @@ It’s so awkward.[p]
 “Woah. Haruya...”[p]
 [bg2 storage="tonarimono.jpg" time=0 cross=false wait=false][fadeoutse time=200 buf=1]
 *10
-One of my male classmates passing by glances at me before looking away. [r]He’s riding his bicycle and wearing a raincoat. [r]Under the raincoat, the rainy season school uniform is peeking out.[p]
+One of my male classmates passing by glances at me before looking away. [r]He’s riding his bicycle and wearing a raincoat. [r]Under the raincoat, the rainy season school uniform peeks out.[p]
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
 *11
 #Senpai
@@ -59,7 +59,7 @@ He’s a classmate. Barely an acquaintance, really.[p]
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
 *13
 #Senpai
-Hm...[p]
+Hmm...[p]
 *14
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
@@ -123,7 +123,7 @@ That’s fine by me? I was about to go home wet anyway.[p]
 #
 Today, she didn’t bring her umbrella.[p]
 *35
-When it was time to go home, she walked briskly from the school entrance in the middle of the rain, she turned around and called out to me with a “shall we go?[p]
+When it was time to go home, she walked briskly from the school entrance in the middle of the rain, she turned around and called out to me with a “shall we go?"[p]
 *36
 A weirdo, an eccentric… Yet beautiful. That’s my senpai.[p]
 *37
@@ -135,10 +135,10 @@ And now here we are.[p]
 I quite like walking in the rain, though.[p]
 *40
 #Haruya
-"What would you like about that?[p]
+What would you like about that?[p]
 *41
 #Senpai
-"Even if you cry, nobody will find out.[p]
+Even if you cry, nobody will find out.[p]
 *42
 #Haruya
 Huh...?[p]
@@ -146,7 +146,7 @@ Huh...?[p]
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
 *43
 #Senpai
-"Oh? Was my joke too high level?[p]
+Oh? Was my joke too high level?[p]
 *44
 #Haruya
 I’m so tired I could cry...[p]
@@ -176,7 +176,7 @@ This is the place to say goodbye.[p]
 [ynear storage="yukino/tatie7.png"]
 [wait time=500]
 #Senpai
-Thanks, Haruya-kun."[p]
+Thanks, Haruya-kun.[p]
 *53
 #
 We look at each other under the umbrella.[p]
@@ -187,7 +187,7 @@ We look at each other under the umbrella.[p]
 For letting me under your umbrella, thank you! I’ll be fine from here.[p]
 *55
 #Haruya
-"Will you walk by yourself? In this rain?[p]
+Will you walk by yourself? In this rain?[p]
 *56
 #
 [kanim name="yukino" keyframe="nod" time="500"]
@@ -253,11 +253,11 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [wait time="1500"]
 [mask_off time="500"]
 [if exp="sf._system_config_bgm_volume>=1&&sf.SM1!=1"]
-[movie storage="amehazuOP3.webm" skip=false volume="&sf.current_bgm_vol"]
+[movie storage="amehazuOPen.webm" skip=false volume="&sf.current_bgm_vol"]
 [elsif exp="sf._system_config_bgm_volume>=1&&sf.SM1==1"]
-[movie storage="amehazuOP3.webm" skip=true volume="&sf.current_bgm_vol"]
+[movie storage="amehazuOPen.webm" skip=true volume="&sf.current_bgm_vol"]
 [else]
-[movie storage="amehazuOP3.webm" skip=true volume=0]
+[movie storage="amehazuOPen.webm" skip=true volume=0]
 [endif]
 [mask time="700"]
 [M0]

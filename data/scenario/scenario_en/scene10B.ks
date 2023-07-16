@@ -32,7 +32,7 @@ It’s like opening the shell of a clam.[p]
 #
 That expression gets stuck in my mind.[p]
 *5
-Through the clams having their shells open, the things she has done come to mind. Was there ever a crime done in a completely closed room in the nationwide murder case?[p]
+Through the clams having their shells open, the things she has done come to mind. Was there ever a crime done in a locked room in the nationwide murder case?[p]
 *6
 #Senpai
 Careful, it’s dark.[p]
@@ -64,7 +64,7 @@ She replies, while lowering the key to close window.[p]
 *16
 Our movements blend together seamlessly, like gears on a machine. I’m sure that if I were to start a sentence, she would immediately be able to say the rest of it...[p]
 *17
-This is the sort of sense of unity that envelops us. We face each other in the dark. In the pitch-black clubroom, senpai’s figure is emitting a mysterious light.[p]
+This is the sort of sense of unity that envelops us. We face each other in the dark. In the pitch-black clubroom, senpai’s figure is emitting a mysterious glow.[p]
 *18
 #Senpai
 It’s strange.[p]
@@ -78,7 +78,7 @@ Well, we’re sneaking into school at night right now. I think it’d be normal 
 #Haruya
 What are you talking about now?[p]
 *22
-First, you made the rain clear, we flew into the sky, you killed the shark. Only after all that did we sneak into the school at night.[p]
+First, you made the rain clear, then we flew into the sky, and you killed the shark. Only after all that did we sneak into the school at night.[p]
 *23
 #Senpai
 True... This has been quite the big adventure.[p]
@@ -114,13 +114,13 @@ While following the direction of her strength, I end up leaning against the wall
 This body doesn’t have enough strength to hold on anymore.[p]
 *36
 #
-She brings her mouth close to my ear and whispers. The trembling of the thin air is like a caress. It’s ticklish.[p]
+She brings her mouth close to my ear and whispers. The trembling of the thin air is like a caress. Ticklish.[p]
 *37
 #Senpai
 Do you understand...?[p]
 *38
 #Haruya
-So, you want to eat to make it last longer?[p]
+So, you want to eat me to make it last longer?[p]
 *39
 #Senpai
 You fool.[p]
@@ -142,14 +142,14 @@ I say nothing. I don’t have to answer.[p]
 *45
 Words exist to communicate with others, but when your relationship with someone is deep, you need less words. This is our case too.[p]
 *46
-A critical place. A singularity. ―― Our literature clubroom.[p]
+A critical place. A singularity ―― our literature clubroom.[p]
 *47
 The air is slightly disturbed. Her warm breath flows down my neck. It’s probably an unspoken sigh.[p]
 [fadeinse storage=rain5r.ogg time=2000]
 *48
 Outside, the rain continues to fall like a soft noise. It’s the sound of silence.[p]
 *49
-She brings her mouth close to my ear. The touch of my hair on my cheek is ticklish.[p]
+She brings her mouth close to my ear. The touch of her hair on my cheek is ticklish.[p]
 *49a
 We keep our faces together for a while, listening to each other’s breathing.[p]
 [mask time=300]
@@ -202,7 +202,7 @@ My body is floating. It’s like being in warm water.[p]
 *68
 Is my blood rushing to my head, is my consciousness hazy... Or is maybe my soul trying to escape?[p]
 *69
-... Anything is fine. For now, I am me and I am here.[p]
+...Anything is fine. For now, I am me and I am here.[p]
 *70
 For now.[p]
 *71
@@ -216,7 +216,7 @@ When I ask, she raises her upper body. With a desire to touch her, I stretch out
 I am.[p]
 *74
 #
-She says with her familiar voice. Senpai takes my hand and shakes it, redirecting it somewhere.[p]
+She says with her familiar voice. She takes my hand and shakes it, redirecting it somewhere.[p]
 *75
 It’s pulsating. Warm blood circulates through her palm.[p]
 *76
@@ -236,7 +236,7 @@ She approaches me again. I whisper in her ear as I wrap my arms around her back.
 Senpai.[p]
 *81
 #Senpai
-! ... What?[p]
+! ...What?[p]
 *82
 #
 [M1]

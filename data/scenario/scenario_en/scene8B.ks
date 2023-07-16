@@ -59,7 +59,7 @@ That’s right. People’s hearts are freckle, right?[p]
 Not knowing how to start correcting her, I remain silent. Then she continues.[p]
 *14
 #Senpai
-From now on, I’ll show you the proof. Haruya-kun, can you look at the sky?[p]
+Starting now, I’ll show you proof. Haruya-kun, can you look at the sky?[p]
 *15
 #Haruya
 The sky?[p]
@@ -90,12 +90,12 @@ Huh?[p]
 [bg2 storage="sky1.png" time=1000]
 Despite my confusion, the call is cut off. As I’m staring blankly at the sky, the center of the sky begins to shine brightly.[p]
 *23
-what’s going on? Is she doing that?[p]
+What’s going on? Is she doing that?[p]
 *24
 ;[bg2 storage="sky2.png" time=1000]
 The light expands, little by little.[p]
 *24a
-[bg2 storage="sky3.png" time=1000]Just when I think it’s about the size of the moon in the night sky, the light condenses at once and the light becomes a mere dot.[p]
+[bg2 storage="sky3.png" time=1000]Just when I think it’s about the size of the moon in the night sky, the light condenses at once and becomes a mere dot.[p]
 *25
 I’m still watching the movements of the sky. Then, the moment begins.[p]
 [fadeoutse time=700]
@@ -116,7 +116,7 @@ The sky clears. The rain clouds in the area are cleared.[p]
 *30
 #
 [playse storage=phone.ogg loop=true ]
-An incoming call. I raised my voice as soon as I pick up.[p]
+An incoming call. I raise my voice as soon as I pick up.[p]
 [stopse]
 *31
 #Haruya
@@ -205,7 +205,7 @@ Got it.[p]
 Please close the curtains. I need to mentally prepare.[p]
 *60
 #Haruya
-I like it. It’s like we’re coming closer one step at a time, giving each other time.[p]
+I like it. We’re coming closer one step at a time, giving each other time.[p]
 *61
 #Senpai
 Isn’t that a great idea?[p]
@@ -275,9 +275,9 @@ I open the front door with a trembling hand, to my surprise.[p]
 ...Senpai...?[p]
 *81
 #
-There’s something unhuman standing there. Yes, they could never be human, but they were too beautiful to be called monsters.[p]
+There’s something unhuman standing there. Yes, it could never be human, but it's too beautiful to be called a monster.[p]
 *82
-It was a one-of-a-kind existence that seemed to have nothing similar to the beings of this world.[p]
+It's a one-of-a-kind existence that seems to have nothing similar to the beings of this world.[p]
 *83
 #Haruya
 Senpai... That’s you, right?[p]
@@ -288,11 +288,11 @@ Yes, it’s me. Nice to meet you. Yukino Akabane has changed into the Winged Aya
 #
 Her long white hair flutters in the night breeze, just like the flow of a silvery river. Red butterfly-like wings spread out behind her slender, jet-black body.[p]
 *85A
-And most of all, what catches my eye most is that she is a figure who doesn’t have a face.[p]
+And most of all, what catches my eye most is that she's a figure without a face.[p]
 *86
 When I stare at her for a while, she smiles as if embarrassed.[p]
 *87
-I realize that I have been watching too much, so I hurriedly averted my gaze. It’s a little awkward.[p]
+I realize that I have been watching too much, so I hurriedly avert my gaze. It’s a little awkward.[p]
 [fadeinbgm storage=A_end_loop.ogg time=1500]
 *88
 #Senpai
@@ -314,7 +314,7 @@ But now we have met and you’re showing it to me.[p]
 And that is a problem.[p]
 *94
 #
-“Yeah…”, she sighs. The atmosphere is like “what’s done is done”. Then she looks up at the sky and murmurs.[p]
+“Yeah…”, she sighs. The atmosphere is one of “what’s done is done”. Then she looks up at the sky and murmurs.[p]
 [hide time=400 wait=false][haruyahide time=400][bg2 storage=moon.jpg time=1000 cross=true method=fadeInUp]
 *95
 #Senpai
@@ -382,12 +382,12 @@ Special.[p]
 *115
 I reply by reflex. Surprised at myself, I break into cold sweat.[p]
 *116
-Normally I would quickly take it back, that’s not the case now.[p]
+Although I'd usually take it back right away, that’s not the case now.[p]
 *117
 I gently take her hand that’s resting on my cheek to my chest, and I put my other hand on top of hers. I looked up at the senpai’s faceless face, and say again:[p]
 *118
 #Haruya
-You’re special... For me, senpai is senpai. Whether or not you’re a human being, that changes nothing for me and I can’t help it.[p]
+You’re special... To me, senpai is senpai. Whether or not you’re a human being, that changes nothing for me and I can’t help it.[p]
 *119
 #
 There is no expression on her face. We stare at each other for a while, but eventually her hand slips out of mine and puts it around my back.[p]
@@ -396,7 +396,7 @@ There is no expression on her face. We stare at each other for a while, but even
 Aren’t you scared?[p]
 *121
 #Haruya
-Scared of... You?[p]
+Scared of... you?[p]
 *122
 #Senpai
 Yes.[p]
@@ -435,7 +435,7 @@ Yes… I mean, no! It’s not “beautiful” as in, for people, it’s like the
 I get it. But you don’t have to be so embarrassed. It’s a moonlit night’s rendezvous.[p]
 *134
 #Haruya
-There’s something about that too...[p]
+We don't have time for that now...[p]
 *135
 #Senpai
 I know. Let’s talk calmly later... But, I’m only me. I came because I was happy to be called.[p]
@@ -444,7 +444,7 @@ I know. Let’s talk calmly later... But, I’m only me. I came because I was ha
 You were happy?[p]
 *137
 #
-She lets out a sigh as if a weight has been lifted from her shoulders. Then she look up at the full moon in the sky again and say:[p]
+She lets out a sigh as if a weight has been lifted from her shoulders. She then looks up at the full moon in the sky again and says:[p]
 *138
 #Senpai
 Night makes people bold.[p]
@@ -470,7 +470,7 @@ Let’s go, Haruya-kun.[p]
 Where to?[p]
 *146
 #Senpai
-The hydrangea garden! I couldn’t take it easy before. What do you say?[p]
+To the hydrangea garden! I couldn’t take it easy before. What do you say?[p]
 *147
 #Haruya
 Okay, but how do we get there?[p]
@@ -503,7 +503,7 @@ Hey- senpai?![p]
 The ground and sky rotate. The lights of the houses trail in circles, I see the night sky in front of me.[p]
 [bg2 storage="nightcity.jpg" time="500"]
 *156
-Then senpai says after regaining her balance:[p]
+After regaining her balance, she says:[p]
 *157
 #Senpai
 Talking is forbidden.[p]

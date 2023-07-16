@@ -28,7 +28,7 @@ Reading manga is still reading.[p]
 #
 Senpai had a chair right next to me and was peering into the manga magazine I had opened.[p]
 *3
-I was troubled because she had a nice smell.[p]
+I was troubled because of her nice smell.[p]
 *4
 #Senpai
 [yukino/1]I wonder why the main characters in manga often have scars on their bodies.[p]
@@ -60,7 +60,7 @@ What are you saying? Marking?[p]
 I’m not a dog. But, I love dogs.[p]
 *14
 #Haruya
-Haah...[p]
+Aah...[p]
 *15
 #
 After a conversation without context, senpai brought her head close to me again.[p]
@@ -93,7 +93,7 @@ Her eyes widened in surprise. I guess my comment was unexpected.[p]
 After some hesitation, I decided to nod.[p]
 *25
 #Haruya
-My body, too. It has scars.[p]
+My body, too. It has a scar.[p]
 *26
 #Senpai
 [yukino/9]Huh?[r]Oh, that’s… Can I ask why?[p]
@@ -110,7 +110,7 @@ I had a big surgery when I was a child. I have a scar on my back.[p]
 #Senpai
 On your back?[p]
 *31
-#
+#Haruya
 Yes. I can’t show it to you, though.[p]
 *32
 #Senpai
@@ -189,7 +189,7 @@ Ah, right...[p]
 #
 I directed my eyes to the magazine again.[p]
 *58
-This story, which started with the scars of a fictional character, passed through the scars on my back and ended up with a story about dogs.[p]
+This story, which started with the scars of a fictional character, passed through the scar on my back and ended up with a story about dogs.[p]
 
 [fadeoutbgm time=1200]
 [mask time1000]
@@ -248,7 +248,7 @@ She then put her hand between the back of the chair and my back, letting her fin
 *72
 Strangely enough, the trajectory of her finger accurately traced my surgical scar.[p]
 *73
-Then she hugged my back again. She hugged me tighter than before. An embrace filled with loving strength.[p]
+Then she hugged my back again. She hugged me tighter than before.[r]An embrace filled with loving strength.[p]
 *74
 #Senpai
 Maybe I’ll think about the scar on your back many times from now on.[p]

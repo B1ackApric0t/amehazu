@@ -76,7 +76,7 @@ Whatever you decide, I’ll be with you.[p]
 [yukino/2]Of course. Because you’re my kouhai.[p]
 *18
 #
-Thi is right. That's exactly it.[p]
+This is right. That's exactly it.[p]
 *19
 This amount of distance is just right for our relationship.[p]
 *20
@@ -102,7 +102,7 @@ My drenched senpai comes under the umbrella I’m holding up, and she says:[p]
 Yes, let's do that.[p]
 *26
 #
-Also soaking wet, I answer.[p]
+Also soaking wet, that's my reply.[p]
 [hide time=200][yukinoA time=1000]
 *27
 She changes her appearance into her ayakashi form. Lightly hugging me, her red wings glitter in the dark.[p]
@@ -126,7 +126,7 @@ We're about to return from this journey that seemed long even though it was flee
 ...[p]
 *32
 #
-Through the dark, senpai looks at the school building from the school gate. I sit next to her, staring at her face.[p]
+Through the dark, she looks at the school building from the school gate. I sit next to her, staring at her face.[p]
 *33
 She’s graduating, I realize.[p]
 *34
@@ -150,7 +150,7 @@ She nods.[p]
 [haruyahide time=1000]
 [hide]
 *39
-We turn our backs to the school building; I turn a little fast, while senpai turns a little slow, still lingering.[p]
+We turn our backs to the school building; I do it a little faster than senpai, who is still lingering.[p]
 *40
 And so, we start our final trip back home.[p]
 
@@ -175,7 +175,7 @@ Do you have a favorite event?[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *44
 #Senpai
-I do! Cultural and sports festivals are really good! It's lively, and just being there is a lot of fun.[p]
+I do! Cultural and sports festivals are really good! They're lively, and just being there is a lot of fun.[p]
 *45
 #Haruya
 Can you do sports?[p]
@@ -204,14 +204,14 @@ Senpai, how is life in your original world?[p]
 #Senpai
 Life there isn’t very good. It’s like being put inside a bug cage.[p]
 *53
-We live in a confined space and every day we follow a fixed procedure.[p]
+We live in a confined space and every day follows a fixed procedure.[p]
 *54
 The most valuable thing for my family is to ensure that the routine isn’t interrupted.[p]
 *56
-It’d be pointless to argue about the pros and cons of that, it’s just that it simply doesn’t suit me.[p]
+It’d be pointless to argue about the pros and cons of that, it simply doesn’t suit me.[p]
 [bg2 storage="tonarik_n.jpg" time=0 cross=false wait=false]
 *57
-... I really am sorry for being such a lacking daughter.[p]
+...I really am sorry for being such a lacking daughter.[p]
 *58
 #Haruya
 I don’t think I have the right to meddle with your family matters, but...[p]
@@ -238,11 +238,11 @@ Although I don't know much about that world, so I'm sorry if I said something of
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *66
 #Senpai
-... No, I won’t. Thank you...[p]
+...No, I won’t. Thank you...[p]
 *67
 Perhaps I came here without knowing much about my own world.[p]
 *68
-I want to find a better way to live. ... What about you?[p]
+I want to find a better way to live... What about you?[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *69
 What kind of life will you live after I leave?[p]
@@ -264,7 +264,7 @@ Right...[p]
 [bg2 storage="tonarime_n.jpg" time=0 cross=false wait=false]
 *76
 #Senpai
-And that's why the present is the most important thing for me.[p]
+And that's why the present is the most important to me.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *78
 Hey, Haruya-kun.[p]
@@ -324,12 +324,12 @@ Please don't leave...[p]
 I'm sorry. I'm being selfish. Please forget it.[p]
 *98
 #Senpai
-... No, I won’t. I will never forget you said that.[p]
+...No, I won’t. I will never forget you said that.[p]
 *99
 For the rest of my life.[p]
 *100
 #Haruya
-... Yes. For a lifetime.[p]
+...Yes. For a lifetime.[p]
 [bg2 storage="tonarib_n.jpg" time=0 cross=false wait=false]
 *101
 #Senpai
@@ -365,7 +365,7 @@ Yeah, I’m glad.[p]
 Senpai.[p]
 *113
 #Senpai
-... What?[p]
+...What?[p]
 *114
 #Haruya
 Can we meet again?[p]
@@ -416,7 +416,7 @@ Because I'll definitely bring one to pick you up...[p]
 *127
 I turn around at the sound of the pouring rain.[p]
 *128
-―Absent. The person who should have been here. She isn’t any longer.[p]
+―Absent. The person who should have been here, she isn’t any longer.[p]
 *129
 The hand who was holding the umbrella is gone. For a while, the cold rain hits me.[p]
 *130

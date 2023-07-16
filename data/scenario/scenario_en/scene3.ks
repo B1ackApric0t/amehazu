@@ -25,7 +25,7 @@
 #
 “From now on, it’s time to go around and look into clubs. To all the new students...”[p]
 *1
-Along with the school broadcast, the students leave the classrooms and step into the hallway.[p]
+Along with the school broadcast, the students leave the classrooms and step into the hallways.[p]
 *2
 The school is filled with voices. The flow of people, the voices of those recruiting new members... It’s lively.[p]
 *3
@@ -57,7 +57,7 @@ I wander around the school hoping to escape from the crowd.[p]
 [mask_off time=500 effect="fadeOutLeft"]
 [wait time=500]
 *13
-In the end, I wander into an unused classroom in a separate building away from the main school building.[p]
+In the end, I drift into an unused classroom in a separate building away from the main school building.[p]
 *14
 It’s a place strangely filled with tranquility, and neither the voices of invitations nor any footsteps can be heard.[p]
 *15
@@ -114,7 +114,7 @@ I wish I could talk more casually, but it’s difficult for me. I think it throu
 However, the other person nods without caring about my stuttering.[p]
 *34
 #??
-[yukino/2]“Very much so.[p]
+[yukino/2]Very much so.[p]
 *35
 #Haruya
 ...[p]
@@ -168,7 +168,7 @@ Now that you mention it…[p]
 Is it the scent of flowers?[p]
 *53
 #
-For sure. The spring air smells sweet. Where does this scent come from?[p]
+For sure. The spring air smells sweet. Where does its scent come from?[p]
 *54
 I want to open the window and try touching the spring air, but I look sideways and hesitate.[p]
 *55
@@ -217,7 +217,7 @@ No![p]
 Her expression was so lonely that I unintentionally raise my voice.[p]
 *70
 #Haruya
-Umm... Well, I mean...[p]
+Um... Well, I mean...[p]
 *71
 #
 I think hard and finally squeeze out an answer.[p]
@@ -227,7 +227,7 @@ Looking at the scenery of the city makes me feel like everywhere is a city.[p]
 I can easily find a reason to agree with her. If you look at the city, then everything is a city. But is that all? This seemingly meaningless conversation, maybe there’s something deeper in it?[p]
 *74
 #Haruya
-This city... Eh, no... There’s a city wherever you go. Because a city... A city... Is where people live.[p]
+This city... Eh, no... There’s a city wherever you go. Because a city... a city is... where people live.[p]
 *75
 #
 I don’t know what to say so, even though I’m talking, I have no idea of what I’m saying. I let my mouth move while my brain tries to keep up. If I stop now, we’ll be in silence.[p]
@@ -338,7 +338,7 @@ I follow behind the person whose name I didn’t even know until a moment ago.[p
 We leave the classroom, pass through the crowds of the main school building and arrive in front of a small classroom.[p]
 *107
 #Haruya
-Um…" Is this…?[p]
+Um… Is this…?[p]
 *108
 #
 [yukino2 width=1400 top=30]
@@ -353,7 +353,7 @@ All club activities are in full swing. I also have to fulfill my duties as a lit
 *109
 She opens the door.[p]
 *110
-The literature clubroom is a small room that makes me think it’s a storeroom or something.[p]
+The literature clubroom is so small that makes me think it’s a storeroom or something.[p]
 *111
 There’s a large table in the center, and a girl who seems to be a senpai is sitting in the back. She has brown hair tied in two braids and wears glasses.[p]
 *112
@@ -378,19 +378,19 @@ I’m more than happy to have met your expectations.[p]
 #
 [kanim name="yukino" keyframe="nod3" time="200" count=5][kanim name="bucho" keyframe="nod3" time="200" count=5]
 *117
-“Fu...”, the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
+"Fu…”, the club president laughs. “Fufufu”, Akabane-senpai also laughs. The two girls seem to have a unique relationship.[p]
 *118
 #Club President
 Want to take a seat?[p]
 *119
 #Haruya
-Ah... Alright.[p]
+Ah… Alright.[p]
 *120
 #Yukino
 Your seat is across from mine.[p]
 *121
 #Haruya
-Ahh...[p]
+Ah, yes, thank you.[p]
 *122
 #Yukino
 You can open the clubroom freely. The club advisor and I have the key, so when you want to borrow it, it’ll be quicker if you speak to the teacher in the staff room.[p]
@@ -424,7 +424,7 @@ This person will take me somewhere far away.[p]
 That’s what I felt.[p]
 [chara_hide_all time=400 wait=false][haruyahide time=400]
 *134
-The three of us looked at the clear sky and the scenery outside.[p]
+On that day, the three of us looked at the clear sky and the scenery outside.[p]
 [mask time="1000" color=0xFFFFFF]
 [fkaisou]
 [bg2 storage=black.png time=2000]

@@ -88,7 +88,7 @@ Where to?[p]
 [yukino/1]Have you heard of the hydrangea garden?[p]
 *20
 #
-I do know a little about the hydrangea garden she has just mentioned.[p]
+I do know a little about the hydrangea garden she just mentioned.[p]
 *21
 It’s a rather far place, and from our neighborhood, you can’t get there without changing trains and buses.[p]
 *22
@@ -144,7 +144,7 @@ My voice comes out strange.[p]
 Isn’t it supposed to rain on both Saturday and Sunday…?[p]
 *39
 #
-I blurt out something that doesn’t really matter. The weather being good or bad isn’t important.[p]
+I blurt out something irrelevant. What does it matter if the weather is good or bad?[p]
 *40
 #Senpai
 [yukino/2]Isn’t it nice? Hydrangeas look good in the rain.[p]

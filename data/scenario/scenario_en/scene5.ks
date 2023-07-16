@@ -22,7 +22,7 @@
 #
 The following day after school, in the literature club room.[p]
 *1
-I’m waiting alone in the club room, but there’s no sign of senpai coming.[p]
+I’m waiting alone in the clubroom, but there’s no sign of senpai coming.[p]
 *2
 The small room is filled with suffocating silence, and the sound of the rain falling outside can be heard strangely loud.[p]
 *3
@@ -67,7 +67,7 @@ That could explain it.[p]
 *19
 Is that possible? What was that shadow in the first place? Was it really there?[p]
 *20
-Maybe what senpai said about tripping is true, and the shadow has just been a product of my imagination.[p]
+Maybe what she said about tripping is true, and the shadow has just been a product of my imagination.[p]
 *21
 It’s too confusing. Any speculation is like trying to grasp the sky.[p]
 *22
@@ -109,7 +109,7 @@ Something pops in my ear. When I cautiously touch my ear, my fingertips are wet.
 *32
 What has just happened?[p]
 *33
-Fear like I have never felt before overcomes me. I feel like I’ve been touched by something I shouldn't have knowledge of, by something I should have never heard.[p]
+Fear like never before overcomes me. I feel like I’ve been touched by something I shouldn't have knowledge of, by something I should have never heard.[p]
 *34
 How come I keep meeting things like these? I don’t understand.[p]
 *35
