@@ -84,7 +84,7 @@ tyrano.plugin.kag.layer = {
     } else
       for (; this.map_layer_fore["message" + a];) {
         var s = this.map_layer_fore["message" + a].find(".message_outer");
-        if(this.kag.variable.sf.trans == 3){
+        if(this.kag.variable.sf.trans == 3 || this.kag.variable.sf.trans == 4){
           this.map_layer_fore["message" + a].find(".message_inner").css("left", parseInt(s.css("left")) + 10).css("top", parseInt(s.css("top")) + 10).css("width", parseInt(s.css("width")) - 120).css("height", parseInt(s.css("height")) - 10), a++
         }else{
           this.map_layer_fore["message" + a].find(".message_inner").css("left", parseInt(s.css("left")) + 10).css("top", parseInt(s.css("top")) + 10).css("width", parseInt(s.css("width")) - 10).css("height", parseInt(s.css("height")) - 10), a++

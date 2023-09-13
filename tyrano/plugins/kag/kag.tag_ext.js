@@ -340,7 +340,7 @@ tyrano.plugin.kag.tag.loadjs = {
       this.kag.stat.jcharas[a.name] && (a.name = this.kag.stat.jcharas[a.name]);
       var t = this.kag.stat.charas[a.name];
       if (t) {
-        if (this.kag.variable.sf.trans==3){
+        if (this.kag.variable.sf.trans==3 || this.kag.variable.sf.trans==4){
           if ($("." + this.kag.stat.chara_ptext).html($.escapeHTML(t.jname)), "" !=
         	t.color && $("." + this.kag.stat.chara_ptext).css({
         		"color": "white",

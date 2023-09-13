@@ -37,6 +37,8 @@ tyrano.plugin.kag.menu = {
         a.kag.backTitleCh()
       }), e.find(".menu_back_title_en").click(function () {
         a.kag.backTitleEn()
+      }), e.find(".menu_back_title_es").click(function () {
+        a.kag.backTitleEs()
       }),  $.preloadImgCallback(s, function () {
         e.fadeIn(300), $(".button_menu").hide()
       }, a)
