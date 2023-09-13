@@ -11,7 +11,7 @@
 [position layer="message0" left=100 top=460 width=1180 height=260 frame="frame2.png" page=fore visible=true]
 [position layer=message0 page=fore margint="70" marginl="190" marginr="150" marginb="50"]
 @layopt layer=message0 visible=true
-[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="source"]
+[ptext name="chara_name_area" layer="message0" color="white" size=36 bold=true x=290 y=480 face="EGB"]
 [wait time=1500]
 [stopbgm]
 [eval exp="sf.Bclear=0"]
@@ -29,7 +29,7 @@ Compartiendo una Sombrilla[p]
 Dicen que el que está más enamorado es el que se moja más al momento de compartir una sombrilla.[p]
 *3
 #Haruya
-Eso dicen[p]
+Eso dicen.[p]
 *4
 #Senpai
 ¿Me dejas ver tu hombro un momento?[p]
@@ -55,18 +55,18 @@ Oh! Haruya…[p]
 ¿Lo conoces?[p]
 *12
 #Haruya
-Es alguien de mi clase. Lo conozco, pero solo eso, no hablamos o algo así[p]
+Es alguien de mi clase. Lo conozco, pero solo eso, no hablamos o algo así.[p]
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
 *13
 #Senpai
-Hm[p]
+Hmm.[p]
 *14
 #
 [bg2 storage="tonarib.jpg" time=0 cross=false wait=false]
 Mientras observaba la parte posterior del impermeable alejarse, Senpai comenzó a sonreír disimuladamente.[p]
 *15
 #Senpai
-Esto es perfecto[p]
+Esto es perfecto.[p]
 *16
 #Haruya
 ¿Qué es?[p]
@@ -75,7 +75,7 @@ Esto es perfecto[p]
 Va a difundir el rumor, ¿no?[p]
 *18
 #Haruya
-¿De qué está hablando ahora?[p]
+¿De qué estás hablando ahora?[p]
 *19
 #Senpai
 Dicen que los rumores duran 75 días.[p]
@@ -112,7 +112,7 @@ Mi corazón dio un salto como si hubiera tropezado, y mi garganta empezó a llen
 Por reflejo, aparto mi mirada. Y es entonces cuando mi Senpai acerca sus labios a mi oreja.[p]
 *31
 #Senpai
-Estas muy avergonzado. Tienes la cara roja.[p]
+Estás muy avergonzado. Tienes la cara roja.[p]
 *32
 #Haruya
 No me susurres al oído. Cerraré la sombrilla.[p]
@@ -195,7 +195,7 @@ Senpai asintió. Al verle, me vinieron muchos pensamientos a la cabeza.[p]
 *57
 Senpai llegara a su casa mojada.[p]
 *58
-¿No sería mejor que la llevara, aunque sólo fuera un poco mas? No importa quien seas, te puedes enfermar si caminas empapada.[p]
+¿No sería mejor que la llevara, aunque sólo fuera un poco mas? No importa[r] quien seas, te puedes enfermar si caminas empapada.[p]
 *59
 Pero si me ofreciera a hacerlo, ¿no sería más bien una molestia para Senpai?[p]
 *60
@@ -227,7 +227,7 @@ Siempre me queda un mal sabor de boca cuando esto ocurre.[p]
 *69
 Si Senpai se llega a resfriar por esto, voy a recordar este día para siempre.[p]
 *70
-La sensación de mi hombro derecho, completamente empapado, me hace volver en mi mismo.[p]
+La sensación de mi hombro derecho, completamente empapado, me hace[r] volver en mi mismo.[p]
 *71
 [haruyahide time=400]
 [M1]
@@ -252,11 +252,11 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [wait time="1500"]
 [mask_off time="500"]
 [if exp="sf._system_config_bgm_volume>=1&&sf.SM1!=1"]
-[movie storage="amehazuOP3.webm" skip=false volume="&sf.current_bgm_vol"]
+[movie storage="amehazuOPes.webm" skip=false volume="&sf.current_bgm_vol"]
 [elsif exp="sf._system_config_bgm_volume>=1&&sf.SM1==1"]
-[movie storage="amehazuOP3.webm" skip=true volume="&sf.current_bgm_vol"]
+[movie storage="amehazuOPes.webm" skip=true volume="&sf.current_bgm_vol"]
 [else]
-[movie storage="amehazuOP3.webm" skip=true volume=0]
+[movie storage="amehazuOPes.webm" skip=true volume=0]
 [endif]
 [mask time="700"]
 [M0]
@@ -270,4 +270,4 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [role]
 [mask_off time="1000"]
 
-@jump storage="scene2.ks" target=*start
+@jump storage="scenario_es/scene2.ks" target=*start

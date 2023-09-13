@@ -29,18 +29,18 @@ Es extraño…[p]
 *2
 #Senpai
 [hmod storage=yukino/tatie1.png]
-¿No sientes que el paisaje desde la ventana del autobús se ve completamente diferente de lo normal? Mira esta cuidad…[p]
+¿No sientes que el paisaje desde la ventana del autobús se ve completamente[r]diferente de lo normal? Mira esta cuidad…[p]
 *3
 #
-Una cuidad llena de lluvia fluye afuera de la ventana, Senpai estaba mirando profundamente la ventana del autobús mientras goteaba.[p]
+Una ciudad llena de lluvia fluye afuera de la ventana, Senpai estaba mirando profundamente la ventana del autobús mientras goteaba.[p]
 *4
 #Haruya
-[hmod]……Para mi es mas extraño que vinieras en uniforme, Senpai.[p]
+[hmod]……Para mi es más extraño que vinieras en uniforme, Senpai.[p]
 *5
 #
-Me pareció algo increíble. Una estudiante de tercero usando uniforme a pesar de ser un día libre.[p]
+Me pareció algo increíble. Una estudiante de tercero usando uniforme a pesar[r]de ser un día libre.[p]
 *6
-Si habia oido rumores de personas que usan su uniforme en sus días libres, pero nunca pensé encontrarme con algo así en la vida real.[p]
+Si había oído rumores de personas que usan su uniforme en sus días libres, pero[r]nunca pensé encontrarme con algo así en la vida real.[p]
 *7
 #Senpai
 [hmod storage=yukino/tatie7.png]Es que, me gusta mi uniforme.[p]
@@ -54,7 +54,7 @@ Si habia oido rumores de personas que usan su uniforme en sus días libres, pero
 #Haruya
 [hmod]¿Hmm? Realmente no lo entiendo muy bien, pero……[p]
 *11
-Acaso quieres decir que como usamos uniformes en la escuela, y eso no lo consideras "normal" entonces, ¿el tiempo "normal" seria el fin de semana?…[p]
+Acaso quieres decir que como usamos uniformes en la escuela, y eso no lo[r]consideras "normal" entonces, ¿el tiempo "normal" seria el fin de semana?…[p]
 *12
 #Senpai
 [hmod storage=yukino/tatie4.png]Mira, mira, Haruya-kun, hay mucha gente haciendo fila allá.[p]
@@ -66,18 +66,18 @@ Acaso quieres decir que como usamos uniformes en la escuela, y eso no lo conside
 Siento que la vida diaria de Senpai esta llena de sorpresas y cosas nuevas…[p]
 *15
 #Senpai
-[hmod storage=yukino/tatie7.png] Me gustan mucho las ventanas. Puedes ver una infinidad de paisajes, y el mundo exterior se extiende sin fin. ¡Nunca me canso de mirarlo![p]
+[hmod storage=yukino/tatie7.png] Me gustan mucho las ventanas. Puedes ver una infinidad de paisajes, y el mundo[r] exterior se extiende sin fin. ¡Nunca me canso de mirarlo![p]
 *16
 #Haruya
-[hmod]Ah, si entiendo como te sientes.[p]
+[hmod]Ah sí, entiendo como te sientes.[p]
 *17
-Hablando de cansarse de las cosas… Por muy "fuera de lo normal" que sea, ¿no te aburres de usar el uniforme todos los días? Si no hay "normal" tampoco puede haber "fuera de lo normal".[p]
+Hablando de cansarse de las cosas… Por muy "fuera de lo normal" que sea, ¿no te[r] aburres de usar el uniforme todos los días? Si no hay "normal" tampoco puede[r]haber "fuera de lo normal".[p]
 *18
 #Senpai
 [hmod storage=yukino/tatie7.png] Por ahora no me aburre. Y a la larga, la escuela es un evento especial de la vida.[p]
 *19
 #Haruya
-[hmod]Eso si es filosófico[p]
+[hmod]Eso si es filosófico.[p]
 *20
 #Senpai
 [hmod storage=yukino/tatie7.png]Esto es similar, ¿no lo crees? Salir con alguien a hacer algo.[p]
@@ -86,13 +86,13 @@ Hablando de cansarse de las cosas… Por muy "fuera de lo normal" que sea, ¿no 
 Parece que por ahora, esto que estamos haciendo es un acto "fuera de lo normal".[p]
 *22
 #Senpai
-[hmod storage=yukino/tatie8.png]Aunque ahora que lo dices, puede que hubiera sido mejor si hubiera venido con mi uniforme de gimnasia, ¿no?[p]
+[hmod storage=yukino/tatie8.png]Aunque ahora que lo dices, puede que hubiera sido mejor si hubiera venido con[r]mi uniforme de gimnasia, ¿no?[p]
 *23
 #Haruya
-[hmod]¿Que quieres decir?……[p]
+[hmod]¿Qué quieres decir?……[p]
 *24
 #Senpai
-[hmod storage=yukino/tatie12.png]¿Hm?　¿No es la ropa de gimnasia más extraordinaria?」[p]
+[hmod storage=yukino/tatie12.png]¿Hm? ¿No es la ropa de gimnasia más extraordinaria?[p]
 *25
 #Haruya
 [hmod]Estás loca…[p]
@@ -108,33 +108,33 @@ El bus arranca. Y nos lleva a otro episodio extraordinario de nuestras vidas.[p]
 [mask_off time="700"]
 *27
 #
-Frente a mi, Senpai caminaba alegremente, como si estuviera bailando. Debajo de su sombrilla roja, su falda y su cabello también danzan en la brisa.[p]
+Frente a mi, Senpai caminaba alegremente, como si estuviera bailando. Debajo[r]de su sombrilla roja, su falda y su cabello también danzan en la brisa.[p]
 *28
 Rodeada de hortensias azules, moradas y rosas, Senpai se divertía inocentemente.[p]
 [yukino2]
 *29
 #Senpai
-¡¿Porque los humanos solo tienen ojos en frente de cara?![p]
+¡¿Por qué los humanos solo tienen ojos en frente de la cara?![p]
 *30
-¡Quisiera poder ver todo al tiempo, pero no puedo hacerlo![p]
+¡Quisiera poder ver todo al mismo tiempo, pero no puedo hacerlo![p]
 *31
 #
-Al escucharla decir eso, como una niña pequeña, una sonrisa involuntaria se dibuja en mi rostro.[p]
+Al escucharla decir eso, como una niña pequeña, una sonrisa involuntaria se[r]dibuja en mi rostro.[p]
 [haruya]
 *32
 #Haruya
 Creo que eso es un poco, o mas bien, muy difícil de hacer…[p]
 *33
 #
-Habiendo dicho eso, también me emociono con el jardín de hortensias. Las hortensias crecen hasta el mar.[p]
+Habiendo dicho eso, también me emociono con el jardín de hortensias. Las[r]hortensias crecen hasta el mar.[p]
 *34
-Combinado con la llovizna de hoy, se sentía como si estuviéramos caminando en otro mundo, aislados de cualquier otro lugar de la tierra.[p]
+Combinado con la llovizna de hoy, se sentía como si estuviéramos caminando[r]en otro mundo, aislados de cualquier otro lugar de la tierra.[p]
 *35
 #Senpai
 ¡Es hermoso, esto es fantástico![p]
 *36
 [yukino/7]
-Las hortensias están floreciendo por todas partes, envolviéndome, el camino continúa más allá de la niebla, y además, tú estás aquí.[p]
+Las hortensias están floreciendo por todas partes, envolviéndome, el camino[r]continúa más allá de la niebla, y además, tú estás aquí.[p]
 *37
 #Haruya
 ……¿Yo?[p]
@@ -154,15 +154,15 @@ Si no estuvieras conmigo, no estaría tan feliz[p]
 ……¿En serio?[p]
 *42
 #
-Por alguna razón, mi imagen de senpai es la de una persona capaz de ser libre y alegre en cualquier momento y en cualquier lugar.[p]
+Por alguna razón, mi imagen de Senpai es la de una persona capaz de ser libre y[r]alegre en cualquier momento y en cualquier lugar.[p]
 *43
 #Senpai
-[yukino/8]「Mmm…… ¿Como decirlo?  Si estuviera aquí sola, de seguro estaría asustada. Solo un poco.[p]
+[yukino/8]Mmm…… ¿Como decirlo?  Si estuviera aquí sola, de seguro estaría asustada.[r]Solo un poco.[p]
 *44
-[yukino/10]Es tan hermoso y maravilloso, y el paisaje continúa para siempre… Por eso, me pregunto si realmente puedo volver a donde empecé.[p]
+[yukino/10]Es tan hermoso y maravilloso, y el paisaje continúa para siempre… Por eso, me[r]pregunto si realmente puedo volver a donde empecé.[p]
 *45
 #Haruya
-……Ah?[p]
+……¿Ah?[p]
 *46
 #
 Creo que la entiendo, pero no completamente…[p]
@@ -171,7 +171,7 @@ Creo que la entiendo, pero no completamente…[p]
 [yukino/7]Pero cuando estas conmigo, lo entiendo, sé que puedo volver.[p]
 *48
 #
-……¿No me esta diciendo algo increíblemente importante? Por eso me quede callado esperando a que terminara lo que quería decir.[p]
+……¿No me está diciendo algo increíblemente importante? Por eso me quedé[r]callado esperando a que terminara lo que quería decir.[p]
 *49
 #Senpai
 [yukino/8]Por eso……Um……[p]
@@ -187,43 +187,43 @@ Creo que la entiendo, pero no completamente…[p]
 #
 ……¿Qué debería hacer?[p]
 *54
-Muchos sentimientos surgen dentro de mi, pero cuando trato de hacerlos palabras para poder expresarlos, por alguna razón me siento sofocado.[p]
+Muchos sentimientos surgen dentro de mi, pero cuando trato de hacerlos[r]palabras para poder expresarlos, por alguna razón me siento sofocado.[p]
 *55
-Todas las palabras me parecen imprecisas, inapropiadas o inadecuadas para que yo las diga.[p]
+Todas las palabras me parecen imprecisas, inapropiadas o inadecuadas para[r]que yo las diga.[p]
 *56
-Pero, quería responderle de alguna manera, y después de pensar demasiado, estas fueron las palabras que salieron:[p]
+Pero, quería responderle de alguna manera, y después de pensar demasiado,[r]estas fueron las palabras que salieron:[p]
 *57
 #Haruya
-"Q-Quiero entender"[p]
+"Q-Quiero entender."[p]
 *58
 #Senpai
-[yukino/9]……"Quiero entender"[p]
+[yukino/9]……"Quiero entender."[p]
 *59
 #
 Senpai repitió mis palabras.[p]
 [hide wait=false time=400]
 *60
-……"Quiero entender". Puede que no sean las mejores palabras. Y es como si estuviera admitiendo que no entiendo nada… ¿no?[p]
+……"Quiero entender". Puede que no sean las mejores palabras. Y es como si[r]estuviera admitiendo que no entiendo nada… ¿no?[p]
 *61
 #Senpai
-Pfft![p]
+¡Pfft![p]
 *62
 #
 [yukino10 top=50 left=540 width=500 wait=false]
-Senpai se estaba riendo. había estado mirando hacia abajo sin darme cuenta, y cuando levanto la mirada, la veo saltando hacia mi.[p]
+Senpai se estaba riendo. había estado mirando hacia abajo sin darme cuenta,[r]y cuando levanto la mirada, la veo saltando hacia mi.[p]
 *63
 #Senpai
 [yukino/2]¡No entiendo![p]
 *64
 #Haruya
-……¿Que?[p]
+……¿Qué?[p]
 *65
 #Senpai
-Lo que estoy sintiendo ahora, no se como explicarlo… Hahaha……[p]
+Lo que estoy sintiendo ahora, no se como explicarlo… Hahaha…[p]
 *66
 #
 [hide]
-Mientras decía eso riéndose, se alejo lentamente de mi… Realmente no entiendo a esta chica…[p]
+Mientras decía eso riéndose, se alejó lentamente de mi… Realmente no entiendo[r]a esta chica…[p]
 *67
 No la entiendo, pero, se ve feliz.[p]
 *68
@@ -231,7 +231,7 @@ No la entiendo, pero, se ve feliz.[p]
 Uh, ¿Senpai?[p]
 *69
 #
-Aunque se este divirtiendo, saltar así puede ser peligroso así que la llamo desde lejos…[p]
+Aunque se esté divirtiendo, saltar así puede ser peligroso así que la llamo desde[r]lejos…[p]
 *70
 #Haruya
 Ten cuidado……[p]
@@ -249,15 +249,15 @@ Ten cuidado……[p]
 *71
 ――?[p]
 *72
-……Que acabo de pasar.[p]
+……¿Qué acabo de pasar?[p]
 *73
-No sabia.[p]
+No sabía.[p]
 *74
 Si tuviera que decir, parecía una masa de sombras.[p]
 *75
-Algo salió del suelo tomo algo de la mano de mi Senpai, y luego desapareció de nuevo.[p]
+Algo salió del suelo tomó algo de la mano de mi Senpai, y luego desapareció[r]de nuevo.[p]
 *76
-El paraguas rojo cayo al suelo y reboto en el camino lleno de hortensias, el cuerpo de mi Senpai colapso en la tierra, empapada por la lluvia.[p]
+El paraguas rojo cayo al suelo y rebotó en el camino lleno de hortensias, el cuerpo[r]de mi Senpai colapsó en la tierra, empapada por la lluvia.[p]
 *77
 #Haruya
 ¿Senpai…?[p]
@@ -266,7 +266,7 @@ El paraguas rojo cayo al suelo y reboto en el camino lleno de hortensias, el cue
 [bg2 storage="ajisairain.jpg" time="1000" width=1600 left=-160 height=900 top=-180 method="vanishIn" wait=false]
 [mshow]
 *78
-Por un momento mi mente se queda en blanco, pero inmediatamente corro a ver lo que le paso a Senpai.[p]
+Por un momento mi mente se queda en blanco, pero inmediatamente corro a ver [r] lo que le pasó a Senpai.[p]
 [haruya]
 *79
 #Haruya
@@ -281,7 +281,7 @@ Me pregunto qué está mirando, y cuando sigo su línea de visión, veo la manga
 Ah…… ¿Senpai?[p]
 *83
 #
-――Algo esta mal.[p]
+――Algo está mal.[p]
 *84
 #Haruya
 Tu mano……[p]
@@ -315,7 +315,7 @@ Me caí sin querer. No es una buena idea emocionarse demasiado, ¿no?.[p]
 ¿Eh?　Uh. Senpai…[p]
 *94
 #Senpai
-「Estoy bien. Gracias por preocuparte.[p]
+Estoy bien. Gracias por preocuparte.[p]
 *95
 #Haruya
 Senpai, tu mano……[p]
@@ -353,16 +353,16 @@ Siento haberte preocupado.[p]
 *105
 #
 [anim name=ajisaibg top=+180 time=1000]
-Ella se pone de pie, recoge la sombrilla que se había caído, mi miro y dijo:[p]
+Ella se pone de pie, recoge la sombrilla que se había caído, mi miró y dijo:[p]
 *106
 #Senpai
-「Vamos. Sigamos viendo este paisaje, Haruya-kun. Quiero ir mucho mas lejos.[p]
+Vamos. Sigamos viendo este paisaje, Haruya-kun. Quiero ir mucho más lejos.[p]
 *107
 #
 ……Por un momento pensé que era espeluznante.[p]
 *108
 
-Muchas veces he pensado que Senpai era una persona extraña. Pensé que era alguien que vivía fuera del sentido común.[p]
+Muchas veces he pensado que Senpai era una persona extraña. Pensé que[r]era alguien que vivía fuera del sentido común.[p]
 *109
 Pero esta fue la primera vez que me sentí incómodo.[p]
 *110
@@ -372,21 +372,21 @@ Haruya-kun.[p]
 [haruya]
 *111
 #Haruya
-……¿Si?[p]
+…¿Sí?[p]
 *112
 #Senpai
-[yukino/4]¿no vas a venir?[p]
+[yukino/4]¿No vas a venir?[p]
 *113
 #Haruya
-……Ya voy.[p]
+…Ya voy.[p]
 [hide wait=false][haruyahide time=1000]
 *114
 #
-Incluso después de todo eso, sigue gritando alegremente y admirando todo el paisaje. Incluso nos tomamos una foto juntos.[p]
+Incluso después de todo eso, sigue gritando alegremente y admirando todo[r]el paisaje. Incluso nos tomamos una foto juntos.[p]
 *115
-Pero ahora mismo, no entiendo cómo mirar a esta persona ahora.[p]
+Pero ahora mismo, no entiendo cómo mirar a esta persona.[p]
 *116
-Una neblina blanca cubre todo el jardín de hortensias, ambos caminamos a través de ella.[p]
+Una neblina blanca cubre todo el jardín de hortensias, ambos caminamos[r]a través de ella.[p]
 *117
 Senpai y yo, solos.[p]
 [fadeoutse time=1500]
@@ -399,4 +399,4 @@ Senpai y yo, solos.[p]
 [wait time=800]
 [mask_off time="1500"]
 
-@jump storage="scene5.ks" target=*start
+@jump storage="scenario_es/scene5.ks" target=*start

@@ -22,14 +22,14 @@
 #
 Aterrizamos de noche en el jardín de hortensias.[p]
 *1
-Las hortensias estaban mojadas por la lluvia que había estado cayendo hasta la tarde, y la blanca luz de la luna se reflejaba en sus gotas.[p]
+Las hortensias estaban mojadas por la lluvia que había estado cayendo hasta la tarde,[r] y la blanca luz de la luna se reflejaba en sus gotas.[p]
 #Senpai
 [yukino2 top=30 width=1500]
 *2
 Vamos, caminemos. Mirémoslas un rato.[p]
 *3
 #
-Senpai volvió a su aspecto habitual, se giró hacia mí y me dijo.[p]
+Senpai, que había a su aspecto habitual, se giró hacia mí y me dijo.[p]
 *4
 #Senpai
 Mirémoslas, mientras hablamos de varias cosas.[p]
@@ -47,37 +47,37 @@ Yo no soy humana.[p]
 Senpai, que caminaba a mi lado, dijo esto inesperadamente.[p]
 *9
 #Haruya
-Bueno, para serte honesto, cuando el Ayakashi de la lluvia me lo dijo, por alguna razón sentí que decía la verdad.[p]
+Bueno, para serte honesto, cuando el Ayakashi de la lluvia me lo dijo,[r] por alguna razón sentí que decía la verdad.[p]
 *10
 #Senpai
-[yukino/8]¿Hm?　¿A qué te refieres con eso?[p]
+[yukino/8]¿Hm? ¿A qué te refieres con eso?[p]
 *11
 #
 Senpai dijo eso entre risas.[p]
 *12
 #Senpai
-Se lo dices a alguien que hasta ahora ha vivido como un humano, ¿sabes?[[p]
+Se lo dices a alguien que hasta ahora ha vivido como una humana, ¿Sabes?[p]
 *13
 #Haruya
 No funcionó muy bien en tu caso, Senpai.[p]
 *14
-Entonces, ¿por qué fingiste ser humana?　¿Pretendías ser alguien más y estabas viviendo aquí?[p]
+Entonces, ¿por qué fingiste ser humana?¿Pretendías ser alguien más y estabas[r]viviendo aquí?[p]
 *15
 #
 [anim name="yukino" top="+=15" time=500]
-"Hm", senpai se queda pensativa. Luego me contesta.[p]
+"Hm", Senpai se queda pensativa. Luego me contesta.[p]
 *16
 #Senpai
 Quería salir al mundo exterior, también me interesaba la gente.[p]
 *17
 #Haruya
-¿Hay alguna razon por la que te sientas así?[p]
+¿Hay alguna razón por la que te sientas así?[p]
 *18
 #Senpai
 [yukino/12][anim name="yukino" top="-=15" time=500]Aunque no lo parezca, soy una princesa.[p]
 *19
 #Haruya
-Eh…… ¡Ah![p]
+Eh… ¡Ah![p]
 *20
 #Senpai
 [kanim name="yukino" keyframe="left" time="500"]
@@ -87,7 +87,7 @@ Eh…… ¡Ah![p]
 Creo que estoy convencido.[p]
 *22
 #Senpai
-[yukino/7]¿Si encajo?[p]
+[yukino/7]¿Sí encajo?[p]
 *23
 #Haruya
 Perfectamente.[p]
@@ -96,22 +96,22 @@ Perfectamente.[p]
 Hoy todo parece encajar…[p]
 *25
 #Haruya
-「Pero sigue teniendo sentido. Hacías cosas fuera de lo común, cosas que a la gente común y corriente no se le ocurriría hacer. Me alegra oír eso…[p]
+Pero sigue teniendo sentido. Hacías cosas fuera de lo común, cosas que a la gente[r]común y corriente no se le ocurriría hacer. Me alegra oír eso…[p]
 *26
 #Senpai
-¿Así de inauditas eran las cosas que hacia?[p]
+¿Así de inauditas eran las cosas que hacía?[p]
 *27
 #Haruya
-¿Pensabas que hacías bien lo de ser humano?[p]
+¿Pensabas que te hacías pasar por un ser humano apropiadamente?[p]
 *28
 #Senpai
-[yukino/8]¿Hm?　Eso pensé al principio…[p]
+[yukino/8]¿Hm? Eso pensé al principio…[p]
 *29
 #Haruya
 Pero ahora entiendes que no encajabas, ¿no?[p]
 *30
 #Senpai
-[yukino/7][kanim name="yukino" keyframe="nod3" time="250" count=2]Fufu……Sí. Estaba eufórica cuando empecé en la escuela, pero poco a poco la gente se me dejó de acercar.[p]
+[yukino/7][kanim name="yukino" keyframe="nod3" time="250" count=2]Fufu… Sí. Estaba eufórica cuando empecé en la escuela, pero poco a poco[r] la gente se me dejó de acercar.[p]
 *31
 #Haruya
 Bueno es normal que la gente escoja con quien juntarse.[p]
@@ -123,18 +123,18 @@ Bueno es normal que la gente escoja con quien juntarse.[p]
 ¿En nuestro caso?[p]
 *34
 #Senpai
-[yukino/1]Dices que la gente escoge con quien juntarse. ¿Yo te escogí a ti? o ¿Tu me escogiste a mi?[p]
+[yukino/1]Dices que la gente escoge con quien juntarse. ¿Yo te escogí a ti o tú me escogiste[r]a mí?[p]
 *35
 #Haruya
 Por mi parte, sólo puedo responder que fue mi decisión.[p]
 *36
 #Senpai
-[yukino/2]¿Oh?　A veces dices cosas bonitas.[p]
+[yukino/2]¿Oh? A veces dices cosas bonitas.[p]
 *37
 #Haruya
 Es la verdad.[p]
 *38
-Ese día del reclutamiento de los clubes. Cuando te conocí, pensé, "Quiero seguir a esta persona". Estaba seguro de que me llevarías lejos.[p]
+Ese día del reclutamiento de los clubes. Cuando te conocí, pensé, "Quiero seguir[r] a esta persona". Estaba seguro de que me llevarías lejos.[p]
 *39
 #Senpai
 [yukino/7]¿Y tuviste razón?[p]
@@ -148,16 +148,16 @@ Que estemos aquí en este momento, es mi respuesta.[p]
 [yukino/11]Yo estoy aquí gracias a muchos sacrificios…[p]
 *43
 #
-Se hace el silencio entre nosotros, que empezábamos a recuperar nuestra alegría habitual.[p]
+Vuelve el silencio entre nosotros, que empezábamos a recuperar nuestra[r]alegría habitual.[p]
 *44
 #Haruya
-Oh, es verdad[p]
+Oh, es verdad.[p]
 *45
 #Senpai
 [yukino/3][kanim name="yukino" keyframe="nod" time="500"]Sí. Soy una existencia que ya no debería estar en ninguna parte.[p]
 *46
 #Haruya
-No puedo decir nada. No soy capaz de criticarte……[p]
+No puedo decir nada. No soy capaz de criticarte…[p]
 *47
 Para ser honesto, todavía no me desagradas, no puedo odiarte sin importar lo que hayas hecho. No quiero odiarte. Puede parecer que estoy diciendo algo fuera de lugar, pero…[p]
 *48
@@ -167,9 +167,9 @@ Pero me alegra poder reunirme contigo una última vez.[p]
 [yukino/9]¿Ultima vez?[p]
 *50
 #Haruya
-Sí. Vine aquí por eso[p]
+Sí. Vine aquí por eso.[p]
 *51
-Cuando conocí al Ayakashi de la Lluvia, pensé… Tal vez haya Ayakashi aún más terribles por ahí, y tal vez haya muchos de ellos.[p]
+Cuando conocí al Ayakashi de la Lluvia, pensé… Tal vez haya Ayakashi aún más[r]terribles por ahí, y tal vez haya muchos de ellos.[p]
 *52
 #Senpai
 [yukino/12]Sí, hay muchos. Hay algunos aun más increíbles que ese.[p]
@@ -189,13 +189,13 @@ Por eso digo que es la última vez.[p]
 #Haruya
 Entonces, si nos encontramos hoy y nos despedimos, eso sería todo,[p]
 *58
-O…… podriamos estar juntos para siempre.[p]
+O… podríamos estar juntos para siempre.[p]
 *59
 #Senpai
-[yukino/12]……¿Te refieres a escapar juntos?[p]
+[yukino/12]…¿Te refieres a escapar juntos?[p]
 *60
 #Haruya
-Algo así estaba pensando.」[p]
+Algo así estaba pensando.[p]
 *61
 #Senpai
 [yukino/10]Sí, suena bien. Suena bien, pero……[p]
@@ -206,10 +206,10 @@ Luego levanta la voz. Cuando me doy la vuelta, ella está mirando a la luna.[p]
 [bg2 storage=moon.jpg wait=true time=1000 method=fadeInUp]
 *63
 #Senpai
-La luna es hermosa[p]
+La luna es hermosa.[p]
 *64
 #
-Como Senpai dice, La luna brillante en medio del oscuro cielo, iluminando las nubes. Se veía como si fuera un agujero en el cielo.[p]
+Como Senpai dice, la luna brillante en medio del oscuro cielo, iluminando las[r] nubes. Se veía como si fuera un agujero en el cielo.[p]
 *65
 Como si hubiera otro mundo allá afuera, lleno de luz que se filtra hacia esta tierra y ese agujero es nuestra ventana a él.[p]
 *66
@@ -225,12 +225,12 @@ Tal vez somos nosotros los solitarios.[p]
 #Haruya
 No, nosotros.[p]
 *70
-La verdad es que todos nos sentimos solos… pero normalmente no nos damos cuenta, o peor, se lo ocultamos a todos mientras vivimos nuestras vidas.[p]
+La verdad es que todos nos sentimos solos… Pero normalmente no nos damos[r] cuenta, o peor, se lo ocultamos a todos mientras vivimos nuestras vidas.[p]
 *71
-Pero en la noche la luna la ilumina. Esa soledad que llevamos dentro.[p]
+Pero en la noche la luna la ilumina. Ilumina esa soledad que llevamos[r] dentro.[p]
 *72
 #Senpai
-Haruya-kun, ¿alguna vez te has sentido solo?[p]
+Haruya-kun, ¿Alguna vez te has sentido solo?[p]
 *73
 #Haruya
 Recientemente, no tanto.[r]Pero todavía tengo esa sensación por la noche.[p]
@@ -247,13 +247,13 @@ Me siento sola.[p]
 [bg2 storage ="ajisai_night.jpg" width=1600 left=-160 height=900 time=1000 method=fadeInDown]
 [haruya time=400][yukino11 top=30 width=1500 time=400]
 *77
-Después de responder de inmediato, ella baja la vista[p]
+Después de responder de inmediato, ella baja la vista.[p]
 *78
 #Senpai
 [yukino/13]Me siento tan sola que siento que mi cuerpo se va a derrumbar en cualquier momento.[p]
 *79
 #Haruya
-Si hay algo que pueda hacer……[p]
+Si hay algo que pueda hacer…[p]
 *80
 #
 [hide]
@@ -282,7 +282,7 @@ Está a punto de llover.[p]
 *88
 #
 [fadeoutbgm time=2500]
-Las gotas de lluvia caen repentinamente. Cuando miro hacia arriba, las nubes de lluvia que deberían haberse despejado antes están comenzando a cubrir el cielo nocturno nuevamente.[p]
+Las gotas de lluvia caen repentinamente. Cuando miro hacia arriba, las nubes de[r] lluvia que deberían haberse despejado antes están comenzando a cubrir el cielo nocturno nuevamente.[p]
 *89
 Lo que significa que debe estar cerca.[p]
 [quake count=5 time=500 hmax=20 wait=false]
@@ -292,13 +292,13 @@ Lo que significa que debe estar cerca.[p]
 *91
 #
 [playse storage=zabun.ogg]
-Escucho un crujido detrás de mí. La voz ensordecedora del tiburón golpea el suelo desde arriba. Las hortensias se mueven con el rugido de la tierra.[p]
+Escucho un crujido detrás de mí. La voz ensordecedora del tiburón golpea el suelo[r] desde arriba. Las hortensias se mueven con el rugido de la tierra.[p]
 *92
 #Haruya
 !![p]
 *93
 #
-Cuando me doy la vuelta, estoy en el pecho de senpai.[p]
+Cuando me doy la vuelta, estoy en el pecho de Senpai.[p]
 [mask time=300]
 [hide time=0][haruyahide time=0]
 [bg2 storage=black.png time=300]
@@ -330,7 +330,7 @@ Cierto,[p]
 Luego agrega, como si recordara algo.[p]
 *101
 #Senpai
-A mi, me gustaban las flores del infierno……[p]
+A mí, me gustaban las flores del infierno…[p]
 *102
 #Haruya
 ……[p]
@@ -338,7 +338,7 @@ A mi, me gustaban las flores del infierno……[p]
 #
 Lo que dijo Senpai fue ¿"Florecer" o "Fisurar"?.[p]
 *104
-Pero, en este momento. Eso ya no importa。[p]
+En este momento. Eso ya no importa.[p]
 [mask time=500]
 [yukino12 time=0 top=30 width=1500][haruya time=0]
 [bg2 storage ="ajisai_night2.jpg" width=1600 left=-160 height=900 time=500]
@@ -355,22 +355,22 @@ Continuemos de lo que estabamos hablando antes.[p]
 #
 [hide time=100][yukino12]
 *108
-Ella dice, soltando mi cuerpo[p]
+Ella dice, soltando mi cuerpo.[p]
 *109
 #Haruya
 ¿Lo de escapar juntos?[p]
 *110
 #Senpai
-[yukino/7][kanim name="yukino" keyframe="nod" time="500"]Sí. Sí, dije escape, pero no tengo intención de huir.[p]
+[yukino/7][kanim name="yukino" keyframe="nod" time="500"]Sí. Sí, dije escapar, pero no tengo intención de huir.[p]
 *111
 #Haruya
 ¿Quieres obedecer sus órdenes o quieres pelear contra ellos?[p]
 *112
 #Senpai
-No importa si obedeciera ahora, he lastimado demasiado a Fukae para ser perdonada.[p]
+Ya es muy tarde para obedecer, he lastimado demasiado a Fukae para ser perdonada.[p]
 *113
 #
-Por Fukae, se refiere a el Ayakashi de la lluvia, ella pone su  una mano sobre su compatriota.[p]
+Por Fukae, se refiere a el Ayakashi de la lluvia, ella pone su mano sobre su compatriota.[p]
 *114
 #Senpai
 [kanim name="yukino" keyframe="no" time="500"]
@@ -384,13 +384,13 @@ Es nuestro destino.[p]
 ¿Estamos en un callejón sin salida?[p]
 *117
 #Senpai
-Yo… no sé qué hacer.[p]
+Yo… No sé qué hacer.[p]
 *118
 #Haruya
 ……¿Entonces, qué hacemos? Te seguiré a donde quieras.[p]
 *119
 #Senpai
-[kanim name="yukino" keyframe="nod" time="700"]Gracias. entonces…[p]
+[kanim name="yukino" keyframe="nod" time="700"]Gracias. Si eso es así…[p]
 #
 [fadeoutse time=900]
 [mask time=300]
@@ -403,7 +403,7 @@ Ella cambia su apariencia, a su forma de Ayakashi, luego me levanta de nuevo y e
 [bg2 storage ="moon.jpg" time=1000 cross=true wait=true method="vanishIn"]
 [mshow time=400][wait time=500]
 *121
-La luna se cierne sobre nosotros. Está tan cerca que parece como si pudieras ver el otro lado.[p]
+La luna se cierne sobre nosotros. Está tan cerca que parece como si pudieras ver el[r] otro lado.[p]
 [mask time=1000]
 [bg2 storage ="entrance2.jpg" time=2000 wait=true]
 [fadeinse storage=rain5.ogg time=2000 loop=true]
@@ -411,4 +411,4 @@ La luna se cierne sobre nosotros. Está tan cerca que parece como si pudieras ve
 [wait time=1000]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
-@jump storage="scene10B.ks" target=*scene10
+@jump storage="scenario_es/scene10B.ks" target=*scene10

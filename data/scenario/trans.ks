@@ -11,14 +11,17 @@
 	<img src="data/fgimage/lang_back.png" alt="" class="non">
 </div>
 
-<div id="jp" style="left:400px;top:400px;position:absolute;cursor:pointer;">
+<div id="jp" style="left:340px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/japanese.png" alt="" class="non">
 </div>
-<div id="ch" style="left:575px;top:400px;position:absolute;cursor:pointer;">
+<div id="ch" style="left:490px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/chinese_simplified.png" alt="" class="non">
 </div>
-<div id="en" style="left:780px;top:400px;position:absolute;cursor:pointer;">
+<div id="en" style="left:680px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/english.png" alt="" class="non">
+</div>
+<div id="es" style="left:830px;top:400px;position:absolute;cursor:pointer;">
+	<img src="data/fgimage/spanish.png" alt="" class="non">
 </div>
 
 <script>
@@ -26,6 +29,7 @@ $('.cg_back').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"
 $('#jp').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"jp"})});
 $('#ch').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ch"})});
 $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})});
+$('#es').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"es"})});
 </script>
 [endhtml]
 [s]
@@ -42,6 +46,10 @@ $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})
 [eval exp="sf.trans=3"]
 @jump target=*reload
 
+*es
+[eval exp="sf.trans=4"]
+@jump target=*reload
+
 
 *reload
 [cm]
@@ -53,7 +61,9 @@ $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})
 [cm]
 [clearfix]
 
-[if exp="sf.trans==3]
+[if exp="sf.trans==4]
+@jump storage="scenario_es/title.ks" target=*start
+[elsif exp="sf.trans==3]
 @jump storage="scenario_en/title.ks" target=*start
 [elsif exp="sf.trans==2]
 @jump storage="scenario_ch/title.ks" target=*start

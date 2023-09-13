@@ -32,17 +32,17 @@ $('#blast').click(function(){
 $('#g_op').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuOP3.webm');
+  $('#vcg').attr('src','data/video/amehazuOPch.mp4');
 });
 $('#g_ed1').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuED_A.webm');
+  $('#vcg').attr('src','data/video/amehazuED_Ach.mp4');
 });
 $('#g_ed2').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuED_B2.webm');
+  $('#vcg').attr('src','data/video/amehazuED_B2ch.mp4');
 });
 
 $('#cgbig').click(function(){

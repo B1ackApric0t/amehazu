@@ -11,9 +11,9 @@
 [html]
 <div id="cgall">
 <div class="fadein">
-<img src="data/image/en/gallery_bg.png" style="z-index:-10;">
+<img src="data/image/es/gallery_bg.png" style="z-index:-10;">
 <div class="cg_back" style="left:50px;top:650px;position:absolute;cursor:pointer;z-index:10;">
-	<img src="data/image/en/back.png" alt="" class="non">
+	<img src="data/image/es/back.png" alt="" class="non">
 </div>
 
 <div class='tabs' style="left:330px;">
@@ -30,10 +30,10 @@
   <div class='tab-content'>
     
     <div class='content1'>
-      <img src="data/image/Escena1.jpg" style="width:400px;" id="chapbg">
-      <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Escena 1. Sharing an umbrella</div>
-      <div id="summary" style="font-family:EG;">Haruya and his senpai walk home together under the same umbrella. Before long, Haruya parts ways with her and seems to be alone. However, behind him a huge shadow of a fish creeps upon him.</div>
-      <div class="chapterchoice" style="left:455px;">
+      <img src="data/image/scene1.jpg" style="width:390px;" id="chapbg">
+      <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Escena 1. Compartiendo una Sombrilla</div>
+      <div id="summary" style="font-family:EG;">Haruya y su senpai caminan juntos a casa bajo la misma sombrilla. Al poco tiempo, se separan y Haruya parece estar solo. Sin embargo, detrás de él una enorme sombra con forma de pez se le acerca lentamente.</div>
+      <div class="chapterchoice" style="left:430px;top:48px;">
         <div id="chapter1" class="chap_en">Escena 1. Compartiendo una Sombrilla</div>
         [if exp="sf.S2 == 1"]
         <div id="chapter2" class="chap_en">Escena 2. Cita</div>
@@ -54,7 +54,7 @@
         <div id="chapter7" class="chap_en">Escena 7. Conflicto</div>
         [else][endif]
       </div>
-      <div class="chapterA" style="left:742px;">
+      <div class="chapterA" style="left:745px;top:48px;">
         [if exp="sf.S8a == 1"]
         <div id="chapter8A" class="chap_en">Escena 8A. Conclusión</div>
         [else][endif]
@@ -65,7 +65,7 @@
         <div id="chapter10A" class="chap_en">Escena 10A. Epilogo</div>
         [else][endif]
       </div>
-      <div class="chapterB" style="left:944px;">
+      <div class="chapterB" style="left:945px;top:48px;">
         [if exp="sf.S8b == 1"]
         <div id="chapter8B" class="chap_en">Escena 8B. Cara a Cara</div>
         [else][endif]
@@ -77,7 +77,7 @@
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-      <div id="chapterEX" class="chap_en" style="position:absolute;top:200px;left:870px;">Escena Extra</div>
+      <div id="chapterEX" class="chap_en" style="position:absolute;top:205px;left:870px;">Escena Extra</div>
       [else][endif]
     </div>
     
@@ -129,7 +129,7 @@
         <div id="bgm2" class="m_title_en">Conversación diaria</div>
         <div id="bgm3" class="m_title_en">Jardín de hortensias</div>
         <div id="bgm4" class="m_title_en">El monstruo de la lluvia</div>
-        <div id="bgm5" class="m_title_en">Mi senpai</div>
+        <div id="bgm5" class="m_title_en">Mi Senpai</div>
         <div id="bgm6" class="m_title_en">Perdidos en la Lluvia OPver.</div>
         <div id="bgm7" class="m_title_en">Luz exterior</div>
         <div id="bgm8" class="m_title_en">Hacia el corazón</div>
@@ -282,7 +282,7 @@ $('#chapter9A').hover(
 $('#chapter10A').hover(
   function(){
     $('#chaptertitle').text('Escena 10A. Epilogo');
-    $('#summary').text('Desde que Yukino desapareció, se han borrado del mundo las pruebas de su existencia. Y Haruya no es una excepción. Sin embargo, dentro de él sigue vivo lo que recibió de su senpai.');
+    $('#summary').text('Desde que Yukino desapareció, se han borrado del mundo las pruebas de su existencia. Y Haruya no es una excepción. Sin embargo, dentro de él sigue vivo lo que recibió de su Senpai.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Aroot == 1"]
@@ -347,7 +347,7 @@ $('#chapterEX').hover(
 [else]
 [loadjs storage="music2.js"]
 [endif]
-[loadjs storage="cg_en.js"]
+[loadjs storage="cg_es.js"]
 [s]
 
 

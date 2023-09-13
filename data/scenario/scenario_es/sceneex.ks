@@ -45,10 +45,10 @@ Murmuró, mirando al personaje en un panel.[p]
 #
 Senpai apartó la vista del manga, cruzó los brazos y las piernas y comenzó a pensar en algo.[p]
 *9
-Probablemente no sea algo bueno, así que la moleste un poco.[p]
+Probablemente no sea algo bueno, así que la molesté un poco.[p]
 *10
 #Haruya
-¿Ahora que estás tramando?[p]
+¿Ahora qué estás tramando?[p]
 *11
 #Senpai
 [yukino/1]Yo también quiero marcarte.[p]
@@ -63,7 +63,7 @@ No soy un perro, pero me encantan los perros.[p]
 Haaa…[p]
 *15
 #
-Después de una conversación sin contexto, senpai volvió a acercar su cabeza a mí.[p]
+Después de una conversación sin contexto, Senpai volvió a acercar su cabeza a mí.[p]
 *16
 Mientras miraba el manga, su cabello sedoso colgaba sobre mi muñeca.[p]
 *17
@@ -96,7 +96,7 @@ Dudé un poco y al final decidí asentir.[p]
 Mi cuerpo. También tiene cicatrices.[p]
 *26
 #Senpai
-[yukino/9]¿Eh?[r]Oh, eso… ¿Puedo preguntar por qué?[p]
+[yukino/9]¿Eh?[r]Oh… ¿Puedo preguntar por qué?[p]
 *27
 #Haruya
 Claro. Si no, no te lo estaría contando.[p]
@@ -117,7 +117,7 @@ Sí. Aunque no puedo enseñártela.[p]
 [yukino/12]Es verdad. No puedes, porque te verías demasiado sexy.[p]
 *33
 #
-¿Ese comentario es apropiado? De todos modos, sigo hablando mientras me lo pregunto.[p]
+¿Ese comentario es apropiado? De todos modos, sigo hablando mientras[r] me lo pregunto.[p]
 *34
 #Haruya
 [yukino/1]Tras la operación, estuve un tiempo recuperándome. Durante ese tiempo empecé a leer. Mi amor por los libros comenzó allí.[p]
@@ -141,19 +141,19 @@ Es la primera vez que se lo cuento a alguien.[p]
 Sí. Al menos la primera vez desde la secundaria.[p]
 *41
 #Senpai
-[yukino/7]Eso… De alguna manera, ¡me hace feliz! Pero, ¿por qué me lo dijiste?[p]
+[yukino/7]Eso… De alguna manera, ¡Me hace feliz! Pero, ¿Por qué me lo dijiste?[p]
 *42
 #Haruya
 ¿Por qué…?[p]
 *43
 #Senpai
-Sí. Porque eres de los que piensan antes de hablar.[p]
+Sí. Tú eres de los que piensan antes de hablar.[p]
 *44
 #Haruya
 Tal vez quería que lo supieras.[p]
 *45
 #
-Me esforcé por murmurar como si fuera un problema ajeno.[p]
+Me esforcé por murmurar como si no fuera mi problema.[p]
 *46
 Si no, me sentiría aún más avergonzado de lo que ya estoy.[p]
 *47
@@ -161,12 +161,12 @@ Si no, me sentiría aún más avergonzado de lo que ya estoy.[p]
 Fufu… ¿Fue eso una compensación por la información de que me gustan los perros?[p]
 *48
 #Haruya
-¿Eso piensas? Yo diría que la proporción entre precio y coste es desigual.[p]
+¿Eso piensas? Yo diría que la proporción entre un lado y el otro es muy desigual.[p]
 *49
 #Senpai
 ¿Proporción?. Fufu…[p]
 *50
-[yukino/2]¡En ese caso! Aceptaré cualquier pregunta tuya. Responderé cualquier cosa abiertamente.[p]
+[yukino/2]¡En ese caso! Aceptaré cualquier pregunta tuya. Responderé cualquier cosa[r]abiertamente.[p]
 *51
 #Haruya
 Entonces… ¿Cuál es tu tipo? D-De perro…[p]
@@ -175,13 +175,13 @@ Entonces… ¿Cuál es tu tipo? D-De perro…[p]
 [yukino/12]"El tipo de perro que esta aquí", dijo entrecerrando los ojos.[p]
 *53
 #Senpai
-[yukino/2]Esos son los que me gustan. Un amante de los libros que sorprendentemente no es obediente. Y que le gusten las paletas. Perros con cicatrices quirúrgicas en su espalda.[p]
+[yukino/2]Esos son los que me gustan. Un amante de los libros que sorprendentemente no es muy sincero y que le gusten las paletas. Perros con cicatrices quirúrgicas en su espalda.[p]
 *54
 #Haruya
 No soy un perro.[p]
 *55
 #Senpai
-[yukino/10]Lo sé. Eres mi kouhai. Y no mencioné nombres. Hablaba de perros.[p]
+[yukino/10]Lo sé. Eres mi Kouhai. Y no mencioné nombres. Hablaba de perros.[p]
 *56
 #Haruya
 Ah, claro…[p]
@@ -265,16 +265,16 @@ Soltándome, cerró los ojos y murmuró como si recordara una memoria lejana.[p]
 Si una persona tuviera alas, probablemente le crecerían en la espalda…[p]
 *79
 #
-¿Por qué de repente dijo eso?  No lo sabia.[p]
+¿Por qué dijo eso tan de repente?  No lo sabia.[p]
 *80
-Ni siquiera había pensado en imaginarme la cicatriz como un alas.[p]
+Ni siquiera había pensado en imaginarme la cicatriz como alas.[p]
 *81
 Una cicatriz es una cicatriz.[p]
 *82
-Senpai fue el primero en compararla con un ala.[p]
+Senpai fue la primera en compararla con alas.[p]
 [bg2 storage="hug4.jpg" time=0 cross=false wait=false]
 *83
-La revista se me cayó de la mano, con ambas manos libres, toqué su brazo.[p]
+El manga se me cayó de la mano, con ambas manos libres, toqué su brazo.[p]
 *84
 Finales de mayo. [r] La luz opaca del sol entra por la ventana.[p]
 *85
@@ -288,6 +288,6 @@ Se acerca la temporada de lluvias, pensé. La temporada de lluvias con Senpai.[p
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]
 [iscript]
-tyrano.plugin.kag.ftag.startTag("jump", {storage:"scenario_en/title.ks"});
+tyrano.plugin.kag.ftag.startTag("jump", {storage:"scenario_es/title.ks"});
 [endscript]
 [s]

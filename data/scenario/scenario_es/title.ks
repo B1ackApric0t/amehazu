@@ -49,7 +49,7 @@ else{
 [eval exp="sf.current_bgm_vol=20"]
 
 [if exp="sf.Aroot==1&&sf.Broot==1&&sf.clear1==0"]
-[image storage=alert_en.png layer=0 top=250 left=300]
+[image storage=alert_es.png layer=0 top=250 left=300]
 [l]
 [eval exp="sf.clear1=1"]
 [freeimage layer=0]
@@ -91,25 +91,25 @@ else{
 </div>
 
 <div id="title_start" class="title_item" style="left:120px;top:340px;position:absolute;cursor:pointer;">
-	<img src="data/image/en/title_start.png" alt="" class="non">
+	<img src="data/image/es/title_start.png" alt="" class="non">
 </div>
 <div id="title_load" class="title_item" style="left:120px;top:400px;position:absolute;cursor:pointer;">
-	<img src="data/image/en/title_load.png" alt="" class="non">
+	<img src="data/image/es/title_load.png" alt="" class="non">
 </div>
 <div id="title_config" class="title_item" style="left:120px;top:460px;position:absolute;cursor:pointer;">
-	<img src="data/image/en/title_config.png" alt="" class="non">
+	<img src="data/image/es/title_config.png" alt="" class="non">
 </div>
 [if exp="sf.S1 == 1"]
 <div id="title_gallery" class="title_item" style="left:120px;top:520px;position:absolute;cursor:pointer;">
-	<img src="data/image/en/title_gallery.png" alt="" class="non">
+	<img src="data/image/es/title_gallery.png" alt="" class="non">
 </div>
 [else]
 <div style="left:120px;top:520px;position:absolute;cursor:pointer;opacity:0.5;">
-	<img src="data/image/en/title_gallery.png" alt="" class="non">
+	<img src="data/image/es/title_gallery.png" alt="" class="non">
 </div>
 [endif]
 <div id="title_quit" class="title_item" style="left:120px;top:580px;position:absolute;cursor:pointer;">
-	<img src="data/image/en/title_quit.png" alt="" class="non">
+	<img src="data/image/es/title_quit.png" alt="" class="non">
 </div>
 
 <div id="title_trans" style="left:120px;top:80px;position:absolute;cursor:pointer;">
@@ -117,7 +117,7 @@ else{
 </div>
 
 <img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;" class="jumpHP">
-<img src="data/image/en/title.png" style="left:860px;top:440px;position:absolute;">
+<img src="data/image/es/title.png" style="left:860px;top:440px;position:absolute;">
 </div>
 
 <style>
@@ -131,8 +131,8 @@ else{
 $('#title_start').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"gamestart"})});
 $('#title_load').click(function(){tyrano.plugin.kag.ftag.startTag("showload")});
 $('#title_config').click(function(){tyrano.plugin.kag.ftag.startTag("showconfig")});
-$('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"scenario_en/cg.ks",target:"start"})});
-$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_en")});
+$('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"scenario_es/cg.ks",target:"start"})});
+$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_es")});
 $("#title_trans").click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"trans.ks",target:"start"})});
 
 [if exp="sf.Bclear!=1"]
@@ -170,6 +170,6 @@ $('#tl').mousemove(function(e){
 [endhtml]
 [wait time=1000]
 
-@jump storage="scenario_en/scene1.ks"
+@jump storage="scenario_es/scene1.ks"
 
 [s]

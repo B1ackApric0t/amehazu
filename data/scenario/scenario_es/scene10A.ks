@@ -21,9 +21,9 @@
 #
 Desde ese momento, los asesinatos se detuvieron abruptamente.[p]
 *1
-Según las investigaciones policiales, todas las víctimas tenían antecedentes penales, mala conducta o tenían problemas con alguien el día en que fueron asesinadas.[p]
+Según las investigaciones policiales, todas las víctimas tenían antecedentes[r]penales, mala conducta o tenían problemas con alguien el día en que fueron[r]asesinadas.[p]
 *2
-Por el momento, la policía investiga los asesinatos bajo la hipótesis de que fueron obra de alguien que actuaba como un vigilante.[p]
+Por el momento, la policía investiga los asesinatos bajo la hipótesis de que[r]fueron obra de alguien que actuaba como un vigilante.[p]
 *3
 No voy a decir nada sobre esto. Tienen algo de razón en sus conclusiones.[p]
 *4
@@ -33,18 +33,18 @@ Cuando volví al club, Senpai no estaba allí. Su asiento estaba vacío.[p]
 *6
 Incluso las percepciones se habían reescrito, y nadie se acordaba de Senpai.[p]
 *7
-Las fotos que me tome con Senpai aquel día en el jardín de hortensias también habían desaparecido de mi teléfono.[p]
+Las fotos que me tome con Senpai aquel día en el jardín de hortensias también[r]habían desaparecido de mi teléfono.[p]
 [bg2 storage ="bg3.png" time=1000]
 *8
 Lo único que queda de Senpai ahora son unas cosas terriblemente vagas llamada memorias.[p]
 *9
-Absolutamente cualquier cosa que haya dejado su rastro se ha perdido[p]
+Absolutamente cualquier cosa que haya dejado su rastro se ha perdido.[p]
 *10
-E incluso mis recuerdos son gradualmente arrastrados por la lluvia, volviéndose débiles, tenues y vagos.[p]
+E incluso mis recuerdos son gradualmente arrastrados por la lluvia, volviéndose[r]débiles, tenues y vagos.[p]
 *11
-Aunque escriba su nombre en un papel para no olvidarlo, al día siguiente estará en blanco. Incluso el recuerdo de escribirlo acaba perdiéndose.[p]
+Aunque escriba su nombre en un papel para no olvidarlo, al día siguiente[r]estará en blanco. Incluso el recuerdo de escribirlo acaba perdiéndose.[p]
 *12
-Yo soy el que ha pasado la mayor parte del tiempo con senpai. Es imposible que no me afecte la ley de la coherencia.[p]
+Yo soy el que ha pasado la mayor parte del tiempo con Senpai. Es imposible[r]que no me afecte la ley de la coherencia.[p]
 *13
 Sin embargo, yo seguía intentando resistir.[p]
 *14
@@ -54,15 +54,15 @@ Pero al final perdí la noción de resistirme. Incluso olvidé a qué me resist�
 Y el mundo volvió a la normalidad.[p]
 *16
 Con una excepción.[p]
-[image layer="2" page="back" storage="smart.png" width=250 left=515 top=30]
+[image layer="2" page="back" storage="smart_en.png" width=250 left=515 top=30]
 [trans_in layer="2" time=500 method="fadeInUp"]
 [wt]
 *17
 En algún momento, mi telefono tenía una foto que no recordaba.[p]
 *18
-A primera vista parece una broma barata, pero no sé por qué guardo estas imágenes. Y ni siquiera recuerdo el nombre de la otra persona.[p]
+A primera vista parece una broma barata, pero no sé por qué guardo estas[r]imágenes. Y ni siquiera recuerdo el nombre de la otra persona.[p]
 *19
-Pero cuando miro ese nombre, siento nostalgia. Incluso me dan ganas de llorar cuando lo digo en voz alta. ¿Por qué?[p]
+Pero cuando miro ese nombre, siento nostalgia. Incluso me dan ganas de[r]llorar cuando lo digo en voz alta. ¿Por qué?[p]
 *20
 Estoy seguro de que esta persona era muy importante para mí.[p]
 *21
@@ -84,11 +84,11 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [wait time=1000]
 [mask_off time=500]
 [if exp="sf._system_config_bgm_volume>=1&&sf.SM2!=1"]
-[movie storage="amehazuED_A.webm" skip=false volume="&sf.current_bgm_vol"]
+[movie storage="amehazuED_Aen.mp4" skip=false volume="&sf.current_bgm_vol"]
 [elsif exp="sf._system_config_bgm_volume>=1&&sf.SM2==1"]
-[movie storage="amehazuED_A.webm" skip=true volume="&sf.current_bgm_vol"]
+[movie storage="amehazuED_Aen.mp4" skip=true volume="&sf.current_bgm_vol"]
 [else]
-[movie storage="amehazuED_A.webm" skip=true volume=0]
+[movie storage="amehazuED_Aen.mp4" skip=true volume=0]
 [endif]
 [mask time=500]
 [eval exp="sf.SM2=1"]
@@ -113,7 +113,7 @@ Así que… Envía tu trabajo a la revista del club, gracias.[p]
 Entendido.[p]
 *29
 #
-Con las vacaciones de verano a la vuelta de la esquina, la presidenta del club y yo hablábamos de la revista del club de este año.[p]
+Con las vacaciones de verano a la vuelta de la esquina, la presidenta del club[r]y yo hablábamos de la revista del club de este año.[p]
 *30
 #Presidenta del Club
 Bueno, eso es todo.[p]
@@ -127,13 +127,13 @@ Sin querer, detuve a la presidenta del club quien salía de la sala.[p]
 [bucho storage="bucho/buchocn1.png"]
 *33
 #Presidenta del Club
-¿Si?[p]
+¿Sí?[p]
 *34
 #
-Me daba un poco de vergüenza decirlo, pero como ya la había detenido,tenia que decirlo.[p]
+Me daba un poco de vergüenza decirlo, pero como ya la había detenido,[r]tenia que decirlo.[p]
 *35
 #Haruya
-……ésta es la última revista del club de este año, ¿no?[p]
+……Ésta es la última revista del club de este año, ¿no?[p]
 *36
 #Presidenta del Club
 Sí[p]
@@ -144,7 +144,7 @@ Bueno. Te extrañaré.[p]
 #
 [bc/2]La presidenta parpadea.[p]
 *39
-Nos miramos extrañados durante un rato, pero entonces ella estalla en carcajadas y dice:[p]
+Nos miramos extrañados durante un rato, pero entonces ella estalla[r]en carcajadas y dice:[p]
 *40
 #Presidenta del Club
 [bc/4]¡Te sentirás solo, dices! Y eso que apenas me asomé por aquí.[p]
@@ -152,7 +152,7 @@ Nos miramos extrañados durante un rato, pero entonces ella estalla en carcajada
 #Haruya
 No es como si no hubieras venido.[p]
 *42
-Además, los dos llevamos apoyando a este club desde primavera.[p]
+Además, los dos llevamos apoyando a este club desde la primavera.[p]
 *43
 #Presidenta del Club
 ¿Es para tanto? No recuerdo haber gastado energía aquí.[p]
@@ -164,10 +164,10 @@ Supongo que así de relajado era el lugar, ¿no?[p]
 [kanim name="bucho" keyframe="nod3" time="200" count=2]
 "Fufu", se ríe. Yo también me río un poco.[p]
 *46
-Ella desvía la mirada por un momento y se ve vacilante, pero al final, no puede contenerse y termina riéndose y diciendo.[p]
+Ella desvía la mirada por un momento y se ve vacilante, pero al final, no[r]puede contenerse y termina riéndose y diciendo.[p]
 *47
 #Presidenta del Club
-No puedo evitarlo. Tengo que graduarme[p]
+No puedo evitarlo. Tengo que graduarme.[p]
 *48
 Estarás solo el próximo año.[p]
 *49
@@ -183,11 +183,11 @@ No tendría muchas esperanzas, pero igual te apoyo.[p]
 ¿No tienes esperanzas?[p]
 *53
 #Presidenta del Club
-[bc/4]Ser negativo es un mal hábito mío y no es fácil para la gente salir de sus hábitos.[p]
+[bc/4]Ser negativo es un mal hábito mío y no es fácil para la gente salir de[r]sus hábitos.[p]
 #
 [buchohide]
 *54
-Ella se ríe avergonzada, luego abre la puerta del salón del club y se da la vuelta por última vez.[p]
+Ella se ríe avergonzada, luego abre la puerta del salón del club y[r]se da la vuelta por última vez.[p]
 [bucho storage=bucho/buchocn5.png]
 *55
 #Presidenta del Club
@@ -215,9 +215,9 @@ Ahora solo en el salón, abrí la ventana. La brisa y la luz de julio entran en 
 *58
 El mundo exterior está bañado por la brillante luz del sol, los colores que entran son vívidos a la vista.[p]
 *59
-El paisaje que se ve desde la ventana de este salón, cambiará poco a poco con el cambio de tiempo y estación.[p]
+El paisaje que se ve desde la ventana de este salón, cambiará poco a poco con el cambio del tiempo y estación.[p]
 *60
-Fue cuando. de repente se me ocurrió.[p]
+Fue cuando, de repente se me ocurrió.[p]
 *61
 Claro.[p]
 *62
@@ -239,7 +239,7 @@ De que alguien, en algún momento abrió la ventana que yo quería abrir.[p]
 *66
 No me puedo imaginar cómo sería esa situación, parece un gesto cotidiano normal.[p]
 *67
-Pero por alguna razón eso se me quedo grabado en el corazón.[p]
+Pero por alguna razón eso se me quedó grabado en el corazón.[p]
 *68
 Y es por eso.[p]
 *69
@@ -275,4 +275,4 @@ Realmente me gusta este salón.[p]
 [bg2 storage=black.png time=1000]
 [wait time=2000]
 [mask_off time=1000]
-@jump storage="title.ks" target=*start
+@jump storage="scenario_es/title.ks" target=*start
