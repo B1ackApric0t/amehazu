@@ -32,7 +32,7 @@
     <div class='content1'>
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
       <div id="chaptertitle" style="font-family:NotoCJK;">场景1. 情侣伞</div>
-      <div id="summary" style="font-family:NotoCJK;">共撑一把雨伞，并肩走在归家路上的春也和学姐。在和学姐分别以后只剩孤身一人的春也身后，一个巨大的鱼影悄然靠近。</div>
+      <div id="summary" style="font-family:NotoCJK;">春也和学姐共撑一把雨伞，并肩走在归家路上。在和学姐分别以后，只剩孤身一人的春也身后，有一个巨大的鱼影正悄然靠近。</div>
       <div class="chapterchoice">
         <div id="chapter1" class="chap_ch">场景1. 情侣伞</div>
         [if exp="sf.S2 == 1"]
@@ -125,14 +125,14 @@
     <div class='content3'>
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title_ch">雨霏霏，人非人</div>
+        <div id="bgm1" class="m_title_ch">雨にして人を外れ/雨霏霏，人非人</div>
         <div id="bgm2" class="m_title_ch">日常对话</div>
         <div id="bgm3" class="m_title_ch">绣球花园</div>
         <div id="bgm4" class="m_title_ch">雨妖</div>
         <div id="bgm5" class="m_title_ch">我的学姐</div>
-        <div id="bgm6" class="m_title_ch">雨霏霏，人非人OPver.</div>
+        <div id="bgm6" class="m_title_ch">雨にして人を外れ/雨霏霏，人非人 OPver.</div>
         <div id="bgm7" class="m_title_ch">外界的光芒</div>
-        <div id="bgm8" class="m_title_ch">直入心坎</div>
+        <div id="bgm8" class="m_title_ch">直达心灵深处</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
@@ -179,14 +179,14 @@ $('#chapter1').hover(
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter1').css('border-left','solid 4px rgba(0,0,0,1)');
     $('#chaptertitle').text('场景1. 情侣伞');
-    $('#summary').text('共撑一把雨伞，并肩走在归家路上的春也和学姐。在和学姐分别以后只剩孤身一人的春也身后，一个巨大的鱼影悄然靠近。');
+    $('#summary').text('春也和学姐共撑一把雨伞，并肩走在归家路上。在和学姐分别以后，只剩孤身一人的春也身后，有一个巨大的鱼影正悄然靠近。');
     $('#chapbg').attr('src','data/image/scene1.jpg');
   },function(){
 });
 $('#chapter2').hover(
   function(){
     $('#chaptertitle').text('场景2. 约定');
-    $('#summary').text('文艺部的活动室内。受到学姐的邀请，春也答应与她一同前往绣球花园。在制定出行计划之时，春也向学姐提起了近期发生于全国各地的连续凶杀案。');
+    $('#summary').text('在文艺部的活动室内，春也受学姐的邀约，答应与她一同前往绣球花园。在制定出行计划之时，春也向学姐提起了近期发生于全国各地的连续凶杀案。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter2').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S3 == 1"]
@@ -198,7 +198,7 @@ $('#chapter2').hover(
 $('#chapter3').hover(
   function(){
     $('#chaptertitle').text('场景3. 追忆／邂逅');
-    $('#summary').text('正值春也升入高中，刚开学之时。校内因学部招新而人声沸腾，无法在其中找到容身之处的春也在彷徨中最终来到一间空置的教室，然后在这里遇到一位超脱尘世的学姐。');
+    $('#summary').text('正值春也升入高中，刚开学之时。校内因社团招新而人声鼎沸，无法在其中找到容身之处的春也在彷徨中最终来到一间空置的教室，并在此遇到一位气场神秘的学姐。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter3').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S4 == 1"]
@@ -210,7 +210,7 @@ $('#chapter3').hover(
 $('#chapter4').hover(
   function(){
     $('#chaptertitle').text('场景4. 绣球花园');
-    $('#summary').text('乘着公交车来到绣球花园的春也和学姐。就在二人享受和平而幸福的一刻之时，突然出现一个神秘的影子向学姐发起了攻击。');
+    $('#summary').text('春也和学姐乘着公交车来到了绣球花园。就在二人享受平静幸福的一刻之时，一道神秘的影子突然出现，并向学姐发起了攻击。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter4').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S5 == 1"]
@@ -222,7 +222,7 @@ $('#chapter4').hover(
 $('#chapter5').hover(
   function(){
     $('#chaptertitle').text('场景5. 预兆');
-    $('#summary').text('在绣球花园发生突发事件后的第二天。学姐并没有于学部活动室现身。就在心怀不安的春也动身放学回家之时，一个不知名的人物在他的耳边细语。');
+    $('#summary').text('在绣球花园发生突发事件后的第二天，学姐并没有出现在社团活动室里。就在心怀不安的春也动身放学回家之时，一道来源不明的声音传来他的耳中，向他说了一些什么东西。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter5').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S6 == 1"]
@@ -234,7 +234,7 @@ $('#chapter5').hover(
 $('#chapter6').hover(
   function(){
     $('#chaptertitle').text('场景6. 雨妖');
-    $('#summary').text('按照那个神秘声音所说，春也在约定的时间走出玄关。出现在他面前是绵绵的阴雨和鲨鱼怪物『雨妖』。它向春也说出一些关于学姐的事情，内容光怪陆离，令人难以置信。');
+    $('#summary').text('按照那个神秘声音所说，春也在约定的时间走出玄关。出现在他面前是绵绵的阴雨和鲨鱼怪物“雨妖”。它向春也说了一些关于学姐的事情，内容光怪陆离，令人难以置信。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter6').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S7 == 1"]
@@ -246,7 +246,7 @@ $('#chapter6').hover(
 $('#chapter7').hover(
   function(){
     $('#chaptertitle').text('场景7. 纠葛');
-    $('#summary').text('尽管认同雨妖的说话，但春也还是无法下定决心。就在他单独一人在文艺部的活动室烦恼之际，部长和学姐轮番出现。');
+    $('#summary').text('尽管心中认同雨妖的话，但春也还是无法下定决心。就在他单独一人在文艺部的活动室烦恼之际，部长和学姐接连来到他的面前。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter7').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S8a==1 | | sf.S8b==1"]
@@ -258,7 +258,7 @@ $('#chapter7').hover(
 $('#chapter8A').hover(
   function(){
     $('#chaptertitle').text('场景8A. 了结');
-    $('#summary').text('看到学姐的那番态度后，春也决定从中说和，调解雨妖和学姐之间的矛盾。但事不遂人愿，春也被雨妖吞入口中，成为雨妖用作要挟学姐的人质。');
+    $('#summary').text('了解到学姐的打算后，春也决定从中说和，调解雨妖和学姐之间的矛盾。但事不遂人愿，春也被雨妖吞入口中，成为雨妖用作要挟学姐的人质。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9a == 1"]
@@ -270,7 +270,7 @@ $('#chapter8A').hover(
 $('#chapter9A').hover(
   function(){
     $('#chaptertitle').text('场景9A. 诀别');
-    $('#summary').text('两人好不容易抵挡住雨妖攻击。分别近在眼前，二人再次共撑一伞，漫步于平日的归家路上，静静地共度最后的相处时光。');
+    $('#summary').text('两人好不容易抵挡住了雨妖的攻击。分别近在眼前，二人再次共撑一伞，漫步于平日的归家路上，静静地共度最后的相处时光。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10a == 1"]
@@ -294,7 +294,7 @@ $('#chapter10A').hover(
 $('#chapter8B').hover(
   function(){
     $('#chaptertitle').text('场景8B. 会面');
-    $('#summary').text('两人誓言共同对抗雨妖。在信息闭塞的状况之下，两人决定按照自己的意愿度过这段时间。而第一件要做的事，就是在夜间飞行前往绣球花园。');
+    $('#summary').text('两人决意共同对抗雨妖，但却没有改善状况的办法。于是，两人便决定按照自己的意愿度过这段时光。二人第一件要做的事，就是在夜间飞行前往绣球花园。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9b == 1"]
@@ -306,7 +306,7 @@ $('#chapter8B').hover(
 $('#chapter9B').hover(
   function(){
     $('#chaptertitle').text('场景9B. 彼岸');
-    $('#summary').text('二人降落于绣球花园内，在月光之下度过了宁静的时刻。击退追踪而至的雨妖后，终于被逼入穷途末路的两人决定前往最后的那个地方。');
+    $('#summary').text('二人降落于绣球花园内，在月光之下度过了宁静一刻。击退追踪而至的雨妖后，再无退路可言的二人决定前往最后的那个地方。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10b == 1"]
@@ -318,7 +318,7 @@ $('#chapter9B').hover(
 $('#chapter10B').hover(
   function(){
     $('#chaptertitle').text('场景10B. 「　」');
-    $('#summary').text('两人最终来到的地方是文艺部活动室。从窗户进入室内的两人共度最后的时光，赠予对方最后的话语。');
+    $('#summary').text('二人最终来到的地方是文艺部活动室。从窗户进入室内的二人共度了最后的时光，并互相倾诉了最后的话语。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Broot == 1"]
