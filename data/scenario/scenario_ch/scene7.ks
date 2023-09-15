@@ -120,7 +120,7 @@
 「确实，学姐一直都很有精力呢」[p]
 *32
 #部长
-[bucho/b1][kanim name="bucho" keyframe="down" time="500"]「她那样的状态可不是一句有精力就能概括的。简直就是令人敬佩，就好像……」[p]
+[bucho/b1][kanim name="bucho" keyframe="down" time="500"]「她那样的状态可不是一句有精力就能概括的。[r]　简直就是令人敬佩，就好像……」[p]
 *33
 #
 在书架上翻找书籍的部长突然停下手上的动作，歪头望向天花板。[r]过了许久，她才终于转过脸来对我说道。[p]
@@ -556,10 +556,10 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 [html]
 <img src="data/bgimage/black.png" style="opacity:0.5;">
 <div class="optionA" style="left:400px;top:300px;position:absolute;">
-	<img src="data/image/option1.png">
+	<img src="data/image/ch/option1.png">
 </div>
 <div class="optionB" style="left:400px;top:400px;position:absolute;">
-	<img src="data/image/option2.png">
+	<img src="data/image/ch/option2.png">
 </div>
 
 <style>
