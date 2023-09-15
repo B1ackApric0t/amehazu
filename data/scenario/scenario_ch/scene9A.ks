@@ -452,4 +452,4 @@
 [wait time="2000"]
 [mask_off time="2000"]
 
-@jump storage="scenario_en/scene10A.ks" target=*scene10
+@jump storage="scenario_ch/scene10A.ks" target=*scene10

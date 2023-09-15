@@ -448,4 +448,4 @@
 [playse storage=bus.ogg buf=1]
 [haruya1 time=0]
 [mask_off time="1000" effect="fadeOutUp"]
-@jump storage="scenario_en/scene4.ks" target=*start
+@jump storage="scenario_ch/scene4.ks" target=*start

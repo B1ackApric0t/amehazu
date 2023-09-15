@@ -282,4 +282,4 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [bg2 storage=black.png time=1000]
 [wait time=2000]
 [mask_off time=1000]
-@jump storage="scenario_en/title.ks" target=*start
+@jump storage="scenario_ch/title.ks" target=*start
