@@ -125,12 +125,12 @@
     <div class='content3'>
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title_ch">雨にして人を外れ/雨霏霏，人非人</div>
+        <div id="bgm1" class="m_title_ch">雨霏霏，人非人</div>
         <div id="bgm2" class="m_title_ch">日常对话</div>
         <div id="bgm3" class="m_title_ch">绣球花园</div>
         <div id="bgm4" class="m_title_ch">雨妖</div>
         <div id="bgm5" class="m_title_ch">我的学姐</div>
-        <div id="bgm6" class="m_title_ch">雨にして人を外れ/雨霏霏，人非人 OPver.</div>
+        <div id="bgm6" class="m_title_ch">雨霏霏，人非人 OPver.</div>
         <div id="bgm7" class="m_title_ch">外界的光芒</div>
         <div id="bgm8" class="m_title_ch">直达心灵深处</div>
       </div>
