@@ -37,12 +37,12 @@ $('#g_op').click(function(){
 $('#g_ed1').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuED_Aen.mp4');
+  $('#vcg').attr('src','data/video/amehazuED_A_es.mp4');
 });
 $('#g_ed2').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuED_B2en.mp4');
+  $('#vcg').attr('src','data/video/amehazuED_B_es.mp4');
 });
 
 $('#cgbig').click(function(){

@@ -42,7 +42,7 @@ $('#g_ed1').click(function(){
 $('#g_ed2').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuED_B2.mp4');
+  $('#vcg').attr('src','data/video/amehazuED_B.mp4');
 });
 
 $('#cgbig').click(function(){
