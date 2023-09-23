@@ -146,7 +146,7 @@
 [bg2 storage="tonarik.jpg" time=0 cross=false wait=false]
 *43
 #学姐
-「哎呀？　难不成我玩笑有点开过头了？」[p]
+「哎呀？难不成我玩笑有点开过头了？」[p]
 *44
 #春也
 「……我受不了了，真的要哭出来了」[p]

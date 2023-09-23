@@ -31,49 +31,49 @@
     
     <div class='content1'>
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
-      <div id="chaptertitle" style="font-family:NotoCJK;">场景1. 情侣伞</div>
+      <div id="chaptertitle" style="font-family:NotoCJK;">片段1. 情侣伞</div>
       <div id="summary" style="font-family:NotoCJK;">春也和学姐共撑一把雨伞，并肩走在归家路上。在和学姐分别以后，只剩孤身一人的春也身后，有一个巨大的鱼影正悄然靠近。</div>
       <div class="chapterchoice">
-        <div id="chapter1" class="chap_ch">场景1. 情侣伞</div>
+        <div id="chapter1" class="chap_ch">片段1. 情侣伞</div>
         [if exp="sf.S2 == 1"]
-        <div id="chapter2" class="chap_ch">场景2. 约定</div>
+        <div id="chapter2" class="chap_ch">片段2. 约定</div>
         [else][endif]
         [if exp="sf.S3 == 1"]
-        <div id="chapter3" class="chap_ch">场景3. 追忆／邂逅</div>
+        <div id="chapter3" class="chap_ch">片段3. 追忆／邂逅</div>
         [else][endif]
         [if exp="sf.S4 == 1"]
-        <div id="chapter4" class="chap_ch">场景4. 绣球花园</div>
+        <div id="chapter4" class="chap_ch">片段4. 绣球花园</div>
         [else][endif]
         [if exp="sf.S5 == 1"]
-        <div id="chapter5" class="chap_ch">场景5. 预兆</div>
+        <div id="chapter5" class="chap_ch">片段5. 预兆</div>
         [else][endif]
         [if exp="sf.S6 == 1"]
-        <div id="chapter6" class="chap_ch">场景6. 雨妖</div>
+        <div id="chapter6" class="chap_ch">片段6. 雨妖</div>
         [else][endif]
         [if exp="sf.S7 == 1"]
-        <div id="chapter7" class="chap_ch">场景7. 纠葛</div>
+        <div id="chapter7" class="chap_ch">片段7. 纠葛</div>
         [else][endif]
       </div>
       <div class="chapterA">
         [if exp="sf.S8a == 1"]
-        <div id="chapter8A" class="chap_ch">场景8A. 了结</div>
+        <div id="chapter8A" class="chap_ch">片段8A. 了结</div>
         [else][endif]
         [if exp="sf.S9a == 1"]
-        <div id="chapter9A" class="chap_ch">场景9A. 诀别</div>
+        <div id="chapter9A" class="chap_ch">片段9A. 诀别</div>
         [else][endif]
         [if exp="sf.S10a == 1"]
-        <div id="chapter10A" class="chap_ch">场景10A. 终幕</div>
+        <div id="chapter10A" class="chap_ch">片段10A. 终幕</div>
         [else][endif]
       </div>
       <div class="chapterB">
         [if exp="sf.S8b == 1"]
-        <div id="chapter8B" class="chap_ch">场景8B. 会面</div>
+        <div id="chapter8B" class="chap_ch">片段8B. 会面</div>
         [else][endif]
         [if exp="sf.S9b == 1"]
-        <div id="chapter9B" class="chap_ch">场景9B. 彼岸</div>
+        <div id="chapter9B" class="chap_ch">片段9B. 彼岸</div>
         [else][endif]
         [if exp="sf.S10b == 1"]
-        <div id="chapter10B" class="chap_ch">场景10B. 「　」</div>
+        <div id="chapter10B" class="chap_ch">片段10B. 「　」</div>
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
@@ -178,14 +178,14 @@ $('#chapter1').hover(
   function(){
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter1').css('border-left','solid 4px rgba(0,0,0,1)');
-    $('#chaptertitle').text('场景1. 情侣伞');
+    $('#chaptertitle').text('片段1. 情侣伞');
     $('#summary').text('春也和学姐共撑一把雨伞，并肩走在归家路上。在和学姐分别以后，只剩孤身一人的春也身后，有一个巨大的鱼影正悄然靠近。');
     $('#chapbg').attr('src','data/image/scene1.jpg');
   },function(){
 });
 $('#chapter2').hover(
   function(){
-    $('#chaptertitle').text('场景2. 约定');
+    $('#chaptertitle').text('片段2. 约定');
     $('#summary').text('在文艺部的活动室内，春也受学姐的邀约，答应与她一同前往绣球花园。在制定出行计划之时，春也向学姐提起了近期发生于全国各地的连续凶杀案。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter2').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -197,7 +197,7 @@ $('#chapter2').hover(
 });
 $('#chapter3').hover(
   function(){
-    $('#chaptertitle').text('场景3. 追忆／邂逅');
+    $('#chaptertitle').text('片段3. 追忆／邂逅');
     $('#summary').text('正值春也升入高中，刚开学之时。校内因社团招新而人声鼎沸，无法在其中找到容身之处的春也在彷徨中最终来到一间空置的教室，并在此遇到一位气场神秘的学姐。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter3').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -209,7 +209,7 @@ $('#chapter3').hover(
 });
 $('#chapter4').hover(
   function(){
-    $('#chaptertitle').text('场景4. 绣球花园');
+    $('#chaptertitle').text('片段4. 绣球花园');
     $('#summary').text('春也和学姐乘着公交车来到了绣球花园。就在二人享受平静幸福的一刻之时，一道神秘的影子突然出现，并向学姐发起了攻击。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter4').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -221,7 +221,7 @@ $('#chapter4').hover(
 });
 $('#chapter5').hover(
   function(){
-    $('#chaptertitle').text('场景5. 预兆');
+    $('#chaptertitle').text('片段5. 预兆');
     $('#summary').text('在绣球花园发生突发事件后的第二天，学姐并没有出现在社团活动室里。就在心怀不安的春也动身放学回家之时，一道来源不明的声音传来他的耳中，向他说了一些什么东西。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter5').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -233,7 +233,7 @@ $('#chapter5').hover(
 });
 $('#chapter6').hover(
   function(){
-    $('#chaptertitle').text('场景6. 雨妖');
+    $('#chaptertitle').text('片段6. 雨妖');
     $('#summary').text('按照那个神秘声音所说，春也在约定的时间走出玄关。出现在他面前是绵绵的阴雨和鲨鱼怪物“雨妖”。它向春也说了一些关于学姐的事情，内容光怪陆离，令人难以置信。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter6').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -245,7 +245,7 @@ $('#chapter6').hover(
 });
 $('#chapter7').hover(
   function(){
-    $('#chaptertitle').text('场景7. 纠葛');
+    $('#chaptertitle').text('片段7. 纠葛');
     $('#summary').text('尽管心中认同雨妖的话，但春也还是无法下定决心。就在他单独一人在文艺部的活动室烦恼之际，部长和学姐接连来到他的面前。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter7').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -257,7 +257,7 @@ $('#chapter7').hover(
 });
 $('#chapter8A').hover(
   function(){
-    $('#chaptertitle').text('场景8A. 了结');
+    $('#chaptertitle').text('片段8A. 了结');
     $('#summary').text('了解到学姐的打算后，春也决定从中说和，调解雨妖和学姐之间的矛盾。但事不遂人愿，春也被雨妖吞入口中，成为雨妖用作要挟学姐的人质。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8A').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -269,7 +269,7 @@ $('#chapter8A').hover(
 });
 $('#chapter9A').hover(
   function(){
-    $('#chaptertitle').text('场景9A. 诀别');
+    $('#chaptertitle').text('片段9A. 诀别');
     $('#summary').text('两人好不容易抵挡住了雨妖的攻击。分别近在眼前，二人再次共撑一伞，漫步于平日的归家路上，静静地共度最后的相处时光。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9A').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -281,7 +281,7 @@ $('#chapter9A').hover(
 });
 $('#chapter10A').hover(
   function(){
-    $('#chaptertitle').text('场景10A. 终幕');
+    $('#chaptertitle').text('片段10A. 终幕');
     $('#summary').text('随着学姐的消失，学姐曾存在于这个世界的痕迹也随之消失。春也记忆中的学姐也毫不例外地消逝了。但学姐给予的一切，却依然确确实实地存在于春也的心中。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10A').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -293,8 +293,8 @@ $('#chapter10A').hover(
 });
 $('#chapter8B').hover(
   function(){
-    $('#chaptertitle').text('场景8B. 会面');
-    $('#summary').text('两人决意共同对抗雨妖，但却没有改善状况的办法。于是，两人便决定按照自己的意愿度过这段时光。二人第一件要做的事，就是在夜间飞行前往绣球花园。');
+    $('#chaptertitle').text('片段8B. 会面');
+    $('#summary').text('二人决意共同对抗雨妖，但却没有打破困局的办法。于是，他们便决定按照自己的意愿度过这段时光。他们第一件要做的事，就是在夜间飞行前往绣球花园。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9b == 1"]
@@ -305,8 +305,8 @@ $('#chapter8B').hover(
 });
 $('#chapter9B').hover(
   function(){
-    $('#chaptertitle').text('场景9B. 彼岸');
-    $('#summary').text('二人降落于绣球花园内，在月光之下度过了宁静一刻。击退追踪而至的雨妖后，再无退路可言的二人决定前往最后的那个地方。');
+    $('#chaptertitle').text('片段9B. 彼岸');
+    $('#summary').text('二人降落于绣球花园内，在月光之下度过了宁静一刻。击退追踪而至的雨妖后，再无退路可言的他们决定前往最后的那个地方。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10b == 1"]
@@ -317,8 +317,8 @@ $('#chapter9B').hover(
 });
 $('#chapter10B').hover(
   function(){
-    $('#chaptertitle').text('场景10B. 「　」');
-    $('#summary').text('二人最终来到的地方是文艺部活动室。从窗户进入室内的二人共度了最后的时光，并互相倾诉了最后的话语。');
+    $('#chaptertitle').text('片段10B. 「　」');
+    $('#summary').text('他们最终来到的地方是文艺部活动室。从窗户进入室内的二人共度了最后的时光，并互相倾诉了最后的话语。');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Broot == 1"]
