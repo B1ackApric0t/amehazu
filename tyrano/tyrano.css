@@ -788,6 +788,26 @@ audio {
   transition: .3s;
 }
 
+.m_title_es{
+  padding-left:5px; 
+  font-size:24px;
+  font-family:EG;
+  margin-bottom:19px;
+  border-left: 4px solid rgba(0,0,0,0);
+  cursor:pointer;
+  transition: .3s;
+}
+
+.m_title_ru{
+  padding-left:5px; 
+  font-size:24px;
+  font-family:EG;
+  margin-bottom:19px;
+  border-left: 4px solid rgba(0,0,0,0);
+  cursor:pointer;
+  transition: .3s;
+}
+
 #bgm1{
   border-left: 4px solid rgba(0,0,0,1);
 }
@@ -950,6 +970,28 @@ audio {
 }
 
 .chap_en{
+	padding-left:5px; 
+	font-size:20px;
+	font-family:EG;
+	margin-bottom:17px;
+	border-left: solid rgba(0, 0, 0,0);
+	border-width:4px;
+	cursor:pointer;
+	transition: .3s;
+}
+
+.chap_es{
+	padding-left:5px; 
+	font-size:20px;
+	font-family:EG;
+	margin-bottom:17px;
+	border-left: solid rgba(0, 0, 0,0);
+	border-width:4px;
+	cursor:pointer;
+	transition: .3s;
+}
+
+.chap_ru{
 	padding-left:5px; 
 	font-size:20px;
 	font-family:EG;

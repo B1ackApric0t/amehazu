@@ -18,12 +18,12 @@
 
 <div class='tabs' style="left:330px;">
   <div class='tab-buttons'>
-    <span class='content1' style="font-family:EG;font-weight:normal;margin-left:105px;padding-top:10px;transition: .3s;">Chapter</span>
-    <span class='content2' style="font-family:EG;font-weight:normal;padding-top:10px;transition: .3s;">Gallery</span>
+    <span class='content1' style="font-family:EG;font-weight:normal;margin-left:105px;padding-top:10px;transition: .3s;">Глава</span>
+    <span class='content2' style="font-family:EG;font-weight:normal;padding-top:10px;transition: .3s;">Галерея</span>
     [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-    <span class='content3' style="font-family:EG;font-weight:normal;padding-top:10px;transition:.3s;">Music</span>
+    <span class='content3' style="font-family:EG;font-weight:normal;padding-top:10px;transition:.3s;">Музыка</span>
     [else]
-    <span style="font-family:EG;padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">Music</span>
+    <span style="font-family:EG;padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">Музыка</span>
     [endif]
     <div id='lamp' class='content1 lamp'></div>
   </div>
@@ -33,7 +33,7 @@
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
       <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Сцена 1. Под одним зонтом</div>
       <div id="summary" style="font-family:EG;">Харуя и его сэмпай вместе идут домой под одним зонтом. Вскоре Харуя прощается с ней и остаётся один. Однако, позади него нависает огромная рыбоподобная тень.</div>
-      <div class="chapterchoice" style="left:455px;">
+      <div class="chapterchoice" style="left:455px; ">
         <div id="chapter1" class="chap_ru">Сцена 1. Под одним зонтом</div>
         [if exp="sf.S2 == 1"]
         <div id="chapter2" class="chap_ru">Сцена 2. Свидание</div>
