@@ -168,30 +168,36 @@ tyrano.plugin.kag.ftag = {
     var s = this;
     "true" == s.kag.stat.log_join && (a.backlog = "join");
     var r = "";
-    if(this.kag.variable.sf.trans == 4){ //スペイン語
+    if(this.kag.variable.sf.trans == 5){ //ロシア語
     	if ("" != this.kag.stat.chara_ptext && (r = $.isNull($("." + this.kag.stat.chara_ptext).html())), "" != r && "join" != a.backlog || "" != r && "true" == this.kag.stat.f_chara_ptext) this.kag.pushBackLog("<b style='display:block;font-family:EG;' class='backlog_chara_name " + r + "'>" + r + "</b><span class='backlog_text " + r + "' style='font-family:EG;'>" + t + "</span>", "add"), "true" == this.kag.stat.f_chara_ptext && (this.kag.stat.f_chara_ptext = "false", this.kag.stat.log_join = "true");
-    else {
-      var i = "<span class='backlog_text1 " + r + "' style='font-family:EG;'>" + t + "</span>";
-      "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
-    } 
+      else {
+        var i = "<span class='backlog_text1 " + r + "' style='font-family:EG;'>" + t + "</span>";
+        "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
+      } 
+    } else if(this.kag.variable.sf.trans == 4){ //スペイン語
+    	if ("" != this.kag.stat.chara_ptext && (r = $.isNull($("." + this.kag.stat.chara_ptext).html())), "" != r && "join" != a.backlog || "" != r && "true" == this.kag.stat.f_chara_ptext) this.kag.pushBackLog("<b style='display:block;font-family:EG;' class='backlog_chara_name " + r + "'>" + r + "</b><span class='backlog_text " + r + "' style='font-family:EG;'>" + t + "</span>", "add"), "true" == this.kag.stat.f_chara_ptext && (this.kag.stat.f_chara_ptext = "false", this.kag.stat.log_join = "true");
+      else {
+        var i = "<span class='backlog_text1 " + r + "' style='font-family:EG;'>" + t + "</span>";
+        "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
+      } 
     } else if(this.kag.variable.sf.trans == 3){ //英語
     	if ("" != this.kag.stat.chara_ptext && (r = $.isNull($("." + this.kag.stat.chara_ptext).html())), "" != r && "join" != a.backlog || "" != r && "true" == this.kag.stat.f_chara_ptext) this.kag.pushBackLog("<b style='display:block;font-family:EG;' class='backlog_chara_name " + r + "'>" + r + "</b><span class='backlog_text " + r + "' style='font-family:EG;'>" + t + "</span>", "add"), "true" == this.kag.stat.f_chara_ptext && (this.kag.stat.f_chara_ptext = "false", this.kag.stat.log_join = "true");
-    else {
-      var i = "<span class='backlog_text1 " + r + "' style='font-family:EG;'>" + t + "</span>";
-      "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
-    }
+      else {
+        var i = "<span class='backlog_text1 " + r + "' style='font-family:EG;'>" + t + "</span>";
+        "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
+      }
     }else if(this.kag.variable.sf.trans == 2){ //中国語
     	if ("" != this.kag.stat.chara_ptext && (r = $.isNull($("." + this.kag.stat.chara_ptext).html())), "" != r && "join" != a.backlog || "" != r && "true" == this.kag.stat.f_chara_ptext) this.kag.pushBackLog("<b style='display:block;font-family:NotoCJK;' class='backlog_chara_name " + r + "'>" + r + "</b><span class='backlog_text " + r + "' style='font-family:NotoCJK;'>" + t + "</span>", "add"), "true" == this.kag.stat.f_chara_ptext && (this.kag.stat.f_chara_ptext = "false", this.kag.stat.log_join = "true");
-    else {
-      var i = "<span class='backlog_text1 " + r + "' style='font-family:NotoCJK;'>" + t + "</span>";
-      "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
-    }
+      else {
+        var i = "<span class='backlog_text1 " + r + "' style='font-family:NotoCJK;'>" + t + "</span>";
+        "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
+      }
     }else{
     	if ("" != this.kag.stat.chara_ptext && (r = $.isNull($("." + this.kag.stat.chara_ptext).html())), "" != r && "join" != a.backlog || "" != r && "true" == this.kag.stat.f_chara_ptext) this.kag.pushBackLog("<b style='display:block;font-family:applimincho;' class='backlog_chara_name " + r + "'>" + r + "</b><span class='backlog_text " + r + "' style='font-family:applimincho;'>" + t + "</span>", "add"), "true" == this.kag.stat.f_chara_ptext && (this.kag.stat.f_chara_ptext = "false", this.kag.stat.log_join = "true");
-    else {
-      var i = "<span class='backlog_text1 " + r + "' style='font-family:applimincho;'>" + t + "</span>";
-      "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
-    }
+      else {
+        var i = "<span class='backlog_text1 " + r + "' style='font-family:applimincho;'>" + t + "</span>";
+        "join" == a.backlog ? this.kag.pushBackLog(i, "join") : this.kag.pushBackLog(i, "add")
+      }
     }
     1 == s.kag.stat.play_speak && speechSynthesis.speak(new SpeechSynthesisUtterance(t)), s.kag.ftag.hideNextImg();
     var n = this.kag.getMessageInnerLayer();

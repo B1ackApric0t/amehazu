@@ -18,7 +18,10 @@
 	<img class="log_bg_base" src="tyrano/images/system/log_bg.png" style="z-index:-1;left:0;top:0;width:100%;height:100%;position:absolute;opacity: 0.8;">
 	
 <script>
-if (TYRANO.kag.variable.sf.trans == 4) {
+if (TYRANO.kag.variable.sf.trans == 5) {
+  $('.log_bg_base').attr('src','tyrano/images/system/ru/log_bg.png');
+  $('.logback').attr('src','tyrano/images/system/ru/back_white.png');
+}else if (TYRANO.kag.variable.sf.trans == 4) {
   $('.log_bg_base').attr('src','tyrano/images/system/es/log_bg.png');
   $('.logback').attr('src','tyrano/images/system/es/back_white.png');
 }else if (TYRANO.kag.variable.sf.trans == 2) {

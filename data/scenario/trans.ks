@@ -50,6 +50,9 @@ $('#es').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"es"})
 [eval exp="sf.trans=4"]
 @jump target=*reload
 
+*ru
+[eval exp="sf.trans=5"]
+@jump target=*reload
 
 *reload
 [cm]
@@ -61,7 +64,9 @@ $('#es').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"es"})
 [cm]
 [clearfix]
 
-[if exp="sf.trans==4]
+[if exp="sf.trans==5]
+@jump storage="scenario_ru/title.ks" target=*start
+[elsif exp="sf.trans==4]
 @jump storage="scenario_es/title.ks" target=*start
 [elsif exp="sf.trans==3]
 @jump storage="scenario_en/title.ks" target=*start

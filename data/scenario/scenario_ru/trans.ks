@@ -40,6 +40,13 @@ $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})
 [eval exp="sf.trans=3"]
 @jump target=*reload
 
+*es
+[eval exp="sf.trans=4"]
+@jump target=*reload
+
+*ru
+[eval exp="sf.trans=5"]
+@jump target=*reload
 
 *reload
 [cm]
