@@ -323,7 +323,7 @@
 *92
 Внезапно в моём кармане начинает вибрировать смартфон.[p]
 [hide wait=false]
-[image layer="2" page="back" storage="smart_en.png" width=250 left=515 top=30]
+[image layer="2" page="back" storage="smart_ru.png" width=250 left=515 top=30]
 [trans layer="2" time=500 method="fadeInUp"]
 [wait time=500]
 *93

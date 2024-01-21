@@ -23,6 +23,9 @@
 <div id="es" style="left:830px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/spanish.png" alt="" class="non">
 </div>
+<div id="ru" style="left:980px;top:400px;position:absolute;cursor:pointer;">
+	<img src="data/fgimage/russian.png" alt="" class="non">
+</div>
 
 <script>
 $('.cg_back').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"backtitle"})});
@@ -30,6 +33,7 @@ $('#jp').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"jp"})
 $('#ch').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ch"})});
 $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})});
 $('#es').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"es"})});
+$('#ru').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ru"})});
 </script>
 [endhtml]
 [s]

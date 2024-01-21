@@ -48,7 +48,7 @@ else{
 [eval exp="sf.current_bgm_vol=20"]
 
 [if exp="sf.Aroot==1&&sf.Broot==1&&sf.clear1==0"]
-[image storage=alert_en.png layer=0 top=250 left=300]
+[image storage=alert_ru.png layer=0 top=250 left=300]
 [l]
 [eval exp="sf.clear1=1"]
 [freeimage layer=0]
