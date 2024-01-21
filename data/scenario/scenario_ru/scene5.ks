@@ -123,4 +123,4 @@
 [bg2 storage="black.png" time="1500"]
 [eval exp="sf.S6=1"]
 [mask_off time="1500"]
-@jump storage="scenario_en/scene6.ks" target=*start
+@jump storage="scenario_ru/scene6.ks" target=*start

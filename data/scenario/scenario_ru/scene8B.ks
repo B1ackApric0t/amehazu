@@ -523,4 +523,4 @@
 [fadeinbgm storage=ajisai_loop.ogg time=2000]
 [mask_off time=1500 effect="fadeOutUpBig"]
 
-@jump storage="scenario_en/scene9B.ks" target=*scene9
+@jump storage="scenario_ru/scene9B.ks" target=*scene9

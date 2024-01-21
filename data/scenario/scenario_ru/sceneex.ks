@@ -288,6 +288,6 @@
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]
 [iscript]
-tyrano.plugin.kag.ftag.startTag("jump", {storage:"scenario_en/title.ks"});
+tyrano.plugin.kag.ftag.startTag("jump", {storage:"scenario_ru/title.ks"});
 [endscript]
 [s]

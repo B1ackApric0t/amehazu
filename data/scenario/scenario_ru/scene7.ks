@@ -794,7 +794,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [fadeinse storage=rain_kasa.ogg loop=true time=2000]
 [mask_off time="1000"]
 
-@jump storage="scenario_en/scene8A.ks"  target=*scene8
+@jump storage="scenario_ru/scene8A.ks"  target=*scene8
 
 *scene7B
 [cm]
@@ -984,4 +984,4 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 [fadeinse storage=rain8r.ogg time=2000]
 [mask_off time=1000]
 
-@jump storage="scenario_en/scene8B.ks" target=*scene8
+@jump storage="scenario_ru/scene8B.ks" target=*scene8

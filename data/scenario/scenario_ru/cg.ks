@@ -34,50 +34,50 @@
       <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Сцена 1. Под одним зонтом</div>
       <div id="summary" style="font-family:EG;">Харуя и его сэмпай вместе идут домой под одним зонтом. Вскоре Харуя прощается с ней и остаётся один. Однако, позади него нависает огромная рыбоподобная тень.</div>
       <div class="chapterchoice" style="left:455px;">
-        <div id="chapter1" class="chap_en">Сцена 1. Под одним зонтом</div>
+        <div id="chapter1" class="chap_ru">Сцена 1. Под одним зонтом</div>
         [if exp="sf.S2 == 1"]
-        <div id="chapter2" class="chap_en">Сцена 2. Свидание</div>
+        <div id="chapter2" class="chap_ru">Сцена 2. Свидание</div>
         [else][endif]
         [if exp="sf.S3 == 1"]
-        <div id="chapter3" class="chap_en">Сцена 3. Воспоминание/встреча</div>
+        <div id="chapter3" class="chap_ru">Сцена 3. Воспоминание/встреча</div>
         [else][endif]
         [if exp="sf.S4 == 1"]
-        <div id="chapter4" class="chap_en">Сцена 4. Сад гортензий</div>
+        <div id="chapter4" class="chap_ru">Сцена 4. Сад гортензий</div>
         [else][endif]
         [if exp="sf.S5 == 1"]
-        <div id="chapter5" class="chap_en">Сцена 5. Предзнаменование</div>
+        <div id="chapter5" class="chap_ru">Сцена 5. Предзнаменование</div>
         [else][endif]
         [if exp="sf.S6 == 1"]
-        <div id="chapter6" class="chap_en">Сцена 6. Аякаси Дождя</div>
+        <div id="chapter6" class="chap_ru">Сцена 6. Аякаси Дождя</div>
         [else][endif]
         [if exp="sf.S7 == 1"]
-        <div id="chapter7" class="chap_en">Сцена 7. Конфликт</div>
+        <div id="chapter7" class="chap_ru">Сцена 7. Конфликт</div>
         [else][endif]
       </div>
       <div class="chapterA" style="left:742px;">
         [if exp="sf.S8a == 1"]
-        <div id="chapter8A" class="chap_en">Сцена 8A. Исход</div>
+        <div id="chapter8A" class="chap_ru">Сцена 8A. Исход</div>
         [else][endif]
         [if exp="sf.S9a == 1"]
-        <div id="chapter9A" class="chap_en">Сцена 9A. Расставание</div>
+        <div id="chapter9A" class="chap_ru">Сцена 9A. Расставание</div>
         [else][endif]
         [if exp="sf.S10a == 1"]
-        <div id="chapter10A" class="chap_en">Сцена 10A. Эпилог</div>
+        <div id="chapter10A" class="chap_ru">Сцена 10A. Эпилог</div>
         [else][endif]
       </div>
       <div class="chapterB" style="left:944px;">
         [if exp="sf.S8b == 1"]
-        <div id="chapter8B" class="chap_en">Сцена 8B. Лицом к лицу</div>
+        <div id="chapter8B" class="chap_ru">Сцена 8B. Лицом к лицу</div>
         [else][endif]
         [if exp="sf.S9b == 1"]
-        <div id="chapter9B" class="chap_en">Сцена 9B. Ликорис</div>
+        <div id="chapter9B" class="chap_ru">Сцена 9B. Ликорис</div>
         [else][endif]
         [if exp="sf.S10b == 1"]
-        <div id="chapter10B" class="chap_en">Сцена 10B. “ ”</div>
+        <div id="chapter10B" class="chap_ru">Сцена 10B. “ ”</div>
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-      <div id="chapterEX" class="chap_en" style="position:absolute;top:200px;left:870px;">Бонус-Сцена</div>
+      <div id="chapterEX" class="chap_ru" style="position:absolute;top:200px;left:870px;">Бонус-Сцена</div>
       [else][endif]
     </div>
     
@@ -125,14 +125,14 @@
     <div class='content3'>
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title_en">Пропавшие под дождём</div>
-        <div id="bgm2" class="m_title_en">Дневной разговор</div>
-        <div id="bgm3" class="m_title_en">Сад гортензий</div>
-        <div id="bgm4" class="m_title_en">Аякаси Дождя</div>
-        <div id="bgm5" class="m_title_en">Моя Сэмпай</div>
-        <div id="bgm6" class="m_title_en">Пропавшие под дождём (опенинг)</div>
-        <div id="bgm7" class="m_title_en">Свет снаружи</div>
-        <div id="bgm8" class="m_title_en">В сердце</div>
+        <div id="bgm1" class="m_title_ru">Пропавшие под дождём</div>
+        <div id="bgm2" class="m_title_ru">Дневной разговор</div>
+        <div id="bgm3" class="m_title_ru">Сад гортензий</div>
+        <div id="bgm4" class="m_title_ru">Аякаси Дождя</div>
+        <div id="bgm5" class="m_title_ru">Моя Сэмпай</div>
+        <div id="bgm6" class="m_title_ru">Пропавшие под дождём (опенинг)</div>
+        <div id="bgm7" class="m_title_ru">Свет снаружи</div>
+        <div id="bgm8" class="m_title_ru">В сердце</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">

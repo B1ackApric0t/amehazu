@@ -382,4 +382,4 @@
 [image layer="1" storage="vignette.png" name="kaisou"]
 [fadeinse storage=noise.ogg loop=true time=2000]
 [mask_off time="1000"]
-@jump storage="scenario_en/scene3.ks" target=*start
+@jump storage="scenario_ru/scene3.ks" target=*start

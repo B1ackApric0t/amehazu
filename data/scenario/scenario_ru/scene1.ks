@@ -271,4 +271,4 @@ sf.current_bgm_vol = sf._system_config_bgm_volume
 [role]
 [mask_off time="1000"]
 
-@jump storage="scenario_en/scene2.ks" target=*start
+@jump storage="scenario_ru/scene2.ks" target=*start

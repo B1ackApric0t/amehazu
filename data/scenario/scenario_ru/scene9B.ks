@@ -411,4 +411,4 @@
 [wait time=1000]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
-@jump storage="scenario_en/scene10B.ks" target=*scene10
+@jump storage="scenario_ru/scene10B.ks" target=*scene10

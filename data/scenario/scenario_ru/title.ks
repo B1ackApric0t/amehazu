@@ -130,8 +130,8 @@ else{
 $('#title_start').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"gamestart"})});
 $('#title_load').click(function(){tyrano.plugin.kag.ftag.startTag("showload")});
 $('#title_config').click(function(){tyrano.plugin.kag.ftag.startTag("showconfig")});
-$('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"scenario_en/cg.ks",target:"start"})});
-$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_en")});
+$('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"scenario_ru/cg.ks",target:"start"})});
+$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_ru")});
 $("#title_trans").click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"trans.ks",target:"start"})});
 
 [if exp="sf.Bclear!=1"]
