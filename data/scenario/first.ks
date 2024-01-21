@@ -1,6 +1,6 @@
 [if exp="sf.trans==undefined"][eval exp="sf.trans=3"][endif]
 
-[elsif exp="sf.trans==5"]
+[if exp="sf.trans==5"]
     [title name=&"String('Пропавшие\x20под\x20дождём')"]
     [dialog_config_ok text="Да"]
     [dialog_config_ng text="Нет"]

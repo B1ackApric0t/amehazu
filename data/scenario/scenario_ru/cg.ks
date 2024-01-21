@@ -347,7 +347,7 @@ $('#chapterEX').hover(
 [else]
 [loadjs storage="music2.js"]
 [endif]
-[loadjs storage="cg_en.js"]
+[loadjs storage="cg_ru.js"]
 [s]
 
 
@@ -355,5 +355,5 @@ $('#chapterEX').hover(
 *backtitle
 [cm]
 [clearfix]
-@jump storage=scenario_en/title.ks target=*start
+@jump storage=scenario_ru/title.ks target=*start
 

@@ -116,7 +116,7 @@ else{
 </div>
 
 <img src="data/fgimage/title_d10rama.png" style="left:1050px;top:50px;position:absolute;" class="jumpHP">
-<img src="data/image/ru/title.png" style="left:860px;top:440px;position:absolute;">
+<img src="data/image/ru/title.png" style="left:810px;top:440px;position:absolute;">
 </div>
 
 <style>
@@ -169,6 +169,6 @@ $('#tl').mousemove(function(e){
 [endhtml]
 [wait time=1000]
 
-@jump storage="scenario_en/scene1.ks"
+@jump storage="scenario_ru/scene1.ks"
 
 [s]
