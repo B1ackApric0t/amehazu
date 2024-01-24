@@ -11,19 +11,19 @@
 	<img src="data/fgimage/lang_back.png" alt="" class="non">
 </div>
 
-<div id="jp" style="left:340px;top:400px;position:absolute;cursor:pointer;">
+<div id="jp" style="left:280px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/japanese.png" alt="" class="non">
 </div>
-<div id="ch" style="left:490px;top:400px;position:absolute;cursor:pointer;">
+<div id="ch" style="left:410px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/chinese_simplified.png" alt="" class="non">
 </div>
-<div id="en" style="left:680px;top:400px;position:absolute;cursor:pointer;">
+<div id="en" style="left:600px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/english.png" alt="" class="non">
 </div>
-<div id="es" style="left:830px;top:400px;position:absolute;cursor:pointer;">
+<div id="es" style="left:750px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/spanish.png" alt="" class="non">
 </div>
-<div id="ru" style="left:980px;top:400px;position:absolute;cursor:pointer;">
+<div id="ru" style="left:900px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/russian.png" alt="" class="non">
 </div>
 

@@ -27,13 +27,13 @@
     [endif]
     <div id='lamp' class='content1 lamp'></div>
   </div>
-  <div class='tab-content'>
+  <div class='tab-content' style="width:1120px;">
     
     <div class='content1'>
-      <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
+      <img src="data/image/scene1.jpg" style="width:390px;" id="chapbg">
       <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Сцена 1. Под одним зонтом</div>
       <div id="summary" style="font-family:EG;">Харуя и его сэмпай вместе идут домой под одним зонтом. Вскоре Харуя прощается с ней и остаётся один. Однако, позади него нависает огромная рыбоподобная тень.</div>
-      <div class="chapterchoice" style="left:455px; ">
+      <div class="chapterchoice" style="left:440px; ">
         <div id="chapter1" class="chap_ru">Сцена 1. Под одним зонтом</div>
         [if exp="sf.S2 == 1"]
         <div id="chapter2" class="chap_ru">Сцена 2. Свидание</div>
@@ -54,7 +54,7 @@
         <div id="chapter7" class="chap_ru">Сцена 7. Конфликт</div>
         [else][endif]
       </div>
-      <div class="chapterA" style="left:742px;">
+      <div class="chapterA" style="left:725px;">
         [if exp="sf.S8a == 1"]
         <div id="chapter8A" class="chap_ru">Сцена 8A. Исход</div>
         [else][endif]
@@ -65,7 +65,7 @@
         <div id="chapter10A" class="chap_ru">Сцена 10A. Эпилог</div>
         [else][endif]
       </div>
-      <div class="chapterB" style="left:944px;">
+      <div class="chapterB" style="left:930px;">
         [if exp="sf.S8b == 1"]
         <div id="chapter8B" class="chap_ru">Сцена 8B. Лицом к лицу</div>
         [else][endif]
@@ -77,7 +77,7 @@
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-      <div id="chapterEX" class="chap_ru" style="position:absolute;top:200px;left:870px;">Бонус-Сцена</div>
+      <div id="chapterEX" class="chap_ru" style="position:absolute;top:200px;left:855px;">Бонус-Сцена</div>
       [else][endif]
     </div>
     

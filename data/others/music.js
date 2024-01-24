@@ -64,43 +64,43 @@ $('#nmusic').click(
     if (x == 1) {
       $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
       x = 2;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm2').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 2) {
       $('#audiotag').attr('src','data/bgm/ajisai.ogg');
       x = 3;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm3').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 3) {
       $('#audiotag').attr('src','data/bgm/fuon.ogg');
       x = 4;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm4').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 4) {
       $('#audiotag').attr('src','data/bgm/A_end.ogg');
       x = 5;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm5').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 5) {
       $('#audiotag').attr('src','data/bgm/OP.ogg');
       x = 6;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 6) {
       $('#audiotag').attr('src','data/bgm/A_ED.ogg');
       x = 7;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 7) {
       $('#audiotag').attr('src','data/bgm/B_ED.ogg');
       x = 8;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else {
@@ -111,43 +111,43 @@ $('#bmusic').click(
     if (x == 2) {
       $('#audiotag').attr('src','data/bgm/main.ogg');
       x = 1;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm1').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 3) {
       $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
       x = 2;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm2').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 4) {
       $('#audiotag').attr('src','data/bgm/ajisai.ogg');
       x = 3;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm3').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 5) {
       $('#audiotag').attr('src','data/bgm/fuon.ogg');
       x = 4;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm4').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 6) {
       $('#audiotag').attr('src','data/bgm/A_end.ogg');
       x = 5;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm5').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 7) {
       $('#audiotag').attr('src','data/bgm/OP.ogg');
       x = 6;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else if (x == 8) {
       $('#audiotag').attr('src','data/bgm/A_ED.ogg');
       x = 7;
-      $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+      $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
       $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
       audio.play();
     } else {
@@ -158,7 +158,7 @@ $('#bgm1').click(
   function(){
     $('#audiotag').attr('src','data/bgm/main.ogg');
     x = 1;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm1').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -166,7 +166,7 @@ $('#bgm2').click(
   function(){
     $('#audiotag').attr('src','data/bgm/kaiwa.ogg');
     x = 2;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm2').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -174,7 +174,7 @@ $('#bgm3').click(
   function(){
     $('#audiotag').attr('src','data/bgm/ajisai.ogg');
     x=3;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm3').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -182,7 +182,7 @@ $('#bgm4').click(
   function(){
     $('#audiotag').attr('src','data/bgm/fuon.ogg');
     x = 4;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm4').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -190,7 +190,7 @@ $('#bgm5').click(
   function(){
     $('#audiotag').attr('src','data/bgm/A_end.ogg');
     x = 5;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm5').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -198,7 +198,7 @@ $('#bgm6').click(
   function(){
     $('#audiotag').attr('src','data/bgm/OP.ogg');
     x = 6;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm6').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -206,7 +206,7 @@ $('#bgm7').click(
   function(){
     $('#audiotag').attr('src','data/bgm/A_ED.ogg');
     x = 7;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm7').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
@@ -214,7 +214,7 @@ $('#bgm8').click(
   function(){
     $('#audiotag').attr('src','data/bgm/B_ED.ogg');
     x = 8;
-    $('.m_title, .m_title_ch, .m_title_en').css('border-left','solid 4px rgba(0,0,0,0)');
+    $('.m_title, .m_title_ch, .m_title_en, .m_title_ru').css('border-left','solid 4px rgba(0,0,0,0)');
     $('#bgm8').css('border-left','solid 4px rgba(0,0,0,1)');
     audio.play();
 });
