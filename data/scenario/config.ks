@@ -168,8 +168,9 @@ if (sf.trans == 2) {
   $('.config_bg').attr('src','tyrano/images/system/es/config_bg_new.png');
   $('.configback').attr('src','tyrano/images/system/es/back_system.png');
 }else if(sf.trans == 5){
-  $('.config_bg').attr('src','tyrano/images/system/ru/config_bg_new.png');
+  $('.config_bg').attr('src','tyrano/images/system/ru/config_bg_ru.png');
   $('.configback').attr('src','tyrano/images/system/ru/back_system.png');
+   $('input[type="range"]').css('left','170px');
 }else{
   $('.config_bg').attr('src','data/bgimage/config.png');
   $('.configback').attr('src','tyrano/images/system/back_system.png');
