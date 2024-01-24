@@ -4,7 +4,7 @@
     [title name=&"String('Пропавшие\x20под\x20дождём')"]
     [dialog_config_ok text="Да"]
     [dialog_config_ng text="Нет"]
-    [deffont face=EG]
+    [deffont face=EG size=25]
     [iscript]
         tyrano.plugin.kag.config.defaultPitch = '1';
     [endscript]
@@ -12,7 +12,7 @@
     [title name=&"String('Perdidos\x20en\x20la\x20lluvia')"]
     [dialog_config_ok text="Si"]
     [dialog_config_ng text="No"]
-    [deffont face=EG]
+    [deffont face=EG size=22]
     [iscript]
         tyrano.plugin.kag.config.defaultPitch = '1';
     [endscript]
@@ -20,7 +20,7 @@
     [title name=&"String('Absent\x20in\x20the\x20Rain')"]
     [dialog_config_ok text="Yes"]
     [dialog_config_ng text="No"]
-    [deffont face=EG]
+    [deffont face=EG size=22]
     [iscript]
         tyrano.plugin.kag.config.defaultPitch = '1';
     [endscript]
@@ -28,12 +28,12 @@
     [title name="雨霏霏，人非人"]
     [dialog_config_ok text="是"]
     [dialog_config_ng text="否"]
-    [deffont face=NotoCJK]
+    [deffont face=NotoCJK size=22]
 [else]
     [title name="雨にして人を外れ"]
     [dialog_config_ok text="はい"]
     [dialog_config_ng text="いいえ"]
-    [deffont face=applimincho]
+    [deffont face=applimincho size=22]
 [endif]
 
 [stop_keyconfig]
