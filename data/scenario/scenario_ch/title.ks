@@ -1,6 +1,7 @@
 ;[clearvar]
 *start
 [fadeoutbgm time=10][fadeoutse time=10][skipstop]
+[free name="chara_name_area" layer="message0"]
 [stop_keyconfig]
 [if exp="sf.S1==undefined"][eval exp="sf.S1=0"][endif]
 [if exp="sf.S2==undefined"][eval exp="sf.S2=0"][endif]
