@@ -588,7 +588,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 
 *scene7A
 [cm]
-[pushlog text=&"String('【I\x20will\x20live\x20on.】')"]
+[pushlog text=&"String('【Я\x20буду\x20жить\x20дальше.】')"]
 [loadcss file="./data/others/css/next1.css"]
 #Харуя
 Я справлюсь как-нибудь. Я не знаю, будет ли моя дальнейшая жизнь так счастлива, но я буду жить.[p]
@@ -798,7 +798,7 @@ $('.optionB').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{target:"s
 
 *scene7B
 [cm]
-[pushlog text=&"String('【I\x20don’t\x20want\x20that,\x20even\x20if\x20it\x20were\x20to\x20kill\x20me.】')"]
+[pushlog text=&"String('【Я\x20не\x20хочу\x20этого,\x20даже\x20если\x20мне\x20придётся\x20погибнуть.】')"]
 [loadcss file="./data/others/css/next1.css"]
 [yukino/9]
 #Харуя
