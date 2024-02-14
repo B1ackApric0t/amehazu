@@ -32,7 +32,7 @@ $('#blast').click(function(){
 $('#g_op').click(function(){
   audio.pause()
   $('#cgvideo').css('visibility','visible');
-  $('#vcg').attr('src','data/video/amehazuOPes.mp4');
+  $('#vcg').attr('src','data/video/amehazuOPru.mp4');
 });
 $('#g_ed1').click(function(){
   audio.pause()
