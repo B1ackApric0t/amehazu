@@ -1,6 +1,14 @@
 [if exp="sf.trans==undefined"][eval exp="sf.trans=3"][endif]
 
-[if exp="sf.trans==5"]
+[if exp="sf.trans==6"]
+    [title name=&"String('Absent\x20sous\x20la\x20pluie')"]
+    [dialog_config_ok text="Oui"]
+    [dialog_config_ng text="Non"]
+    [deffont face=EG size=22]
+    [iscript]
+        tyrano.plugin.kag.config.defaultPitch = '1';
+    [endscript]
+[elsif exp="sf.trans==5"]
     [title name=&"String('Пропавшие\x20под\x20дождём')"]
     [dialog_config_ok text="Да"]
     [dialog_config_ng text="Нет"]
@@ -108,7 +116,12 @@ f.preload_bgm = [
 [preload storage="&f.preload_bucho"]
 [preload storage="&f.preload_bg"]
 ;[preload storage="&f.preload_bgm"]
-[if exp="sf.trans==5]
+[if exp="sf.trans==6]
+    [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="Haruya" color=fff ]
+    [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="Présidente du club" color=fff ]
+    [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="Senpai" color=fff ]
+    [chara_new  name="uyo" storage="uyo.png" width=900 jname="Rain Ayakashi" color=fff ]
+[elsif exp="sf.trans==5]
     [chara_new  name="haruya" storage="haruya/haruya1.png" width=900 jname="Харуя" color=fff ]
     [chara_new  name="bucho" storage="bucho/bucho1.png" width=1000 jname="Президент клуба" color=fff ]
     [chara_new  name="yukino" storage="yukino/tatie1.png" width=1000 jname="Сэмпай" color=fff ]
@@ -150,7 +163,9 @@ f.preload_bgm = [
 [eval exp="sf.Bclear=0"]
 [endif]
 
-[if exp="sf.trans==5]
+[if exp="sf.trans==6]
+@jump storage="scenario_fr/title.ks"
+[elsif exp="sf.trans==5]
 @jump storage="scenario_ru/title.ks"
 [elsif exp="sf.trans==4]
 @jump storage="scenario_es/title.ks"

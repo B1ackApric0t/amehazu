@@ -26,6 +26,9 @@
 <div id="ru" style="left:900px;top:400px;position:absolute;cursor:pointer;">
 	<img src="data/fgimage/russian.png" alt="" class="non">
 </div>
+<div id="fr" style="left:1000px;top:400px;position:absolute;cursor:pointer;">
+	<img src="data/fgimage/french.png" alt="" class="non">
+</div>
 
 <script>
 $('.cg_back').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"backtitle"})});
@@ -34,6 +37,7 @@ $('#ch').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ch"})
 $('#en').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"en"})});
 $('#es').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"es"})});
 $('#ru').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ru"})});
+$('#fr').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"fr"})});
 </script>
 [endhtml]
 [s]
@@ -58,6 +62,10 @@ $('#ru').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ru"})
 [eval exp="sf.trans=5"]
 @jump target=*reload
 
+*fr
+[eval exp="sf.trans=6"]
+@jump target=*reload
+
 *reload
 [cm]
 [clearfix]
@@ -68,7 +76,9 @@ $('#ru').click(function(){tyrano.plugin.kag.ftag.startTag("jump", {target:"ru"})
 [cm]
 [clearfix]
 
-[if exp="sf.trans==5]
+[if exp="sf.trans==6]
+@jump storage="scenario_fr/title.ks" target=*start
+[elsif exp="sf.trans==5]
 @jump storage="scenario_ru/title.ks" target=*start
 [elsif exp="sf.trans==4]
 @jump storage="scenario_es/title.ks" target=*start
