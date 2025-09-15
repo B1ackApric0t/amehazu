@@ -450,4 +450,4 @@ La nuit est si loin que j'ai l'impression de pouvoir presque la toucher.[p]
 [wait time="2000"]
 [mask_off time="2000"]
 
-@jump storage="scenario_en/scene10A.ks" target=*scene10
+@jump storage="scenario_fr/scene10A.ks" target=*scene10

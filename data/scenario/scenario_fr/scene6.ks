@@ -469,4 +469,4 @@ Dans ma tête remplie de ténèbres, la silhouette de Senpai reste.[p]
 [fadeinse storage=rain5r.ogg time=2000 loop=true]
 [eval exp="sf.S7=1"]
 [mask_off time="1500"]
-@jump storage="scenario_en/scene7.ks" target=*start
+@jump storage="scenario_fr/scene7.ks" target=*start

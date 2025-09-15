@@ -282,4 +282,4 @@ Oui, j'aime cette pièce.[p]
 [bg2 storage=black.png time=1000]
 [wait time=2000]
 [mask_off time=1000]
-@jump storage="scenario_en/title.ks" target=*start
+@jump storage="scenario_fr/title.ks" target=*start

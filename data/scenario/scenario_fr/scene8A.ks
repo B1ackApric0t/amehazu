@@ -607,4 +607,4 @@ Elle lève les yeux vers le ciel nocturne lointain.[p]
 [bg2 storage=ajisai_night2.jpg time=1500 width=1600 left=-160 height=900]
 [mask_off time=1000]
 
-@jump storage="scenario_en/scene9A.ks" target=*scene9
+@jump storage="scenario_fr/scene9A.ks" target=*scene9

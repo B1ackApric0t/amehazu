@@ -288,6 +288,6 @@ La saison des pluies approche, pensai-je. La saison des pluies avec Senpai.[p]
 [bg2 storage=black.png time=1000]
 [mask_off tme=1000]
 [iscript]
-tyrano.plugin.kag.ftag.startTag("jump", {storage:"scenario_en/title.ks"});
+tyrano.plugin.kag.ftag.startTag("jump", {storage:"scenario_fr/title.ks"});
 [endscript]
 [s]

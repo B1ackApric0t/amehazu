@@ -411,4 +411,4 @@ La lune plane au-dessus de nous. Elle est si proche que l'on peut voir son autre
 [wait time=1000]
 [mask_off time=1000 effect="fadeOutUpBig"]
 
-@jump storage="scenario_en/scene10B.ks" target=*scene10
+@jump storage="scenario_fr/scene10B.ks" target=*scene10

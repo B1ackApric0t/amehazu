@@ -794,7 +794,7 @@ Je veux que ça se termine bien. Pour y parvenir, la pluie de ce soir est le der
 [fadeinse storage=rain_kasa.ogg loop=true time=2000]
 [mask_off time="1000"]
 
-@jump storage="scenario_en/scene8A.ks"  target=*scene8
+@jump storage="scenario_fr/scene8A.ks"  target=*scene8
 
 *scene7B
 [cm]
@@ -984,4 +984,4 @@ Est-ce que je verrai un jour à nouveau un ciel dégagé ?[p]
 [fadeinse storage=rain8r.ogg time=2000]
 [mask_off time=1000]
 
-@jump storage="scenario_en/scene8B.ks" target=*scene8
+@jump storage="scenario_fr/scene8B.ks" target=*scene8
