@@ -11,19 +11,19 @@
 [html]
 <div id="cgall">
 <div class="fadein">
-<img src="data/image/en/gallery_bg.png" style="z-index:-10;">
+<img src="data/image/fr/gallery_bg.png" style="z-index:-10;">
 <div class="cg_back" style="left:50px;top:650px;position:absolute;cursor:pointer;z-index:10;">
-	<img src="data/image/en/back.png" alt="" class="non">
+	<img src="data/image/fr/back.png" alt="" class="non">
 </div>
 
 <div class='tabs' style="left:330px;">
   <div class='tab-buttons'>
-    <span class='content1' style="font-family:EG;font-weight:normal;margin-left:105px;padding-top:10px;transition: .3s;">Chapter</span>
-    <span class='content2' style="font-family:EG;font-weight:normal;padding-top:10px;transition: .3s;">Gallery</span>
+    <span class='content1' style="font-family:EG;font-weight:normal;margin-left:105px;padding-top:10px;transition: .3s;">Chapitres</span>
+    <span class='content2' style="font-family:EG;font-weight:normal;padding-top:10px;transition: .3s;">Gallerie</span>
     [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-    <span class='content3' style="font-family:EG;font-weight:normal;padding-top:10px;transition:.3s;">Music</span>
+    <span class='content3' style="font-family:EG;font-weight:normal;padding-top:10px;transition:.3s;">Musique</span>
     [else]
-    <span style="font-family:EG;padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">Music</span>
+    <span style="font-family:EG;padding-top:10px;transition:.3s;opacity:0.5;pointer-events: none;">Musique</span>
     [endif]
     <div id='lamp' class='content1 lamp'></div>
   </div>
@@ -31,53 +31,53 @@
     
     <div class='content1'>
       <img src="data/image/scene1.jpg" style="width:400px;" id="chapbg">
-      <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Scene 1. Sharing an umbrella</div>
-      <div id="summary" style="font-family:EG;">Haruya and his senpai walk home together under the same umbrella. Before long, Haruya parts ways with her and seems to be alone. However, behind him a huge shadow of a fish creeps upon him.</div>
+      <div id="chaptertitle" style="font-family:EG;margin: 7px 0 7px 15px;">Scène 1. Partageant un parapluie</div>
+      <div id="summary" style="font-family:EG;">Haruya et Senpai rentrent ensemble à pied sous le même parapluie. Peu après, Haruya se sépare d'elle et semble se retrouver seul. Cependant, derrière lui, l'ombre gigantesque d'un poisson le suit.</div>
       <div class="chapterchoice" style="left:455px;">
-        <div id="chapter1" class="chap_en">Scene 1. Sharing an umbrella</div>
+        <div id="chapter1" class="chap_fr">Scène 1. Partageant un parapluie</div>
         [if exp="sf.S2 == 1"]
-        <div id="chapter2" class="chap_en">Scene 2. Date</div>
+        <div id="chapter2" class="chap_fr">Scène 2. Rendez-vous</div>
         [else][endif]
         [if exp="sf.S3 == 1"]
-        <div id="chapter3" class="chap_en">Scene 3. Reminiscence/encounter</div>
+        <div id="chapter3" class="chap_fr">Scène 3. Souvenir/rencontre</div>
         [else][endif]
         [if exp="sf.S4 == 1"]
-        <div id="chapter4" class="chap_en">Scene 4. Hydrangea garden</div>
+        <div id="chapter4" class="chap_fr">Scène 4. Jardin d'hortensias</div>
         [else][endif]
         [if exp="sf.S5 == 1"]
-        <div id="chapter5" class="chap_en">Scene 5. Omen</div>
+        <div id="chapter5" class="chap_fr">Scène 5. Présage</div>
         [else][endif]
         [if exp="sf.S6 == 1"]
-        <div id="chapter6" class="chap_en">Scene 6. Rain Monster</div>
+        <div id="chapter6" class="chap_fr">Scène 6. Le monstre de pluie</div>
         [else][endif]
         [if exp="sf.S7 == 1"]
-        <div id="chapter7" class="chap_en">Scene 7. Conflict</div>
+        <div id="chapter7" class="chap_fr">Scène 7. Conflit</div>
         [else][endif]
       </div>
       <div class="chapterA" style="left:742px;">
         [if exp="sf.S8a == 1"]
-        <div id="chapter8A" class="chap_en">Scene 8A. Conclusion</div>
+        <div id="chapter8A" class="chap_fr">Scène 8A. Conclusion</div>
         [else][endif]
         [if exp="sf.S9a == 1"]
-        <div id="chapter9A" class="chap_en">Scene 9A. Parting</div>
+        <div id="chapter9A" class="chap_fr">Scène 9A. Séparation</div>
         [else][endif]
         [if exp="sf.S10a == 1"]
-        <div id="chapter10A" class="chap_en">Scene 10A. Epilogue</div>
+        <div id="chapter10A" class="chap_fr">Scène 10A. Épilogue</div>
         [else][endif]
       </div>
       <div class="chapterB" style="left:944px;">
         [if exp="sf.S8b == 1"]
-        <div id="chapter8B" class="chap_en">Scene 8B. Face-to-face</div>
+        <div id="chapter8B" class="chap_fr">Scène 8B. Face à face</div>
         [else][endif]
         [if exp="sf.S9b == 1"]
-        <div id="chapter9B" class="chap_en">Scene 9B. Spider lily</div>
+        <div id="chapter9B" class="chap_fr">Scène 9B. Lys araignée</div>
         [else][endif]
         [if exp="sf.S10b == 1"]
-        <div id="chapter10B" class="chap_en">Scene 10B. “ ”</div>
+        <div id="chapter10B" class="chap_fr">Scène 10B. “ ”</div>
         [else][endif]
       </div>
       [if exp="sf.Aroot == 1 && sf.Broot == 1"]
-      <div id="chapterEX" class="chap_en" style="position:absolute;top:200px;left:870px;">Extra Scene</div>
+      <div id="chapterEX" class="chap_fr" style="position:absolute;top:200px;left:870px;">Scène Extra</div>
       [else][endif]
     </div>
     
@@ -125,14 +125,14 @@
     <div class='content3'>
       <audio src="data/bgm/main.ogg" id="audiotag"></audio>
       <div style="position:absolute;left:150px;">
-        <div id="bgm1" class="m_title_en">Absent in the Rain</div>
-        <div id="bgm2" class="m_title_en">Daily conversation</div>
-        <div id="bgm3" class="m_title_en">Hydrangea garden</div>
-        <div id="bgm4" class="m_title_en">Rain Monster</div>
-        <div id="bgm5" class="m_title_en">My senpai</div>
-        <div id="bgm6" class="m_title_en">Absent in the Rain OPver.</div>
-        <div id="bgm7" class="m_title_en">The light outside</div>
-        <div id="bgm8" class="m_title_en">Into the heart</div>
+        <div id="bgm1" class="m_title_fr">Absent in the Rain</div>
+        <div id="bgm2" class="m_title_fr">Daily conversation</div>
+        <div id="bgm3" class="m_title_fr">Hydrangea garden</div>
+        <div id="bgm4" class="m_title_fr">Rain Monster</div>
+        <div id="bgm5" class="m_title_fr">My senpai</div>
+        <div id="bgm6" class="m_title_fr">Absent in the Rain OPver.</div>
+        <div id="bgm7" class="m_title_fr">The light outside</div>
+        <div id="bgm8" class="m_title_fr">Into the heart</div>
       </div>
       <div id="play"><img src="data/image/music3.png" class="act"></div>
 	  <div id="time">
@@ -178,15 +178,15 @@ $('#chapter1').hover(
   function(){
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter1').css('border-left','solid 4px rgba(0,0,0,1)');
-    $('#chaptertitle').text('Scene 1. Sharing an umbrella');
-    $('#summary').text('Haruya and his senpai walk home together under the same umbrella. Before long, Haruya parts ways with her and seems to be alone. However, behind him a huge shadow of a fish creeps upon him.');
+    $('#chaptertitle').text('Scène 1. Partageant un parapluie');
+    $('#summary').text('Haruya et Senpai rentrent ensemble à pied sous le même parapluie. Peu après, Haruya se sépare d'elle et semble se retrouver seul. Cependant, derrière lui, l'ombre gigantesque d'un poisson le suit.');
     $('#chapbg').attr('src','data/image/scene1.jpg');
   },function(){
 });
 $('#chapter2').hover(
   function(){
-    $('#chaptertitle').text('Scene 2. Date');
-    $('#summary').text('In the club room of the literature club. The senpai invites Haruya to go with her to a hydrangea garden. As the two make plans, Haruya talks to senpai about a nation-wide serial murder case.');
+    $('#chaptertitle').text('Scène 2. Rendez-vous');
+    $('#summary').text('Dans la salle du club de littérature. Senpai invite Haruya à l'accompagner dans un jardin d'hortensias. Alors qu'ils font des projets, Haruya parle à la senpai d'une affaire de meurtres en série qui secoue tout le pays.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter2').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S3 == 1"]
@@ -197,8 +197,8 @@ $('#chapter2').hover(
 });
 $('#chapter3').hover(
   function(){
-    $('#chaptertitle').text('Scene 3. Reminiscence/encounter');
-    $('#summary').text('Back when Haruya had just entered high school. Haruya, who couldn’t find his place in a school busy recruiting club newcomers, meets a mysterious senpai in an empty classroom.');
+    $('#chaptertitle').text('Scène 3. Souvenir/rencontre');
+    $('#summary').text('À l'époque où Haruya venait d'entrer au lycée. Haruya, qui ne trouvait pas sa place dans une école très active dans le recrutement de nouveaux membres pour les clubs, rencontre une mystérieuse Senpai dans une salle de classe vide.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter3').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S4 == 1"]
@@ -209,8 +209,8 @@ $('#chapter3').hover(
 });
 $('#chapter4').hover(
   function(){
-    $('#chaptertitle').text('Scene 4. Hydrangea garden');
-    $('#summary').text('Haruya and Yukino get on a bus and reach the hydrangea garden. The two spend a peaceful and happy time together, until a mysterious shadow appears and attacks Yukino.');
+    $('#chaptertitle').text('Scène 4. Jardin d'hortensias');
+    $('#summary').text('Haruya et Yukino prennent un bus et arrivent au jardin d'hortensias. Ils passent un moment paisible et heureux ensemble, jusqu'à ce qu'une ombre mystérieuse apparaisse et attaque Yukino.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter4').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S5 == 1"]
@@ -221,8 +221,8 @@ $('#chapter4').hover(
 });
 $('#chapter5').hover(
   function(){
-    $('#chaptertitle').text('Scene 5. Omen');
-    $('#summary').text('A day has passed since the incident in the hydrangea garden. Yukino hasn’t shown up at the club room. Haruya is worried, and on the way home someone speaks in his ear.');
+    $('#chaptertitle').text('Scène 5. Présage');
+    $('#summary').text('Un jour s'est écoulé depuis l'incident dans le jardin d'hortensias. Yukino ne s'est pas présentée au club. Haruya est inquiet, et sur le chemin du retour, quelqu'un lui parle à l'oreille.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter5').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S6 == 1"]
@@ -233,8 +233,8 @@ $('#chapter5').hover(
 });
 $('#chapter6').hover(
   function(){
-    $('#chaptertitle').text('Scene 6. Rain Monster');
-    $('#summary').text('Following what the mysterious voice said, Haruya came out the front door at the scheduled time. In front of him appears the rain and shark monster, who tells Haruya something unbelievable about Yukino.');
+    $('#chaptertitle').text('Scène 6. Le monstre de pluie');
+    $('#summary').text('Suivant les instructions de la voix mystérieuse, Haruya sort par la porte d'entrée à l'heure prévue. Devant lui apparaît le monstre de pluie et de requin, qui lui raconte quelque chose d'incroyable à propos de Yukino.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter6').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S7 == 1"]
@@ -245,8 +245,8 @@ $('#chapter6').hover(
 });
 $('#chapter7').hover(
   function(){
-    $('#chaptertitle').text('Scene 7. Conflict');
-    $('#summary').text('After hearing the Rain Monster’s story, Haruya can’t make up his mind. He’s alone in the literature club when Yukino and the club president come in.');
+    $('#chaptertitle').text('Scène 7. Conflit');
+    $('#summary').text('Après avoir entendu l'histoire du monstre de pluie, Haruya n'arrive pas à se décider. Il est seul dans le club de littérature lorsque Yukino et le président du club entrent.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter7').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S8a==1 | | sf.S8b==1"]
@@ -257,8 +257,8 @@ $('#chapter7').hover(
 });
 $('#chapter8A').hover(
   function(){
-    $('#chaptertitle').text('Scene 8A. Conclusion');
-    $('#summary').text('Haruya is determined to mediate between Yukino and the Rain Monster. However, and unlike anything he expected, Haruya is swallowed by the Rain Monster and used as hostage to hunt down Yukino.');
+    $('#chaptertitle').text('Scène 8A. Conclusion');
+    $('#summary').text('Haruya est déterminé à servir de médiateur entre Yukino et le monstre de pluie. Cependant, contrairement à ce qu'il avait prévu, Haruya est avalé par le monstre de pluie et utilisé comme otage pour traquer Yukino.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9a == 1"]
@@ -269,8 +269,8 @@ $('#chapter8A').hover(
 });
 $('#chapter9A').hover(
   function(){
-    $('#chaptertitle').text('Scene 9A. Parting');
-    $('#summary').text('Haruya and Yukino survive the Rain Monster’s attack. As the time to say goodbye draws near, the two decide to spend time together while following the usual route home under the same umbrella.');
+    $('#chaptertitle').text('Scène 9A. Séparation');
+    $('#summary').text('Haruya et Yukino survivent à l'attaque du Monstre de pluie. Alors que le moment de se dire au revoir approche, les deux décident de passer du temps ensemble en suivant le chemin habituel pour rentrer chez eux sous le même parapluie.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10a == 1"]
@@ -281,8 +281,8 @@ $('#chapter9A').hover(
 });
 $('#chapter10A').hover(
   function(){
-    $('#chaptertitle').text('Scene 10A. Epilogue');
-    $('#summary').text('Ever since Yukino disappeared, proof of her existence has been erased from the world. Haruya is no exception. However, what he received from his senpai is still alive within him.');
+    $('#chaptertitle').text('Scène 10A. Épilogue');
+    $('#summary').text('Depuis la disparition de Yukino, toute trace de son existence a été effacée du monde. Haruya ne fait pas exception. Cependant, ce qu'il a reçu de Senpai est toujours vivant en lui.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Aroot == 1"]
@@ -293,8 +293,8 @@ $('#chapter10A').hover(
 });
 $('#chapter8B').hover(
   function(){
-    $('#chaptertitle').text('Scene 8B. Face-to-face');
-    $('#summary').text('Haruya and Yukino vow to rebel against the Rain Monster. In the temporary impasse, the two decide to spend their remaining time however they wish. The two head to for the hydrangea garden flying through the night.');
+    $('#chaptertitle').text('Scène 8B. Face à face');
+    $('#summary').text('Haruya et Yukino jurent de se rebeller contre Rain Ayakashi. Dans l'impasse temporaire, les deux décident de passer le temps qui leur reste comme ils le souhaitent. Ils se dirigent vers le jardin d'hortensias en volant dans la nuit.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9b == 1"]
@@ -305,8 +305,8 @@ $('#chapter8B').hover(
 });
 $('#chapter9B').hover(
   function(){
-    $('#chaptertitle').text('Scene 9B. Spider lily');
-    $('#summary').text('After arriving at the hydrangea garden, the two spend a peaceful time under the moonlight. They defeat the chasing Rain Monster. They can no longer turn back, so they head to the last place.');
+    $('#chaptertitle').text('Scène 9B. Lys araignée');
+    $('#summary').text('Après être arrivés au jardin d'hortensias, ils passent un moment paisible sous le clair de lune. Ils vainquent le monstre de pluie qui les poursuivait. Ils ne peuvent plus faire demi-tour, alors ils se dirigent vers le dernier endroit.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10b == 1"]
@@ -317,8 +317,8 @@ $('#chapter9B').hover(
 });
 $('#chapter10B').hover(
   function(){
-    $('#chaptertitle').text('Scene 10B. “ ”');
-    $('#summary').text('Haruya and Yukino arrive at the literature club room. They enter through the window, and they exchange their last moments and their last words.');
+    $('#chaptertitle').text('Scène 10B. “ ”');
+    $('#summary').text('Haruya et Yukino arrivent à la salle du club de littérature. Ils entrent par la fenêtre et échangent leurs derniers moments et leurs dernières paroles.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Broot == 1"]
@@ -329,7 +329,7 @@ $('#chapter10B').hover(
 });
 $('#chapterEX').hover(
   function(){
-    $('#chaptertitle').text('Extra Scene');
+    $('#chaptertitle').text('Scène Extra');
     $('#summary').text('');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapterEX').css('border-left','solid 4px rgba(0,0,0,1)');
@@ -347,7 +347,7 @@ $('#chapterEX').hover(
 [else]
 [loadjs storage="music2.js"]
 [endif]
-[loadjs storage="cg_en.js"]
+[loadjs storage="cg_fr.js"]
 [s]
 
 
@@ -355,5 +355,5 @@ $('#chapterEX').hover(
 *backtitle
 [cm]
 [clearfix]
-@jump storage=scenario_en/title.ks target=*start
+@jump storage=scenario_fr/title.ks target=*start
 
