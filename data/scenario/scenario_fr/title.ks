@@ -49,7 +49,7 @@ else{
 [eval exp="sf.current_bgm_vol=20"]
 
 [if exp="sf.Aroot==1&&sf.Broot==1&&sf.clear1==0"]
-[image storage=alert_en.png layer=0 top=250 left=300]
+[image storage=alert_fr.png layer=0 top=250 left=300]
 [l]
 [eval exp="sf.clear1=1"]
 [freeimage layer=0]
@@ -132,7 +132,7 @@ $('#title_start').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{targe
 $('#title_load').click(function(){tyrano.plugin.kag.ftag.startTag("showload")});
 $('#title_config').click(function(){tyrano.plugin.kag.ftag.startTag("showconfig")});
 $('#title_gallery').click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"scenario_fr/cg.ks",target:"start"})});
-$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_en")});
+$('#title_quit').click(function(){tyrano.plugin.kag.ftag.startTag("close_fr")});
 $("#title_trans").click(function(){tyrano.plugin.kag.ftag.startTag("jump",{storage:"trans.ks",target:"start"})});
 
 [if exp="sf.Bclear!=1"]
