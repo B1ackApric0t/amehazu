@@ -179,14 +179,14 @@ $('#chapter1').hover(
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter1').css('border-left','solid 4px rgba(0,0,0,1)');
     $('#chaptertitle').text('Scène 1. Partageant un parapluie');
-    $('#summary').text('Haruya et Senpai rentrent ensemble à pied sous le même parapluie. Peu après, Haruya se sépare d'elle et semble se retrouver seul. Cependant, derrière lui, l'ombre gigantesque d'un poisson le suit.');
+    $('#summary').text('Haruya et Senpai rentrent ensemble à pied sous le même parapluie. Peu après, Haruya se sépare d\'elle et semble se retrouver seul. Cependant, derrière lui, l\'ombre gigantesque d\'un poisson le suit.');
     $('#chapbg').attr('src','data/image/scene1.jpg');
   },function(){
 });
 $('#chapter2').hover(
   function(){
     $('#chaptertitle').text('Scène 2. Rendez-vous');
-    $('#summary').text('Dans la salle du club de littérature. Senpai invite Haruya à l'accompagner dans un jardin d'hortensias. Alors qu'ils font des projets, Haruya parle à la senpai d'une affaire de meurtres en série qui secoue tout le pays.');
+    $('#summary').text('Dans la salle du club de littérature. Senpai invite Haruya à l\'accompagner dans un jardin d\'hortensias. Alors qu\'ils font des projets, Haruya parle à la senpai d\'une affaire de meurtres en série qui secoue tout le pays.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter2').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S3 == 1"]
@@ -198,7 +198,7 @@ $('#chapter2').hover(
 $('#chapter3').hover(
   function(){
     $('#chaptertitle').text('Scène 3. Souvenir/rencontre');
-    $('#summary').text('À l'époque où Haruya venait d'entrer au lycée. Haruya, qui ne trouvait pas sa place dans une école très active dans le recrutement de nouveaux membres pour les clubs, rencontre une mystérieuse Senpai dans une salle de classe vide.');
+    $('#summary').text('À l\'époque où Haruya venait d\'entrer au lycée. Haruya, qui ne trouvait pas sa place dans une école très active dans le recrutement de nouveaux membres pour les clubs, rencontre une mystérieuse Senpai dans une salle de classe vide.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter3').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S4 == 1"]
@@ -209,8 +209,8 @@ $('#chapter3').hover(
 });
 $('#chapter4').hover(
   function(){
-    $('#chaptertitle').text('Scène 4. Jardin d'hortensias');
-    $('#summary').text('Haruya et Yukino prennent un bus et arrivent au jardin d'hortensias. Ils passent un moment paisible et heureux ensemble, jusqu'à ce qu'une ombre mystérieuse apparaisse et attaque Yukino.');
+    $('#chaptertitle').text('Scène 4. Jardin d\'hortensias');
+    $('#summary').text('Haruya et Yukino prennent un bus et arrivent au jardin d\'hortensias. Ils passent un moment paisible et heureux ensemble, jusqu\'à ce qu\'une ombre mystérieuse apparaisse et attaque Yukino.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter4').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S5 == 1"]
@@ -222,7 +222,7 @@ $('#chapter4').hover(
 $('#chapter5').hover(
   function(){
     $('#chaptertitle').text('Scène 5. Présage');
-    $('#summary').text('Un jour s'est écoulé depuis l'incident dans le jardin d'hortensias. Yukino ne s'est pas présentée au club. Haruya est inquiet, et sur le chemin du retour, quelqu'un lui parle à l'oreille.');
+    $('#summary').text('Un jour s\'est écoulé depuis l\'incident dans le jardin d\'hortensias. Yukino ne s\'est pas présentée au club. Haruya est inquiet, et sur le chemin du retour, quelqu\'un lui parle à l\'oreille.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter5').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S6 == 1"]
@@ -234,7 +234,7 @@ $('#chapter5').hover(
 $('#chapter6').hover(
   function(){
     $('#chaptertitle').text('Scène 6. Le monstre de pluie');
-    $('#summary').text('Suivant les instructions de la voix mystérieuse, Haruya sort par la porte d'entrée à l'heure prévue. Devant lui apparaît le monstre de pluie et de requin, qui lui raconte quelque chose d'incroyable à propos de Yukino.');
+    $('#summary').text('Suivant les instructions de la voix mystérieuse, Haruya sort par la porte d\'entrée à l\'heure prévue. Devant lui apparaît le monstre de pluie et de requin, qui lui raconte quelque chose d\'incroyable à propos de Yukino.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter6').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S7 == 1"]
@@ -246,7 +246,7 @@ $('#chapter6').hover(
 $('#chapter7').hover(
   function(){
     $('#chaptertitle').text('Scène 7. Conflit');
-    $('#summary').text('Après avoir entendu l'histoire du monstre de pluie, Haruya n'arrive pas à se décider. Il est seul dans le club de littérature lorsque Yukino et le président du club entrent.');
+    $('#summary').text('Après avoir entendu l\'histoire du monstre de pluie, Haruya n\'arrive pas à se décider. Il est seul dans le club de littérature lorsque Yukino et le président du club entrent.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter7').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S8a==1 | | sf.S8b==1"]
@@ -258,7 +258,7 @@ $('#chapter7').hover(
 $('#chapter8A').hover(
   function(){
     $('#chaptertitle').text('Scène 8A. Conclusion');
-    $('#summary').text('Haruya est déterminé à servir de médiateur entre Yukino et le monstre de pluie. Cependant, contrairement à ce qu'il avait prévu, Haruya est avalé par le monstre de pluie et utilisé comme otage pour traquer Yukino.');
+    $('#summary').text('Haruya est déterminé à servir de médiateur entre Yukino et le monstre de pluie. Cependant, contrairement à ce qu\'il avait prévu, Haruya est avalé par le monstre de pluie et utilisé comme otage pour traquer Yukino.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9a == 1"]
@@ -270,7 +270,7 @@ $('#chapter8A').hover(
 $('#chapter9A').hover(
   function(){
     $('#chaptertitle').text('Scène 9A. Séparation');
-    $('#summary').text('Haruya et Yukino survivent à l'attaque du Monstre de pluie. Alors que le moment de se dire au revoir approche, les deux décident de passer du temps ensemble en suivant le chemin habituel pour rentrer chez eux sous le même parapluie.');
+    $('#summary').text('Haruya et Yukino survivent à l\'attaque du Monstre de pluie. Alors que le moment de se dire au revoir approche, les deux décident de passer du temps ensemble en suivant le chemin habituel pour rentrer chez eux sous le même parapluie.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10a == 1"]
@@ -282,7 +282,7 @@ $('#chapter9A').hover(
 $('#chapter10A').hover(
   function(){
     $('#chaptertitle').text('Scène 10A. Épilogue');
-    $('#summary').text('Depuis la disparition de Yukino, toute trace de son existence a été effacée du monde. Haruya ne fait pas exception. Cependant, ce qu'il a reçu de Senpai est toujours vivant en lui.');
+    $('#summary').text('Depuis la disparition de Yukino, toute trace de son existence a été effacée du monde. Haruya ne fait pas exception. Cependant, ce qu\'il a reçu de Senpai est toujours vivant en lui.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter10A').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.Aroot == 1"]
@@ -294,7 +294,7 @@ $('#chapter10A').hover(
 $('#chapter8B').hover(
   function(){
     $('#chaptertitle').text('Scène 8B. Face à face');
-    $('#summary').text('Haruya et Yukino jurent de se rebeller contre Rain Ayakashi. Dans l'impasse temporaire, les deux décident de passer le temps qui leur reste comme ils le souhaitent. Ils se dirigent vers le jardin d'hortensias en volant dans la nuit.');
+    $('#summary').text('Haruya et Yukino jurent de se rebeller contre Rain Ayakashi. Dans l\'impasse temporaire, les deux décident de passer le temps qui leur reste comme ils le souhaitent. Ils se dirigent vers le jardin d\'hortensias en volant dans la nuit.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter8B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S9b == 1"]
@@ -306,7 +306,7 @@ $('#chapter8B').hover(
 $('#chapter9B').hover(
   function(){
     $('#chaptertitle').text('Scène 9B. Lys araignée');
-    $('#summary').text('Après être arrivés au jardin d'hortensias, ils passent un moment paisible sous le clair de lune. Ils vainquent le monstre de pluie qui les poursuivait. Ils ne peuvent plus faire demi-tour, alors ils se dirigent vers le dernier endroit.');
+    $('#summary').text('Après être arrivés au jardin d\'hortensias, ils passent un moment paisible sous le clair de lune. Ils vainquent le monstre de pluie qui les poursuivait. Ils ne peuvent plus faire demi-tour, alors ils se dirigent vers le dernier endroit.');
     $chapters.css('border-left','solid 4px rgba(0,0,0,0)');
     $('#chapter9B').css('border-left','solid 4px rgba(0,0,0,1)');
     [if exp="sf.S10b == 1"]
