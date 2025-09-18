@@ -558,10 +558,10 @@ Si tu n'étais plus là, Senpai, je...[p]
 [html]
 <img src="data/bgimage/black.png" style="opacity:0.5;">
 <div class="optionA" style="left:400px;top:300px;position:absolute;">
-	<img src="data/image/en/option1.png">
+	<img src="data/image/fr/option1.png">
 </div>
 <div class="optionB" style="left:400px;top:400px;position:absolute;">
-	<img src="data/image/en/option2.png">
+	<img src="data/image/fr/option2.png">
 </div>
 
 <style>
