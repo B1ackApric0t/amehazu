@@ -400,7 +400,7 @@ Hmm... Alors je devrais penser à prendre un parapluie.[p]
 #Haruya
 ...[p]
 *125
-[Ce n'est pas grave si tu oublies encore ton parapluie.p]
+Ce n'est pas grave si tu oublies encore ton parapluie.[p]
 *126
 Parce que j'en apporterai certainement un pour venir te chercher...[p]
 #

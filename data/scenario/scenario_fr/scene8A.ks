@@ -567,7 +567,7 @@ Au départ, j'avais l'intention de te tuer, mais il est probablement trop tard m
 *172
 En disant cela, elle descend au sol. Le silence est tel que le combat d'il y a un instant semble être un mensonge.[p]
 *173
-The battle is over.[p]
+la bataille est finie.[p]
 @layopt layer="2" visible=true
 [image layer="2" storage="uyo.png" width=900 left=190 top=-150 time=700]
 *174

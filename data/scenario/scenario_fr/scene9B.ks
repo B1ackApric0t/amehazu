@@ -349,7 +349,7 @@ Le mot exact n'a plus d'importance.[p]
 Une lycoris rouge… Tu as d’autres regrets ? Tu veux la revoir une dernière fois ?[p]
 *106
 #Senpai
-[kanim name="yukino" keyframe="no" time="400"]Nope, it’s okay. Ignore what I said.[p]
+[kanim name="yukino" keyframe="no" time="400"]Non, ça va. Oublie ce que j'ai dit.[p]
 *107
 Continuons plutôt ce dont nous parlions tout à l'heure.[p]
 #
@@ -358,7 +358,7 @@ Continuons plutôt ce dont nous parlions tout à l'heure.[p]
 Dit-elle en me lâchant.[p]
 *109
 #Haruya
-[Tu parles de fuir ?p]
+Tu parles de fuir ?[p]
 *110
 #Senpai
 [yukino/7][kanim name="yukino" keyframe="nod" time="500"]Oui. Oui, j'appelle ça une évasion, mais je n'ai aucune intention de m'enfuir.[p]

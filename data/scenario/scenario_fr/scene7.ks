@@ -500,7 +500,7 @@ N'en va-t-il pas de même pour notre club ?[p]
 *148
 #
 [kanim name="yukino" keyframe="down" time="500"]
-She sighs.[p]
+Elle soupire.[p]
 [bg2 storage="busiturain.jpg" time=1000 wait=false cross=false]
 [hide time=100]
 [yukino11]

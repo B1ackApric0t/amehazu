@@ -71,7 +71,7 @@ Je fixe le ciel obscur en pensant à tout cela, et quand je baisse les yeux, un 
 Quelque chose émerge du sol.[p]
 [fadeinbgm storage=fuon_loop.ogg time=2000]
 *21
-[De là où je me tiens debout, sur la terre ferme, il s'élève peu à peu, comme si un visage sortait de l'eau.p]
+De là où je me tiens debout, sur la terre ferme, il s'élève peu à peu, comme si un visage sortait de l'eau.[p]
 *22
 C'est comme une illusion d'optique.[p]
 *23
