@@ -201,8 +201,8 @@ Où s'arrête mon espace, celui de Senpai et l'obscurité qui envahit cette piè
 Mon corps flotte, comme immergé dans de l’eau chaude.[p]
 *68
 Mon sang monte-t-il à ma tête, ma conscience est-elle embrumée... Ou peut-être mon âme tente-t-elle de s'échapper ?[p]
-*69...
- Peu importe. Pour l'instant, je suis moi et je suis ici.[p]
+*69
+...Peu importe. Pour l'instant, je suis moi et je suis ici.[p]
 *70
 Pour l'instant.[p]
 *71
