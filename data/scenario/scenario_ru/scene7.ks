@@ -558,10 +558,10 @@ tyrano.plugin.kag.config.defaultLineSpacing = '8';
 [html]
 <img src="data/bgimage/black.png" style="opacity:0.5;">
 <div class="optionA" style="left:400px;top:300px;position:absolute;">
-	<img src="data/image/en/option1.png">
+	<img src="data/image/ru/option1.png">
 </div>
 <div class="optionB" style="left:400px;top:400px;position:absolute;">
-	<img src="data/image/en/option2.png">
+	<img src="data/image/ru/option2.png">
 </div>
 
 <style>
